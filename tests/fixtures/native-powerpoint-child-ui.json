@@ -1,0 +1,191 @@
+{
+  "scriptSha256": "0ea3d8b3ec99ecef710e9b2c5d2a03227461357c459c51d009601ad2b71bb7da",
+  "stages": [
+    {
+      "vertical": "6,86  cm",
+      "horizontal": "10,07  cm",
+      "stage": "source",
+      "frame": {
+        "id": 3,
+        "name": "Nested B",
+        "x": 285.400634765625,
+        "y": 194.485595703125,
+        "w": 90,
+        "h": 90,
+        "rotation": 30
+      }
+    },
+    {
+      "beforeCommit": "10,4916335042 cm",
+      "entered": "10,4916335042 cm",
+      "afterCommit": "10,49  cm",
+      "stage": "left",
+      "frame": {
+        "id": 3,
+        "name": "Nested B",
+        "x": 297.354248046875,
+        "y": 194.485595703125,
+        "w": 90,
+        "h": 90,
+        "rotation": 30
+      }
+    },
+    {
+      "beforeCommit": "7,1785196262 cm",
+      "entered": "7,1785196262 cm",
+      "afterCommit": "7,18  cm",
+      "stage": "top",
+      "frame": {
+        "id": 3,
+        "name": "Nested B",
+        "x": 297.3543395996094,
+        "y": 203.5276336669922,
+        "w": 90,
+        "h": 90.00007629394531,
+        "rotation": 30
+      }
+    },
+    {
+      "beforeCommit": "3,5983333333 cm",
+      "entered": "3,5983333333 cm",
+      "afterCommit": "3,6  cm",
+      "stage": "width",
+      "frame": {
+        "id": 3,
+        "name": "Nested B",
+        "x": 296.5473327636719,
+        "y": 206.53944396972656,
+        "w": 102.0472412109375,
+        "h": 90.00007629394531,
+        "rotation": 30
+      }
+    },
+    {
+      "beforeCommit": "3,4925026915 cm",
+      "entered": "3,4925026915 cm",
+      "afterCommit": "3,49  cm",
+      "stage": "height",
+      "frame": {
+        "id": 3,
+        "name": "Nested B",
+        "x": 294.3150329589844,
+        "y": 205.94134521484375,
+        "w": 102.0472412109375,
+        "h": 98.92921447753906,
+        "rotation": 30
+      }
+    },
+    {
+      "stage": "Undo",
+      "frame": {
+        "id": 3,
+        "name": "Nested B",
+        "x": 296.5473327636719,
+        "y": 206.53944396972656,
+        "w": 102.0472412109375,
+        "h": 90.00007629394531,
+        "rotation": 30
+      }
+    },
+    {
+      "stage": "Undo",
+      "frame": {
+        "id": 3,
+        "name": "Nested B",
+        "x": 297.3543395996094,
+        "y": 203.5276336669922,
+        "w": 90,
+        "h": 90.00007629394531,
+        "rotation": 30
+      }
+    },
+    {
+      "stage": "Undo",
+      "frame": {
+        "id": 3,
+        "name": "Nested B",
+        "x": 297.354248046875,
+        "y": 194.485595703125,
+        "w": 90,
+        "h": 90,
+        "rotation": 30
+      }
+    },
+    {
+      "stage": "Undo",
+      "frame": {
+        "id": 3,
+        "name": "Nested B",
+        "x": 285.400634765625,
+        "y": 194.485595703125,
+        "w": 90,
+        "h": 90,
+        "rotation": 30
+      }
+    },
+    {
+      "stage": "Redo",
+      "frame": {
+        "id": 3,
+        "name": "Nested B",
+        "x": 297.3543395996094,
+        "y": 194.485595703125,
+        "w": 90,
+        "h": 90,
+        "rotation": 30
+      }
+    },
+    {
+      "stage": "Redo",
+      "frame": {
+        "id": 3,
+        "name": "Nested B",
+        "x": 297.3544006347656,
+        "y": 203.5277099609375,
+        "w": 90,
+        "h": 90,
+        "rotation": 30
+      }
+    },
+    {
+      "stage": "Redo",
+      "frame": {
+        "id": 3,
+        "name": "Nested B",
+        "x": 296.5473937988281,
+        "y": 206.53952026367188,
+        "w": 102.0472412109375,
+        "h": 90,
+        "rotation": 30
+      }
+    },
+    {
+      "stage": "Redo",
+      "frame": {
+        "id": 3,
+        "name": "Nested B",
+        "x": 294.31512451171875,
+        "y": 205.94142150878906,
+        "w": 102.0472412109375,
+        "h": 98.92913055419922,
+        "rotation": 30
+      }
+    },
+    {
+      "stage": "reopened",
+      "frame": {
+        "id": 3,
+        "name": "Nested B",
+        "x": 294.31512451171875,
+        "y": 205.94142150878906,
+        "w": 102.0472412109375,
+        "h": 98.92913055419922,
+        "rotation": 30
+      }
+    }
+  ],
+  "exportSha256": "d4fb8e91aeebea9d08d54f92c67e1a57b3f357915fab46060895e5cae7c4dec6",
+  "executableSha256": "a57633850b4f82f842144b3758d1fc2d2dd71fb15036bac642aa81bd32004a55",
+  "sourceSha256": "0bdcce99f5fa485644f0a81131869eea9875cffecdf6e30983bef8c6213371c8",
+  "pdfSha256": "94535d386290e799616b06ede5144490787d880e319e4fb1f3bb91de10780858"
+}

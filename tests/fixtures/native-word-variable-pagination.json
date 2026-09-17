@@ -1,0 +1,959 @@
+{
+  "scope": "Independently captured Word character/page expectations; metadata-sanitized source fixtures",
+  "cases": {
+    "mixed": {
+      "sourceSha256": "fb6a1d2ce426783cc1bc8217b4a788d4720717eaf21632d4e1bb58fab73e3c6b",
+      "nativeSavedSha256": "10dc5b535fd2e469e6d5e150ae7b02b25da0ffb8bdb495a6e70c30c205e038ee",
+      "nativeReceipt": {
+        "scriptSha256": "7e5c90ceb5d10cb33f19dbe32e969c44befc9ca14ff8a31c0dceee63e69dc195",
+        "printer": "Microsoft Print to PDF",
+        "savedSha256": "10dc5b535fd2e469e6d5e150ae7b02b25da0ffb8bdb495a6e70c30c205e038ee",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "sourceSha256": "c6c8e53d5351a7d35820d2ca3f4f285be71da887d00b5f420df20767f1c267a2",
+        "pdfSha256": "28051ac037472613790f8dcd5941cb532fc5efcc7c6a1f60672486c7da924a4d"
+      },
+      "snapshot": {
+        "paragraphs": [
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 30,
+                "text": "p1a p1b\u000b",
+                "page": 1,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 64.5,
+                "text": "p1c p1d",
+                "page": 1,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 1,
+              "y": 64.5
+            },
+            "keep": 0,
+            "text": "p1a p1b\u000bp1c p1d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 97.5,
+                "text": "p2a p2b\u000b",
+                "page": 1,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 132,
+                "text": "p2c p2d",
+                "page": 1,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 1,
+              "y": 132
+            },
+            "keep": 0,
+            "text": "p2a p2b\u000bp2c p2d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 165,
+                "text": "p3a p3b\u000b",
+                "page": 1,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 30,
+                "text": "p3c p3d",
+                "page": 2,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 2,
+              "y": 30
+            },
+            "keep": 0,
+            "text": "p3a p3b\u000bp3c p3d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 51.400001525878906,
+                "text": "p4a p4b\u000b",
+                "page": 2,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 103.1500015258789,
+                "text": "p4c p4d",
+                "page": 2,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 2,
+              "y": 103.1500015258789
+            },
+            "keep": 0,
+            "text": "p4a p4b\u000bp4c p4d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 30,
+                "text": "p5a p5b\u000b",
+                "page": 3,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 81.75,
+                "text": "p5c p5d",
+                "page": 3,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 3,
+              "y": 81.75
+            },
+            "keep": 0,
+            "text": "p5a p5b\u000bp5c p5d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 126.4000015258789,
+                "text": "p6a p6b\u000b",
+                "page": 3,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 143.64999389648438,
+                "text": "p6c p6d",
+                "page": 3,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 3,
+              "y": 143.64999389648438
+            },
+            "keep": 0,
+            "text": "p6a p6b\u000bp6c p6d\f"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 30,
+                "text": "p7a p7b\u000b",
+                "page": 4,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 99,
+                "text": "p7c p7d",
+                "page": 4,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 4,
+              "y": 99
+            },
+            "keep": 0,
+            "text": "p7a p7b\u000bp7c p7d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 30,
+                "text": "p8a p8b\u000b",
+                "page": 5,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 99,
+                "text": "p8c p8d",
+                "page": 5,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 5,
+              "y": 99
+            },
+            "keep": 0,
+            "text": "p8a p8b\u000bp8c p8d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 154.89999389648438,
+                "text": "p9a p9b\u000b",
+                "page": 5,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 30,
+                "text": "p9c p9d",
+                "page": 6,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 6,
+              "y": 30
+            },
+            "keep": 0,
+            "text": "p9a p9b\u000bp9c p9d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 63,
+                "text": "p10a p10b\u000b",
+                "page": 6,
+                "from": 0,
+                "to": 10
+              },
+              {
+                "y": 112.9000015258789,
+                "text": "p10c p10d",
+                "page": 6,
+                "from": 10,
+                "to": 19
+              }
+            ],
+            "caret": {
+              "page": 6,
+              "y": 112.9000015258789
+            },
+            "keep": 0,
+            "text": "p10a p10b\u000bp10c p10d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 30,
+                "text": "p11a p11b\u000b",
+                "page": 7,
+                "from": 0,
+                "to": 10
+              },
+              {
+                "y": 79.9000015258789,
+                "text": "p11c p11d",
+                "page": 7,
+                "from": 10,
+                "to": 19
+              }
+            ],
+            "caret": {
+              "page": 7,
+              "y": 79.9000015258789
+            },
+            "keep": 0,
+            "text": "p11a p11b\u000bp11c p11d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 30,
+                "text": "p12a p12b\u000b",
+                "page": 8,
+                "from": 0,
+                "to": 10
+              },
+              {
+                "y": 79.9000015258789,
+                "text": "p12c p12d",
+                "page": 8,
+                "from": 10,
+                "to": 19
+              }
+            ],
+            "caret": {
+              "page": 8,
+              "y": 79.9000015258789
+            },
+            "keep": 0,
+            "text": "p12a p12b\u000bp12c p12d\r"
+          }
+        ],
+        "pages": 8
+      }
+    },
+    "single": {
+      "sourceSha256": "bfa2d6689ae600f69c6449f8b12cfd0e177ac849b90263eeae9cd778eac47970",
+      "nativeSavedSha256": "54ed838355a7039fed7b5aa40903f0400843502d2308a5e79d5a0916180bd44b",
+      "nativeReceipt": {
+        "scriptSha256": "9b2f1dcef663eb968d95a5e5af4124b9b3af615c1fdcff1272aa5bea51fc2ca2",
+        "printer": "Microsoft Print to PDF",
+        "savedSha256": "54ed838355a7039fed7b5aa40903f0400843502d2308a5e79d5a0916180bd44b",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "sourceSha256": "bb4568ff2af7d2088e2d4ff3d4883ec5cdad66a8ade6a35deac6f486416a458b",
+        "pdfSha256": "2ab67eb0446f3dd792be27c30e6f6321b25c884a463f4475752888257fa8ab52"
+      },
+      "snapshot": {
+        "paragraphs": [
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 30,
+                "text": "p1a p1b\u000b",
+                "page": 1,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 64.5,
+                "text": "p1c p1d",
+                "page": 1,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 1,
+              "y": 64.5
+            },
+            "keep": 0,
+            "text": "p1a p1b\u000bp1c p1d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 97.5,
+                "text": "p2a p2b\u000b",
+                "page": 1,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 132,
+                "text": "p2c p2d",
+                "page": 1,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 1,
+              "y": 132
+            },
+            "keep": 0,
+            "text": "p2a p2b\u000bp2c p2d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 165,
+                "text": "p3a p3b\u000b",
+                "page": 1,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 30,
+                "text": "p3c p3d",
+                "page": 2,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 2,
+              "y": 30
+            },
+            "keep": 0,
+            "text": "p3a p3b\u000bp3c p3d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 51.400001525878906,
+                "text": "p4a p4b\u000b",
+                "page": 2,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 103.1500015258789,
+                "text": "p4c p4d",
+                "page": 2,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 2,
+              "y": 103.1500015258789
+            },
+            "keep": 0,
+            "text": "p4a p4b\u000bp4c p4d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 30,
+                "text": "p5a p5b\u000b",
+                "page": 3,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 81.75,
+                "text": "p5c p5d",
+                "page": 3,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 3,
+              "y": 81.75
+            },
+            "keep": 0,
+            "text": "p5a p5b\u000bp5c p5d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 126.4000015258789,
+                "text": "p6a p6b\u000b",
+                "page": 3,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 143.64999389648438,
+                "text": "p6c p6d",
+                "page": 3,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 3,
+              "y": 143.64999389648438
+            },
+            "keep": 0,
+            "text": "p6a p6b\u000bp6c p6d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 30,
+                "text": "p7a p7b\u000b",
+                "page": 4,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 99,
+                "text": "p7c p7d",
+                "page": 4,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 4,
+              "y": 99
+            },
+            "keep": 0,
+            "text": "p7a p7b\u000bp7c p7d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 30,
+                "text": "p8a p8b\u000b",
+                "page": 5,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 99,
+                "text": "p8c p8d",
+                "page": 5,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 5,
+              "y": 99
+            },
+            "keep": 0,
+            "text": "p8a p8b\u000bp8c p8d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 154.89999389648438,
+                "text": "p9a p9b\u000b",
+                "page": 5,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 30,
+                "text": "p9c p9d",
+                "page": 6,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 6,
+              "y": 30
+            },
+            "keep": 0,
+            "text": "p9a p9b\u000bp9c p9d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 63,
+                "text": "p10a p10b\u000b",
+                "page": 6,
+                "from": 0,
+                "to": 10
+              },
+              {
+                "y": 112.9000015258789,
+                "text": "p10c p10d",
+                "page": 6,
+                "from": 10,
+                "to": 19
+              }
+            ],
+            "caret": {
+              "page": 6,
+              "y": 112.9000015258789
+            },
+            "keep": 0,
+            "text": "p10a p10b\u000bp10c p10d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 30,
+                "text": "p11a p11b\u000b",
+                "page": 7,
+                "from": 0,
+                "to": 10
+              },
+              {
+                "y": 79.9000015258789,
+                "text": "p11c p11d",
+                "page": 7,
+                "from": 10,
+                "to": 19
+              }
+            ],
+            "caret": {
+              "page": 7,
+              "y": 79.9000015258789
+            },
+            "keep": 0,
+            "text": "p11a p11b\u000bp11c p11d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 30,
+                "text": "p12a p12b\u000b",
+                "page": 8,
+                "from": 0,
+                "to": 10
+              },
+              {
+                "y": 79.9000015258789,
+                "text": "p12c p12d",
+                "page": 8,
+                "from": 10,
+                "to": 19
+              }
+            ],
+            "caret": {
+              "page": 8,
+              "y": 79.9000015258789
+            },
+            "keep": 0,
+            "text": "p12a p12b\u000bp12c p12d\r"
+          }
+        ],
+        "pages": 8
+      }
+    },
+    "keep": {
+      "sourceSha256": "ef99e6a065408dbc8d3fd154d3addda6b4c7bc1ea06dc8fcc38d904b0dae05c7",
+      "nativeSavedSha256": "b0e2808950b6e2c581a120801f922d540043fdef2a91bba9851f2b6b29811544",
+      "nativeReceipt": {
+        "scriptSha256": "9f59653b684aa106be578cda54dd1cf4daf2a90f14af8686da8f8489150b3ad5",
+        "printer": "Microsoft Print to PDF",
+        "savedSha256": "b0e2808950b6e2c581a120801f922d540043fdef2a91bba9851f2b6b29811544",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "sourceSha256": "5a32daf74e60d6227f637bf1828a8363e24f06e9ff78cc76b2e38d21b4d5d761",
+        "pdfSha256": "faa73febdf3a0fc345fca7e41f074edce6df39fe2561de507c3c61412bb9cdee"
+      },
+      "snapshot": {
+        "paragraphs": [
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 30,
+                "text": "p1a p1b\u000b",
+                "page": 1,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 64.5,
+                "text": "p1c p1d",
+                "page": 1,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 1,
+              "y": 64.5
+            },
+            "keep": 0,
+            "text": "p1a p1b\u000bp1c p1d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 97.5,
+                "text": "p2a p2b\u000b",
+                "page": 1,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 30,
+                "text": "p2c p2d",
+                "page": 2,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 2,
+              "y": 30
+            },
+            "keep": 0,
+            "text": "p2a p2b\u000bp2c p2d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 63,
+                "text": "p3a p3b\u000b",
+                "page": 2,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 74.6500015258789,
+                "text": "p3c p3d",
+                "page": 2,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 2,
+              "y": 74.6500015258789
+            },
+            "keep": -1,
+            "text": "p3a p3b\u000bp3c p3d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 30,
+                "text": "p4a p4b\u000b",
+                "page": 3,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 81.75,
+                "text": "p4c p4d",
+                "page": 3,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 3,
+              "y": 81.75
+            },
+            "keep": 0,
+            "text": "p4a p4b\u000bp4c p4d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 126.4000015258789,
+                "text": "p5a p5b\u000b",
+                "page": 3,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 30,
+                "text": "p5c p5d",
+                "page": 4,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 4,
+              "y": 30
+            },
+            "keep": 0,
+            "text": "p5a p5b\u000bp5c p5d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 74.6500015258789,
+                "text": "p6a p6b\u000b",
+                "page": 4,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 91.9000015258789,
+                "text": "p6c p6d",
+                "page": 4,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 4,
+              "y": 91.9000015258789
+            },
+            "keep": 0,
+            "text": "p6a p6b\u000bp6c p6d\f"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 30,
+                "text": "p7a p7b\u000b",
+                "page": 5,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 99,
+                "text": "p7c p7d",
+                "page": 5,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 5,
+              "y": 99
+            },
+            "keep": 0,
+            "text": "p7a p7b\u000bp7c p7d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 30,
+                "text": "p8a p8b\u000b",
+                "page": 6,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 99,
+                "text": "p8c p8d",
+                "page": 6,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 6,
+              "y": 99
+            },
+            "keep": 0,
+            "text": "p8a p8b\u000bp8c p8d\r"
+          },
+          {
+            "widow": -1,
+            "lines": [
+              {
+                "y": 30,
+                "text": "p9a p9b\u000b",
+                "page": 7,
+                "from": 0,
+                "to": 8
+              },
+              {
+                "y": 52.900001525878906,
+                "text": "p9c p9d",
+                "page": 7,
+                "from": 8,
+                "to": 15
+              }
+            ],
+            "caret": {
+              "page": 7,
+              "y": 52.900001525878906
+            },
+            "keep": 0,
+            "text": "p9a p9b\u000bp9c p9d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 85.9000015258789,
+                "text": "p10a p10b\u000b",
+                "page": 7,
+                "from": 0,
+                "to": 10
+              },
+              {
+                "y": 30,
+                "text": "p10c p10d",
+                "page": 8,
+                "from": 10,
+                "to": 19
+              }
+            ],
+            "caret": {
+              "page": 8,
+              "y": 30
+            },
+            "keep": 0,
+            "text": "p10a p10b\u000bp10c p10d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 90,
+                "text": "p11a p11b\u000b",
+                "page": 8,
+                "from": 0,
+                "to": 10
+              },
+              {
+                "y": 30,
+                "text": "p11c p11d",
+                "page": 9,
+                "from": 10,
+                "to": 19
+              }
+            ],
+            "caret": {
+              "page": 9,
+              "y": 30
+            },
+            "keep": 0,
+            "text": "p11a p11b\u000bp11c p11d\r"
+          },
+          {
+            "widow": 0,
+            "lines": [
+              {
+                "y": 90,
+                "text": "p12a p12b\u000b",
+                "page": 9,
+                "from": 0,
+                "to": 10
+              },
+              {
+                "y": 30,
+                "text": "p12c p12d",
+                "page": 10,
+                "from": 10,
+                "to": 19
+              }
+            ],
+            "caret": {
+              "page": 10,
+              "y": 30
+            },
+            "keep": 0,
+            "text": "p12a p12b\u000bp12c p12d\r"
+          }
+        ],
+        "pages": 10
+      }
+    }
+  }
+}

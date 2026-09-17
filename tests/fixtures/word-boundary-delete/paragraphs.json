@@ -1,0 +1,1897 @@
+{
+  "rows": [
+    {
+      "name": "font-paragraph-left-bold",
+      "fixture": "tests/fixtures/word-boundary-delete/font-paragraph-left-bold.docx",
+      "sourceHash": "7b2e81f5dc065dd5f71f6b42227841a7c8f0b091554f1d61f8fca5030a840786",
+      "states": [
+        {
+          "smart": false,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "1199286c6587b1001deec274be7d214d8882d7fbd7ec32232f99c8ff99cc65ac",
+          "pdfHash": "f4bc971704fa9567ba486a767637186cb0861eac17c602f6d850068af918ec5d"
+        },
+        {
+          "smart": true,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "33b4979ecb8497024bc806dbffd6ea3047e58cf52dd0cfccb6bdbda6a3535870",
+          "pdfHash": "a5e9d0558eb38e88fecde9051786350631f55d950563a7cd81ea877b946b6d01"
+        }
+      ],
+      "nativeReportHash": "57f13ac86c66fb5d4031a4fe7e0fecb0a8a1ee02549f81edd8cb3794e93cfb87"
+    },
+    {
+      "name": "font-paragraph-mark-bold",
+      "fixture": "tests/fixtures/word-boundary-delete/font-paragraph-mark-bold.docx",
+      "sourceHash": "faa590c862c7753befac67abde6265727493fbc5b7ef0438b5c674890a4f1551",
+      "states": [
+        {
+          "smart": false,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": -1,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "3ec4cd4174131d85bbc8558fa26d28775ae4297e380d7bd5e6157e11b9e1a256",
+          "pdfHash": "33e7f7e0f5d25afba276adf5a1f054e7ae306079f4be828cb8b3df6f9467706c"
+        },
+        {
+          "smart": true,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": -1,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "cce67a3c32f5e65c35517d76c002efdf0253ebcf2b0637b35cc1f18a2a9097ec",
+          "pdfHash": "581dfae710657701ff2265a75d2f536f28e3289a6c1e5bc9071f662c07227fa2"
+        }
+      ],
+      "nativeReportHash": "57f13ac86c66fb5d4031a4fe7e0fecb0a8a1ee02549f81edd8cb3794e93cfb87"
+    },
+    {
+      "name": "font-paragraph-mark-calibri",
+      "fixture": "tests/fixtures/word-boundary-delete/font-paragraph-mark-calibri.docx",
+      "sourceHash": "349ab75eef5995ad1d5668ccfabb735fc19f100f86d52de532d1c8ebf2e79397",
+      "states": [
+        {
+          "smart": false,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Calibri",
+              "keepNext": 0,
+              "markSize": 11,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "f0882c6dac7311e62565bf0f38b50efb9f55808ce010cbcc8bfff690b2a73878",
+          "pdfHash": "3ed7a9b1d4d8476dc10e33dc23c557046c0c3c7ede90508a82286f8df952aa2d"
+        },
+        {
+          "smart": true,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Calibri",
+              "keepNext": 0,
+              "markSize": 11,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "ca5544eb9b3b38e461b446df6eaac015b154c6d74667bc6f3c079a0b2e649434",
+          "pdfHash": "ed419fa05b755b4224f8af276b99da63dff740883445573ebff30d20e80ba00f"
+        }
+      ],
+      "nativeReportHash": "57f13ac86c66fb5d4031a4fe7e0fecb0a8a1ee02549f81edd8cb3794e93cfb87"
+    },
+    {
+      "name": "font-paragraph-runs-calibri",
+      "fixture": "tests/fixtures/word-boundary-delete/font-paragraph-runs-calibri.docx",
+      "sourceHash": "9dfe220c0d58b7ca9c413754e1d2cb21d091297bb2edffda6aa751f111887d06",
+      "states": [
+        {
+          "smart": false,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "64c155f53939ecb0115743182237d4d5d7183ce91fd4f5605dea7ad00de7c654",
+          "pdfHash": "c39ce5e9b1944ca455c63a6a34de5e42d1a6976b030bb079e36be3ff94f43297"
+        },
+        {
+          "smart": true,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "233372b7f6416b277578d8eb0996fe3ef90db48652fff6517e434fb4370557b6",
+          "pdfHash": "6e2b4338309303e17ebfc0b76a0f34e72f72e4cc36fa782ae89a5c13ff2f0e40"
+        }
+      ],
+      "nativeReportHash": "57f13ac86c66fb5d4031a4fe7e0fecb0a8a1ee02549f81edd8cb3794e93cfb87"
+    },
+    {
+      "name": "font-section-left-bold",
+      "fixture": "tests/fixtures/word-boundary-delete/font-section-left-bold.docx",
+      "sourceHash": "16e04c903ee9a8dc7154accc6aba1e56106b1b5bec624f1b83e57e0a44134260",
+      "states": [
+        {
+          "smart": false,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "344354f27e064f43e632cde213addf4b2f4ace5bea78016623f648687a2af5c8",
+          "pdfHash": "f291081cfcd8113e9e89ce38dfd095794217ebd4eb4b1caa398b7e291f84ea45"
+        },
+        {
+          "smart": true,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "d36a4d5b7d783b58829927778011bc2b7767ad497d17bd6c4a204b614416a446",
+          "pdfHash": "db1c14fd5dab46d57ab0461cb79c96f4a2d656b282f8fcc82bc9491e1984ac47"
+        }
+      ],
+      "nativeReportHash": "57f13ac86c66fb5d4031a4fe7e0fecb0a8a1ee02549f81edd8cb3794e93cfb87"
+    },
+    {
+      "name": "font-section-mark-bold",
+      "fixture": "tests/fixtures/word-boundary-delete/font-section-mark-bold.docx",
+      "sourceHash": "d23fdf744acd2efa8f5cc41cabfae7d1dfbe6f393a2f353a7051c8e7a68a36bf",
+      "states": [
+        {
+          "smart": false,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": -1,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "6e5a32c0923b4e94dc524f726b85cad41b3518967ea4568a3b098f99ad1fdcd0",
+          "pdfHash": "b1da29b958dcda3294acd553c3b36999982dee9ce78c9dba6fcba03ec91ca341"
+        },
+        {
+          "smart": true,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": -1,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "be0ea75c969a907d58af0ad0724c7d3aab8867a4a8bcd6cfbea71cc977b30f8b",
+          "pdfHash": "6cc626957a5d2a6032853823e80b7a914a4b1381ef05add8dd73ebbcc95b088a"
+        }
+      ],
+      "nativeReportHash": "57f13ac86c66fb5d4031a4fe7e0fecb0a8a1ee02549f81edd8cb3794e93cfb87"
+    },
+    {
+      "name": "font-section-mark-calibri",
+      "fixture": "tests/fixtures/word-boundary-delete/font-section-mark-calibri.docx",
+      "sourceHash": "eaa7cb75207285446c5face334a4251cc0576c49d8bd5d1cd236867410afb43a",
+      "states": [
+        {
+          "smart": false,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Calibri",
+              "keepNext": 0,
+              "markSize": 11,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "3bc39fd9ae7e9ef3e2db190fe018a62bdb0a05cdfa507bd73c45b429870c5c59",
+          "pdfHash": "32dfe72ea156103e820824429ae47a4405003636deb0f67675f63db8d3d16a6e"
+        },
+        {
+          "smart": true,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Calibri",
+              "keepNext": 0,
+              "markSize": 11,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "6267e4c6099b503774073371f3062ac6c34df695953a88bb9c31faf312aa4f17",
+          "pdfHash": "36239f3e47545d5081f0c198f83068fe24a5076c8f6682101483ed4a3e51f21f"
+        }
+      ],
+      "nativeReportHash": "57f13ac86c66fb5d4031a4fe7e0fecb0a8a1ee02549f81edd8cb3794e93cfb87"
+    },
+    {
+      "name": "font-section-runs-calibri",
+      "fixture": "tests/fixtures/word-boundary-delete/font-section-runs-calibri.docx",
+      "sourceHash": "6f97518685011d27a21836bd7e54792eb6e33dc052c14ddebb1febbca84f6d8b",
+      "states": [
+        {
+          "smart": false,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "4263354ee2ab6f658e6a8e5f7f99d82359d0c8a6506b551cae0c8cbdca0ee83f",
+          "pdfHash": "c07ae31103e92f1db3627f7c581d3a72080dd635c902ec3888287faa7bf45aeb"
+        },
+        {
+          "smart": true,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "849f80ea9d6882f0d667d2f248e97e1a7565376871433f262ee386c17cdda772",
+          "pdfHash": "c31556c0b16cb405630148925045467d786c97c15bda36c5ca4b316b970ad838"
+        }
+      ],
+      "nativeReportHash": "57f13ac86c66fb5d4031a4fe7e0fecb0a8a1ee02549f81edd8cb3794e93cfb87"
+    },
+    {
+      "name": "layout-paragraph-alignment",
+      "fixture": "tests/fixtures/word-boundary-delete/layout-paragraph-alignment.docx",
+      "sourceHash": "112e7320879163b0a603117b34da69fe4361c830f6de3868f58ad9b1f69c4cda",
+      "states": [
+        {
+          "smart": false,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 1,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 2,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 1,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "4981d994f802cfc39beaaa7b5f561bc6814c00c24cb7f5ae0a553e59cce3def2",
+          "pdfHash": "27c884c2429c7e5760cccc5bd5885e43403739743bae86c2392c50c3be7dca16"
+        },
+        {
+          "smart": true,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 1,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 2,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 1,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "c66eb1e22a46b38614813a815616ed2b35501937d0b62d3ba3778ef1b8f903e2",
+          "pdfHash": "f545138375d20f14696df00dd7db39c11d48965e88d5a6633e00a3a577b8e3b5"
+        }
+      ],
+      "nativeReportHash": "8a280585785e55a1921337d332f7cdfe6af9d14b8ff2514b94d8065bfe7a1b99"
+    },
+    {
+      "name": "layout-paragraph-spacing",
+      "fixture": "tests/fixtures/word-boundary-delete/layout-paragraph-spacing.docx",
+      "sourceHash": "c52ef4c80c4e7df655359e6ecad01a3c64f146a41492655d004b59d6937862e2",
+      "states": [
+        {
+          "smart": false,
+          "sourceProperties": [
+            {
+              "line": 30,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 5,
+              "before": 4,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 40,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 10,
+              "before": 8,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 30,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 5,
+            "before": 4,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "2afb8e1906130af440b8c13038b596e767e6fef96c24d284d8f807ca5018efe9",
+          "pdfHash": "c4dd00e7e800e95a525dd1d56bf98afbcc15bd3ed7798da347333b158de826e5"
+        },
+        {
+          "smart": true,
+          "sourceProperties": [
+            {
+              "line": 30,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 5,
+              "before": 4,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 40,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 10,
+              "before": 8,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 30,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 5,
+            "before": 4,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "8e00027230a9b4c96a4693ff54c009508560cd03d255d441f5efaabe69f098f3",
+          "pdfHash": "af92863d5810f7b0aa4394f277d6f79a4ef19cc849e94ee2f597f62b3f700a89"
+        }
+      ],
+      "nativeReportHash": "8a280585785e55a1921337d332f7cdfe6af9d14b8ff2514b94d8065bfe7a1b99"
+    },
+    {
+      "name": "layout-paragraph-indent",
+      "fixture": "tests/fixtures/word-boundary-delete/layout-paragraph-indent.docx",
+      "sourceHash": "f31bbe9960e771045f9d10788c2f827fdbae26ef4852914b26f89fc37c662739",
+      "states": [
+        {
+          "smart": false,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 5,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 12,
+              "right": 6,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 10,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 24,
+              "right": 18,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 5,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 12,
+            "right": 6,
+            "keepLines": 0
+          },
+          "savedHash": "3911fa57400883aea60f874920ed24d2cca23d30ec671f5db178afb58d22b763",
+          "pdfHash": "0967a17b4a313768873d986f17c5b01cffa122ba25df71dc9698298dc08f9d27"
+        },
+        {
+          "smart": true,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 5,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 12,
+              "right": 6,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 10,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 24,
+              "right": 18,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 5,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 12,
+            "right": 6,
+            "keepLines": 0
+          },
+          "savedHash": "03035f8cbf5df186470a8167178b4d94ee499065e60ec9093d38d2e410bccdf2",
+          "pdfHash": "121f78162713764f46d1fb880ba48baece87289e1ae998f6206669a1ce7b7c87"
+        }
+      ],
+      "nativeReportHash": "8a280585785e55a1921337d332f7cdfe6af9d14b8ff2514b94d8065bfe7a1b99"
+    },
+    {
+      "name": "layout-paragraph-keep",
+      "fixture": "tests/fixtures/word-boundary-delete/layout-paragraph-keep.docx",
+      "sourceHash": "2d1a77df829f11ce983b72d3edf02b1bc66383cfb73fc64df91c66ac99181849",
+      "states": [
+        {
+          "smart": false,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": -1,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": -1
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": -1,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "e3b29bb55da74b6832252427bc21b51fe77de0638172b059c6824c4ca311059f",
+          "pdfHash": "cb49ec48e232191ca3314a6699b3b068fe94d37d1236335dd0d274157aece191"
+        },
+        {
+          "smart": true,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": -1,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": -1
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": -1,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "9ef2a3cb4ce5d78d4c92c8345e7f7b5d742a7ab9bb441f1b6a577b9cdf030b2e",
+          "pdfHash": "0a5e98a0367bffb4940188b390cbb9407e76f7e33d04711731fe21d796564f16"
+        }
+      ],
+      "nativeReportHash": "8a280585785e55a1921337d332f7cdfe6af9d14b8ff2514b94d8065bfe7a1b99"
+    },
+    {
+      "name": "layout-section-alignment",
+      "fixture": "tests/fixtures/word-boundary-delete/layout-section-alignment.docx",
+      "sourceHash": "2e96b85715a4c2c0e4fdced135025d936b366ed9f94c7dc0e43cfbb04baa4d4c",
+      "states": [
+        {
+          "smart": false,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 1,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 2,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 1,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "506c1b040afad225261fb4257b564c828663f47bcaf3005061c5a951b160768a",
+          "pdfHash": "b84e06846e4a33b83709c532c05f5c4e3c3f4ac26dcc3df570ad0eefc76d3867"
+        },
+        {
+          "smart": true,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 1,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 2,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 1,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "647dfe4517cbf54ecaa024310d436d186b4fa33e1adbb42b40ed9e218b7faa04",
+          "pdfHash": "096f66f697f53322031437026e5eb1556a4f4fa81b93fa96a0b892cc469d73fb"
+        }
+      ],
+      "nativeReportHash": "8a280585785e55a1921337d332f7cdfe6af9d14b8ff2514b94d8065bfe7a1b99"
+    },
+    {
+      "name": "layout-section-spacing",
+      "fixture": "tests/fixtures/word-boundary-delete/layout-section-spacing.docx",
+      "sourceHash": "ea4bfc7bb10b601b889eaa2c9b8a35429347cb225c28aa2d96454c696f6a3757",
+      "states": [
+        {
+          "smart": false,
+          "sourceProperties": [
+            {
+              "line": 30,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 5,
+              "before": 4,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 40,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 10,
+              "before": 8,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 30,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 5,
+            "before": 4,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "ddc56116e0406a135d0be55ed1231ef2d1d4d0fd5472c1e663ce939b1e52134b",
+          "pdfHash": "49eeee491090a626e8fa293857e52ea83e526f4e5c31f6252a532a881ff1b82a"
+        },
+        {
+          "smart": true,
+          "sourceProperties": [
+            {
+              "line": 30,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 5,
+              "before": 4,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 40,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 10,
+              "before": 8,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 30,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 5,
+            "before": 4,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "25fcaa31e974ed06345e71609a52371cebb338b1773ae6efe7a84cd17fdd05e4",
+          "pdfHash": "b1e1bb8ecce5da55b616222bcfcd6d152f6e022d632ed770792adb7da155c717"
+        }
+      ],
+      "nativeReportHash": "8a280585785e55a1921337d332f7cdfe6af9d14b8ff2514b94d8065bfe7a1b99"
+    },
+    {
+      "name": "layout-section-indent",
+      "fixture": "tests/fixtures/word-boundary-delete/layout-section-indent.docx",
+      "sourceHash": "523d4d47be0d1394cc8bf2da92a91756c016067d079a6aaa643a2849b7d5def7",
+      "states": [
+        {
+          "smart": false,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 5,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 12,
+              "right": 6,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 10,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 24,
+              "right": 18,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 5,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 12,
+            "right": 6,
+            "keepLines": 0
+          },
+          "savedHash": "45a555a3093ec17a1220ca44035e0157108eb2732cb5b9ce84192757d9c432fc",
+          "pdfHash": "7d88a794cce2fc0c8980195c1b5937fddb620c93397f4f6790152328a4d9f1a8"
+        },
+        {
+          "smart": true,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 5,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 12,
+              "right": 6,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 10,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 24,
+              "right": 18,
+              "keepLines": 0
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 5,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": 0,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 12,
+            "right": 6,
+            "keepLines": 0
+          },
+          "savedHash": "d9d644b77d2dc2e141d102c350b291997905c02a0a490d100889c009a4524f90",
+          "pdfHash": "cfbe96ed1452e203c56113c976e7fd274d785afc770b16cc88ca4e7ef8a04cb1"
+        }
+      ],
+      "nativeReportHash": "8a280585785e55a1921337d332f7cdfe6af9d14b8ff2514b94d8065bfe7a1b99"
+    },
+    {
+      "name": "layout-section-keep",
+      "fixture": "tests/fixtures/word-boundary-delete/layout-section-keep.docx",
+      "sourceHash": "909d2306006a21cd4d6f799a2d68ecba5010246b5f62eac0c8b176b1105a442d",
+      "states": [
+        {
+          "smart": false,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": -1,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": -1
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": -1,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "3a8e259bde5a90b0471d44330c508127c75d3179468ed7d4067043330eb24893",
+          "pdfHash": "c11e86320063aec5f4f7a89755c5f9f85f8587867883ca4820f250d1f16f1d26"
+        },
+        {
+          "smart": true,
+          "sourceProperties": [
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": -1,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": 0
+            },
+            {
+              "line": 24,
+              "markBold": 0,
+              "firstLine": 0,
+              "after": 6,
+              "before": 0,
+              "markFamily": "Arial",
+              "keepNext": 0,
+              "markSize": 10,
+              "lineRule": 4,
+              "markItalic": 0,
+              "alignment": 0,
+              "left": 0,
+              "right": 0,
+              "keepLines": -1
+            }
+          ],
+          "paragraphProperties": {
+            "line": 24,
+            "markBold": 0,
+            "firstLine": 0,
+            "after": 6,
+            "before": 0,
+            "markFamily": "Arial",
+            "keepNext": -1,
+            "markSize": 10,
+            "lineRule": 4,
+            "markItalic": 0,
+            "alignment": 0,
+            "left": 0,
+            "right": 0,
+            "keepLines": 0
+          },
+          "savedHash": "adfacaa6c45cc164e6ff786fe2037b0cf38ca32a0bd9b4b561fbc40ab5030b2f",
+          "pdfHash": "a7d014c505777551d948a5fd32503c4244bf931cf5ffc6545fd803b45efb7a4b"
+        }
+      ],
+      "nativeReportHash": "8a280585785e55a1921337d332f7cdfe6af9d14b8ff2514b94d8065bfe7a1b99"
+    }
+  ],
+  "provenance": {
+    "license": "MIT",
+    "kind": "Repository-authored font and paragraph-layout contrasts; no font programs",
+    "scope": "32 native states independently establish first paragraph layout and following paragraph mark fonts after exact boundary selection/deletion, with source observations discarded before editing."
+  }
+}

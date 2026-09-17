@@ -1,0 +1,1411 @@
+{
+  "rows": [
+    {
+      "name": "paragraph-left-bold",
+      "fixture": "tests/fixtures/word-boundary-delete/font-paragraph-left-bold.docx",
+      "sourceHash": "7b2e81f5dc065dd5f71f6b42227841a7c8f0b091554f1d61f8fca5030a840786",
+      "states": [
+        {
+          "sample": "paragraph-left-bold",
+          "before": "Alpha.\rBeta\rFollowing paragraph.\r",
+          "sourceHash": "7b2e81f5dc065dd5f71f6b42227841a7c8f0b091554f1d61f8fca5030a840786",
+          "paragraphs": 2,
+          "pages": 1,
+          "reopened": "Alpha.Beta\rFollowing paragraph.\r",
+          "from": 6,
+          "redo": "Alpha.Beta\rFollowing paragraph.\r",
+          "sections": 1,
+          "name": "paragraph-left-bold-smart-False",
+          "after": "Alpha.Beta\rFollowing paragraph.\r",
+          "to": 7,
+          "undo": "Alpha.\rBeta\rFollowing paragraph.\r",
+          "afterSelection": {
+            "to": 6,
+            "from": 6
+          },
+          "savedHash": "11a6c4ec2f87b0487fb508201a7bb7be731341cd5e2a4baca8f6b7ddfb34d2b1",
+          "characters": [
+            {
+              "position": 4,
+              "text": "a",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": -1
+            },
+            {
+              "position": 5,
+              "text": ".",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": -1
+            },
+            {
+              "position": 6,
+              "text": "B",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 7,
+              "text": "e",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 8,
+              "text": "t",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            }
+          ],
+          "pdfHash": "0fca2bbdc537ed2bab1b9cc795ca6a9af67a51b5b03f35f32ee1bff807b284db",
+          "smart": false
+        },
+        {
+          "sample": "paragraph-left-bold",
+          "before": "Alpha.\rBeta\rFollowing paragraph.\r",
+          "sourceHash": "7b2e81f5dc065dd5f71f6b42227841a7c8f0b091554f1d61f8fca5030a840786",
+          "paragraphs": 2,
+          "pages": 1,
+          "reopened": "Alpha. Beta\rFollowing paragraph.\r",
+          "from": 6,
+          "redo": "Alpha. Beta\rFollowing paragraph.\r",
+          "sections": 1,
+          "name": "paragraph-left-bold-smart-True",
+          "after": "Alpha. Beta\rFollowing paragraph.\r",
+          "to": 7,
+          "undo": "Alpha.\rBeta\rFollowing paragraph.\r",
+          "afterSelection": {
+            "to": 6,
+            "from": 6
+          },
+          "savedHash": "709db80fe258274e556e27ec8e8806d232c20184f2c19baf6a6d59248c0595c8",
+          "characters": [
+            {
+              "position": 4,
+              "text": "a",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": -1
+            },
+            {
+              "position": 5,
+              "text": ".",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": -1
+            },
+            {
+              "position": 6,
+              "text": " ",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 7,
+              "text": "B",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 8,
+              "text": "e",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            }
+          ],
+          "pdfHash": "31a7f867a2669aa7521a512f31c2838ba07c6f16d94d3dd9ec48e5275c1cf225",
+          "smart": true
+        }
+      ]
+    },
+    {
+      "name": "paragraph-mark-bold",
+      "fixture": "tests/fixtures/word-boundary-delete/font-paragraph-mark-bold.docx",
+      "sourceHash": "faa590c862c7753befac67abde6265727493fbc5b7ef0438b5c674890a4f1551",
+      "states": [
+        {
+          "sample": "paragraph-mark-bold",
+          "before": "Alpha.\rBeta\rFollowing paragraph.\r",
+          "sourceHash": "faa590c862c7753befac67abde6265727493fbc5b7ef0438b5c674890a4f1551",
+          "paragraphs": 2,
+          "pages": 1,
+          "reopened": "Alpha.Beta\rFollowing paragraph.\r",
+          "from": 6,
+          "redo": "Alpha.Beta\rFollowing paragraph.\r",
+          "sections": 1,
+          "name": "paragraph-mark-bold-smart-False",
+          "after": "Alpha.Beta\rFollowing paragraph.\r",
+          "to": 7,
+          "undo": "Alpha.\rBeta\rFollowing paragraph.\r",
+          "afterSelection": {
+            "to": 6,
+            "from": 6
+          },
+          "savedHash": "7e25e3ed1f463f2285de75a573bab11856325a6b3ed8f88e10021b38ab727ecc",
+          "characters": [
+            {
+              "position": 4,
+              "text": "a",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 5,
+              "text": ".",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 6,
+              "text": "B",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 7,
+              "text": "e",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 8,
+              "text": "t",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            }
+          ],
+          "pdfHash": "8cdb410b0689587296e6ef27b89c0ac223da56da07c79d497781bf354292e948",
+          "smart": false
+        },
+        {
+          "sample": "paragraph-mark-bold",
+          "before": "Alpha.\rBeta\rFollowing paragraph.\r",
+          "sourceHash": "faa590c862c7753befac67abde6265727493fbc5b7ef0438b5c674890a4f1551",
+          "paragraphs": 2,
+          "pages": 1,
+          "reopened": "Alpha. Beta\rFollowing paragraph.\r",
+          "from": 6,
+          "redo": "Alpha. Beta\rFollowing paragraph.\r",
+          "sections": 1,
+          "name": "paragraph-mark-bold-smart-True",
+          "after": "Alpha. Beta\rFollowing paragraph.\r",
+          "to": 7,
+          "undo": "Alpha.\rBeta\rFollowing paragraph.\r",
+          "afterSelection": {
+            "to": 6,
+            "from": 6
+          },
+          "savedHash": "aa60309e0bfa83b8701aab03eed50d7aa90a08aaa6693d23000a341f650b620a",
+          "characters": [
+            {
+              "position": 4,
+              "text": "a",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 5,
+              "text": ".",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 6,
+              "text": " ",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 7,
+              "text": "B",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 8,
+              "text": "e",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            }
+          ],
+          "pdfHash": "2a192f15c6a2e17bceaaac6cb9402a1c5fe5526f01f7937da88ad1da13b282e8",
+          "smart": true
+        }
+      ]
+    },
+    {
+      "name": "paragraph-mark-calibri",
+      "fixture": "tests/fixtures/word-boundary-delete/font-paragraph-mark-calibri.docx",
+      "sourceHash": "349ab75eef5995ad1d5668ccfabb735fc19f100f86d52de532d1c8ebf2e79397",
+      "states": [
+        {
+          "sample": "paragraph-mark-calibri",
+          "before": "Alpha.\rBeta\rFollowing paragraph.\r",
+          "sourceHash": "349ab75eef5995ad1d5668ccfabb735fc19f100f86d52de532d1c8ebf2e79397",
+          "paragraphs": 2,
+          "pages": 1,
+          "reopened": "Alpha.Beta\rFollowing paragraph.\r",
+          "from": 6,
+          "redo": "Alpha.Beta\rFollowing paragraph.\r",
+          "sections": 1,
+          "name": "paragraph-mark-calibri-smart-False",
+          "after": "Alpha.Beta\rFollowing paragraph.\r",
+          "to": 7,
+          "undo": "Alpha.\rBeta\rFollowing paragraph.\r",
+          "afterSelection": {
+            "to": 6,
+            "from": 6
+          },
+          "savedHash": "bd80da71f1bf315abcfccd902eb410daf1c322314e2ef2216b6b08cf2060d4a4",
+          "characters": [
+            {
+              "position": 4,
+              "text": "a",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 5,
+              "text": ".",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 6,
+              "text": "B",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 7,
+              "text": "e",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 8,
+              "text": "t",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            }
+          ],
+          "pdfHash": "6919e1f8fb9ad2884cfb420597d68e5b7e446df85a2211182821d75a5a8b5106",
+          "smart": false
+        },
+        {
+          "sample": "paragraph-mark-calibri",
+          "before": "Alpha.\rBeta\rFollowing paragraph.\r",
+          "sourceHash": "349ab75eef5995ad1d5668ccfabb735fc19f100f86d52de532d1c8ebf2e79397",
+          "paragraphs": 2,
+          "pages": 1,
+          "reopened": "Alpha. Beta\rFollowing paragraph.\r",
+          "from": 6,
+          "redo": "Alpha. Beta\rFollowing paragraph.\r",
+          "sections": 1,
+          "name": "paragraph-mark-calibri-smart-True",
+          "after": "Alpha. Beta\rFollowing paragraph.\r",
+          "to": 7,
+          "undo": "Alpha.\rBeta\rFollowing paragraph.\r",
+          "afterSelection": {
+            "to": 6,
+            "from": 6
+          },
+          "savedHash": "4965e34a8428a157b6a4a7384d54fd2b39eea2cc5f61d9129bd1660b282b0b7b",
+          "characters": [
+            {
+              "position": 4,
+              "text": "a",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 5,
+              "text": ".",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 6,
+              "text": " ",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 7,
+              "text": "B",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 8,
+              "text": "e",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            }
+          ],
+          "pdfHash": "e70eb254e448d502f76bd67513eb7e74e6611d0fc5259190245faa1d15fbabe2",
+          "smart": true
+        }
+      ]
+    },
+    {
+      "name": "paragraph-runs-calibri",
+      "fixture": "tests/fixtures/word-boundary-delete/font-paragraph-runs-calibri.docx",
+      "sourceHash": "9dfe220c0d58b7ca9c413754e1d2cb21d091297bb2edffda6aa751f111887d06",
+      "states": [
+        {
+          "sample": "paragraph-runs-calibri",
+          "before": "Alpha.\rBeta\rFollowing paragraph.\r",
+          "sourceHash": "9dfe220c0d58b7ca9c413754e1d2cb21d091297bb2edffda6aa751f111887d06",
+          "paragraphs": 2,
+          "pages": 1,
+          "reopened": "Alpha.Beta\rFollowing paragraph.\r",
+          "from": 6,
+          "redo": "Alpha.Beta\rFollowing paragraph.\r",
+          "sections": 1,
+          "name": "paragraph-runs-calibri-smart-False",
+          "after": "Alpha.Beta\rFollowing paragraph.\r",
+          "to": 7,
+          "undo": "Alpha.\rBeta\rFollowing paragraph.\r",
+          "afterSelection": {
+            "to": 6,
+            "from": 6
+          },
+          "savedHash": "61865f675caac3ddcea31a644fc1e4a8f2bd5aaf27f5750d9fccdfdf48691483",
+          "characters": [
+            {
+              "position": 4,
+              "text": "a",
+              "size": 11,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Calibri",
+              "bold": 0
+            },
+            {
+              "position": 5,
+              "text": ".",
+              "size": 11,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Calibri",
+              "bold": 0
+            },
+            {
+              "position": 6,
+              "text": "B",
+              "size": 11,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Calibri",
+              "bold": 0
+            },
+            {
+              "position": 7,
+              "text": "e",
+              "size": 11,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Calibri",
+              "bold": 0
+            },
+            {
+              "position": 8,
+              "text": "t",
+              "size": 11,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Calibri",
+              "bold": 0
+            }
+          ],
+          "pdfHash": "8bea7534ccae12dd98203b3d6906213e89c970d7a56b1c25ed5b65996f06140d",
+          "smart": false
+        },
+        {
+          "sample": "paragraph-runs-calibri",
+          "before": "Alpha.\rBeta\rFollowing paragraph.\r",
+          "sourceHash": "9dfe220c0d58b7ca9c413754e1d2cb21d091297bb2edffda6aa751f111887d06",
+          "paragraphs": 2,
+          "pages": 1,
+          "reopened": "Alpha. Beta\rFollowing paragraph.\r",
+          "from": 6,
+          "redo": "Alpha. Beta\rFollowing paragraph.\r",
+          "sections": 1,
+          "name": "paragraph-runs-calibri-smart-True",
+          "after": "Alpha. Beta\rFollowing paragraph.\r",
+          "to": 7,
+          "undo": "Alpha.\rBeta\rFollowing paragraph.\r",
+          "afterSelection": {
+            "to": 6,
+            "from": 6
+          },
+          "savedHash": "70a46b4e66ab412fbb124dee57db12b5b4dd2d50a2c8c056aa91e5edf4abaacc",
+          "characters": [
+            {
+              "position": 4,
+              "text": "a",
+              "size": 11,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Calibri",
+              "bold": 0
+            },
+            {
+              "position": 5,
+              "text": ".",
+              "size": 11,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Calibri",
+              "bold": 0
+            },
+            {
+              "position": 6,
+              "text": " ",
+              "size": 11,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Calibri",
+              "bold": 0
+            },
+            {
+              "position": 7,
+              "text": "B",
+              "size": 11,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Calibri",
+              "bold": 0
+            },
+            {
+              "position": 8,
+              "text": "e",
+              "size": 11,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Calibri",
+              "bold": 0
+            }
+          ],
+          "pdfHash": "aa9735032ccd68817cae340ba0da218144ddad4acfaaf63a0d499612cea519bf",
+          "smart": true
+        }
+      ]
+    },
+    {
+      "name": "section-left-bold",
+      "fixture": "tests/fixtures/word-boundary-delete/font-section-left-bold.docx",
+      "sourceHash": "16e04c903ee9a8dc7154accc6aba1e56106b1b5bec624f1b83e57e0a44134260",
+      "states": [
+        {
+          "sample": "section-left-bold",
+          "before": "Alpha.\fBeta\rFollowing paragraph.\r",
+          "sourceHash": "16e04c903ee9a8dc7154accc6aba1e56106b1b5bec624f1b83e57e0a44134260",
+          "paragraphs": 2,
+          "pages": 1,
+          "reopened": "Alpha.Beta\rFollowing paragraph.\r",
+          "from": 6,
+          "redo": "Alpha.Beta\rFollowing paragraph.\r",
+          "sections": 1,
+          "name": "section-left-bold-smart-False",
+          "after": "Alpha.Beta\rFollowing paragraph.\r",
+          "to": 7,
+          "undo": "Alpha.\fBeta\rFollowing paragraph.\r",
+          "afterSelection": {
+            "to": 6,
+            "from": 6
+          },
+          "savedHash": "5a2fbffad50babca7d72953bacb4e87e560da96b23b97a51b3618b7c2f9f7cd0",
+          "characters": [
+            {
+              "position": 4,
+              "text": "a",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": -1
+            },
+            {
+              "position": 5,
+              "text": ".",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": -1
+            },
+            {
+              "position": 6,
+              "text": "B",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 7,
+              "text": "e",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 8,
+              "text": "t",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            }
+          ],
+          "pdfHash": "88b3b7393d5a9d3589809ab49c5828bf4b6b93b354710386c81f78fcc5379894",
+          "smart": false
+        },
+        {
+          "sample": "section-left-bold",
+          "before": "Alpha.\fBeta\rFollowing paragraph.\r",
+          "sourceHash": "16e04c903ee9a8dc7154accc6aba1e56106b1b5bec624f1b83e57e0a44134260",
+          "paragraphs": 2,
+          "pages": 1,
+          "reopened": "Alpha. Beta\rFollowing paragraph.\r",
+          "from": 6,
+          "redo": "Alpha. Beta\rFollowing paragraph.\r",
+          "sections": 1,
+          "name": "section-left-bold-smart-True",
+          "after": "Alpha. Beta\rFollowing paragraph.\r",
+          "to": 7,
+          "undo": "Alpha.\fBeta\rFollowing paragraph.\r",
+          "afterSelection": {
+            "to": 6,
+            "from": 6
+          },
+          "savedHash": "0d6de4266b4d77b204cd9e9ff080137c1031f8daa29eb66e2bcda654dd0b99d0",
+          "characters": [
+            {
+              "position": 4,
+              "text": "a",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": -1
+            },
+            {
+              "position": 5,
+              "text": ".",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": -1
+            },
+            {
+              "position": 6,
+              "text": " ",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 7,
+              "text": "B",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 8,
+              "text": "e",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            }
+          ],
+          "pdfHash": "9eedae536907e8e4aa4e442cce71bd649038ac79ab44ed2f49c4c479a0cf6baa",
+          "smart": true
+        }
+      ]
+    },
+    {
+      "name": "section-mark-bold",
+      "fixture": "tests/fixtures/word-boundary-delete/font-section-mark-bold.docx",
+      "sourceHash": "d23fdf744acd2efa8f5cc41cabfae7d1dfbe6f393a2f353a7051c8e7a68a36bf",
+      "states": [
+        {
+          "sample": "section-mark-bold",
+          "before": "Alpha.\fBeta\rFollowing paragraph.\r",
+          "sourceHash": "d23fdf744acd2efa8f5cc41cabfae7d1dfbe6f393a2f353a7051c8e7a68a36bf",
+          "paragraphs": 2,
+          "pages": 1,
+          "reopened": "Alpha.Beta\rFollowing paragraph.\r",
+          "from": 6,
+          "redo": "Alpha.Beta\rFollowing paragraph.\r",
+          "sections": 1,
+          "name": "section-mark-bold-smart-False",
+          "after": "Alpha.Beta\rFollowing paragraph.\r",
+          "to": 7,
+          "undo": "Alpha.\fBeta\rFollowing paragraph.\r",
+          "afterSelection": {
+            "to": 6,
+            "from": 6
+          },
+          "savedHash": "b08f19f13f134ddb48a6820427c6384eb2d1d075a9fa261f474fe09d35a529ce",
+          "characters": [
+            {
+              "position": 4,
+              "text": "a",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 5,
+              "text": ".",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 6,
+              "text": "B",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 7,
+              "text": "e",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 8,
+              "text": "t",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            }
+          ],
+          "pdfHash": "6a3cf904f4eb763863f07aa6decb2fbbb70cd8d4263d10256a50a1a930125bca",
+          "smart": false
+        },
+        {
+          "sample": "section-mark-bold",
+          "before": "Alpha.\fBeta\rFollowing paragraph.\r",
+          "sourceHash": "d23fdf744acd2efa8f5cc41cabfae7d1dfbe6f393a2f353a7051c8e7a68a36bf",
+          "paragraphs": 2,
+          "pages": 1,
+          "reopened": "Alpha. Beta\rFollowing paragraph.\r",
+          "from": 6,
+          "redo": "Alpha. Beta\rFollowing paragraph.\r",
+          "sections": 1,
+          "name": "section-mark-bold-smart-True",
+          "after": "Alpha. Beta\rFollowing paragraph.\r",
+          "to": 7,
+          "undo": "Alpha.\fBeta\rFollowing paragraph.\r",
+          "afterSelection": {
+            "to": 6,
+            "from": 6
+          },
+          "savedHash": "9d82510aba4294d7c318939e51167bf004bc5bbd25e8efe69de04a4f67e16a27",
+          "characters": [
+            {
+              "position": 4,
+              "text": "a",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 5,
+              "text": ".",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 6,
+              "text": " ",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 7,
+              "text": "B",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 8,
+              "text": "e",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": -1,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            }
+          ],
+          "pdfHash": "ba7f81374474acb669b18ecfbeb32d3f24fc45875b2c655d9fe17bcd7dcedafc",
+          "smart": true
+        }
+      ]
+    },
+    {
+      "name": "section-mark-calibri",
+      "fixture": "tests/fixtures/word-boundary-delete/font-section-mark-calibri.docx",
+      "sourceHash": "eaa7cb75207285446c5face334a4251cc0576c49d8bd5d1cd236867410afb43a",
+      "states": [
+        {
+          "sample": "section-mark-calibri",
+          "before": "Alpha.\fBeta\rFollowing paragraph.\r",
+          "sourceHash": "eaa7cb75207285446c5face334a4251cc0576c49d8bd5d1cd236867410afb43a",
+          "paragraphs": 2,
+          "pages": 1,
+          "reopened": "Alpha.Beta\rFollowing paragraph.\r",
+          "from": 6,
+          "redo": "Alpha.Beta\rFollowing paragraph.\r",
+          "sections": 1,
+          "name": "section-mark-calibri-smart-False",
+          "after": "Alpha.Beta\rFollowing paragraph.\r",
+          "to": 7,
+          "undo": "Alpha.\fBeta\rFollowing paragraph.\r",
+          "afterSelection": {
+            "to": 6,
+            "from": 6
+          },
+          "savedHash": "8fd0bce85d05dec8aeaf73c4e69de61034200c2d870d6a61e9bd64e0e15fd01d",
+          "characters": [
+            {
+              "position": 4,
+              "text": "a",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 5,
+              "text": ".",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 6,
+              "text": "B",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 7,
+              "text": "e",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 8,
+              "text": "t",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            }
+          ],
+          "pdfHash": "6291693d110aff04b3c1587dfced3ff9de58048cf291f8b22a9f628609b66aba",
+          "smart": false
+        },
+        {
+          "sample": "section-mark-calibri",
+          "before": "Alpha.\fBeta\rFollowing paragraph.\r",
+          "sourceHash": "eaa7cb75207285446c5face334a4251cc0576c49d8bd5d1cd236867410afb43a",
+          "paragraphs": 2,
+          "pages": 1,
+          "reopened": "Alpha. Beta\rFollowing paragraph.\r",
+          "from": 6,
+          "redo": "Alpha. Beta\rFollowing paragraph.\r",
+          "sections": 1,
+          "name": "section-mark-calibri-smart-True",
+          "after": "Alpha. Beta\rFollowing paragraph.\r",
+          "to": 7,
+          "undo": "Alpha.\fBeta\rFollowing paragraph.\r",
+          "afterSelection": {
+            "to": 6,
+            "from": 6
+          },
+          "savedHash": "04fb6926f62a91c919d298a7eddaee3abf850d3881e48a84503fa577c2104c93",
+          "characters": [
+            {
+              "position": 4,
+              "text": "a",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 5,
+              "text": ".",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 6,
+              "text": " ",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 7,
+              "text": "B",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            },
+            {
+              "position": 8,
+              "text": "e",
+              "size": 10,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Arial",
+              "bold": 0
+            }
+          ],
+          "pdfHash": "4ea7908a268e764ff379dcdaab3ed83e28457ad49082bf48ddf4472a36860338",
+          "smart": true
+        }
+      ]
+    },
+    {
+      "name": "section-runs-calibri",
+      "fixture": "tests/fixtures/word-boundary-delete/font-section-runs-calibri.docx",
+      "sourceHash": "6f97518685011d27a21836bd7e54792eb6e33dc052c14ddebb1febbca84f6d8b",
+      "states": [
+        {
+          "sample": "section-runs-calibri",
+          "before": "Alpha.\fBeta\rFollowing paragraph.\r",
+          "sourceHash": "6f97518685011d27a21836bd7e54792eb6e33dc052c14ddebb1febbca84f6d8b",
+          "paragraphs": 2,
+          "pages": 1,
+          "reopened": "Alpha.Beta\rFollowing paragraph.\r",
+          "from": 6,
+          "redo": "Alpha.Beta\rFollowing paragraph.\r",
+          "sections": 1,
+          "name": "section-runs-calibri-smart-False",
+          "after": "Alpha.Beta\rFollowing paragraph.\r",
+          "to": 7,
+          "undo": "Alpha.\fBeta\rFollowing paragraph.\r",
+          "afterSelection": {
+            "to": 6,
+            "from": 6
+          },
+          "savedHash": "4f76edadf06e1523a77526f87ff6c7acb0994602da395d71dfb124b0c66404dd",
+          "characters": [
+            {
+              "position": 4,
+              "text": "a",
+              "size": 11,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Calibri",
+              "bold": 0
+            },
+            {
+              "position": 5,
+              "text": ".",
+              "size": 11,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Calibri",
+              "bold": 0
+            },
+            {
+              "position": 6,
+              "text": "B",
+              "size": 11,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Calibri",
+              "bold": 0
+            },
+            {
+              "position": 7,
+              "text": "e",
+              "size": 11,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Calibri",
+              "bold": 0
+            },
+            {
+              "position": 8,
+              "text": "t",
+              "size": 11,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Calibri",
+              "bold": 0
+            }
+          ],
+          "pdfHash": "ed2d7d827227a7c588ed8ca99457a75a6d8731d0018a746b9ae284b12c23a136",
+          "smart": false
+        },
+        {
+          "sample": "section-runs-calibri",
+          "before": "Alpha.\fBeta\rFollowing paragraph.\r",
+          "sourceHash": "6f97518685011d27a21836bd7e54792eb6e33dc052c14ddebb1febbca84f6d8b",
+          "paragraphs": 2,
+          "pages": 1,
+          "reopened": "Alpha. Beta\rFollowing paragraph.\r",
+          "from": 6,
+          "redo": "Alpha. Beta\rFollowing paragraph.\r",
+          "sections": 1,
+          "name": "section-runs-calibri-smart-True",
+          "after": "Alpha. Beta\rFollowing paragraph.\r",
+          "to": 7,
+          "undo": "Alpha.\fBeta\rFollowing paragraph.\r",
+          "afterSelection": {
+            "to": 6,
+            "from": 6
+          },
+          "savedHash": "5ea085c5448ef6f68d12334bc507526854ccd572a89d33a2c68a3bdde99e0834",
+          "characters": [
+            {
+              "position": 4,
+              "text": "a",
+              "size": 11,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Calibri",
+              "bold": 0
+            },
+            {
+              "position": 5,
+              "text": ".",
+              "size": 11,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Calibri",
+              "bold": 0
+            },
+            {
+              "position": 6,
+              "text": " ",
+              "size": 11,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Calibri",
+              "bold": 0
+            },
+            {
+              "position": 7,
+              "text": "B",
+              "size": 11,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Calibri",
+              "bold": 0
+            },
+            {
+              "position": 8,
+              "text": "e",
+              "size": 11,
+              "kerning": 0,
+              "subscript": 0,
+              "color": -16777216,
+              "italic": 0,
+              "superscript": 0,
+              "family": "Calibri",
+              "bold": 0
+            }
+          ],
+          "pdfHash": "dc00c882dc5b003560cf3711d277385f5acc1f0be999b4ffc9d20364c98e02bd",
+          "smart": true
+        }
+      ]
+    }
+  ],
+  "nativeReportHash": "391e8d2aab96deb88625097a1db75c52f6fe4b352af59d5b6d9409ad311d63ca",
+  "provenance": {
+    "license": "MIT",
+    "kind": "Authored synthetic run/paragraph-mark font contrasts; no font programs included",
+    "nativeOracle": ".local/word-smart-boundary-fonts/native-v1",
+    "nativeUiVerified": false
+  }
+}

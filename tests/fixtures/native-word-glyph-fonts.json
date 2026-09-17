@@ -1,0 +1,309 @@
+{
+  "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "sourceSha256": "e69ce1603ad3831e1e51cac0f7507c47fb442ead646f6c8ff411923633bcd7cb",
+  "pdfSha256": "1a750ae7599841bf4d5b39a27bc88824ec88ef4887cb61decc391df33f7f4468",
+  "gdi600": [
+    {
+      "size": 10,
+      "ascent": 74,
+      "external": 3,
+      "pixels": 83,
+      "height": 92,
+      "descent": 18,
+      "dpi": 600,
+      "internal": 9
+    },
+    {
+      "size": 15,
+      "ascent": 112,
+      "external": 4,
+      "pixels": 125,
+      "height": 139,
+      "descent": 27,
+      "dpi": 600,
+      "internal": 14
+    },
+    {
+      "size": 20,
+      "ascent": 150,
+      "external": 5,
+      "pixels": 167,
+      "height": 187,
+      "descent": 37,
+      "dpi": 600,
+      "internal": 20
+    },
+    {
+      "size": 25,
+      "ascent": 186,
+      "external": 7,
+      "pixels": 208,
+      "height": 230,
+      "descent": 44,
+      "dpi": 600,
+      "internal": 22
+    },
+    {
+      "size": 30,
+      "ascent": 224,
+      "external": 8,
+      "pixels": 250,
+      "height": 278,
+      "descent": 54,
+      "dpi": 600,
+      "internal": 28
+    },
+    {
+      "size": 35,
+      "ascent": 264,
+      "external": 10,
+      "pixels": 292,
+      "height": 326,
+      "descent": 62,
+      "dpi": 600,
+      "internal": 34
+    },
+    {
+      "size": 40,
+      "ascent": 301,
+      "external": 11,
+      "pixels": 333,
+      "height": 372,
+      "descent": 71,
+      "dpi": 600,
+      "internal": 39
+    }
+  ],
+  "savedSha256": "b5d17036dab01d31420cef145dc6d944e1664469740c8287630f89c861c94632",
+  "scriptSha256": "c465da4f9e45e79f186c44228430f61dae48bf8de0ca1bd531d4429aedb89aac",
+  "printer": "Microsoft Print to PDF",
+  "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+  "rows": [
+    {
+      "size": 10,
+      "rule": "auto",
+      "line": 240,
+      "height": 11.52001953125,
+      "ascent": 9.3599853515625,
+      "highProbePrediction": 9.216
+    },
+    {
+      "size": 10,
+      "rule": "auto",
+      "line": 360,
+      "height": 17.280029296875,
+      "ascent": 9.3599853515625,
+      "highProbePrediction": 9.216
+    },
+    {
+      "size": 15,
+      "rule": "auto",
+      "line": 240,
+      "height": 17.1600341796875,
+      "ascent": 13.9200439453125,
+      "highProbePrediction": 13.824
+    },
+    {
+      "size": 15,
+      "rule": "auto",
+      "line": 360,
+      "height": 25.9200439453125,
+      "ascent": 14.0400390625,
+      "highProbePrediction": 13.824
+    },
+    {
+      "size": 20,
+      "rule": "auto",
+      "line": 240,
+      "height": 23.0400390625,
+      "ascent": 18.5999755859375,
+      "highProbePrediction": 18.432
+    },
+    {
+      "size": 20,
+      "rule": "auto",
+      "line": 360,
+      "height": 34.4639892578125,
+      "ascent": 18.5040283203125,
+      "highProbePrediction": 18.432
+    },
+    {
+      "size": 25,
+      "rule": "auto",
+      "line": 240,
+      "height": 28.800048828125,
+      "ascent": 23.52001953125,
+      "highProbePrediction": 23.04
+    },
+    {
+      "size": 25,
+      "rule": "auto",
+      "line": 360,
+      "height": 43.0799560546875,
+      "ascent": 23.39990234375,
+      "highProbePrediction": 23.04
+    },
+    {
+      "size": 30,
+      "rule": "auto",
+      "line": 240,
+      "height": 34.43994140625,
+      "ascent": 27.9599609375,
+      "highProbePrediction": 27.648
+    },
+    {
+      "size": 30,
+      "rule": "auto",
+      "line": 360,
+      "height": 51.8399658203125,
+      "ascent": 27.9599609375,
+      "highProbePrediction": 27.648
+    },
+    {
+      "size": 35,
+      "rule": "auto",
+      "line": 240,
+      "height": 40.199951171875,
+      "ascent": 32.760009765625,
+      "highProbePrediction": 32.256
+    },
+    {
+      "size": 35,
+      "rule": "auto",
+      "line": 360,
+      "height": 60.3599853515625,
+      "ascent": 32.760009765625,
+      "highProbePrediction": 32.256
+    },
+    {
+      "size": 40,
+      "rule": "auto",
+      "line": 240,
+      "height": 45.98394775390625,
+      "ascent": 37.4339599609375,
+      "highProbePrediction": 36.864
+    },
+    {
+      "size": 40,
+      "rule": "auto",
+      "line": 360,
+      "height": 69.0,
+      "ascent": 37.44000244140625,
+      "highProbePrediction": 36.864
+    },
+    {
+      "size": 10,
+      "rule": "auto",
+      "line": 480,
+      "height": 23.03997802734375,
+      "ascent": 9.3599853515625,
+      "highProbePrediction": 9.216
+    },
+    {
+      "size": 15,
+      "rule": "auto",
+      "line": 480,
+      "height": 34.44000244140625,
+      "ascent": 13.91998291015625,
+      "highProbePrediction": 13.824
+    },
+    {
+      "size": 20,
+      "rule": "auto",
+      "line": 480,
+      "height": 46.08001708984375,
+      "ascent": 18.47998046875,
+      "highProbePrediction": 18.432
+    },
+    {
+      "size": 25,
+      "rule": "auto",
+      "line": 480,
+      "height": 57.47998046875,
+      "ascent": 23.39996337890625,
+      "highProbePrediction": 23.04
+    },
+    {
+      "size": 30,
+      "rule": "auto",
+      "line": 480,
+      "height": 69.0,
+      "ascent": 28.08001708984375,
+      "highProbePrediction": 27.648
+    },
+    {
+      "size": 35,
+      "rule": "auto",
+      "line": 480,
+      "height": 80.54400634765625,
+      "ascent": 32.904052734375,
+      "highProbePrediction": 32.256
+    },
+    {
+      "size": 40,
+      "rule": "auto",
+      "line": 480,
+      "height": 91.91998291015625,
+      "ascent": 37.5599365234375,
+      "highProbePrediction": 36.864
+    },
+    {
+      "size": 10,
+      "rule": "atLeast",
+      "line": 1000,
+      "height": 50.03997802734375,
+      "ascent": 47.879974365234375,
+      "highProbePrediction": 9.216
+    },
+    {
+      "size": 15,
+      "rule": "atLeast",
+      "line": 1000,
+      "height": 50.040008544921875,
+      "ascent": 46.79998779296875,
+      "highProbePrediction": 13.824
+    },
+    {
+      "size": 20,
+      "rule": "atLeast",
+      "line": 1000,
+      "height": 49.920013427734375,
+      "ascent": 45.480010986328125,
+      "highProbePrediction": 18.432
+    },
+    {
+      "size": 25,
+      "rule": "atLeast",
+      "line": 1000,
+      "height": 50.063995361328125,
+      "ascent": 44.78399658203125,
+      "highProbePrediction": 23.04
+    },
+    {
+      "size": 30,
+      "rule": "atLeast",
+      "line": 1000,
+      "height": 50.040008544921875,
+      "ascent": 43.55999755859375,
+      "highProbePrediction": 27.648
+    },
+    {
+      "size": 35,
+      "rule": "atLeast",
+      "line": 1000,
+      "height": 49.91998291015625,
+      "ascent": 42.47998046875,
+      "highProbePrediction": 32.256
+    },
+    {
+      "size": 40,
+      "rule": "atLeast",
+      "line": 1000,
+      "height": 50.040008544921875,
+      "ascent": 41.52000427246094,
+      "highProbePrediction": 36.864
+    }
+  ],
+  "inspectorSha256": "ee0aa735df20a4cf9eefe0a7c7bb25bf84945dac34f24681e8ba58c8ff181400",
+  "normalRatio": 1.14990234375
+}

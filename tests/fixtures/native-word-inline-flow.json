@@ -1,0 +1,2511 @@
+{
+  "scope": "Independent native page/column break and terminal-caret positions; core author metadata sanitized. Captured before implementation.",
+  "cases": {
+    "page-midline": {
+      "sourceSha256": "51e0d083bb9ae76a2c94285147d46514310a202a86bd41029f6a897bb1db1d44",
+      "native": {
+        "scriptSha256": "ceb570f88dc5a80d29f3d3c680ade4f8d3b0c85075001afa305b3c52e4b9b475",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "page-midline",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "b",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "o",
+                "x": 43.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 49.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 52.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\f",
+                "x": 58.5
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "a",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "f",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "t",
+                "x": 38.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "e",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "r",
+                "x": 46.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 2,
+              "x": 49.900001525878906
+            },
+            "text": "before\fafter\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "ab53460a1a749fa7cadde11097f6de09da292f04ae05fec520b4bce336aedf50",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "229ce26cb85c3a502354134c54ae6a308441bbfd2f9773403348aae3c6fbc5e8",
+        "savedSha256": "5f75ff89bed71da8f7ccac2ff484838a19ecebe6f448924ef00ea9fe0915467c"
+      },
+      "configuration": {
+        "name": "page-midline",
+        "columns": 1,
+        "pieces": [
+          [
+            "text",
+            "before"
+          ],
+          [
+            "page",
+            ""
+          ],
+          [
+            "text",
+            "after"
+          ]
+        ],
+        "authoredSha256": "229ce26cb85c3a502354134c54ae6a308441bbfd2f9773403348aae3c6fbc5e8"
+      }
+    },
+    "column-midline": {
+      "sourceSha256": "c758e19cfbc2bcc97dc493f347fd2d8d7ab560edbcefc551c974dd412b2044f1",
+      "native": {
+        "scriptSha256": "ceb570f88dc5a80d29f3d3c680ade4f8d3b0c85075001afa305b3c52e4b9b475",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "column-midline",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "b",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "o",
+                "x": 43.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 49.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 52.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\u000e",
+                "x": 58.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "a",
+                "x": 159
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 164.64999389648438
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "t",
+                "x": 167.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 170.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 175.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 1,
+              "x": 178.89999389648438
+            },
+            "text": "before\u000eafter\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "2773b6a2e89c3032b57847f97007655c9eee190f7e56486996c4a15a373108a3",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "b94998055652c714ad850b870972d230b9000e187863921f31da01925a557c45",
+        "savedSha256": "83ac70fda107b37a8880df0e38fc936cd8a0220fa2a2902545cc0d23b20a0107"
+      },
+      "configuration": {
+        "name": "column-midline",
+        "columns": 2,
+        "pieces": [
+          [
+            "text",
+            "before"
+          ],
+          [
+            "column",
+            ""
+          ],
+          [
+            "text",
+            "after"
+          ]
+        ],
+        "authoredSha256": "b94998055652c714ad850b870972d230b9000e187863921f31da01925a557c45"
+      }
+    },
+    "column-single": {
+      "sourceSha256": "c949fbb1caf99d27cc3b906a2cb1e85515957ccab618e63124ddad0684966821",
+      "native": {
+        "scriptSha256": "ceb570f88dc5a80d29f3d3c680ade4f8d3b0c85075001afa305b3c52e4b9b475",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "column-single",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "b",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "o",
+                "x": 43.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 49.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 52.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\u000e",
+                "x": 58.5
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "a",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "f",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "t",
+                "x": 38.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "e",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "r",
+                "x": 46.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 2,
+              "x": 49.900001525878906
+            },
+            "text": "before\u000eafter\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "11473bff124df8f1494fbb1a88bbadb6651475c4c53da0f33075cfb79feeb10e",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "39137e35229426e402baf8c37def4fce70683972fd84a3ca9a614bbc33b5f46c",
+        "savedSha256": "df2512b697f3dc68739ece63cc5e4e58bf76fed04603c3fbeceae6b5176dbc8f"
+      },
+      "configuration": {
+        "name": "column-single",
+        "columns": 1,
+        "pieces": [
+          [
+            "text",
+            "before"
+          ],
+          [
+            "column",
+            ""
+          ],
+          [
+            "text",
+            "after"
+          ]
+        ],
+        "authoredSha256": "39137e35229426e402baf8c37def4fce70683972fd84a3ca9a614bbc33b5f46c"
+      }
+    },
+    "page-columns": {
+      "sourceSha256": "5ac8dee5d9af19e1d95b8616279475974324874229d8044fe3e464b5cd9d4234",
+      "native": {
+        "scriptSha256": "ceb570f88dc5a80d29f3d3c680ade4f8d3b0c85075001afa305b3c52e4b9b475",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "page-columns",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "b",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "o",
+                "x": 43.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 49.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 52.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\f",
+                "x": 58.5
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "a",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "f",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "t",
+                "x": 38.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "e",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "r",
+                "x": 46.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 2,
+              "x": 49.900001525878906
+            },
+            "text": "before\fafter\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "6130f74c6c14c8c98bb08161a1da0f60f63f4c4b254be8a417164c3ea81fc5af",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "639ab0d423a7117761f02576cb1f5f5f4861d0bf8cf131b4dbbc102854be7d5b",
+        "savedSha256": "42c67a19ecb468665af4d399f9806e2fdb7c77f383c52daff21e0581e06d7f2e"
+      },
+      "configuration": {
+        "name": "page-columns",
+        "columns": 2,
+        "pieces": [
+          [
+            "text",
+            "before"
+          ],
+          [
+            "page",
+            ""
+          ],
+          [
+            "text",
+            "after"
+          ]
+        ],
+        "authoredSha256": "639ab0d423a7117761f02576cb1f5f5f4861d0bf8cf131b4dbbc102854be7d5b"
+      }
+    },
+    "leading-column": {
+      "sourceSha256": "b177a74848ebf16041e7f332f0ad3525dd9df071170f080afade097950421468",
+      "native": {
+        "scriptSha256": "ceb570f88dc5a80d29f3d3c680ade4f8d3b0c85075001afa305b3c52e4b9b475",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "leading-column",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\u000e",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "a",
+                "x": 159
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 164.64999389648438
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "t",
+                "x": 167.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 170.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 175.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 1,
+              "x": 178.89999389648438
+            },
+            "text": "\u000eafter\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "1f3eaaad131e9d42139379e8549bbaf427c8a4113796588994383873620a570c",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "822fa9120d8fcecff42250c6439079aafee273a0706b2b4151b22ba31b8af11d",
+        "savedSha256": "cc9c2d4476fe86aa6fe582ce9a1347584d94d74454f2bfbbd8389cbcd126b150"
+      },
+      "configuration": {
+        "name": "leading-column",
+        "columns": 2,
+        "pieces": [
+          [
+            "column",
+            ""
+          ],
+          [
+            "text",
+            "after"
+          ]
+        ],
+        "authoredSha256": "822fa9120d8fcecff42250c6439079aafee273a0706b2b4151b22ba31b8af11d"
+      }
+    },
+    "terminal-column": {
+      "sourceSha256": "69c6d5464cd445897f264c5957cc250b3d3040b6108cba0cb0c628382d1ca9ef",
+      "native": {
+        "scriptSha256": "ceb570f88dc5a80d29f3d3c680ade4f8d3b0c85075001afa305b3c52e4b9b475",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "terminal-column",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "b",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "o",
+                "x": 43.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 49.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 52.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\u000e",
+                "x": 58.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 1,
+              "x": 159
+            },
+            "text": "before\u000e\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "3933011e58e900230fbade86407ff63140da33a24917e2bf5e7e35fb5eb1e4c8",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "683e5b86c6cfff7951f3c5705a13a4d226ce09be923f1e769e064bea2454b1d4",
+        "savedSha256": "7ebfbbff7d45cf80c6594ec44157129b85d5d932039b9ea2aa883320699e75e1"
+      },
+      "configuration": {
+        "name": "terminal-column",
+        "columns": 2,
+        "pieces": [
+          [
+            "text",
+            "before"
+          ],
+          [
+            "column",
+            ""
+          ]
+        ],
+        "authoredSha256": "683e5b86c6cfff7951f3c5705a13a4d226ce09be923f1e769e064bea2454b1d4"
+      }
+    },
+    "consecutive-column": {
+      "sourceSha256": "e17b5058d36a634f69fde8ae15e5bc7717967dbdb5e4c81fcd201bebac3377ce",
+      "native": {
+        "scriptSha256": "ceb570f88dc5a80d29f3d3c680ade4f8d3b0c85075001afa305b3c52e4b9b475",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "consecutive-column",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "b",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "o",
+                "x": 43.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 49.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 52.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\u000e",
+                "x": 58.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\u000e",
+                "x": 159
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "a",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "f",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "t",
+                "x": 38.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "e",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "r",
+                "x": 46.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 2,
+              "x": 49.900001525878906
+            },
+            "text": "before\u000e\u000eafter\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "8a4615550f3575e99f0830d39c55c31f31a5188001562bb076b6e3fabb9b3dfc",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "1559d190c3d87459726b4e4d7d76b9090539a460d1870c0c6e5afd0d403fec2e",
+        "savedSha256": "4305fcf7ae1de36a184adea9b1181bd4f7b0484074197ff39a36f676c34a5cd8"
+      },
+      "configuration": {
+        "name": "consecutive-column",
+        "columns": 2,
+        "pieces": [
+          [
+            "text",
+            "before"
+          ],
+          [
+            "column",
+            ""
+          ],
+          [
+            "column",
+            ""
+          ],
+          [
+            "text",
+            "after"
+          ]
+        ],
+        "authoredSha256": "1559d190c3d87459726b4e4d7d76b9090539a460d1870c0c6e5afd0d403fec2e"
+      }
+    },
+    "terminal-page": {
+      "sourceSha256": "35b7d118a8d3c872304b0cf3c6ea0501920025327ae61a9cf599fc14bca7db17",
+      "native": {
+        "scriptSha256": "ceb570f88dc5a80d29f3d3c680ade4f8d3b0c85075001afa305b3c52e4b9b475",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "terminal-page",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "b",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "o",
+                "x": 43.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 49.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 52.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\f",
+                "x": 58.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 2,
+              "x": 30
+            },
+            "text": "before\f\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "bd317309109db8069c6bfb7e9dcb47b94eab82978fd0f78c67b4a585956dd450",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "3099a2d35a577dea4a18ca5999fe6e8fec03c9cd0e33a8c78cfa6f230385b198",
+        "savedSha256": "9642cb69de0d410893ce48358cc0370b199ec541d12a6b8390dc8474c1ad9107"
+      },
+      "configuration": {
+        "name": "terminal-page",
+        "columns": 1,
+        "pieces": [
+          [
+            "text",
+            "before"
+          ],
+          [
+            "page",
+            ""
+          ]
+        ],
+        "authoredSha256": "3099a2d35a577dea4a18ca5999fe6e8fec03c9cd0e33a8c78cfa6f230385b198"
+      }
+    },
+    "page-midline-auto": {
+      "sourceSha256": "57fb4976d3d26d4f8c43c34acb32960576285b9165cad52302932ca7a981064f",
+      "native": {
+        "scriptSha256": "11ae477d7848702b2827ecf433001b33969f5a0eeeea46642a89d94f86544b43",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "page-midline-auto",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "b",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "o",
+                "x": 43.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 49.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 52.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\f",
+                "x": 58.5
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "a",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "f",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "t",
+                "x": 38.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "e",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "r",
+                "x": 46.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 2,
+              "x": 49.900001525878906
+            },
+            "text": "before\fafter\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "3eebcf939a4a75e587744b781f1ddfbf3e7d306deccb73db5db6be256817ccd2",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "566adc0367f7fc74bb938806c4d96cac21d789edb5474c487732db0660bd7e9a",
+        "savedSha256": "211dc03a5826c10d262ff3c36caa3dbcb5a6a8731065152dd9a9747cab7bdb31"
+      },
+      "configuration": {
+        "name": "page-midline-auto",
+        "columns": 1,
+        "pieces": [
+          [
+            "text",
+            "before"
+          ],
+          [
+            "page",
+            ""
+          ],
+          [
+            "text",
+            "after"
+          ]
+        ],
+        "authoredSha256": "566adc0367f7fc74bb938806c4d96cac21d789edb5474c487732db0660bd7e9a",
+        "spacing": "auto"
+      }
+    },
+    "page-midline-atLeast": {
+      "sourceSha256": "5a4b0d03dfa768c196da8d2ee42f4d1c1d03710ac54d49c6151b077c9d53c71d",
+      "native": {
+        "scriptSha256": "11ae477d7848702b2827ecf433001b33969f5a0eeeea46642a89d94f86544b43",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "page-midline-atLeast",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "b",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "o",
+                "x": 43.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 49.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 52.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\f",
+                "x": 58.5
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "a",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "f",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "t",
+                "x": 38.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "e",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "r",
+                "x": 46.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 2,
+              "x": 49.900001525878906
+            },
+            "text": "before\fafter\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "1fe1d3d4db5d6751503a68ad778f277459ad1b715caabf4ec3e52b8d770dfa06",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "2eae670b1c4116e4ae3e50663ae2312228753e74f0156da1e3477ce21207195c",
+        "savedSha256": "eaca77c1bd3ebd1e819b53affd5c5bee2e26ab5aec0e5117cc2b6890246377a0"
+      },
+      "configuration": {
+        "name": "page-midline-atLeast",
+        "columns": 1,
+        "pieces": [
+          [
+            "text",
+            "before"
+          ],
+          [
+            "page",
+            ""
+          ],
+          [
+            "text",
+            "after"
+          ]
+        ],
+        "authoredSha256": "2eae670b1c4116e4ae3e50663ae2312228753e74f0156da1e3477ce21207195c",
+        "spacing": "atLeast"
+      }
+    },
+    "column-midline-auto": {
+      "sourceSha256": "e9352f73955ee0cddf921e4492223b852d159ce745bfbd3740914030d0c70913",
+      "native": {
+        "scriptSha256": "11ae477d7848702b2827ecf433001b33969f5a0eeeea46642a89d94f86544b43",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "column-midline-auto",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "b",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "o",
+                "x": 43.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 49.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 52.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\u000e",
+                "x": 58.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "a",
+                "x": 159
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 164.64999389648438
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "t",
+                "x": 167.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 170.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 175.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 1,
+              "x": 178.89999389648438
+            },
+            "text": "before\u000eafter\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "5b58339d1b79665190c6e70cfdee42ff0290955d8a927b0b1eecb287aaa5ee27",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "b0bfe47c974e975a130f52645c4d877435f47ff90ec69a4f91e1e5369781c8aa",
+        "savedSha256": "ea3bba6103bc8a397f53885a2aa740ae6043ee132c76179e7618cf957106a3a8"
+      },
+      "configuration": {
+        "name": "column-midline-auto",
+        "columns": 2,
+        "pieces": [
+          [
+            "text",
+            "before"
+          ],
+          [
+            "column",
+            ""
+          ],
+          [
+            "text",
+            "after"
+          ]
+        ],
+        "authoredSha256": "b0bfe47c974e975a130f52645c4d877435f47ff90ec69a4f91e1e5369781c8aa",
+        "spacing": "auto"
+      }
+    },
+    "column-midline-atLeast": {
+      "sourceSha256": "4e4ddbbd364ac4af0810c104f23fda39180785e4b61b566b112e8497127ee248",
+      "native": {
+        "scriptSha256": "11ae477d7848702b2827ecf433001b33969f5a0eeeea46642a89d94f86544b43",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "column-midline-atLeast",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "b",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "o",
+                "x": 43.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 49.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 52.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\u000e",
+                "x": 58.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "a",
+                "x": 159
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 164.64999389648438
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "t",
+                "x": 167.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 170.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 175.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 1,
+              "x": 178.89999389648438
+            },
+            "text": "before\u000eafter\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "831d14c27e595ccc9f78ecaf4b6ee756bb4abf4395e8d2e9829cc4548cb7e243",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "d91dcdcac67b2760789210ad55d30536ac3309699c760b4e3ea5c0c1e9d83a84",
+        "savedSha256": "3168226708cdaa84860db9d51d68ad9f0afa57d010063f498d833f37ccd0853d"
+      },
+      "configuration": {
+        "name": "column-midline-atLeast",
+        "columns": 2,
+        "pieces": [
+          [
+            "text",
+            "before"
+          ],
+          [
+            "column",
+            ""
+          ],
+          [
+            "text",
+            "after"
+          ]
+        ],
+        "authoredSha256": "d91dcdcac67b2760789210ad55d30536ac3309699c760b4e3ea5c0c1e9d83a84",
+        "spacing": "atLeast"
+      }
+    },
+    "column-single-auto": {
+      "sourceSha256": "7190e5a9246f9c6c95626f730e827eefccbd873b53ddb1238076292e191a905f",
+      "native": {
+        "scriptSha256": "11ae477d7848702b2827ecf433001b33969f5a0eeeea46642a89d94f86544b43",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "column-single-auto",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "b",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "o",
+                "x": 43.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 49.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 52.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\u000e",
+                "x": 58.5
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "a",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "f",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "t",
+                "x": 38.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "e",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "r",
+                "x": 46.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 2,
+              "x": 49.900001525878906
+            },
+            "text": "before\u000eafter\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "c01ecd36905d5910876392d1f5f96172dea5f137e224ef08df93441dd00b36ac",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "eda428a5e987910b30f2c0f33da468dcf3661c60ae6a9e66322796a44a6c0aaf",
+        "savedSha256": "6415bd1cd887f440ac0c6275e1f5fd9f11ab3cf8c8c2edc89a7d2283b465c992"
+      },
+      "configuration": {
+        "name": "column-single-auto",
+        "columns": 1,
+        "pieces": [
+          [
+            "text",
+            "before"
+          ],
+          [
+            "column",
+            ""
+          ],
+          [
+            "text",
+            "after"
+          ]
+        ],
+        "authoredSha256": "eda428a5e987910b30f2c0f33da468dcf3661c60ae6a9e66322796a44a6c0aaf",
+        "spacing": "auto"
+      }
+    },
+    "column-single-atLeast": {
+      "sourceSha256": "9c28b0b918cc9a8710db63dbc4504e6a443b5f93274b2f130af16da3c5ede199",
+      "native": {
+        "scriptSha256": "11ae477d7848702b2827ecf433001b33969f5a0eeeea46642a89d94f86544b43",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "column-single-atLeast",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "b",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "o",
+                "x": 43.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 49.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 52.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\u000e",
+                "x": 58.5
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "a",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "f",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "t",
+                "x": 38.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "e",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "r",
+                "x": 46.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 2,
+              "x": 49.900001525878906
+            },
+            "text": "before\u000eafter\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "2f059568b1a2cf86e7e22944a326ae6e128ea08381bd9df9bbb3bfca88d1d728",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "c4f7537e85fa579739ed1cbb495ced24406942a95ac624a8d610500d32426b8c",
+        "savedSha256": "67b5b3c55a73d5cdb329e66f1ace55adbb6b812420e712c5df9c94ed37bdf457"
+      },
+      "configuration": {
+        "name": "column-single-atLeast",
+        "columns": 1,
+        "pieces": [
+          [
+            "text",
+            "before"
+          ],
+          [
+            "column",
+            ""
+          ],
+          [
+            "text",
+            "after"
+          ]
+        ],
+        "authoredSha256": "c4f7537e85fa579739ed1cbb495ced24406942a95ac624a8d610500d32426b8c",
+        "spacing": "atLeast"
+      }
+    },
+    "page-columns-auto": {
+      "sourceSha256": "8a016c9059ae6cc3a8f06cf788770303e7104fabacdbf23ffb4c76aeef606659",
+      "native": {
+        "scriptSha256": "11ae477d7848702b2827ecf433001b33969f5a0eeeea46642a89d94f86544b43",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "page-columns-auto",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "b",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "o",
+                "x": 43.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 49.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 52.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\f",
+                "x": 58.5
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "a",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "f",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "t",
+                "x": 38.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "e",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "r",
+                "x": 46.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 2,
+              "x": 49.900001525878906
+            },
+            "text": "before\fafter\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "fb654d6ef51b7dc7a1579a709a4eb2976e7f399390d615866bf655fbad278d42",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "0ea6d7ffcc8f9ce30fb3a92b7a1629e1c7e102105f6f5b4083896d648417ea2e",
+        "savedSha256": "487f75377214c289a970615f1c58f88c71aab718b406de0fb7516114cb393b05"
+      },
+      "configuration": {
+        "name": "page-columns-auto",
+        "columns": 2,
+        "pieces": [
+          [
+            "text",
+            "before"
+          ],
+          [
+            "page",
+            ""
+          ],
+          [
+            "text",
+            "after"
+          ]
+        ],
+        "authoredSha256": "0ea6d7ffcc8f9ce30fb3a92b7a1629e1c7e102105f6f5b4083896d648417ea2e",
+        "spacing": "auto"
+      }
+    },
+    "page-columns-atLeast": {
+      "sourceSha256": "eb4b0ed685d63eec9240797042b5908c328b797087cd49991064708667275e26",
+      "native": {
+        "scriptSha256": "11ae477d7848702b2827ecf433001b33969f5a0eeeea46642a89d94f86544b43",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "page-columns-atLeast",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "b",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "o",
+                "x": 43.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 49.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 52.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\f",
+                "x": 58.5
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "a",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "f",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "t",
+                "x": 38.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "e",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "r",
+                "x": 46.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 2,
+              "x": 49.900001525878906
+            },
+            "text": "before\fafter\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "f80300e4cb2eefecc0f13d80df8edea4243e32f26373ce4596d5949aaf8c44bb",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "f91c723aafda7acc84ffef1b32651eee6a2866be83cc01997cb52015b74a5224",
+        "savedSha256": "910bd4d7b2137663ae3a509510ffb4664e84460e094db8c1c15d1a435e370558"
+      },
+      "configuration": {
+        "name": "page-columns-atLeast",
+        "columns": 2,
+        "pieces": [
+          [
+            "text",
+            "before"
+          ],
+          [
+            "page",
+            ""
+          ],
+          [
+            "text",
+            "after"
+          ]
+        ],
+        "authoredSha256": "f91c723aafda7acc84ffef1b32651eee6a2866be83cc01997cb52015b74a5224",
+        "spacing": "atLeast"
+      }
+    },
+    "leading-column-auto": {
+      "sourceSha256": "dceb66a38f7644bcf3c6517e4d6c44ff0dd6af89baabcdf12d5d8cddc832fcdf",
+      "native": {
+        "scriptSha256": "11ae477d7848702b2827ecf433001b33969f5a0eeeea46642a89d94f86544b43",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "leading-column-auto",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\u000e",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "a",
+                "x": 159
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 164.64999389648438
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "t",
+                "x": 167.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 170.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 175.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 1,
+              "x": 178.89999389648438
+            },
+            "text": "\u000eafter\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "ed0b85361d6dd02778293ee50b3499a987993586858ee36a86056636af7a7954",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "cb8d7238aae9bf4ce1457e1c35eac2fc2eb19a2c323fda1838e763cf4598ba96",
+        "savedSha256": "45c0bdba73d8298554883ae0eccbbcfd8c3c2cc1ec8ed986faafc99af8c493e0"
+      },
+      "configuration": {
+        "name": "leading-column-auto",
+        "columns": 2,
+        "pieces": [
+          [
+            "column",
+            ""
+          ],
+          [
+            "text",
+            "after"
+          ]
+        ],
+        "authoredSha256": "cb8d7238aae9bf4ce1457e1c35eac2fc2eb19a2c323fda1838e763cf4598ba96",
+        "spacing": "auto"
+      }
+    },
+    "leading-column-atLeast": {
+      "sourceSha256": "236661a8baf583fad556e83a07069ac4a8221e97b02f6e56b6850e85ae211e92",
+      "native": {
+        "scriptSha256": "11ae477d7848702b2827ecf433001b33969f5a0eeeea46642a89d94f86544b43",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "leading-column-atLeast",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\u000e",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "a",
+                "x": 159
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 164.64999389648438
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "t",
+                "x": 167.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 170.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 175.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 1,
+              "x": 178.89999389648438
+            },
+            "text": "\u000eafter\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "a622852ed85fd17e68fb3d0c760516427b6f15fc98036e0ce32c6412dbe0b871",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "90a472ca5d0af7188711efff68a4f18836dda8979a7bbc9fedb5cf8a554404bf",
+        "savedSha256": "964ed2ce811306b9cbb90758e15f4ed42a9a2f666e30cf367eb6e91cb2de3e36"
+      },
+      "configuration": {
+        "name": "leading-column-atLeast",
+        "columns": 2,
+        "pieces": [
+          [
+            "column",
+            ""
+          ],
+          [
+            "text",
+            "after"
+          ]
+        ],
+        "authoredSha256": "90a472ca5d0af7188711efff68a4f18836dda8979a7bbc9fedb5cf8a554404bf",
+        "spacing": "atLeast"
+      }
+    },
+    "terminal-column-auto": {
+      "sourceSha256": "997b49f6fd6676e73d8321b6bee2ce6c4d6d7374e0aabbd635bbd82fc78df1eb",
+      "native": {
+        "scriptSha256": "11ae477d7848702b2827ecf433001b33969f5a0eeeea46642a89d94f86544b43",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "terminal-column-auto",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "b",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "o",
+                "x": 43.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 49.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 52.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\u000e",
+                "x": 58.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 1,
+              "x": 159
+            },
+            "text": "before\u000e\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "8352acd5447b89993d27f30ed84ce01ba4b265c9fa715d57fe24726e6e34374b",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "073435aa7b5533d465dc301d532a9f0761d9de459eb6ce14bc80ee0254aa2830",
+        "savedSha256": "2f831f4e041291c4e9de0c11733d89e94978487735abc6f1391087022e63fdcd"
+      },
+      "configuration": {
+        "name": "terminal-column-auto",
+        "columns": 2,
+        "pieces": [
+          [
+            "text",
+            "before"
+          ],
+          [
+            "column",
+            ""
+          ]
+        ],
+        "authoredSha256": "073435aa7b5533d465dc301d532a9f0761d9de459eb6ce14bc80ee0254aa2830",
+        "spacing": "auto"
+      }
+    },
+    "terminal-column-atLeast": {
+      "sourceSha256": "0c86d01220654a177821712958c90e65a47a3516f503ad0af5f12721b067295c",
+      "native": {
+        "scriptSha256": "11ae477d7848702b2827ecf433001b33969f5a0eeeea46642a89d94f86544b43",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "terminal-column-atLeast",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "b",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "o",
+                "x": 43.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 49.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 52.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\u000e",
+                "x": 58.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 1,
+              "x": 159
+            },
+            "text": "before\u000e\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "8d0b019928745a290019f6d93885de015e487c036f4439c1189dbb436be7204d",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "099e258a448be43efa91e6c8cca0c8c1bce62e410512b9c1f34a468a7089d7ed",
+        "savedSha256": "dc0504e220240a96643183d155faee8fafe7feafddd163361abdff618aaf49a2"
+      },
+      "configuration": {
+        "name": "terminal-column-atLeast",
+        "columns": 2,
+        "pieces": [
+          [
+            "text",
+            "before"
+          ],
+          [
+            "column",
+            ""
+          ]
+        ],
+        "authoredSha256": "099e258a448be43efa91e6c8cca0c8c1bce62e410512b9c1f34a468a7089d7ed",
+        "spacing": "atLeast"
+      }
+    },
+    "consecutive-column-auto": {
+      "sourceSha256": "39971059992c6070f26ddf56b9182ebc9ce7dbad81389bd933067c15f1bcdf74",
+      "native": {
+        "scriptSha256": "11ae477d7848702b2827ecf433001b33969f5a0eeeea46642a89d94f86544b43",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "consecutive-column-auto",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "b",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "o",
+                "x": 43.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 49.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 52.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\u000e",
+                "x": 58.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\u000e",
+                "x": 159
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "a",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "f",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "t",
+                "x": 38.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "e",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "r",
+                "x": 46.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 2,
+              "x": 49.900001525878906
+            },
+            "text": "before\u000e\u000eafter\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "682473101f4bf688ea1dced6118420409f6494d9e78c41d20fe055c259ae5dc5",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "2d2a27947049a14bcd6b282e67145b4b2bef59a7eaf4a8db249c843107c72103",
+        "savedSha256": "c05cadcf8d3e1e542b61ef64b755d61bd3134f2c0821f60877d734018d502247"
+      },
+      "configuration": {
+        "name": "consecutive-column-auto",
+        "columns": 2,
+        "pieces": [
+          [
+            "text",
+            "before"
+          ],
+          [
+            "column",
+            ""
+          ],
+          [
+            "column",
+            ""
+          ],
+          [
+            "text",
+            "after"
+          ]
+        ],
+        "authoredSha256": "2d2a27947049a14bcd6b282e67145b4b2bef59a7eaf4a8db249c843107c72103",
+        "spacing": "auto"
+      }
+    },
+    "consecutive-column-atLeast": {
+      "sourceSha256": "f0f325e247cd02fda114a36a5bae0397868f7839d2104bea31185e5546846c8e",
+      "native": {
+        "scriptSha256": "11ae477d7848702b2827ecf433001b33969f5a0eeeea46642a89d94f86544b43",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "consecutive-column-atLeast",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "b",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "o",
+                "x": 43.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 49.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 52.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\u000e",
+                "x": 58.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\u000e",
+                "x": 159
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "a",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "f",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "t",
+                "x": 38.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "e",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 2,
+                "text": "r",
+                "x": 46.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 2,
+              "x": 49.900001525878906
+            },
+            "text": "before\u000e\u000eafter\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "924745efa507bdf9d8dc5dfb87d62fafdce6e76c7ae92e9025a7e2a4e08089f1",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "4914b3230288967c059a01703ffa7ac8480638c2f8231600bc4f9483aec9f99a",
+        "savedSha256": "ba248fef09c335b05b66d534a4347860da566808d9f688a0078839bb50b64a6f"
+      },
+      "configuration": {
+        "name": "consecutive-column-atLeast",
+        "columns": 2,
+        "pieces": [
+          [
+            "text",
+            "before"
+          ],
+          [
+            "column",
+            ""
+          ],
+          [
+            "column",
+            ""
+          ],
+          [
+            "text",
+            "after"
+          ]
+        ],
+        "authoredSha256": "4914b3230288967c059a01703ffa7ac8480638c2f8231600bc4f9483aec9f99a",
+        "spacing": "atLeast"
+      }
+    },
+    "terminal-page-auto": {
+      "sourceSha256": "73c237b817e0fe42ce6fc81b5cf3024514575be33e66cf6d01ba3c5ee0ebb432",
+      "native": {
+        "scriptSha256": "11ae477d7848702b2827ecf433001b33969f5a0eeeea46642a89d94f86544b43",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "terminal-page-auto",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "b",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "o",
+                "x": 43.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 49.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 52.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\f",
+                "x": 58.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 2,
+              "x": 30
+            },
+            "text": "before\f\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "455d0245a48f81e0922a2d2d7fcbc310062429b651e5fb16b184467dc3f75615",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "6f63f21203280fabeb5adfb10699ff29bd6f0e1772e71d43b96c8e052101d4fb",
+        "savedSha256": "4fc17421217f9701b137875b4970d21a3840784c8d46bb9fe1752b8ac11b928c"
+      },
+      "configuration": {
+        "name": "terminal-page-auto",
+        "columns": 1,
+        "pieces": [
+          [
+            "text",
+            "before"
+          ],
+          [
+            "page",
+            ""
+          ]
+        ],
+        "authoredSha256": "6f63f21203280fabeb5adfb10699ff29bd6f0e1772e71d43b96c8e052101d4fb",
+        "spacing": "auto"
+      }
+    },
+    "terminal-page-atLeast": {
+      "sourceSha256": "807b514d7a976e5afa5377640ff342513cb20e85caf0d5f46b8e17b8bcaf4a87",
+      "native": {
+        "scriptSha256": "11ae477d7848702b2827ecf433001b33969f5a0eeeea46642a89d94f86544b43",
+        "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+        "case": "terminal-page-atLeast",
+        "paragraphs": [
+          {
+            "characters": [
+              {
+                "y": 30,
+                "page": 1,
+                "text": "b",
+                "x": 30
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 35.650001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "f",
+                "x": 41.25
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "o",
+                "x": 43.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "r",
+                "x": 49.5
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "e",
+                "x": 52.900001525878906
+              },
+              {
+                "y": 30,
+                "page": 1,
+                "text": "\f",
+                "x": 58.5
+              }
+            ],
+            "caret": {
+              "y": 30,
+              "page": 2,
+              "x": 30
+            },
+            "text": "before\f\r"
+          }
+        ],
+        "printer": "Microsoft Print to PDF",
+        "pdfSha256": "9ae4a01bf4ef8b11465b489e19e6d01aa2d60ce8b7ad6e76a9846fc6a5e0094f",
+        "fontSha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+        "sourceSha256": "25b1ea9664110df76385fb2ae551e72b389fb26a7247f1263cdff7007471c05b",
+        "savedSha256": "6ab346c44a920f9d622f23ea0b079048d245f8bee0c67490df126c6b9b6410f8"
+      },
+      "configuration": {
+        "name": "terminal-page-atLeast",
+        "columns": 1,
+        "pieces": [
+          [
+            "text",
+            "before"
+          ],
+          [
+            "page",
+            ""
+          ]
+        ],
+        "authoredSha256": "25b1ea9664110df76385fb2ae551e72b389fb26a7247f1263cdff7007471c05b",
+        "spacing": "atLeast"
+      }
+    }
+  }
+}

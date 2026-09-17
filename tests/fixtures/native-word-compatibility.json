@@ -1,0 +1,424 @@
+{
+  "rows": [
+    {
+      "mode": 12,
+      "inputHash": "15cf436c892613019786c62e20291dded3f0f568d60ac4089e97da5b241abd15",
+      "wpJustification": false,
+      "savedHash": "8ea7a8e082b86eb13128c8fb1efe0885fd218826543c009274101758814f29a6",
+      "name": "absent",
+      "pdfHash": "822dc58e17c60f4b0b65717c455995ea844b5b4dd8bce4c09c085678b9df08fc",
+      "opened": true,
+      "file": "word-compatibility-absent.docx",
+      "source": {
+        "name": "absent",
+        "modes": [],
+        "sha256": "15cf436c892613019786c62e20291dded3f0f568d60ac4089e97da5b241abd15"
+      }
+    },
+    {
+      "mode": 11,
+      "inputHash": "aaf4bdf06109b580d5033e477659b09b7b8b935e0863169dcd189dedf6f1ed87",
+      "wpJustification": false,
+      "savedHash": "655bc65ffecd49217e5fb426e7dd0783a6465fb51010e91daee92dbe0e132139",
+      "name": "mode-11",
+      "pdfHash": "ee4239985ed14c7090aa389c66523da6c31b561eb1b1e6623de105f3264f2677",
+      "opened": true,
+      "file": "word-compatibility-mode-11.docx",
+      "source": {
+        "name": "mode-11",
+        "modes": [
+          "11"
+        ],
+        "sha256": "aaf4bdf06109b580d5033e477659b09b7b8b935e0863169dcd189dedf6f1ed87"
+      }
+    },
+    {
+      "mode": 12,
+      "inputHash": "f9326cf0dbdc48304412376f8d0fac9a7be3a42c7f8bfc2d4d24601e9c88e24a",
+      "wpJustification": false,
+      "savedHash": "40f3d06da593ae649a19c1586afee9268b6075481d62fb409eee1e1827c77302",
+      "name": "mode-12",
+      "pdfHash": "f78ab1762022bd5625bbe8eb0617b8578ecd320decaee078880de7435209eb8f",
+      "opened": true,
+      "file": "word-compatibility-mode-12.docx",
+      "source": {
+        "name": "mode-12",
+        "modes": [
+          "12"
+        ],
+        "sha256": "f9326cf0dbdc48304412376f8d0fac9a7be3a42c7f8bfc2d4d24601e9c88e24a"
+      }
+    },
+    {
+      "mode": 14,
+      "inputHash": "42812ec3bd91860acf2eb76d3744eaae645b45cd818916fb84552965c22faca2",
+      "wpJustification": false,
+      "savedHash": "5a84567812fbc07c6cf48581252c384797c19879cb22d53dee8ff125a33a26c4",
+      "name": "mode-14",
+      "pdfHash": "5aa3aa51e30dacba82cfdf7c50c3e0c44b23b7e188bc3289013a380f196002b0",
+      "opened": true,
+      "file": "word-compatibility-mode-14.docx",
+      "source": {
+        "name": "mode-14",
+        "modes": [
+          "14"
+        ],
+        "sha256": "42812ec3bd91860acf2eb76d3744eaae645b45cd818916fb84552965c22faca2"
+      }
+    },
+    {
+      "mode": 15,
+      "inputHash": "cd63296378451aaf54ca84c266670f21ddfb63769b429888a8459e254b566d65",
+      "wpJustification": false,
+      "savedHash": "ad3e2149318ac604cb150f5f8a8dcbbbc21c1207ebcf69be3f102e12abed1a0c",
+      "name": "mode-15",
+      "pdfHash": "6c0ce3f65308d2429005ece3fcddfca44b8a4d2b01f18e44c79342cc2521b6e6",
+      "opened": true,
+      "file": "word-compatibility-mode-15.docx",
+      "source": {
+        "name": "mode-15",
+        "modes": [
+          "15"
+        ],
+        "sha256": "cd63296378451aaf54ca84c266670f21ddfb63769b429888a8459e254b566d65"
+      }
+    },
+    {
+      "mode": 15,
+      "inputHash": "06ca54511d14b75892ecdb6343b61c935a06b6636feff126c6d9696f837b470a",
+      "wpJustification": false,
+      "savedHash": "5df93734e8559a48f92620f94c671b1c6c4fd34e130cc58e529a182df78b5b92",
+      "name": "mode-16",
+      "pdfHash": "b34bf02370a26fcb86c75617f1ffa8428c4ecb22bbb901944f49bd1eafc72808",
+      "opened": true,
+      "file": "word-compatibility-mode-16.docx",
+      "source": {
+        "name": "mode-16",
+        "modes": [
+          "16"
+        ],
+        "sha256": "06ca54511d14b75892ecdb6343b61c935a06b6636feff126c6d9696f837b470a"
+      }
+    },
+    {
+      "error": "Die Datei ist m\u00f6glicherweise besch\u00e4digt.",
+      "name": "mode-0",
+      "inputHash": "985b280dae02525075e72be5d928bb41f00b7eaafee1723d4cd9d91c22ee7150",
+      "opened": false,
+      "file": "word-compatibility-mode-0.docx",
+      "source": {
+        "name": "mode-0",
+        "modes": [
+          "0"
+        ],
+        "sha256": "985b280dae02525075e72be5d928bb41f00b7eaafee1723d4cd9d91c22ee7150"
+      }
+    },
+    {
+      "mode": 15,
+      "inputHash": "0fade29fe22394cf9a37a32ccddb8f2fc6ebc2d386469f8f301087811b99a2ed",
+      "wpJustification": false,
+      "savedHash": "2d460f4272bc115910781b29349d7232161c1d622fa0f9535ba705fcb6682705",
+      "name": "mode-leading-zero",
+      "pdfHash": "98281e9d2e1154e73768edf98068b54b2e21ccb78452eae26f9c6fe18866e7ea",
+      "opened": true,
+      "file": "word-compatibility-mode-leading-zero.docx",
+      "source": {
+        "name": "mode-leading-zero",
+        "modes": [
+          "015"
+        ],
+        "sha256": "0fade29fe22394cf9a37a32ccddb8f2fc6ebc2d386469f8f301087811b99a2ed"
+      }
+    },
+    {
+      "mode": 15,
+      "inputHash": "f354e71d38138bcb5bb8de239d11ca95caca34600260e681e859c1ea4b8317c1",
+      "wpJustification": false,
+      "savedHash": "a8054b01ddba2132f4b9871d8209f487cee70c64bec1a1bd68b7dd3ede37a83f",
+      "name": "mode-plus",
+      "pdfHash": "f791e55241d3993bb8beacb8efab4e92a0533023fedea55829dbad91b3aca715",
+      "opened": true,
+      "file": "word-compatibility-mode-plus.docx",
+      "source": {
+        "name": "mode-plus",
+        "modes": [
+          "+15"
+        ],
+        "sha256": "f354e71d38138bcb5bb8de239d11ca95caca34600260e681e859c1ea4b8317c1"
+      }
+    },
+    {
+      "mode": 12,
+      "inputHash": "f81eed2b99f3c1d8dc2d80fdd908645dcc711b336c831e7e796f98013390afb5",
+      "wpJustification": false,
+      "savedHash": "5a3ed5761f8a27125ab983680e21812b5e377f0a363ed979cfba1b218bf4e928",
+      "name": "mode-invalid",
+      "pdfHash": "9041be37cf9de91375973fbf7e75577509a4765868e84018fd6aa3b3ad931c1b",
+      "opened": true,
+      "file": "word-compatibility-mode-invalid.docx",
+      "source": {
+        "name": "mode-invalid",
+        "modes": [
+          "future"
+        ],
+        "sha256": "f81eed2b99f3c1d8dc2d80fdd908645dcc711b336c831e7e796f98013390afb5"
+      }
+    },
+    {
+      "mode": 12,
+      "inputHash": "eed9dad3d4558ecaff0554363a0c8f85f036dbea269a59a2cffa98fb9b08383c",
+      "wpJustification": false,
+      "savedHash": "44d0f96952faf86792504ea0edba80a28d2100d3565c3c9f9da63cf75f599227",
+      "name": "wrong-uri",
+      "pdfHash": "c0dd9ece93ae294e98aef8e972edbd1c7edb7f122fb622d4db0b59f4276a4d06",
+      "opened": true,
+      "file": "word-compatibility-wrong-uri.docx",
+      "source": {
+        "name": "wrong-uri",
+        "modes": [
+          "15"
+        ],
+        "uri": "urn:unrelated",
+        "sha256": "eed9dad3d4558ecaff0554363a0c8f85f036dbea269a59a2cffa98fb9b08383c"
+      }
+    },
+    {
+      "mode": 15,
+      "inputHash": "ea7a9828657710e7dae970b6f60aca3a59bc6420d3240c6fba3d7400365a62c3",
+      "wpJustification": false,
+      "savedHash": "0bc70bf0573335ff7578dc3f2f2a0ea86abffbf49a95ff5195037295a0ac2c02",
+      "name": "duplicate-same",
+      "pdfHash": "a863c54c0742b1dfeefc6be7b847df54ec7ca77f1827e61e7ac1beb4fff57573",
+      "opened": true,
+      "file": "word-compatibility-duplicate-same.docx",
+      "source": {
+        "name": "duplicate-same",
+        "modes": [
+          "15",
+          "15"
+        ],
+        "sha256": "ea7a9828657710e7dae970b6f60aca3a59bc6420d3240c6fba3d7400365a62c3"
+      }
+    },
+    {
+      "mode": 15,
+      "inputHash": "41b560ca05f6aa1f5580879f18273bb6dc1383fb65713a0176dacfe2ae0f89ea",
+      "wpJustification": false,
+      "savedHash": "2a204e19ac4cd81797ca636e54aeb769c22e7a7e5a08a4ba194d6b2f92598f6e",
+      "name": "duplicate-forward",
+      "pdfHash": "1da5be94c488df0956193e2f0c9e4288263790f55a3a69337980b0eeeca4502f",
+      "opened": true,
+      "file": "word-compatibility-duplicate-forward.docx",
+      "source": {
+        "name": "duplicate-forward",
+        "modes": [
+          "14",
+          "15"
+        ],
+        "sha256": "41b560ca05f6aa1f5580879f18273bb6dc1383fb65713a0176dacfe2ae0f89ea"
+      }
+    },
+    {
+      "mode": 15,
+      "inputHash": "108e98b8af63b74eaf7e4c9cf0e17df04a161ff76514e34fd2864506458482b2",
+      "wpJustification": false,
+      "savedHash": "52141a6120ccc1992d1b620f1692ce20e23b5eaf94683892a951935ec08cd2e9",
+      "name": "duplicate-reverse",
+      "pdfHash": "947968eee797d46741e8aeacfbd2764840b8600737cd8afe3ffed55fc36a7c68",
+      "opened": true,
+      "file": "word-compatibility-duplicate-reverse.docx",
+      "source": {
+        "name": "duplicate-reverse",
+        "modes": [
+          "15",
+          "14"
+        ],
+        "sha256": "108e98b8af63b74eaf7e4c9cf0e17df04a161ff76514e34fd2864506458482b2"
+      }
+    },
+    {
+      "mode": 15,
+      "inputHash": "ff73b51159ed3ddea484bca3d4d79c4d3c54e02d50f62a94195cf8ccb7b3e078",
+      "wpJustification": false,
+      "savedHash": "d4182b663e46fffc2d833e739678c66516d36185b620c7dc478c1b78b84c8304",
+      "name": "wp-on",
+      "pdfHash": "65ec5fae7d50240070e0175431b1da76f9481e3cd9e8a2bc384ef1a483f05669",
+      "opened": true,
+      "file": "word-compatibility-wp-on.docx",
+      "source": {
+        "name": "wp-on",
+        "modes": [
+          "15"
+        ],
+        "wp": "1",
+        "sha256": "ff73b51159ed3ddea484bca3d4d79c4d3c54e02d50f62a94195cf8ccb7b3e078"
+      }
+    },
+    {
+      "mode": 15,
+      "inputHash": "2d2d3a01af0d8f548ac1d8136e76571ba6fcd67e098d9468e90e930099d2026d",
+      "wpJustification": false,
+      "savedHash": "c7a79f4862563f7e1beb8f28ecc6cb436dbb53571c6423d6b68c47857c17f80c",
+      "name": "wp-off",
+      "pdfHash": "cc264a294074aa7de31ad74053e039576f7889c59b6c7a74dd894fcdc52c4172",
+      "opened": true,
+      "file": "word-compatibility-wp-off.docx",
+      "source": {
+        "name": "wp-off",
+        "modes": [
+          "15"
+        ],
+        "wp": "0",
+        "sha256": "2d2d3a01af0d8f548ac1d8136e76571ba6fcd67e098d9468e90e930099d2026d"
+      }
+    },
+    {
+      "mode": 15,
+      "inputHash": "88f187266fa85d608fe73e7c315753d6afbb4349708cd91aaccd2aedb7dcc9c7",
+      "wpJustification": false,
+      "savedHash": "bcab14a8e7252c914a272c294cebf6d6000f4e49c7cab5ce7543d854cc7d446a",
+      "name": "wp-implicit",
+      "pdfHash": "0b3f8465d7157ac3759edff65bf6cfdd080d5795ae8584e7eb33095443cad7b7",
+      "opened": true,
+      "file": "word-compatibility-wp-implicit.docx",
+      "source": {
+        "name": "wp-implicit",
+        "modes": [
+          "15"
+        ],
+        "wp": null,
+        "sha256": "88f187266fa85d608fe73e7c315753d6afbb4349708cd91aaccd2aedb7dcc9c7"
+      }
+    },
+    {
+      "mode": 15,
+      "inputHash": "adeccf6da618acc692f73eecee4f5bf35e4b7d27ecd61dcf512892c40dabbec6",
+      "wpJustification": false,
+      "savedHash": "78bbe2fe2946974669360e8d8f23a580135c06a9d9ebd71fcc087e9149a3a6c9",
+      "name": "wp-invalid",
+      "pdfHash": "d36f64bdfdcf15a93a237eded383c352d4c5a3976bedfbdac1dcc10bdae03b43",
+      "opened": true,
+      "file": "word-compatibility-wp-invalid.docx",
+      "source": {
+        "name": "wp-invalid",
+        "modes": [
+          "15"
+        ],
+        "wp": "bad",
+        "sha256": "adeccf6da618acc692f73eecee4f5bf35e4b7d27ecd61dcf512892c40dabbec6"
+      }
+    },
+    {
+      "mode": 15,
+      "inputHash": "c0319c2f3a5f1b61e65a4087723934fbd296bb87e1c647fb11b2cce5b147e59c",
+      "wpJustification": false,
+      "savedHash": "66aa7a1eb0a4e59db22112a24bce47ca9dd23cd761720d275920c1127aef1008",
+      "name": "renamed-mode15",
+      "pdfHash": "fc5ea31c5eae7868478bcb0bd59a272994db28213fc041e75de5f9fd6371c728",
+      "opened": true,
+      "file": "word-compatibility-renamed-mode15.docx",
+      "source": {
+        "name": "renamed-mode15",
+        "modes": [
+          "15"
+        ],
+        "renamed": true,
+        "sha256": "c0319c2f3a5f1b61e65a4087723934fbd296bb87e1c647fb11b2cce5b147e59c"
+      }
+    },
+    {
+      "mode": 12,
+      "inputHash": "96f034b3be765364d7fea0d26d5ad76d7b823674cbf18326e4577bec70bafbc4",
+      "wpJustification": false,
+      "savedHash": "30c1c1b0b57c81c1dce3955b5f7854ba2e1665c9b2ea898b3b11266b41c0e92b",
+      "name": "settings-missing",
+      "pdfHash": "2ee18c15221424635af4a1c3afbb3d34646f8ed72c4fc9647da3e627a7306ad2",
+      "opened": true,
+      "file": "word-compatibility-settings-missing.docx",
+      "source": {
+        "name": "settings-missing",
+        "modes": [],
+        "missing": true,
+        "sha256": "96f034b3be765364d7fea0d26d5ad76d7b823674cbf18326e4577bec70bafbc4"
+      }
+    },
+    {
+      "mode": 12,
+      "inputHash": "323ac642722f77c6e751ff0f7f1970d37d1d5e07723b86439dfa02533a1c3986",
+      "wpJustification": false,
+      "savedHash": "8b7a54e9e69e930b773d4c3c704212948e9499254d35fe5b414f9b090a0ed731",
+      "name": "orphan-settings",
+      "pdfHash": "745caf74063dae8734657ee12ecc9c1f78b176d629af38e5c3f91c7a340926d6",
+      "opened": true,
+      "file": "word-compatibility-orphan-settings.docx",
+      "source": {
+        "name": "orphan-settings",
+        "modes": [
+          "15"
+        ],
+        "orphan": true,
+        "sha256": "323ac642722f77c6e751ff0f7f1970d37d1d5e07723b86439dfa02533a1c3986"
+      }
+    },
+    {
+      "mode": 11,
+      "inputHash": "613bf4690f7c9eba914d8897deb6758b7f869550cfcf1db710e8ad88f51dc615",
+      "wpJustification": true,
+      "savedHash": "2b82c17cadd7bd816c57a98b95d2cefd43887bb41dab070f5103bbf9cf023d4f",
+      "name": "wp-on-mode11",
+      "pdfHash": "b7e23b9c06d7f7015297070a0963df7260888fdc0760bf323152991e1f75f994",
+      "opened": true,
+      "file": "word-compatibility-wp-on-mode11.docx",
+      "source": {
+        "name": "wp-on-mode11",
+        "modes": [
+          "11"
+        ],
+        "wp": "1",
+        "sha256": "613bf4690f7c9eba914d8897deb6758b7f869550cfcf1db710e8ad88f51dc615"
+      }
+    },
+    {
+      "mode": 12,
+      "inputHash": "b02b14eddfa144ba8e12721839326117c0327138bdc87758b81738c0c1c976ae",
+      "wpJustification": true,
+      "savedHash": "eda6e7ab47104e4aef2e0bd752581818998462125fa54981473984efefa828de",
+      "name": "wp-on-mode12",
+      "pdfHash": "ebb4c8c59c12cb916b91259d0d14bf2d576957d52d20b79ea138a7db668c357c",
+      "opened": true,
+      "file": "word-compatibility-wp-on-mode12.docx",
+      "source": {
+        "name": "wp-on-mode12",
+        "modes": [
+          "12"
+        ],
+        "wp": "1",
+        "sha256": "b02b14eddfa144ba8e12721839326117c0327138bdc87758b81738c0c1c976ae"
+      }
+    },
+    {
+      "mode": 14,
+      "inputHash": "c907c2aab464d7c60f50120a938f551b653978b91f6913edd825f3e8bd2e88b6",
+      "wpJustification": true,
+      "savedHash": "61cdc976798e7c45ef25f4194e4406070556914517a0ee43cbaa443da60640c1",
+      "name": "wp-on-mode14",
+      "pdfHash": "b81dc25a8c2a7d9a517386a13f81f47c37235b7cf19be54e4e75292aa2163cc4",
+      "opened": true,
+      "file": "word-compatibility-wp-on-mode14.docx",
+      "source": {
+        "name": "wp-on-mode14",
+        "modes": [
+          "14"
+        ],
+        "wp": "1",
+        "sha256": "c907c2aab464d7c60f50120a938f551b653978b91f6913edd825f3e8bd2e88b6"
+      }
+    }
+  ],
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "nativeReportHash": "e375121827477bd8218522a06bc907e55eb04191db1669ad07e69ad2c56b6d50",
+  "nativeProducerHash": "db2efff9c4c37e1ea4a196e4b27be5276fc93cabe93d0f9e4bad8555718dc0b4",
+  "promotionHash": "879cc01bb75931a7b845b09c082e9a2a279444897168b31669ae076879b3b4ef",
+  "provenance": "Authored variants of the existing project-created paragraph-layout fixture; native Word read-only reopen, effective mode/WordPerfect flag, saved copies and PDFs. v1/v2 instrumentation failures retained locally. No native UI certification."
+}

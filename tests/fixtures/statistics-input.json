@@ -1,0 +1,480 @@
+{
+  "sheet": "Data Set",
+  "cells": {
+    "A2": 2,
+    "A3": 4,
+    "A4": 4,
+    "A5": 8,
+    "A6": "12",
+    "A7": true,
+    "A8": "=\"\"",
+    "A9": "=NA()",
+    "B1": 1000000000001,
+    "B2": 1000000000002,
+    "B3": 1000000000003,
+    "C1": "text",
+    "C2": false
+  },
+  "names": {
+    "Amounts": "'Data Set'!$A$2:$A$8",
+    "Flag": "TRUE"
+  },
+  "cases": [
+    {
+      "ref": "E1",
+      "formula": "=VAR(A2:A8)"
+    },
+    {
+      "ref": "E2",
+      "formula": "=VAR.S(A2:A8)"
+    },
+    {
+      "ref": "E3",
+      "formula": "=VARP(A2:A8)"
+    },
+    {
+      "ref": "E4",
+      "formula": "=VAR.P(A2:A8)"
+    },
+    {
+      "ref": "E5",
+      "formula": "=STDEV(A2:A8)"
+    },
+    {
+      "ref": "E6",
+      "formula": "=STDEV.S(A2:A8)"
+    },
+    {
+      "ref": "E7",
+      "formula": "=STDEVP(A2:A8)"
+    },
+    {
+      "ref": "E8",
+      "formula": "=STDEV.P(A2:A8)"
+    },
+    {
+      "ref": "E9",
+      "formula": "=MEDIAN(A2:A8)"
+    },
+    {
+      "ref": "E10",
+      "formula": "=PRODUCT(A2:A8)"
+    },
+    {
+      "ref": "E11",
+      "formula": "=GEOMEAN(A2:A8)"
+    },
+    {
+      "ref": "E12",
+      "formula": "=HARMEAN(A2:A8)"
+    },
+    {
+      "ref": "E13",
+      "formula": "=DEVSQ(A2:A8)"
+    },
+    {
+      "ref": "E14",
+      "formula": "=AVEDEV(A2:A8)"
+    },
+    {
+      "ref": "E15",
+      "formula": "=MODE(A2:A8)"
+    },
+    {
+      "ref": "E16",
+      "formula": "=MODE.SNGL(A2:A8)"
+    },
+    {
+      "ref": "E17",
+      "formula": "=VAR(2,TRUE,\"4\")"
+    },
+    {
+      "ref": "E18",
+      "formula": "=VAR.S(2,TRUE,\"4\")"
+    },
+    {
+      "ref": "E19",
+      "formula": "=VARP(2,TRUE,\"4\")"
+    },
+    {
+      "ref": "E20",
+      "formula": "=VAR.P(2,TRUE,\"4\")"
+    },
+    {
+      "ref": "E21",
+      "formula": "=STDEV(2,TRUE,\"4\")"
+    },
+    {
+      "ref": "E22",
+      "formula": "=STDEV.S(2,TRUE,\"4\")"
+    },
+    {
+      "ref": "E23",
+      "formula": "=STDEVP(2,TRUE,\"4\")"
+    },
+    {
+      "ref": "E24",
+      "formula": "=STDEV.P(2,TRUE,\"4\")"
+    },
+    {
+      "ref": "E25",
+      "formula": "=MEDIAN(2,TRUE,\"4\")"
+    },
+    {
+      "ref": "E26",
+      "formula": "=PRODUCT(2,TRUE,\"4\")"
+    },
+    {
+      "ref": "E27",
+      "formula": "=GEOMEAN(2,TRUE,\"4\")"
+    },
+    {
+      "ref": "E28",
+      "formula": "=HARMEAN(2,TRUE,\"4\")"
+    },
+    {
+      "ref": "E29",
+      "formula": "=DEVSQ(2,TRUE,\"4\")"
+    },
+    {
+      "ref": "E30",
+      "formula": "=AVEDEV(2,TRUE,\"4\")"
+    },
+    {
+      "ref": "E31",
+      "formula": "=MODE(2,TRUE,\"4\")"
+    },
+    {
+      "ref": "E32",
+      "formula": "=MODE.SNGL(2,TRUE,\"4\")"
+    },
+    {
+      "ref": "E33",
+      "formula": "=VAR.S(C1:C2)"
+    },
+    {
+      "ref": "E34",
+      "formula": "=VAR.P(C1:C2)"
+    },
+    {
+      "ref": "E35",
+      "formula": "=STDEV.S(C1:C2)"
+    },
+    {
+      "ref": "E36",
+      "formula": "=MEDIAN(C1:C2)"
+    },
+    {
+      "ref": "E37",
+      "formula": "=MODE.SNGL(C1:C2)"
+    },
+    {
+      "ref": "E38",
+      "formula": "=PRODUCT(C1:C2)"
+    },
+    {
+      "ref": "E39",
+      "formula": "=GEOMEAN(C1:C2)"
+    },
+    {
+      "ref": "E40",
+      "formula": "=SMALL(A2:A8,2)"
+    },
+    {
+      "ref": "E41",
+      "formula": "=LARGE(A2:A8,2.3)"
+    },
+    {
+      "ref": "E42",
+      "formula": "=SMALL(A2:A8,0.5)"
+    },
+    {
+      "ref": "E43",
+      "formula": "=SMALL(A2:A8,0)"
+    },
+    {
+      "ref": "E44",
+      "formula": "=LARGE(A2:A8,10)"
+    },
+    {
+      "ref": "E45",
+      "formula": "=RANK(4,A2:A8)"
+    },
+    {
+      "ref": "E46",
+      "formula": "=RANK.EQ(4,A2:A8,1)"
+    },
+    {
+      "ref": "E47",
+      "formula": "=RANK.AVG(4,A2:A8)"
+    },
+    {
+      "ref": "E48",
+      "formula": "=RANK.EQ(7,A2:A8)"
+    },
+    {
+      "ref": "E49",
+      "formula": "=PERCENTILE(A2:A8,0)"
+    },
+    {
+      "ref": "E50",
+      "formula": "=PERCENTILE(A2:A8,0.1)"
+    },
+    {
+      "ref": "E51",
+      "formula": "=PERCENTILE(A2:A8,0.25)"
+    },
+    {
+      "ref": "E52",
+      "formula": "=PERCENTILE(A2:A8,0.5)"
+    },
+    {
+      "ref": "E53",
+      "formula": "=PERCENTILE(A2:A8,0.9)"
+    },
+    {
+      "ref": "E54",
+      "formula": "=PERCENTILE(A2:A8,1)"
+    },
+    {
+      "ref": "E55",
+      "formula": "=PERCENTILE.INC(A2:A8,0)"
+    },
+    {
+      "ref": "E56",
+      "formula": "=PERCENTILE.INC(A2:A8,0.1)"
+    },
+    {
+      "ref": "E57",
+      "formula": "=PERCENTILE.INC(A2:A8,0.25)"
+    },
+    {
+      "ref": "E58",
+      "formula": "=PERCENTILE.INC(A2:A8,0.5)"
+    },
+    {
+      "ref": "E59",
+      "formula": "=PERCENTILE.INC(A2:A8,0.9)"
+    },
+    {
+      "ref": "E60",
+      "formula": "=PERCENTILE.INC(A2:A8,1)"
+    },
+    {
+      "ref": "E61",
+      "formula": "=PERCENTILE.EXC(A2:A8,0)"
+    },
+    {
+      "ref": "E62",
+      "formula": "=PERCENTILE.EXC(A2:A8,0.1)"
+    },
+    {
+      "ref": "E63",
+      "formula": "=PERCENTILE.EXC(A2:A8,0.25)"
+    },
+    {
+      "ref": "E64",
+      "formula": "=PERCENTILE.EXC(A2:A8,0.5)"
+    },
+    {
+      "ref": "E65",
+      "formula": "=PERCENTILE.EXC(A2:A8,0.9)"
+    },
+    {
+      "ref": "E66",
+      "formula": "=PERCENTILE.EXC(A2:A8,1)"
+    },
+    {
+      "ref": "E67",
+      "formula": "=QUARTILE(A2:A8,0)"
+    },
+    {
+      "ref": "E68",
+      "formula": "=QUARTILE(A2:A8,1)"
+    },
+    {
+      "ref": "E69",
+      "formula": "=QUARTILE(A2:A8,2.7)"
+    },
+    {
+      "ref": "E70",
+      "formula": "=QUARTILE(A2:A8,3)"
+    },
+    {
+      "ref": "E71",
+      "formula": "=QUARTILE(A2:A8,4)"
+    },
+    {
+      "ref": "E72",
+      "formula": "=QUARTILE.INC(A2:A8,0)"
+    },
+    {
+      "ref": "E73",
+      "formula": "=QUARTILE.INC(A2:A8,1)"
+    },
+    {
+      "ref": "E74",
+      "formula": "=QUARTILE.INC(A2:A8,2.7)"
+    },
+    {
+      "ref": "E75",
+      "formula": "=QUARTILE.INC(A2:A8,3)"
+    },
+    {
+      "ref": "E76",
+      "formula": "=QUARTILE.INC(A2:A8,4)"
+    },
+    {
+      "ref": "E77",
+      "formula": "=QUARTILE.EXC(A2:A8,0)"
+    },
+    {
+      "ref": "E78",
+      "formula": "=QUARTILE.EXC(A2:A8,1)"
+    },
+    {
+      "ref": "E79",
+      "formula": "=QUARTILE.EXC(A2:A8,2.7)"
+    },
+    {
+      "ref": "E80",
+      "formula": "=QUARTILE.EXC(A2:A8,3)"
+    },
+    {
+      "ref": "E81",
+      "formula": "=QUARTILE.EXC(A2:A8,4)"
+    },
+    {
+      "ref": "E82",
+      "formula": "=VAR.S(B1:B3)"
+    },
+    {
+      "ref": "E83",
+      "formula": "=STDEV.S(A2)"
+    },
+    {
+      "ref": "E84",
+      "formula": "=STDEV.P(A2)"
+    },
+    {
+      "ref": "E85",
+      "formula": "=GEOMEAN(1,0)"
+    },
+    {
+      "ref": "E86",
+      "formula": "=HARMEAN(-1,3)"
+    },
+    {
+      "ref": "E87",
+      "formula": "=VAR.S(2,\"bad\")"
+    },
+    {
+      "ref": "E88",
+      "formula": "=VAR.S(A2:A9)"
+    },
+    {
+      "ref": "E89",
+      "formula": "=VAR.S(INDIRECT(\"A2:A8\"))"
+    },
+    {
+      "ref": "E90",
+      "formula": "=VAR.S(Amounts)"
+    },
+    {
+      "ref": "E91",
+      "formula": "=VAR.S(Flag,2)"
+    },
+    {
+      "ref": "E92",
+      "formula": "=MODE.SNGL(4,4,2,2)"
+    },
+    {
+      "ref": "E93",
+      "formula": "=MEDIAN(C1:C2)"
+    },
+    {
+      "ref": "E94",
+      "formula": "=LARGE(A2:A8,TRUE)"
+    },
+    {
+      "ref": "E95",
+      "formula": "=SMALL(B1:B3,1.7)"
+    },
+    {
+      "ref": "E96",
+      "formula": "=LARGE(B1:B3,1.7)"
+    },
+    {
+      "ref": "E97",
+      "formula": "=MODE(1,TRUE)"
+    },
+    {
+      "ref": "E98",
+      "formula": "=MODE(2,\"2\")"
+    },
+    {
+      "ref": "E99",
+      "formula": "=MODE(TRUE,TRUE)"
+    },
+    {
+      "ref": "E100",
+      "formula": "=MODE(2,2,\"bad\")"
+    },
+    {
+      "ref": "E101",
+      "formula": "=MODE(2,2,\"4\")"
+    },
+    {
+      "ref": "E102",
+      "formula": "=MODE(2,2,A6)"
+    },
+    {
+      "ref": "E103",
+      "formula": "=MODE.SNGL(2,4,4,2)"
+    },
+    {
+      "ref": "E104",
+      "formula": "=HARMEAN(C1:C2)"
+    },
+    {
+      "ref": "E105",
+      "formula": "=AVEDEV(C1:C2)"
+    },
+    {
+      "ref": "E106",
+      "formula": "=DEVSQ(C1:C2)"
+    },
+    {
+      "ref": "E107",
+      "formula": "=QUARTILE.INC(A2:A8,-0.1)"
+    },
+    {
+      "ref": "E108",
+      "formula": "=PRODUCT(2,TRUE,\"4\")"
+    },
+    {
+      "ref": "E109",
+      "formula": "=PERCENTILE.INC(A2:A8,TRUE)"
+    },
+    {
+      "ref": "E110",
+      "formula": "=MEDIAN(\"2\")"
+    },
+    {
+      "ref": "E111",
+      "formula": "=SMALL(\"2\",1)"
+    },
+    {
+      "ref": "E112",
+      "formula": "=VAR.S(A7,2)"
+    },
+    {
+      "ref": "E113",
+      "formula": "=VAR.S(INDEX(A2:A8,6),2)"
+    },
+    {
+      "ref": "E114",
+      "formula": "=VAR.S(1,)"
+    }
+  ]
+}

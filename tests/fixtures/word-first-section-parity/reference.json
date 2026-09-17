@@ -1,0 +1,506 @@
+{
+  "rows": [
+    {
+      "name": "first-nextPage-last-nextPage",
+      "source": "tests/fixtures/word-first-section-parity/first-nextPage-last-nextPage.docx",
+      "sourceHash": "3ae714f7c95ee21241d4e8d86d6cce4bf29268cd0558bfb4954595ed52d46bd9",
+      "native": {
+        "pages": 2,
+        "sections": [
+          {
+            "adjusted": 1,
+            "physical": 1,
+            "start": 2
+          },
+          {
+            "adjusted": 2,
+            "physical": 2,
+            "start": 2
+          }
+        ],
+        "embed": false,
+        "subset": false,
+        "text": "Alp\fha.Beta\r"
+      },
+      "nativePdf": ".local/word-section-save-controls/native-v1/first-nextPage-last-nextPage/source.pdf",
+      "nativePdfHash": "8cdf5b4e5bd44993fb1e3a8d4384a8d14901b2132051d4c228ad7653e76eaa3e",
+      "pageTexts": [
+        "Shared headerAlp",
+        "Shared headerha.Beta"
+      ],
+      "headers": [
+        "Shared header",
+        "Shared header"
+      ]
+    },
+    {
+      "name": "first-nextPage-last-evenPage",
+      "source": "tests/fixtures/word-first-section-parity/first-nextPage-last-evenPage.docx",
+      "sourceHash": "c30aa7c49fab0ff3548f0b2475d4cd69bb1183546227ee955386034307e0a4fe",
+      "native": {
+        "pages": 2,
+        "sections": [
+          {
+            "adjusted": 1,
+            "physical": 1,
+            "start": 2
+          },
+          {
+            "adjusted": 2,
+            "physical": 2,
+            "start": 3
+          }
+        ],
+        "embed": false,
+        "subset": false,
+        "text": "Alp\fha.Beta\r"
+      },
+      "nativePdf": ".local/word-section-save-controls/native-v1/first-nextPage-last-evenPage/source.pdf",
+      "nativePdfHash": "c518c79ad416a44859fc60fed06b6f1a1c47499d03e569f05f43abac6b8ce581",
+      "pageTexts": [
+        "Shared headerAlp",
+        "Shared headerha.Beta"
+      ],
+      "headers": [
+        "Shared header",
+        "Shared header"
+      ]
+    },
+    {
+      "name": "first-nextPage-last-oddPage",
+      "source": "tests/fixtures/word-first-section-parity/first-nextPage-last-oddPage.docx",
+      "sourceHash": "e613313c2c9ad1d3ad79fba4afbb7879d4c28c96373c573f0bdd2603bd32ad47",
+      "native": {
+        "pages": 3,
+        "sections": [
+          {
+            "adjusted": 1,
+            "physical": 1,
+            "start": 2
+          },
+          {
+            "adjusted": 3,
+            "physical": 3,
+            "start": 4
+          }
+        ],
+        "embed": false,
+        "subset": false,
+        "text": "Alp\fha.Beta\r"
+      },
+      "nativePdf": ".local/word-section-save-controls/native-v1/first-nextPage-last-oddPage/source.pdf",
+      "nativePdfHash": "fde40bb195bf241a05de926413c370f7ba33109c2ddcb50b3605d5187b75e2d2",
+      "pageTexts": [
+        "Shared headerAlp",
+        "",
+        "Shared headerha.Beta"
+      ],
+      "headers": [
+        "Shared header",
+        "",
+        "Shared header"
+      ]
+    },
+    {
+      "name": "first-evenPage-last-nextPage",
+      "source": "tests/fixtures/word-first-section-parity/first-evenPage-last-nextPage.docx",
+      "sourceHash": "7c02169f0138bb3e7c12814ddb632c78d23ffbe159a22d5eed20e447bcd04e41",
+      "native": {
+        "pages": 2,
+        "sections": [
+          {
+            "adjusted": 2,
+            "physical": 1,
+            "start": 3
+          },
+          {
+            "adjusted": 3,
+            "physical": 2,
+            "start": 2
+          }
+        ],
+        "embed": false,
+        "subset": false,
+        "text": "Alp\fha.Beta\r"
+      },
+      "nativePdf": ".local/word-section-save-controls/native-v1/first-evenPage-last-nextPage/source.pdf",
+      "nativePdfHash": "15752b66eb1f6d7edda7655a85e537285cb13d84c08b0ef0c7367be7021fb151",
+      "pageTexts": [
+        "Shared headerAlp",
+        "Shared headerha.Beta"
+      ],
+      "headers": [
+        "Shared header",
+        "Shared header"
+      ]
+    },
+    {
+      "name": "first-evenPage-last-evenPage",
+      "source": "tests/fixtures/word-first-section-parity/first-evenPage-last-evenPage.docx",
+      "sourceHash": "70c07b8cb6cac3129dd945ffef49e7f825f0383f466c5f43a6bfbaeb0e1ea9e5",
+      "native": {
+        "pages": 3,
+        "sections": [
+          {
+            "adjusted": 2,
+            "physical": 1,
+            "start": 3
+          },
+          {
+            "adjusted": 4,
+            "physical": 3,
+            "start": 3
+          }
+        ],
+        "embed": false,
+        "subset": false,
+        "text": "Alp\fha.Beta\r"
+      },
+      "nativePdf": ".local/word-section-save-controls/native-v1/first-evenPage-last-evenPage/source.pdf",
+      "nativePdfHash": "60576cc270eeb4ca533d846b1ee5c70cab082743e7a38ff64060e1f3e9e84c89",
+      "pageTexts": [
+        "Shared headerAlp",
+        "",
+        "Shared headerha.Beta"
+      ],
+      "headers": [
+        "Shared header",
+        "",
+        "Shared header"
+      ]
+    },
+    {
+      "name": "first-evenPage-last-oddPage",
+      "source": "tests/fixtures/word-first-section-parity/first-evenPage-last-oddPage.docx",
+      "sourceHash": "1fc4d9303149908444fc21e2b9986b702f9e42ac776866c5deb1abf6c126f26a",
+      "native": {
+        "pages": 2,
+        "sections": [
+          {
+            "adjusted": 2,
+            "physical": 1,
+            "start": 3
+          },
+          {
+            "adjusted": 3,
+            "physical": 2,
+            "start": 4
+          }
+        ],
+        "embed": false,
+        "subset": false,
+        "text": "Alp\fha.Beta\r"
+      },
+      "nativePdf": ".local/word-section-save-controls/native-v1/first-evenPage-last-oddPage/source.pdf",
+      "nativePdfHash": "c0011697eb021526db21486869ee4a137950c59ae3e216602452738bafc882b3",
+      "pageTexts": [
+        "Shared headerAlp",
+        "Shared headerha.Beta"
+      ],
+      "headers": [
+        "Shared header",
+        "Shared header"
+      ]
+    },
+    {
+      "name": "first-oddPage-last-nextPage",
+      "source": "tests/fixtures/word-first-section-parity/first-oddPage-last-nextPage.docx",
+      "sourceHash": "d170e06ea7cb10c0b85dc1616d85cb47a1ac0a002dfb75fe429398004b2c90b1",
+      "native": {
+        "pages": 2,
+        "sections": [
+          {
+            "adjusted": 1,
+            "physical": 1,
+            "start": 4
+          },
+          {
+            "adjusted": 2,
+            "physical": 2,
+            "start": 2
+          }
+        ],
+        "embed": false,
+        "subset": false,
+        "text": "Alp\fha.Beta\r"
+      },
+      "nativePdf": ".local/word-section-save-controls/native-v1/first-oddPage-last-nextPage/source.pdf",
+      "nativePdfHash": "62b0482d9f2e8120d4db43cffdf25f05c97fa6413e9b89b72c5632de3d9c6e53",
+      "pageTexts": [
+        "Shared headerAlp",
+        "Shared headerha.Beta"
+      ],
+      "headers": [
+        "Shared header",
+        "Shared header"
+      ]
+    },
+    {
+      "name": "first-oddPage-last-evenPage",
+      "source": "tests/fixtures/word-first-section-parity/first-oddPage-last-evenPage.docx",
+      "sourceHash": "0395467f7b90b54cb2271e91d20875dd3868e1b753531c2788afe1697bf4d3b9",
+      "native": {
+        "pages": 2,
+        "sections": [
+          {
+            "adjusted": 1,
+            "physical": 1,
+            "start": 4
+          },
+          {
+            "adjusted": 2,
+            "physical": 2,
+            "start": 3
+          }
+        ],
+        "embed": false,
+        "subset": false,
+        "text": "Alp\fha.Beta\r"
+      },
+      "nativePdf": ".local/word-section-save-controls/native-v1/first-oddPage-last-evenPage/source.pdf",
+      "nativePdfHash": "72dc96cfebdd0cf1ca1308a38fe52edf5229d2cda1bd70859e3209e7f68308a1",
+      "pageTexts": [
+        "Shared headerAlp",
+        "Shared headerha.Beta"
+      ],
+      "headers": [
+        "Shared header",
+        "Shared header"
+      ]
+    },
+    {
+      "name": "first-oddPage-last-oddPage",
+      "source": "tests/fixtures/word-first-section-parity/first-oddPage-last-oddPage.docx",
+      "sourceHash": "bc3a3704144e9e4043ab6f782eca3e16f418eef7adabf309deac48401701e21d",
+      "native": {
+        "pages": 3,
+        "sections": [
+          {
+            "adjusted": 1,
+            "physical": 1,
+            "start": 4
+          },
+          {
+            "adjusted": 3,
+            "physical": 3,
+            "start": 4
+          }
+        ],
+        "embed": false,
+        "subset": false,
+        "text": "Alp\fha.Beta\r"
+      },
+      "nativePdf": ".local/word-section-save-controls/native-v1/first-oddPage-last-oddPage/source.pdf",
+      "nativePdfHash": "a1ed8757706c7db11be899f8541cc2b0b9c2cf0844e77d59eb933005709f3af2",
+      "pageTexts": [
+        "Shared headerAlp",
+        "",
+        "Shared headerha.Beta"
+      ],
+      "headers": [
+        "Shared header",
+        "",
+        "Shared header"
+      ]
+    },
+    {
+      "name": "headers-first-nextPage",
+      "source": "tests/fixtures/word-first-section-parity/headers-first-nextPage.docx",
+      "sourceHash": "7f58625b245dc24572f04a51ded132e56cb18a79fd29fe154b08aa57e8377e39",
+      "native": {
+        "pages": 3,
+        "sections": [
+          {
+            "adjusted": 1,
+            "physical": 1,
+            "start": 2
+          },
+          {
+            "adjusted": 3,
+            "physical": 3,
+            "start": 4
+          }
+        ],
+        "embed": false,
+        "subset": false,
+        "text": "Alp\fha.Beta\r"
+      },
+      "nativePdf": ".local/word-section-save-controls/native-v1/headers-first-nextPage/source.pdf",
+      "nativePdfHash": "3980631ec582e6c8d6449d8794edc8f3e73b29ebb87382a59bde1efeabe04390",
+      "pageTexts": [
+        "Shared headerAlp",
+        "",
+        "Shared headerha.Beta"
+      ],
+      "headers": [
+        "Shared header",
+        "",
+        "Shared header"
+      ]
+    },
+    {
+      "name": "headers-first-evenPage",
+      "source": "tests/fixtures/word-first-section-parity/headers-first-evenPage.docx",
+      "sourceHash": "c6b8694846a785942b5e47936f62c2905ecd6ac4359dce3ea0253c495e86e97b",
+      "native": {
+        "pages": 2,
+        "sections": [
+          {
+            "adjusted": 2,
+            "physical": 1,
+            "start": 3
+          },
+          {
+            "adjusted": 3,
+            "physical": 2,
+            "start": 4
+          }
+        ],
+        "embed": false,
+        "subset": false,
+        "text": "Alp\fha.Beta\r"
+      },
+      "nativePdf": ".local/word-section-save-controls/native-v1/headers-first-evenPage/source.pdf",
+      "nativePdfHash": "4cafb23eb5a40e4af7707fa477aec735cc0bef91d24f924e47a249358655534c",
+      "pageTexts": [
+        "Even headerAlp",
+        "Shared headerha.Beta"
+      ],
+      "headers": [
+        "Even header",
+        "Shared header"
+      ]
+    },
+    {
+      "name": "headers-first-oddPage",
+      "source": "tests/fixtures/word-first-section-parity/headers-first-oddPage.docx",
+      "sourceHash": "006076171bdcaeffd4bfdebc43155424c37fdea1d26cbbb8969985ef43567258",
+      "native": {
+        "pages": 3,
+        "sections": [
+          {
+            "adjusted": 1,
+            "physical": 1,
+            "start": 4
+          },
+          {
+            "adjusted": 3,
+            "physical": 3,
+            "start": 4
+          }
+        ],
+        "embed": false,
+        "subset": false,
+        "text": "Alp\fha.Beta\r"
+      },
+      "nativePdf": ".local/word-section-save-controls/native-v1/headers-first-oddPage/source.pdf",
+      "nativePdfHash": "9e2df666bb318f53c4dff1540156f8187d2b6f539615a8dfb5c716fd3aaac635",
+      "pageTexts": [
+        "Shared headerAlp",
+        "",
+        "Shared headerha.Beta"
+      ],
+      "headers": [
+        "Shared header",
+        "",
+        "Shared header"
+      ]
+    }
+  ],
+  "nativeReceiptHash": "62ab8e62528be30c232c9a759a79f533e7a8820d35ae058d0e01973f1d6bee2a",
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "license": "MIT-authored controls derived from project fresh DOCX; only bundled OFL Inter embedded in these source fixtures. Native save outputs stay local.",
+  "baselineControl": {
+    "family": "Arial",
+    "size": 12,
+    "line": 396,
+    "rule": "auto",
+    "samples": [
+      {
+        "name": "first-nextPage-last-nextPage",
+        "origin": 72.0,
+        "baseline": 83.15997314453125,
+        "offset": 11.15997314453125,
+        "nativePdfHash": "8cdf5b4e5bd44993fb1e3a8d4384a8d14901b2132051d4c228ad7653e76eaa3e"
+      },
+      {
+        "name": "first-nextPage-last-evenPage",
+        "origin": 72.0,
+        "baseline": 83.15997314453125,
+        "offset": 11.15997314453125,
+        "nativePdfHash": "c518c79ad416a44859fc60fed06b6f1a1c47499d03e569f05f43abac6b8ce581"
+      },
+      {
+        "name": "first-nextPage-last-oddPage",
+        "origin": 72.0,
+        "baseline": 83.15997314453125,
+        "offset": 11.15997314453125,
+        "nativePdfHash": "fde40bb195bf241a05de926413c370f7ba33109c2ddcb50b3605d5187b75e2d2"
+      },
+      {
+        "name": "first-evenPage-last-nextPage",
+        "origin": 72.0,
+        "baseline": 83.15997314453125,
+        "offset": 11.15997314453125,
+        "nativePdfHash": "15752b66eb1f6d7edda7655a85e537285cb13d84c08b0ef0c7367be7021fb151"
+      },
+      {
+        "name": "first-evenPage-last-evenPage",
+        "origin": 72.0,
+        "baseline": 83.15997314453125,
+        "offset": 11.15997314453125,
+        "nativePdfHash": "60576cc270eeb4ca533d846b1ee5c70cab082743e7a38ff64060e1f3e9e84c89"
+      },
+      {
+        "name": "first-evenPage-last-oddPage",
+        "origin": 72.0,
+        "baseline": 83.15997314453125,
+        "offset": 11.15997314453125,
+        "nativePdfHash": "c0011697eb021526db21486869ee4a137950c59ae3e216602452738bafc882b3"
+      },
+      {
+        "name": "first-oddPage-last-nextPage",
+        "origin": 72.0,
+        "baseline": 83.15997314453125,
+        "offset": 11.15997314453125,
+        "nativePdfHash": "62b0482d9f2e8120d4db43cffdf25f05c97fa6413e9b89b72c5632de3d9c6e53"
+      },
+      {
+        "name": "first-oddPage-last-evenPage",
+        "origin": 72.0,
+        "baseline": 83.15997314453125,
+        "offset": 11.15997314453125,
+        "nativePdfHash": "72dc96cfebdd0cf1ca1308a38fe52edf5229d2cda1bd70859e3209e7f68308a1"
+      },
+      {
+        "name": "first-oddPage-last-oddPage",
+        "origin": 72.0,
+        "baseline": 83.15997314453125,
+        "offset": 11.15997314453125,
+        "nativePdfHash": "a1ed8757706c7db11be899f8541cc2b0b9c2cf0844e77d59eb933005709f3af2"
+      },
+      {
+        "name": "headers-first-nextPage",
+        "origin": 72.0,
+        "baseline": 83.15997314453125,
+        "offset": 11.15997314453125,
+        "nativePdfHash": "3980631ec582e6c8d6449d8794edc8f3e73b29ebb87382a59bde1efeabe04390"
+      },
+      {
+        "name": "headers-first-evenPage",
+        "origin": 72.0,
+        "baseline": 83.15997314453125,
+        "offset": 11.15997314453125,
+        "nativePdfHash": "4cafb23eb5a40e4af7707fa477aec735cc0bef91d24f924e47a249358655534c"
+      },
+      {
+        "name": "headers-first-oddPage",
+        "origin": 72.0,
+        "baseline": 83.15997314453125,
+        "offset": 11.15997314453125,
+        "nativePdfHash": "9e2df666bb318f53c4dff1540156f8187d2b6f539615a8dfb5c716fd3aaac635"
+      }
+    ],
+    "basis": "First unwrapped 12pt regular Arial paragraph at known section top margin72pt with zero before spacing; same independently rendered native first-section controls, no fitted tolerance."
+  }
+}

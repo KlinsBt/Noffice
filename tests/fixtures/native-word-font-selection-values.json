@@ -1,0 +1,1335 @@
+{
+  "sourceHash": "461d7770364e804a85b4f19f058443136d086cd822261f31339e7f56eeee0742",
+  "scope": "Native selection aggregate properties; not observed Ribbon UI values",
+  "sources": [
+    {
+      "characters": [
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "A"
+        },
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "\t"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "B"
+        },
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "name": "Body-mixed-sizes",
+      "pdfHash": "658081c8bd3b693c67c67fc0de381dc193a6caed305b6680ce5da63b5c9632ae",
+      "profile": "mixed-sizes",
+      "docxHash": "02e93f77ba9262a91cc3da40e147f5d2d16f6348c16e1455ec9c32781eb2a8d2",
+      "kind": "Body",
+      "pages": 2
+    },
+    {
+      "characters": [
+        {
+          "size": 20,
+          "family": "Times New Roman",
+          "text": "A"
+        },
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "\t"
+        },
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "B"
+        },
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "name": "Body-mixed-families",
+      "pdfHash": "7b33fe0187d690a86462fab152ec11647039bc4aa16fb1beb700d1bd74dd85fb",
+      "profile": "mixed-families",
+      "docxHash": "de81ccb4a6e6cc6da4022e0d4f801a644dbebf5e603b9991dee100c8be8faa56",
+      "kind": "Body",
+      "pages": 2
+    },
+    {
+      "characters": [
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "A"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\t"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "B"
+        },
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "name": "Body-uniform-text",
+      "pdfHash": "057eae1218c5758eddf7316ef118b420407d31261adc8cdbdf773a995e28b3c0",
+      "profile": "uniform-text",
+      "docxHash": "7f1bae582aa1f46aa5d2721187b3defaa65b6feb9ef0316da836b72db3637c32",
+      "kind": "Body",
+      "pages": 2
+    },
+    {
+      "characters": [
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "name": "Body-empty",
+      "pdfHash": "3a4010ba663e91dc4a5eab4f9b5ae6823bbe5a2cfebea9c6d6d6b4577b216163",
+      "profile": "empty",
+      "docxHash": "fae80d5af5767c03625ba86fe1604e3f8c268a2972a3348a5d91f2eb7816304c",
+      "kind": "Body",
+      "pages": 2
+    },
+    {
+      "characters": [
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "A"
+        },
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "\t"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "B"
+        },
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "name": "Headers-mixed-sizes",
+      "pdfHash": "57dc118bf5fac4faa40679f8275118130e68ca9ea9305877ad102d0202df40d8",
+      "profile": "mixed-sizes",
+      "docxHash": "9d93347addcd6557a16a6ab702309455d17e707ca75c8bc79af0ef883f876f86",
+      "kind": "Headers",
+      "pages": 2
+    },
+    {
+      "characters": [
+        {
+          "size": 20,
+          "family": "Times New Roman",
+          "text": "A"
+        },
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "\t"
+        },
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "B"
+        },
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "name": "Headers-mixed-families",
+      "pdfHash": "cea54f656920afa0ef945ab4881a017453d3036371f8fd8d8c374268c5cdf031",
+      "profile": "mixed-families",
+      "docxHash": "dc7032350873b13e57fd3dd96658a8c079ca4a3c258f854d6d68e2283b2249ae",
+      "kind": "Headers",
+      "pages": 2
+    },
+    {
+      "characters": [
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "A"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\t"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "B"
+        },
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "name": "Headers-uniform-text",
+      "pdfHash": "ed5433c31daec908edfaeb6b10415db5734a71fda2016ce8a63892397582e801",
+      "profile": "uniform-text",
+      "docxHash": "c2dab9c78a10e041277bb2a3718d743faf92684921f1ec518af87bc7eb336eec",
+      "kind": "Headers",
+      "pages": 2
+    },
+    {
+      "characters": [
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "name": "Headers-empty",
+      "pdfHash": "dc1998c93f429c1a744a81e473d47f73b517e5ece38f152c6bf94e1642aa6ab4",
+      "profile": "empty",
+      "docxHash": "095e4d0ba17e2ec2c75930c37c1c614ac63892258532df11930691cdcc813d83",
+      "kind": "Headers",
+      "pages": 2
+    },
+    {
+      "characters": [
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "A"
+        },
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "\t"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "B"
+        },
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "name": "Footers-mixed-sizes",
+      "pdfHash": "3459515a359feda200717f0cc1d830b5139541e8772b9e91b58ab8ae7d4b33c3",
+      "profile": "mixed-sizes",
+      "docxHash": "2fa9c97bb72d93da7545efbded6087fa3e381f03ef2fc827ab6f18ea32213180",
+      "kind": "Footers",
+      "pages": 2
+    },
+    {
+      "characters": [
+        {
+          "size": 20,
+          "family": "Times New Roman",
+          "text": "A"
+        },
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "\t"
+        },
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "B"
+        },
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "name": "Footers-mixed-families",
+      "pdfHash": "94e9fd31ecbdcfbe3e80e1c51c846f232ab14a82f04fc3a71b7aa66ca1184bc3",
+      "profile": "mixed-families",
+      "docxHash": "f5567dadd4924d1d7a4348804ec5b21e437066aed536aa5da8fa6283919fbdef",
+      "kind": "Footers",
+      "pages": 2
+    },
+    {
+      "characters": [
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "A"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\t"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "B"
+        },
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "name": "Footers-uniform-text",
+      "pdfHash": "a42a4cdaba01effe3f0aa472802383b9d99694e1f0cd210ddb6fdb9937484f6c",
+      "profile": "uniform-text",
+      "docxHash": "dcb512ed256c302b6e9592f69a2ac3038e3ff89516480ce92390d6842b6581bf",
+      "kind": "Footers",
+      "pages": 2
+    },
+    {
+      "characters": [
+        {
+          "size": 10,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "name": "Footers-empty",
+      "pdfHash": "81e9f88b80bf372c92a3b502839e71eb2077eb918f6bd23223fe98042bfd6c52",
+      "profile": "empty",
+      "docxHash": "6f5133a0ace5ceae38a90392193c9381d679e874234025f062afa7ceba263c96",
+      "kind": "Footers",
+      "pages": 2
+    }
+  ],
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "scriptHash": "b694cfdace58f99b5774229502c024aa52758dda5cc9f59a9f672f52417da0ec",
+  "rows": [
+    {
+      "source": "Body-mixed-sizes",
+      "kind": "Body",
+      "size": 10,
+      "profile": "mixed-sizes",
+      "text": "A",
+      "name": "Body-mixed-sizes-first",
+      "from": 0,
+      "scope": "first",
+      "family": "Arial",
+      "to": 1
+    },
+    {
+      "source": "Body-mixed-sizes",
+      "kind": "Body",
+      "size": 10,
+      "profile": "mixed-sizes",
+      "text": "\t",
+      "name": "Body-mixed-sizes-tab",
+      "from": 1,
+      "scope": "tab",
+      "family": "Arial",
+      "to": 2
+    },
+    {
+      "source": "Body-mixed-sizes",
+      "kind": "Body",
+      "size": 20,
+      "profile": "mixed-sizes",
+      "text": "B",
+      "name": "Body-mixed-sizes-last",
+      "from": 2,
+      "scope": "last",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Body-mixed-sizes",
+      "kind": "Body",
+      "size": 9999999,
+      "profile": "mixed-sizes",
+      "text": "A\tB",
+      "name": "Body-mixed-sizes-text",
+      "from": 0,
+      "scope": "text",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Body-mixed-sizes",
+      "kind": "Body",
+      "size": 10,
+      "profile": "mixed-sizes",
+      "text": "\r",
+      "name": "Body-mixed-sizes-mark",
+      "from": 3,
+      "scope": "mark",
+      "family": "Arial",
+      "to": 4
+    },
+    {
+      "source": "Body-mixed-sizes",
+      "kind": "Body",
+      "size": 9999999,
+      "profile": "mixed-sizes",
+      "text": "A\tB\r",
+      "name": "Body-mixed-sizes-text-mark",
+      "from": 0,
+      "scope": "text-mark",
+      "family": "Arial",
+      "to": 4
+    },
+    {
+      "source": "Body-mixed-sizes",
+      "kind": "Body",
+      "size": 10,
+      "profile": "mixed-sizes",
+      "text": "A",
+      "name": "Body-mixed-sizes-caret-start",
+      "from": 0,
+      "scope": "caret-start",
+      "family": "Arial",
+      "to": 0
+    },
+    {
+      "source": "Body-mixed-sizes",
+      "kind": "Body",
+      "size": 10,
+      "profile": "mixed-sizes",
+      "text": "B",
+      "name": "Body-mixed-sizes-caret-after-tab",
+      "from": 2,
+      "scope": "caret-after-tab",
+      "family": "Arial",
+      "to": 2
+    },
+    {
+      "source": "Body-mixed-sizes",
+      "kind": "Body",
+      "size": 20,
+      "profile": "mixed-sizes",
+      "text": "\r",
+      "name": "Body-mixed-sizes-caret-end",
+      "from": 3,
+      "scope": "caret-end",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Body-mixed-families",
+      "kind": "Body",
+      "size": 20,
+      "profile": "mixed-families",
+      "text": "A",
+      "name": "Body-mixed-families-first",
+      "from": 0,
+      "scope": "first",
+      "family": "Times New Roman",
+      "to": 1
+    },
+    {
+      "source": "Body-mixed-families",
+      "kind": "Body",
+      "size": 10,
+      "profile": "mixed-families",
+      "text": "\t",
+      "name": "Body-mixed-families-tab",
+      "from": 1,
+      "scope": "tab",
+      "family": "Arial",
+      "to": 2
+    },
+    {
+      "source": "Body-mixed-families",
+      "kind": "Body",
+      "size": 10,
+      "profile": "mixed-families",
+      "text": "B",
+      "name": "Body-mixed-families-last",
+      "from": 2,
+      "scope": "last",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Body-mixed-families",
+      "kind": "Body",
+      "size": 9999999,
+      "profile": "mixed-families",
+      "text": "A\tB",
+      "name": "Body-mixed-families-text",
+      "from": 0,
+      "scope": "text",
+      "family": "",
+      "to": 3
+    },
+    {
+      "source": "Body-mixed-families",
+      "kind": "Body",
+      "size": 10,
+      "profile": "mixed-families",
+      "text": "\r",
+      "name": "Body-mixed-families-mark",
+      "from": 3,
+      "scope": "mark",
+      "family": "Arial",
+      "to": 4
+    },
+    {
+      "source": "Body-mixed-families",
+      "kind": "Body",
+      "size": 9999999,
+      "profile": "mixed-families",
+      "text": "A\tB\r",
+      "name": "Body-mixed-families-text-mark",
+      "from": 0,
+      "scope": "text-mark",
+      "family": "",
+      "to": 4
+    },
+    {
+      "source": "Body-mixed-families",
+      "kind": "Body",
+      "size": 20,
+      "profile": "mixed-families",
+      "text": "A",
+      "name": "Body-mixed-families-caret-start",
+      "from": 0,
+      "scope": "caret-start",
+      "family": "Times New Roman",
+      "to": 0
+    },
+    {
+      "source": "Body-mixed-families",
+      "kind": "Body",
+      "size": 10,
+      "profile": "mixed-families",
+      "text": "B",
+      "name": "Body-mixed-families-caret-after-tab",
+      "from": 2,
+      "scope": "caret-after-tab",
+      "family": "Arial",
+      "to": 2
+    },
+    {
+      "source": "Body-mixed-families",
+      "kind": "Body",
+      "size": 10,
+      "profile": "mixed-families",
+      "text": "\r",
+      "name": "Body-mixed-families-caret-end",
+      "from": 3,
+      "scope": "caret-end",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Body-uniform-text",
+      "kind": "Body",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "A",
+      "name": "Body-uniform-text-first",
+      "from": 0,
+      "scope": "first",
+      "family": "Arial",
+      "to": 1
+    },
+    {
+      "source": "Body-uniform-text",
+      "kind": "Body",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "\t",
+      "name": "Body-uniform-text-tab",
+      "from": 1,
+      "scope": "tab",
+      "family": "Arial",
+      "to": 2
+    },
+    {
+      "source": "Body-uniform-text",
+      "kind": "Body",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "B",
+      "name": "Body-uniform-text-last",
+      "from": 2,
+      "scope": "last",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Body-uniform-text",
+      "kind": "Body",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "A\tB",
+      "name": "Body-uniform-text-text",
+      "from": 0,
+      "scope": "text",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Body-uniform-text",
+      "kind": "Body",
+      "size": 10,
+      "profile": "uniform-text",
+      "text": "\r",
+      "name": "Body-uniform-text-mark",
+      "from": 3,
+      "scope": "mark",
+      "family": "Arial",
+      "to": 4
+    },
+    {
+      "source": "Body-uniform-text",
+      "kind": "Body",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "A\tB\r",
+      "name": "Body-uniform-text-text-mark",
+      "from": 0,
+      "scope": "text-mark",
+      "family": "Arial",
+      "to": 4
+    },
+    {
+      "source": "Body-uniform-text",
+      "kind": "Body",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "A",
+      "name": "Body-uniform-text-caret-start",
+      "from": 0,
+      "scope": "caret-start",
+      "family": "Arial",
+      "to": 0
+    },
+    {
+      "source": "Body-uniform-text",
+      "kind": "Body",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "B",
+      "name": "Body-uniform-text-caret-after-tab",
+      "from": 2,
+      "scope": "caret-after-tab",
+      "family": "Arial",
+      "to": 2
+    },
+    {
+      "source": "Body-uniform-text",
+      "kind": "Body",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "\r",
+      "name": "Body-uniform-text-caret-end",
+      "from": 3,
+      "scope": "caret-end",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Body-empty",
+      "kind": "Body",
+      "size": 10,
+      "profile": "empty",
+      "text": "\r",
+      "name": "Body-empty-caret-empty",
+      "from": 0,
+      "scope": "caret-empty",
+      "family": "Arial",
+      "to": 0
+    },
+    {
+      "source": "Headers-mixed-sizes",
+      "kind": "Headers",
+      "size": 10,
+      "profile": "mixed-sizes",
+      "text": "A",
+      "name": "Headers-mixed-sizes-first",
+      "from": 0,
+      "scope": "first",
+      "family": "Arial",
+      "to": 1
+    },
+    {
+      "source": "Headers-mixed-sizes",
+      "kind": "Headers",
+      "size": 10,
+      "profile": "mixed-sizes",
+      "text": "\t",
+      "name": "Headers-mixed-sizes-tab",
+      "from": 1,
+      "scope": "tab",
+      "family": "Arial",
+      "to": 2
+    },
+    {
+      "source": "Headers-mixed-sizes",
+      "kind": "Headers",
+      "size": 20,
+      "profile": "mixed-sizes",
+      "text": "B",
+      "name": "Headers-mixed-sizes-last",
+      "from": 2,
+      "scope": "last",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Headers-mixed-sizes",
+      "kind": "Headers",
+      "size": 9999999,
+      "profile": "mixed-sizes",
+      "text": "A\tB",
+      "name": "Headers-mixed-sizes-text",
+      "from": 0,
+      "scope": "text",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Headers-mixed-sizes",
+      "kind": "Headers",
+      "size": 10,
+      "profile": "mixed-sizes",
+      "text": "\r",
+      "name": "Headers-mixed-sizes-mark",
+      "from": 3,
+      "scope": "mark",
+      "family": "Arial",
+      "to": 4
+    },
+    {
+      "source": "Headers-mixed-sizes",
+      "kind": "Headers",
+      "size": 9999999,
+      "profile": "mixed-sizes",
+      "text": "A\tB\r",
+      "name": "Headers-mixed-sizes-text-mark",
+      "from": 0,
+      "scope": "text-mark",
+      "family": "Arial",
+      "to": 4
+    },
+    {
+      "source": "Headers-mixed-sizes",
+      "kind": "Headers",
+      "size": 10,
+      "profile": "mixed-sizes",
+      "text": "A",
+      "name": "Headers-mixed-sizes-caret-start",
+      "from": 0,
+      "scope": "caret-start",
+      "family": "Arial",
+      "to": 0
+    },
+    {
+      "source": "Headers-mixed-sizes",
+      "kind": "Headers",
+      "size": 10,
+      "profile": "mixed-sizes",
+      "text": "B",
+      "name": "Headers-mixed-sizes-caret-after-tab",
+      "from": 2,
+      "scope": "caret-after-tab",
+      "family": "Arial",
+      "to": 2
+    },
+    {
+      "source": "Headers-mixed-sizes",
+      "kind": "Headers",
+      "size": 20,
+      "profile": "mixed-sizes",
+      "text": "\r",
+      "name": "Headers-mixed-sizes-caret-end",
+      "from": 3,
+      "scope": "caret-end",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Headers-mixed-families",
+      "kind": "Headers",
+      "size": 20,
+      "profile": "mixed-families",
+      "text": "A",
+      "name": "Headers-mixed-families-first",
+      "from": 0,
+      "scope": "first",
+      "family": "Times New Roman",
+      "to": 1
+    },
+    {
+      "source": "Headers-mixed-families",
+      "kind": "Headers",
+      "size": 10,
+      "profile": "mixed-families",
+      "text": "\t",
+      "name": "Headers-mixed-families-tab",
+      "from": 1,
+      "scope": "tab",
+      "family": "Arial",
+      "to": 2
+    },
+    {
+      "source": "Headers-mixed-families",
+      "kind": "Headers",
+      "size": 10,
+      "profile": "mixed-families",
+      "text": "B",
+      "name": "Headers-mixed-families-last",
+      "from": 2,
+      "scope": "last",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Headers-mixed-families",
+      "kind": "Headers",
+      "size": 9999999,
+      "profile": "mixed-families",
+      "text": "A\tB",
+      "name": "Headers-mixed-families-text",
+      "from": 0,
+      "scope": "text",
+      "family": "",
+      "to": 3
+    },
+    {
+      "source": "Headers-mixed-families",
+      "kind": "Headers",
+      "size": 10,
+      "profile": "mixed-families",
+      "text": "\r",
+      "name": "Headers-mixed-families-mark",
+      "from": 3,
+      "scope": "mark",
+      "family": "Arial",
+      "to": 4
+    },
+    {
+      "source": "Headers-mixed-families",
+      "kind": "Headers",
+      "size": 9999999,
+      "profile": "mixed-families",
+      "text": "A\tB\r",
+      "name": "Headers-mixed-families-text-mark",
+      "from": 0,
+      "scope": "text-mark",
+      "family": "",
+      "to": 4
+    },
+    {
+      "source": "Headers-mixed-families",
+      "kind": "Headers",
+      "size": 20,
+      "profile": "mixed-families",
+      "text": "A",
+      "name": "Headers-mixed-families-caret-start",
+      "from": 0,
+      "scope": "caret-start",
+      "family": "Times New Roman",
+      "to": 0
+    },
+    {
+      "source": "Headers-mixed-families",
+      "kind": "Headers",
+      "size": 10,
+      "profile": "mixed-families",
+      "text": "B",
+      "name": "Headers-mixed-families-caret-after-tab",
+      "from": 2,
+      "scope": "caret-after-tab",
+      "family": "Arial",
+      "to": 2
+    },
+    {
+      "source": "Headers-mixed-families",
+      "kind": "Headers",
+      "size": 10,
+      "profile": "mixed-families",
+      "text": "\r",
+      "name": "Headers-mixed-families-caret-end",
+      "from": 3,
+      "scope": "caret-end",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Headers-uniform-text",
+      "kind": "Headers",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "A",
+      "name": "Headers-uniform-text-first",
+      "from": 0,
+      "scope": "first",
+      "family": "Arial",
+      "to": 1
+    },
+    {
+      "source": "Headers-uniform-text",
+      "kind": "Headers",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "\t",
+      "name": "Headers-uniform-text-tab",
+      "from": 1,
+      "scope": "tab",
+      "family": "Arial",
+      "to": 2
+    },
+    {
+      "source": "Headers-uniform-text",
+      "kind": "Headers",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "B",
+      "name": "Headers-uniform-text-last",
+      "from": 2,
+      "scope": "last",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Headers-uniform-text",
+      "kind": "Headers",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "A\tB",
+      "name": "Headers-uniform-text-text",
+      "from": 0,
+      "scope": "text",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Headers-uniform-text",
+      "kind": "Headers",
+      "size": 10,
+      "profile": "uniform-text",
+      "text": "\r",
+      "name": "Headers-uniform-text-mark",
+      "from": 3,
+      "scope": "mark",
+      "family": "Arial",
+      "to": 4
+    },
+    {
+      "source": "Headers-uniform-text",
+      "kind": "Headers",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "A\tB\r",
+      "name": "Headers-uniform-text-text-mark",
+      "from": 0,
+      "scope": "text-mark",
+      "family": "Arial",
+      "to": 4
+    },
+    {
+      "source": "Headers-uniform-text",
+      "kind": "Headers",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "A",
+      "name": "Headers-uniform-text-caret-start",
+      "from": 0,
+      "scope": "caret-start",
+      "family": "Arial",
+      "to": 0
+    },
+    {
+      "source": "Headers-uniform-text",
+      "kind": "Headers",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "B",
+      "name": "Headers-uniform-text-caret-after-tab",
+      "from": 2,
+      "scope": "caret-after-tab",
+      "family": "Arial",
+      "to": 2
+    },
+    {
+      "source": "Headers-uniform-text",
+      "kind": "Headers",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "\r",
+      "name": "Headers-uniform-text-caret-end",
+      "from": 3,
+      "scope": "caret-end",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Headers-empty",
+      "kind": "Headers",
+      "size": 10,
+      "profile": "empty",
+      "text": "\r",
+      "name": "Headers-empty-caret-empty",
+      "from": 0,
+      "scope": "caret-empty",
+      "family": "Arial",
+      "to": 0
+    },
+    {
+      "source": "Footers-mixed-sizes",
+      "kind": "Footers",
+      "size": 10,
+      "profile": "mixed-sizes",
+      "text": "A",
+      "name": "Footers-mixed-sizes-first",
+      "from": 0,
+      "scope": "first",
+      "family": "Arial",
+      "to": 1
+    },
+    {
+      "source": "Footers-mixed-sizes",
+      "kind": "Footers",
+      "size": 10,
+      "profile": "mixed-sizes",
+      "text": "\t",
+      "name": "Footers-mixed-sizes-tab",
+      "from": 1,
+      "scope": "tab",
+      "family": "Arial",
+      "to": 2
+    },
+    {
+      "source": "Footers-mixed-sizes",
+      "kind": "Footers",
+      "size": 20,
+      "profile": "mixed-sizes",
+      "text": "B",
+      "name": "Footers-mixed-sizes-last",
+      "from": 2,
+      "scope": "last",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Footers-mixed-sizes",
+      "kind": "Footers",
+      "size": 9999999,
+      "profile": "mixed-sizes",
+      "text": "A\tB",
+      "name": "Footers-mixed-sizes-text",
+      "from": 0,
+      "scope": "text",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Footers-mixed-sizes",
+      "kind": "Footers",
+      "size": 10,
+      "profile": "mixed-sizes",
+      "text": "\r",
+      "name": "Footers-mixed-sizes-mark",
+      "from": 3,
+      "scope": "mark",
+      "family": "Arial",
+      "to": 4
+    },
+    {
+      "source": "Footers-mixed-sizes",
+      "kind": "Footers",
+      "size": 9999999,
+      "profile": "mixed-sizes",
+      "text": "A\tB\r",
+      "name": "Footers-mixed-sizes-text-mark",
+      "from": 0,
+      "scope": "text-mark",
+      "family": "Arial",
+      "to": 4
+    },
+    {
+      "source": "Footers-mixed-sizes",
+      "kind": "Footers",
+      "size": 10,
+      "profile": "mixed-sizes",
+      "text": "A",
+      "name": "Footers-mixed-sizes-caret-start",
+      "from": 0,
+      "scope": "caret-start",
+      "family": "Arial",
+      "to": 0
+    },
+    {
+      "source": "Footers-mixed-sizes",
+      "kind": "Footers",
+      "size": 10,
+      "profile": "mixed-sizes",
+      "text": "B",
+      "name": "Footers-mixed-sizes-caret-after-tab",
+      "from": 2,
+      "scope": "caret-after-tab",
+      "family": "Arial",
+      "to": 2
+    },
+    {
+      "source": "Footers-mixed-sizes",
+      "kind": "Footers",
+      "size": 20,
+      "profile": "mixed-sizes",
+      "text": "\r",
+      "name": "Footers-mixed-sizes-caret-end",
+      "from": 3,
+      "scope": "caret-end",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Footers-mixed-families",
+      "kind": "Footers",
+      "size": 20,
+      "profile": "mixed-families",
+      "text": "A",
+      "name": "Footers-mixed-families-first",
+      "from": 0,
+      "scope": "first",
+      "family": "Times New Roman",
+      "to": 1
+    },
+    {
+      "source": "Footers-mixed-families",
+      "kind": "Footers",
+      "size": 10,
+      "profile": "mixed-families",
+      "text": "\t",
+      "name": "Footers-mixed-families-tab",
+      "from": 1,
+      "scope": "tab",
+      "family": "Arial",
+      "to": 2
+    },
+    {
+      "source": "Footers-mixed-families",
+      "kind": "Footers",
+      "size": 10,
+      "profile": "mixed-families",
+      "text": "B",
+      "name": "Footers-mixed-families-last",
+      "from": 2,
+      "scope": "last",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Footers-mixed-families",
+      "kind": "Footers",
+      "size": 9999999,
+      "profile": "mixed-families",
+      "text": "A\tB",
+      "name": "Footers-mixed-families-text",
+      "from": 0,
+      "scope": "text",
+      "family": "",
+      "to": 3
+    },
+    {
+      "source": "Footers-mixed-families",
+      "kind": "Footers",
+      "size": 10,
+      "profile": "mixed-families",
+      "text": "\r",
+      "name": "Footers-mixed-families-mark",
+      "from": 3,
+      "scope": "mark",
+      "family": "Arial",
+      "to": 4
+    },
+    {
+      "source": "Footers-mixed-families",
+      "kind": "Footers",
+      "size": 9999999,
+      "profile": "mixed-families",
+      "text": "A\tB\r",
+      "name": "Footers-mixed-families-text-mark",
+      "from": 0,
+      "scope": "text-mark",
+      "family": "",
+      "to": 4
+    },
+    {
+      "source": "Footers-mixed-families",
+      "kind": "Footers",
+      "size": 20,
+      "profile": "mixed-families",
+      "text": "A",
+      "name": "Footers-mixed-families-caret-start",
+      "from": 0,
+      "scope": "caret-start",
+      "family": "Times New Roman",
+      "to": 0
+    },
+    {
+      "source": "Footers-mixed-families",
+      "kind": "Footers",
+      "size": 10,
+      "profile": "mixed-families",
+      "text": "B",
+      "name": "Footers-mixed-families-caret-after-tab",
+      "from": 2,
+      "scope": "caret-after-tab",
+      "family": "Arial",
+      "to": 2
+    },
+    {
+      "source": "Footers-mixed-families",
+      "kind": "Footers",
+      "size": 10,
+      "profile": "mixed-families",
+      "text": "\r",
+      "name": "Footers-mixed-families-caret-end",
+      "from": 3,
+      "scope": "caret-end",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Footers-uniform-text",
+      "kind": "Footers",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "A",
+      "name": "Footers-uniform-text-first",
+      "from": 0,
+      "scope": "first",
+      "family": "Arial",
+      "to": 1
+    },
+    {
+      "source": "Footers-uniform-text",
+      "kind": "Footers",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "\t",
+      "name": "Footers-uniform-text-tab",
+      "from": 1,
+      "scope": "tab",
+      "family": "Arial",
+      "to": 2
+    },
+    {
+      "source": "Footers-uniform-text",
+      "kind": "Footers",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "B",
+      "name": "Footers-uniform-text-last",
+      "from": 2,
+      "scope": "last",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Footers-uniform-text",
+      "kind": "Footers",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "A\tB",
+      "name": "Footers-uniform-text-text",
+      "from": 0,
+      "scope": "text",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Footers-uniform-text",
+      "kind": "Footers",
+      "size": 10,
+      "profile": "uniform-text",
+      "text": "\r",
+      "name": "Footers-uniform-text-mark",
+      "from": 3,
+      "scope": "mark",
+      "family": "Arial",
+      "to": 4
+    },
+    {
+      "source": "Footers-uniform-text",
+      "kind": "Footers",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "A\tB\r",
+      "name": "Footers-uniform-text-text-mark",
+      "from": 0,
+      "scope": "text-mark",
+      "family": "Arial",
+      "to": 4
+    },
+    {
+      "source": "Footers-uniform-text",
+      "kind": "Footers",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "A",
+      "name": "Footers-uniform-text-caret-start",
+      "from": 0,
+      "scope": "caret-start",
+      "family": "Arial",
+      "to": 0
+    },
+    {
+      "source": "Footers-uniform-text",
+      "kind": "Footers",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "B",
+      "name": "Footers-uniform-text-caret-after-tab",
+      "from": 2,
+      "scope": "caret-after-tab",
+      "family": "Arial",
+      "to": 2
+    },
+    {
+      "source": "Footers-uniform-text",
+      "kind": "Footers",
+      "size": 20,
+      "profile": "uniform-text",
+      "text": "\r",
+      "name": "Footers-uniform-text-caret-end",
+      "from": 3,
+      "scope": "caret-end",
+      "family": "Arial",
+      "to": 3
+    },
+    {
+      "source": "Footers-empty",
+      "kind": "Footers",
+      "size": 10,
+      "profile": "empty",
+      "text": "\r",
+      "name": "Footers-empty-caret-empty",
+      "from": 0,
+      "scope": "caret-empty",
+      "family": "Arial",
+      "to": 0
+    }
+  ],
+  "nativeReportHash": "ebff85caf6b2769458e3d02209fdbd0e6dc57a45dbf62ea4d66f2293a94822a2",
+  "license": "Synthetic MIT authored fixtures; no font binaries. Aggregate properties do not certify native Ribbon UI."
+}

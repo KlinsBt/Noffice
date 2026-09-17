@@ -1,0 +1,359 @@
+{
+  "scope": "Arial12 regular Single paragraph and list marker baseline; not a broader font certification.",
+  "plan": {
+    "rows": [
+      {
+        "name": "numbered-source-source",
+        "path": ".local/word-section-containers/list-baselines-v1/numbered-source-source.docx",
+        "sha256": "1e4fbeb122a974f2c1e9a8fbfe77b9de74c8754a460ade09635f3e3df3e0fb35",
+        "original": "tests/fixtures/word-section-containers/numbered.docx",
+        "originalHash": "1c041b3ccb672c03a3dd3d2cf553f9e682acfad0735414c70c4edc08baf20b90"
+      },
+      {
+        "name": "numbered-source-shaded",
+        "path": ".local/word-section-containers/list-baselines-v1/numbered-source-shaded.docx",
+        "sha256": "b07d206800c3617ac6fa360a8f878ef3ec34bb6cb5ada92de74b0eb079482ca3",
+        "original": "tests/fixtures/word-section-containers/numbered.docx",
+        "originalHash": "1c041b3ccb672c03a3dd3d2cf553f9e682acfad0735414c70c4edc08baf20b90"
+      },
+      {
+        "name": "bulleted-source-source",
+        "path": ".local/word-section-containers/list-baselines-v1/bulleted-source-source.docx",
+        "sha256": "59550b0b5f115c1e3da4276fa88b642b43d5da28fe3f4e75e6bb3aba3759db9e",
+        "original": "tests/fixtures/word-section-containers/bulleted.docx",
+        "originalHash": "fdc663f1a357d47e30cf56ed26743a743aee0c062520fdbf2fb5edc04d1063aa"
+      },
+      {
+        "name": "bulleted-source-shaded",
+        "path": ".local/word-section-containers/list-baselines-v1/bulleted-source-shaded.docx",
+        "sha256": "8a0cc341c773f1f51b75de522a1de1edc80665f4a52a06458084372ad168320c",
+        "original": "tests/fixtures/word-section-containers/bulleted.docx",
+        "originalHash": "fdc663f1a357d47e30cf56ed26743a743aee0c062520fdbf2fb5edc04d1063aa"
+      },
+      {
+        "name": "numbered-middle-nextPage-source",
+        "path": ".local/word-section-containers/list-baselines-v1/numbered-middle-nextPage-source.docx",
+        "sha256": "ed40dcd91fac456f490ffc102f0975cb5cbc806c6c0d408dd8c9404d7c1b1864",
+        "original": ".local/word-section-containers/native-v1/numbered-middle-nextPage/edited.docx",
+        "originalHash": "f2ccc5326fc8b28978ee9a45a6ff047c2ac50ad9d40d6802b69c371e486fdba5"
+      },
+      {
+        "name": "numbered-middle-nextPage-shaded",
+        "path": ".local/word-section-containers/list-baselines-v1/numbered-middle-nextPage-shaded.docx",
+        "sha256": "887e7d07710c4d2fbead32b9747fa257f1e3e52f966e1e84c46c6e1fcec89083",
+        "original": ".local/word-section-containers/native-v1/numbered-middle-nextPage/edited.docx",
+        "originalHash": "f2ccc5326fc8b28978ee9a45a6ff047c2ac50ad9d40d6802b69c371e486fdba5"
+      },
+      {
+        "name": "bulleted-end-continuous-source",
+        "path": ".local/word-section-containers/list-baselines-v1/bulleted-end-continuous-source.docx",
+        "sha256": "19ffa83e4b23b973765e91c683407594a34c30fce9697791889db09a40447d6d",
+        "original": ".local/word-section-containers/native-v1/bulleted-end-continuous/edited.docx",
+        "originalHash": "0dfff30e2753401f140fb240a69e12bf2b4d77fc62baa7427fd4375e5ab75736"
+      },
+      {
+        "name": "bulleted-end-continuous-shaded",
+        "path": ".local/word-section-containers/list-baselines-v1/bulleted-end-continuous-shaded.docx",
+        "sha256": "92af270a63ec7df196141fdf8907b338ac3bfe637f0ecbb46fca5139947cceac",
+        "original": ".local/word-section-containers/native-v1/bulleted-end-continuous/edited.docx",
+        "originalHash": "0dfff30e2753401f140fb240a69e12bf2b4d77fc62baa7427fd4375e5ab75736"
+      }
+    ],
+    "scope": "Independent paragraph origins. Require all original/shaded raw glyph matrices identical before using offsets."
+  },
+  "rows": [
+    {
+      "name": "numbered-source-shaded",
+      "page": 1,
+      "unchangedGlyphs": true,
+      "boxes": [
+        {
+          "left": 70.58399963378906,
+          "top": 71.99603271484375,
+          "width": 470.9499969482422,
+          "height": 13.823974609375
+        },
+        {
+          "left": 88.58399963378906,
+          "top": 85.82000732421875,
+          "width": 452.9499969482422,
+          "height": 13.79998779296875
+        },
+        {
+          "left": 88.58399963378906,
+          "top": 99.6199951171875,
+          "width": 452.9499969482422,
+          "height": 13.79998779296875
+        },
+        {
+          "left": 88.58399963378906,
+          "top": 113.41998291015625,
+          "width": 452.9499969482422,
+          "height": 13.79998779296875
+        },
+        {
+          "left": 70.58399963378906,
+          "top": 127.22003173828125,
+          "width": 470.9499969482422,
+          "height": 13.79998779296875
+        }
+      ],
+      "offsets": [
+        {
+          "baseline": 83.17999267578125,
+          "origin": 71.99603271484375,
+          "offset": 11.1839599609375
+        },
+        {
+          "baseline": 96.97998046875,
+          "origin": 85.82000732421875,
+          "offset": 11.15997314453125
+        },
+        {
+          "baseline": 110.780029296875,
+          "origin": 99.6199951171875,
+          "offset": 11.1600341796875
+        },
+        {
+          "baseline": 124.58001708984375,
+          "origin": 113.41998291015625,
+          "offset": 11.1600341796875
+        },
+        {
+          "baseline": 138.3800048828125,
+          "origin": 127.22003173828125,
+          "offset": 11.15997314453125
+        }
+      ]
+    },
+    {
+      "name": "bulleted-source-shaded",
+      "page": 1,
+      "unchangedGlyphs": true,
+      "boxes": [
+        {
+          "left": 70.58399963378906,
+          "top": 71.99603271484375,
+          "width": 470.9499969482422,
+          "height": 13.823974609375
+        },
+        {
+          "left": 88.58399963378906,
+          "top": 85.82000732421875,
+          "width": 452.9499969482422,
+          "height": 13.79998779296875
+        },
+        {
+          "left": 88.58399963378906,
+          "top": 99.6199951171875,
+          "width": 452.9499969482422,
+          "height": 13.79998779296875
+        },
+        {
+          "left": 88.58399963378906,
+          "top": 113.41998291015625,
+          "width": 452.9499969482422,
+          "height": 13.79998779296875
+        },
+        {
+          "left": 70.58399963378906,
+          "top": 127.22003173828125,
+          "width": 470.9499969482422,
+          "height": 13.79998779296875
+        }
+      ],
+      "offsets": [
+        {
+          "baseline": 83.17999267578125,
+          "origin": 71.99603271484375,
+          "offset": 11.1839599609375
+        },
+        {
+          "baseline": 96.97998046875,
+          "origin": 85.82000732421875,
+          "offset": 11.15997314453125
+        },
+        {
+          "baseline": 110.780029296875,
+          "origin": 99.6199951171875,
+          "offset": 11.1600341796875
+        },
+        {
+          "baseline": 124.58001708984375,
+          "origin": 113.41998291015625,
+          "offset": 11.1600341796875
+        },
+        {
+          "baseline": 138.3800048828125,
+          "origin": 127.22003173828125,
+          "offset": 11.15997314453125
+        }
+      ]
+    },
+    {
+      "name": "numbered-middle-nextPage-shaded",
+      "page": 1,
+      "unchangedGlyphs": true,
+      "boxes": [
+        {
+          "left": 70.58399963378906,
+          "top": 71.99603271484375,
+          "width": 470.9499969482422,
+          "height": 13.823974609375
+        },
+        {
+          "left": 88.58399963378906,
+          "top": 85.82000732421875,
+          "width": 452.9499969482422,
+          "height": 13.79998779296875
+        },
+        {
+          "left": 88.58399963378906,
+          "top": 99.6199951171875,
+          "width": 452.9499969482422,
+          "height": 13.79998779296875
+        }
+      ],
+      "offsets": [
+        {
+          "baseline": 83.17999267578125,
+          "origin": 71.99603271484375,
+          "offset": 11.1839599609375
+        },
+        {
+          "baseline": 96.97998046875,
+          "origin": 85.82000732421875,
+          "offset": 11.15997314453125
+        },
+        {
+          "baseline": 110.780029296875,
+          "origin": 99.6199951171875,
+          "offset": 11.1600341796875
+        }
+      ]
+    },
+    {
+      "name": "numbered-middle-nextPage-shaded",
+      "page": 2,
+      "unchangedGlyphs": true,
+      "boxes": [
+        {
+          "left": 88.58399963378906,
+          "top": 71.99603271484375,
+          "width": 452.9499969482422,
+          "height": 13.823974609375
+        },
+        {
+          "left": 88.58399963378906,
+          "top": 85.82000732421875,
+          "width": 452.9499969482422,
+          "height": 13.79998779296875
+        },
+        {
+          "left": 70.58399963378906,
+          "top": 99.6199951171875,
+          "width": 470.9499969482422,
+          "height": 13.79998779296875
+        }
+      ],
+      "offsets": [
+        {
+          "baseline": 83.17999267578125,
+          "origin": 71.99603271484375,
+          "offset": 11.1839599609375
+        },
+        {
+          "baseline": 96.97998046875,
+          "origin": 85.82000732421875,
+          "offset": 11.15997314453125
+        },
+        {
+          "baseline": 110.780029296875,
+          "origin": 99.6199951171875,
+          "offset": 11.1600341796875
+        }
+      ]
+    },
+    {
+      "name": "bulleted-end-continuous-shaded",
+      "page": 1,
+      "unchangedGlyphs": true,
+      "boxes": [
+        {
+          "left": 70.58399963378906,
+          "top": 71.99603271484375,
+          "width": 470.9499969482422,
+          "height": 13.823974609375
+        },
+        {
+          "left": 88.58399963378906,
+          "top": 85.82000732421875,
+          "width": 452.9499969482422,
+          "height": 13.79998779296875
+        },
+        {
+          "left": 88.58399963378906,
+          "top": 99.6199951171875,
+          "width": 452.9499969482422,
+          "height": 13.79998779296875
+        },
+        {
+          "left": 88.58399963378906,
+          "top": 113.41998291015625,
+          "width": 452.9499969482422,
+          "height": 13.79998779296875
+        },
+        {
+          "left": 88.58399963378906,
+          "top": 127.22003173828125,
+          "width": 452.9499969482422,
+          "height": 13.79998779296875
+        },
+        {
+          "left": 70.58399963378906,
+          "top": 141.02001953125,
+          "width": 470.9499969482422,
+          "height": 13.79998779296875
+        }
+      ],
+      "offsets": [
+        {
+          "baseline": 83.17999267578125,
+          "origin": 71.99603271484375,
+          "offset": 11.1839599609375
+        },
+        {
+          "baseline": 96.97998046875,
+          "origin": 85.82000732421875,
+          "offset": 11.15997314453125
+        },
+        {
+          "baseline": 110.780029296875,
+          "origin": 99.6199951171875,
+          "offset": 11.1600341796875
+        },
+        {
+          "baseline": 124.58001708984375,
+          "origin": 113.41998291015625,
+          "offset": 11.1600341796875
+        },
+        {
+          "baseline": 138.3800048828125,
+          "origin": 127.22003173828125,
+          "offset": 11.15997314453125
+        },
+        {
+          "baseline": 152.17999267578125,
+          "origin": 141.02001953125,
+          "offset": 11.15997314453125
+        }
+      ]
+    }
+  ],
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "printer": "Microsoft Print to PDF",
+  "reportHash": "fab870649ac2fe4ff7a6adc30c32341484a7089d2fb295dbdb78422c0435447f",
+  "geometryHash": "6ee5df8e784980d9648936307595527a5d4fcc04d0089e0398cc8956ade04c56",
+  "reviewHash": "46ea7de0a3263df2ad0edd05c4e4dc01a0daeeeb8bcfea8e8195500d0fe2765a",
+  "producerHash": "30590fb68152808a8db25adea6a8981d29d863aad865fcffeef7d3ec8511004f"
+}

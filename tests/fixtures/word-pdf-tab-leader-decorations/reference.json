@@ -1,0 +1,1147 @@
+﻿{
+    "rows":  [
+                 {
+                     "context":  "body",
+                     "mode":  "underline",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        }
+                                    ],
+                     "name":  "body-underline-dot",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/body-underline-dot.docx",
+                     "sourceHash":  "b921dade3011a0d3cc98aec52e1e35486edebe4b14899e26123bdf6c45f287c1",
+                     "leader":  "dot"
+                 },
+                 {
+                     "context":  "body",
+                     "mode":  "underline",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        }
+                                    ],
+                     "name":  "body-underline-hyphen",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/body-underline-hyphen.docx",
+                     "sourceHash":  "5c96d1fc33437f46cd06f6d5f233b400e438c8b6e571cfe53d59a7dbf57eb942",
+                     "leader":  "hyphen"
+                 },
+                 {
+                     "context":  "body",
+                     "mode":  "underline",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        }
+                                    ],
+                     "name":  "body-underline-underscore",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/body-underline-underscore.docx",
+                     "sourceHash":  "d21cc27344e847b47a803160f107d898e9a61c5c4507d69d0fec2a136038835a",
+                     "leader":  "underscore"
+                 },
+                 {
+                     "context":  "body",
+                     "mode":  "underline",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        }
+                                    ],
+                     "name":  "body-underline-heavy",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/body-underline-heavy.docx",
+                     "sourceHash":  "d3f35d42ca875508f314ecb3cd7d704ebdc31d3351a2990588b1ebaf81552a0d",
+                     "leader":  "heavy"
+                 },
+                 {
+                     "context":  "body",
+                     "mode":  "underline",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        }
+                                    ],
+                     "name":  "body-underline-middleDot",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/body-underline-middleDot.docx",
+                     "sourceHash":  "84daaf5f1f1008991be000bceb33131745a21d0539d07a137838b08adca203af",
+                     "leader":  "middleDot"
+                 },
+                 {
+                     "context":  "body",
+                     "mode":  "strike",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        }
+                                    ],
+                     "name":  "body-strike-dot",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/body-strike-dot.docx",
+                     "sourceHash":  "e1913c7b15b9e75a6180fb1278afbb2856d2f8d8ca248b7ae88e5b8bc3c235ec",
+                     "leader":  "dot"
+                 },
+                 {
+                     "context":  "body",
+                     "mode":  "strike",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        }
+                                    ],
+                     "name":  "body-strike-hyphen",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/body-strike-hyphen.docx",
+                     "sourceHash":  "22352348c2923f15117b73605d2f2679f304fdfb8e6254c797f6f077302fbecd",
+                     "leader":  "hyphen"
+                 },
+                 {
+                     "context":  "body",
+                     "mode":  "strike",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        }
+                                    ],
+                     "name":  "body-strike-underscore",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/body-strike-underscore.docx",
+                     "sourceHash":  "355956419678bda3941572332254d96096025e16a332eb472079c0fdf8ca96aa",
+                     "leader":  "underscore"
+                 },
+                 {
+                     "context":  "body",
+                     "mode":  "strike",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        }
+                                    ],
+                     "name":  "body-strike-heavy",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/body-strike-heavy.docx",
+                     "sourceHash":  "f60a3ac7e4fdb27336d90d9753c72a64cf605641d6d0bf23168bc5c629360266",
+                     "leader":  "heavy"
+                 },
+                 {
+                     "context":  "body",
+                     "mode":  "strike",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        }
+                                    ],
+                     "name":  "body-strike-middleDot",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/body-strike-middleDot.docx",
+                     "sourceHash":  "fdf9b293d7c5eb64f7808879a2f9dd8205e0765f808f424db0fca19d4ee1d838",
+                     "leader":  "middleDot"
+                 },
+                 {
+                     "context":  "body",
+                     "mode":  "both",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        }
+                                    ],
+                     "name":  "body-both-dot",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/body-both-dot.docx",
+                     "sourceHash":  "a79e7bd5ce14cebe5d4d345664d81d351a4b91dc1d62749d8b5ef82c891f2d5f",
+                     "leader":  "dot"
+                 },
+                 {
+                     "context":  "body",
+                     "mode":  "both",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        }
+                                    ],
+                     "name":  "body-both-hyphen",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/body-both-hyphen.docx",
+                     "sourceHash":  "51b40e2c4ea0ecc3da025c8ae537ac0ef4b0375357405bcd5fbce3475fc95124",
+                     "leader":  "hyphen"
+                 },
+                 {
+                     "context":  "body",
+                     "mode":  "both",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        }
+                                    ],
+                     "name":  "body-both-underscore",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/body-both-underscore.docx",
+                     "sourceHash":  "97c97e16e9707954c2034b388a3e8c654de2d7366de22690c5ce20b46cdae1fa",
+                     "leader":  "underscore"
+                 },
+                 {
+                     "context":  "body",
+                     "mode":  "both",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        }
+                                    ],
+                     "name":  "body-both-heavy",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/body-both-heavy.docx",
+                     "sourceHash":  "28c0f0af99e479e9f180fe020101d151f7dd16a27994b5bfed083f76ac1659fd",
+                     "leader":  "heavy"
+                 },
+                 {
+                     "context":  "body",
+                     "mode":  "both",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        }
+                                    ],
+                     "name":  "body-both-middleDot",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/body-both-middleDot.docx",
+                     "sourceHash":  "7fbc12aa19cf0df8f592503de2bef999b2c9979ed1b365adff7d66872f80394e",
+                     "leader":  "middleDot"
+                 },
+                 {
+                     "context":  "stories",
+                     "mode":  "underline",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        }
+                                    ],
+                     "name":  "stories-underline-dot",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/stories-underline-dot.docx",
+                     "sourceHash":  "3ef865c3bce1d5f60b1ff4603b54e4c8eb73c25fee160ab1f16d069729f54dbf",
+                     "leader":  "dot"
+                 },
+                 {
+                     "context":  "stories",
+                     "mode":  "underline",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        }
+                                    ],
+                     "name":  "stories-underline-hyphen",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/stories-underline-hyphen.docx",
+                     "sourceHash":  "459d624a48fba01123eff6df4f90ecb5d9b452f365c4cb1a65dcb8ab24206869",
+                     "leader":  "hyphen"
+                 },
+                 {
+                     "context":  "stories",
+                     "mode":  "underline",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        }
+                                    ],
+                     "name":  "stories-underline-underscore",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/stories-underline-underscore.docx",
+                     "sourceHash":  "f26b4c7b91fb6073b95b493a5efbf58af34e616504410c546893c2ade9da41bd",
+                     "leader":  "underscore"
+                 },
+                 {
+                     "context":  "stories",
+                     "mode":  "underline",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        }
+                                    ],
+                     "name":  "stories-underline-heavy",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/stories-underline-heavy.docx",
+                     "sourceHash":  "e54677b79a8a1abea48bcfa8cd73fb61e86e991a47abb2b63211fce2d6657966",
+                     "leader":  "heavy"
+                 },
+                 {
+                     "context":  "stories",
+                     "mode":  "underline",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        }
+                                    ],
+                     "name":  "stories-underline-middleDot",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/stories-underline-middleDot.docx",
+                     "sourceHash":  "733bf2de6bf71c0f45befa619a281193f0598ff191806353809fd9da1f461037",
+                     "leader":  "middleDot"
+                 },
+                 {
+                     "context":  "stories",
+                     "mode":  "strike",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        }
+                                    ],
+                     "name":  "stories-strike-dot",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/stories-strike-dot.docx",
+                     "sourceHash":  "910dbc8119206922803b0df3467de6074ce17a2db118441ab5801833bf93524d",
+                     "leader":  "dot"
+                 },
+                 {
+                     "context":  "stories",
+                     "mode":  "strike",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        }
+                                    ],
+                     "name":  "stories-strike-hyphen",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/stories-strike-hyphen.docx",
+                     "sourceHash":  "3fe112814072a0fde7678cdfc14385bc8f86906fcf79df8effb04af489e28c1a",
+                     "leader":  "hyphen"
+                 },
+                 {
+                     "context":  "stories",
+                     "mode":  "strike",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        }
+                                    ],
+                     "name":  "stories-strike-underscore",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/stories-strike-underscore.docx",
+                     "sourceHash":  "12cbafadeebea62c9bfd6ee619f27d4284ca0be5c3e4ba2563698b1dd0d3349e",
+                     "leader":  "underscore"
+                 },
+                 {
+                     "context":  "stories",
+                     "mode":  "strike",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        }
+                                    ],
+                     "name":  "stories-strike-heavy",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/stories-strike-heavy.docx",
+                     "sourceHash":  "d41222c0b3db2d7848541e9d41c91bd007306d1b8dddb1fd6c931f28d752f5f1",
+                     "leader":  "heavy"
+                 },
+                 {
+                     "context":  "stories",
+                     "mode":  "strike",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        }
+                                    ],
+                     "name":  "stories-strike-middleDot",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/stories-strike-middleDot.docx",
+                     "sourceHash":  "a727c677065a439f9fe01fefc471af9095ca2378e3db719e6456c30e0499744c",
+                     "leader":  "middleDot"
+                 },
+                 {
+                     "context":  "stories",
+                     "mode":  "both",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        }
+                                    ],
+                     "name":  "stories-both-dot",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/stories-both-dot.docx",
+                     "sourceHash":  "08ed928fb9d3e14df7107a1919efa7de9e57e337134ad6fe30b95a1cc27a8f08",
+                     "leader":  "dot"
+                 },
+                 {
+                     "context":  "stories",
+                     "mode":  "both",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        }
+                                    ],
+                     "name":  "stories-both-hyphen",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/stories-both-hyphen.docx",
+                     "sourceHash":  "5e1eed44999bbaa30d7f63aa404ac1712e1454265a9f43f74e2c196b679911a3",
+                     "leader":  "hyphen"
+                 },
+                 {
+                     "context":  "stories",
+                     "mode":  "both",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        }
+                                    ],
+                     "name":  "stories-both-underscore",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/stories-both-underscore.docx",
+                     "sourceHash":  "a69ab29230553f283e0f1b6ee10caf0729c1781d883ac5cc504133c9bd3370cd",
+                     "leader":  "underscore"
+                 },
+                 {
+                     "context":  "stories",
+                     "mode":  "both",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        }
+                                    ],
+                     "name":  "stories-both-heavy",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/stories-both-heavy.docx",
+                     "sourceHash":  "b0b835e7fc7bb501168765128c646c2d32b42e32ccba1789f59da738c6796e55",
+                     "leader":  "heavy"
+                 },
+                 {
+                     "context":  "stories",
+                     "mode":  "both",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        }
+                                    ],
+                     "name":  "stories-both-middleDot",
+                     "path":  "tests/fixtures/word-pdf-tab-leader-decorations/stories-both-middleDot.docx",
+                     "sourceHash":  "d36303760d7d5244b87ad61576374eabf90b22ad542af164d6b56e53944ee407",
+                     "leader":  "middleDot"
+                 }
+             ],
+    "producerHash":  "e47e1a0c4660cc069a3364907b3379aa5c978bc97e281606ffee88b11ff3ac00",
+    "sourcePlanHash":  "edf1854b2337694ce22300a48e14bf5fb185de43c9572a87d1dee6648bd7fe2c",
+    "scope":  "Independent 30 marked-leader controls: underline/strike/both, all five leader kinds, Arial10/Calibri11, tab-only/whole A-tab-B, body/default header/footer. Do not infer composition from separate leader and decoration tests."
+}

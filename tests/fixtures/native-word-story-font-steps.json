@@ -1,0 +1,1371 @@
+{
+  "sources": [
+    {
+      "pdfHash": "4329ed3d241dbb6ad1ebd8c1aab0af892ea9bc7f21b2f8c11f3337e5e0b997f3",
+      "sourceHash": "c15e07d6fe0b9676d95debb360514b88f526ec1558b3f58465b505e802b67408",
+      "name": "Headers",
+      "paragraphs": [
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 20,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdfHash": "e060a6e3d941f1ae98d6fec42df9a2c8a48ddf61fffa15a6603af784766ff82b",
+      "sourceHash": "76b56011b034a0a8aecf6fd14eb66693f8bc98bbd69b737cf3dd36fcc18e9ef0",
+      "name": "Footers",
+      "paragraphs": [
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 20,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sourceHash": "461d7770364e804a85b4f19f058443136d086cd822261f31339e7f56eeee0742",
+  "scriptHash": "987234933a2fb223dffc4070a5f7430794f1c9feaef0f5bb5ee658b3c9e2ff62",
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "rows": [
+    {
+      "mode": "Grow",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 11,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 11,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 22,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        }
+      ],
+      "selection": "A\tB",
+      "sourceHash": "c15e07d6fe0b9676d95debb360514b88f526ec1558b3f58465b505e802b67408",
+      "name": "Headers-Grow-text",
+      "docxHash": "87fda6a1d2bd1cb7e2ccf2bb04199394a7b76117539e561db446bf3e83120144",
+      "scope": "text",
+      "pdfHash": "e4f05841fce67a142d0790017db421d11d4a402d876e9009e460263842bb9755"
+    },
+    {
+      "mode": "Grow",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 11,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 11,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 22,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 11,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        }
+      ],
+      "selection": "A\tB\r",
+      "sourceHash": "c15e07d6fe0b9676d95debb360514b88f526ec1558b3f58465b505e802b67408",
+      "name": "Headers-Grow-mark",
+      "docxHash": "8e533be0ff621b80cb9057b24f9b27a2de5cd11184b4697382e00a0d8ea0771b",
+      "scope": "mark",
+      "pdfHash": "4b962c4e1d21d2434f44872c3885a544b94de99dcbba1e9e6d768e6edbcb1b83"
+    },
+    {
+      "mode": "Shrink",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 9,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 9,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 18,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        }
+      ],
+      "selection": "A\tB",
+      "sourceHash": "c15e07d6fe0b9676d95debb360514b88f526ec1558b3f58465b505e802b67408",
+      "name": "Headers-Shrink-text",
+      "docxHash": "d705458f06cb6bb2d05eff2763eb5cd83e1c162cbb83bc473a3386038875e6e6",
+      "scope": "text",
+      "pdfHash": "e481dccd49e3e044c3936c2dfd05e8243ad31801022e48c2a3aecab7ff2ff36c"
+    },
+    {
+      "mode": "Shrink",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 9,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 9,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 18,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 9,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        }
+      ],
+      "selection": "A\tB\r",
+      "sourceHash": "c15e07d6fe0b9676d95debb360514b88f526ec1558b3f58465b505e802b67408",
+      "name": "Headers-Shrink-mark",
+      "docxHash": "af9bc333e0f5138dfdfab89047c482c21530783d590693990ffa51c7f6899418",
+      "scope": "mark",
+      "pdfHash": "0e6cd66aa3acdde3e873620d1130ae75cfda8e308bf2581b0064a1b9ab84d759"
+    },
+    {
+      "mode": "Grow",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 11,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 11,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 22,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        }
+      ],
+      "selection": "A\tB",
+      "sourceHash": "76b56011b034a0a8aecf6fd14eb66693f8bc98bbd69b737cf3dd36fcc18e9ef0",
+      "name": "Footers-Grow-text",
+      "docxHash": "a29efcfa694a6453ccbba11c1d215b2ce02cad682a38548b48acd4fb25f23b63",
+      "scope": "text",
+      "pdfHash": "8c9c05bf9f9eec588a508d0e2836095b20bd897255828146fd76be769da03491"
+    },
+    {
+      "mode": "Grow",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 11,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 11,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 22,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 11,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        }
+      ],
+      "selection": "A\tB\r",
+      "sourceHash": "76b56011b034a0a8aecf6fd14eb66693f8bc98bbd69b737cf3dd36fcc18e9ef0",
+      "name": "Footers-Grow-mark",
+      "docxHash": "aed5e72ad266418c5e54ed06e1b0f263be4683fad263b93e25294efea5ac6964",
+      "scope": "mark",
+      "pdfHash": "12e876f37761732f25d28a22e2c9031f7d9cd52ca6b939220dacfacd6b787ce3"
+    },
+    {
+      "mode": "Shrink",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 9,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 9,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 18,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        }
+      ],
+      "selection": "A\tB",
+      "sourceHash": "76b56011b034a0a8aecf6fd14eb66693f8bc98bbd69b737cf3dd36fcc18e9ef0",
+      "name": "Footers-Shrink-text",
+      "docxHash": "07dd120c8fc48b899b0382d9b8c45b72907809177e27ca24b3d8b6c65eec26ac",
+      "scope": "text",
+      "pdfHash": "05f432684fe4066d056820a92304c62e4fa5fcf9bfab18fa051cd3f7f876654a"
+    },
+    {
+      "mode": "Shrink",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 9,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 9,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 18,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 9,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        },
+        {
+          "text": "A\tB\r",
+          "characters": [
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "A"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\t"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "B"
+            },
+            {
+              "size": 10,
+              "family": "Arial",
+              "text": "\r"
+            }
+          ]
+        }
+      ],
+      "selection": "A\tB\r",
+      "sourceHash": "76b56011b034a0a8aecf6fd14eb66693f8bc98bbd69b737cf3dd36fcc18e9ef0",
+      "name": "Footers-Shrink-mark",
+      "docxHash": "759439d6ff5bad90d74e02d1de9a833ba8c9996745f5c3b90f76878a4402388a",
+      "scope": "mark",
+      "pdfHash": "d423fe3fe7282702f869fc7ca5565edbe68bc2d0f529b3e868f4d733cf8b5829"
+    }
+  ],
+  "nativeReportHash": "e5616f84ad946f18c37336837411323bdeea0f0fe1209dc98b4dffff1b5ab790",
+  "scope": "Eight owned Word Selection.Font.Grow/Shrink references: mixed Arial10/20 text, with and without the first paragraph mark, in both story kinds. Native methods do not certify Ribbon/keyboard/foreground interactions. Synthetic MIT fixtures; no font binaries."
+}

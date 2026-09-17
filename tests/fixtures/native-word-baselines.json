@@ -1,0 +1,1472 @@
+﻿{
+    "scriptSha256":  "29f467ba518ca9926160c2dfb961b92329ad3ca449a716d8d83d55fbc936ef3d",
+    "source":  [
+                   {
+                       "rule":  0,
+                       "spacing":  12,
+                       "text":  "Sg Large\r",
+                       "chars":  [
+                                     {
+                                         "text":  "S",
+                                         "family":  "Arial",
+                                         "y":  72,
+                                         "page":  1,
+                                         "x":  72,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  72,
+                                         "page":  1,
+                                         "x":  78.75,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  " ",
+                                         "family":  "Arial",
+                                         "y":  72,
+                                         "page":  1,
+                                         "x":  84.4000015258789,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "L",
+                                         "family":  "Arial",
+                                         "y":  72,
+                                         "page":  1,
+                                         "x":  87,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "a",
+                                         "family":  "Arial",
+                                         "y":  72,
+                                         "page":  1,
+                                         "x":  92.6500015258789,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "r",
+                                         "family":  "Arial",
+                                         "y":  72,
+                                         "page":  1,
+                                         "x":  98.25,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  72,
+                                         "page":  1,
+                                         "x":  101.65000152587891,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "e",
+                                         "family":  "Arial",
+                                         "y":  72,
+                                         "page":  1,
+                                         "x":  106.90000152587891,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "\r",
+                                         "family":  "Arial",
+                                         "y":  72,
+                                         "page":  1,
+                                         "x":  112.5,
+                                         "size":  10
+                                     }
+                                 ]
+                   },
+                   {
+                       "rule":  0,
+                       "spacing":  12,
+                       "text":  "Sg Large\r",
+                       "chars":  [
+                                     {
+                                         "text":  "S",
+                                         "family":  "Arial",
+                                         "y":  83.6500015258789,
+                                         "page":  1,
+                                         "x":  72,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  83.6500015258789,
+                                         "page":  1,
+                                         "x":  85.5,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  " ",
+                                         "family":  "Arial",
+                                         "y":  83.6500015258789,
+                                         "page":  1,
+                                         "x":  96.4000015258789,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "L",
+                                         "family":  "Arial",
+                                         "y":  83.6500015258789,
+                                         "page":  1,
+                                         "x":  102,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "a",
+                                         "family":  "Arial",
+                                         "y":  83.6500015258789,
+                                         "page":  1,
+                                         "x":  113.25,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "r",
+                                         "family":  "Arial",
+                                         "y":  83.6500015258789,
+                                         "page":  1,
+                                         "x":  124.15000152587891,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  83.6500015258789,
+                                         "page":  1,
+                                         "x":  130.89999389648438,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "e",
+                                         "family":  "Arial",
+                                         "y":  83.6500015258789,
+                                         "page":  1,
+                                         "x":  142.14999389648438,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "\r",
+                                         "family":  "Arial",
+                                         "y":  83.6500015258789,
+                                         "page":  1,
+                                         "x":  153,
+                                         "size":  10
+                                     }
+                                 ]
+                   },
+                   {
+                       "rule":  0,
+                       "spacing":  12,
+                       "text":  "Sg Large\r",
+                       "chars":  [
+                                     {
+                                         "text":  "S",
+                                         "family":  "Arial",
+                                         "y":  106.5,
+                                         "page":  1,
+                                         "x":  72,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  106.5,
+                                         "page":  1,
+                                         "x":  91.9000015258789,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  " ",
+                                         "family":  "Arial",
+                                         "y":  106.5,
+                                         "page":  1,
+                                         "x":  108.75,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "L",
+                                         "family":  "Arial",
+                                         "y":  106.5,
+                                         "page":  1,
+                                         "x":  117,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "a",
+                                         "family":  "Arial",
+                                         "y":  106.5,
+                                         "page":  1,
+                                         "x":  133.89999389648438,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "r",
+                                         "family":  "Arial",
+                                         "y":  106.5,
+                                         "page":  1,
+                                         "x":  150.39999389648438,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  106.5,
+                                         "page":  1,
+                                         "x":  160.5,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "e",
+                                         "family":  "Arial",
+                                         "y":  106.5,
+                                         "page":  1,
+                                         "x":  177,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "\r",
+                                         "family":  "Arial",
+                                         "y":  106.5,
+                                         "page":  1,
+                                         "x":  193.89999389648438,
+                                         "size":  10
+                                     }
+                                 ]
+                   },
+                   {
+                       "rule":  0,
+                       "spacing":  12,
+                       "text":  "Sg Large\r",
+                       "chars":  [
+                                     {
+                                         "text":  "S",
+                                         "family":  "Arial",
+                                         "y":  141,
+                                         "page":  1,
+                                         "x":  72,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  141,
+                                         "page":  1,
+                                         "x":  78.75,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  " ",
+                                         "family":  "Arial",
+                                         "y":  141,
+                                         "page":  1,
+                                         "x":  84.4000015258789,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "L",
+                                         "family":  "Arial",
+                                         "y":  141,
+                                         "page":  1,
+                                         "x":  87,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "a",
+                                         "family":  "Arial",
+                                         "y":  141,
+                                         "page":  1,
+                                         "x":  92.6500015258789,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "r",
+                                         "family":  "Arial",
+                                         "y":  141,
+                                         "page":  1,
+                                         "x":  98.25,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  141,
+                                         "page":  1,
+                                         "x":  101.65000152587891,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "e",
+                                         "family":  "Arial",
+                                         "y":  141,
+                                         "page":  1,
+                                         "x":  106.90000152587891,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "\r",
+                                         "family":  "Arial",
+                                         "y":  141,
+                                         "page":  1,
+                                         "x":  112.5,
+                                         "size":  10
+                                     }
+                                 ]
+                   },
+                   {
+                       "rule":  0,
+                       "spacing":  12,
+                       "text":  "Sg Large\r",
+                       "chars":  [
+                                     {
+                                         "text":  "S",
+                                         "family":  "Arial",
+                                         "y":  152.64999389648438,
+                                         "page":  1,
+                                         "x":  72,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  152.64999389648438,
+                                         "page":  1,
+                                         "x":  85.5,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  " ",
+                                         "family":  "Arial",
+                                         "y":  152.64999389648438,
+                                         "page":  1,
+                                         "x":  96.4000015258789,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "L",
+                                         "family":  "Arial",
+                                         "y":  152.64999389648438,
+                                         "page":  1,
+                                         "x":  102,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "a",
+                                         "family":  "Arial",
+                                         "y":  152.64999389648438,
+                                         "page":  1,
+                                         "x":  113.25,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "r",
+                                         "family":  "Arial",
+                                         "y":  152.64999389648438,
+                                         "page":  1,
+                                         "x":  124.15000152587891,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  152.64999389648438,
+                                         "page":  1,
+                                         "x":  130.89999389648438,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "e",
+                                         "family":  "Arial",
+                                         "y":  152.64999389648438,
+                                         "page":  1,
+                                         "x":  142.14999389648438,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "\r",
+                                         "family":  "Arial",
+                                         "y":  152.64999389648438,
+                                         "page":  1,
+                                         "x":  153,
+                                         "size":  10
+                                     }
+                                 ]
+                   },
+                   {
+                       "rule":  0,
+                       "spacing":  12,
+                       "text":  "Sg Large\r",
+                       "chars":  [
+                                     {
+                                         "text":  "S",
+                                         "family":  "Arial",
+                                         "y":  175.5,
+                                         "page":  1,
+                                         "x":  72,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  175.5,
+                                         "page":  1,
+                                         "x":  91.9000015258789,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  " ",
+                                         "family":  "Arial",
+                                         "y":  175.5,
+                                         "page":  1,
+                                         "x":  108.75,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "L",
+                                         "family":  "Arial",
+                                         "y":  175.5,
+                                         "page":  1,
+                                         "x":  117,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "a",
+                                         "family":  "Arial",
+                                         "y":  175.5,
+                                         "page":  1,
+                                         "x":  133.89999389648438,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "r",
+                                         "family":  "Arial",
+                                         "y":  175.5,
+                                         "page":  1,
+                                         "x":  150.39999389648438,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  175.5,
+                                         "page":  1,
+                                         "x":  160.5,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "e",
+                                         "family":  "Arial",
+                                         "y":  175.5,
+                                         "page":  1,
+                                         "x":  177,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "\r",
+                                         "family":  "Arial",
+                                         "y":  175.5,
+                                         "page":  1,
+                                         "x":  193.89999389648438,
+                                         "size":  10
+                                     }
+                                 ]
+                   },
+                   {
+                       "rule":  0,
+                       "spacing":  12,
+                       "text":  "Sg Large\r",
+                       "chars":  [
+                                     {
+                                         "text":  "S",
+                                         "family":  "Arial",
+                                         "y":  210,
+                                         "page":  1,
+                                         "x":  72,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  210,
+                                         "page":  1,
+                                         "x":  78.75,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  " ",
+                                         "family":  "Arial",
+                                         "y":  210,
+                                         "page":  1,
+                                         "x":  84.4000015258789,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "L",
+                                         "family":  "Arial",
+                                         "y":  210,
+                                         "page":  1,
+                                         "x":  87,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "a",
+                                         "family":  "Arial",
+                                         "y":  210,
+                                         "page":  1,
+                                         "x":  92.6500015258789,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "r",
+                                         "family":  "Arial",
+                                         "y":  210,
+                                         "page":  1,
+                                         "x":  98.25,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  210,
+                                         "page":  1,
+                                         "x":  101.65000152587891,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "e",
+                                         "family":  "Arial",
+                                         "y":  210,
+                                         "page":  1,
+                                         "x":  106.90000152587891,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "\r",
+                                         "family":  "Arial",
+                                         "y":  210,
+                                         "page":  1,
+                                         "x":  112.5,
+                                         "size":  10
+                                     }
+                                 ]
+                   },
+                   {
+                       "rule":  0,
+                       "spacing":  12,
+                       "text":  "Sg Large\r",
+                       "chars":  [
+                                     {
+                                         "text":  "S",
+                                         "family":  "Arial",
+                                         "y":  221.64999389648438,
+                                         "page":  1,
+                                         "x":  72,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  221.64999389648438,
+                                         "page":  1,
+                                         "x":  85.5,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  " ",
+                                         "family":  "Arial",
+                                         "y":  221.64999389648438,
+                                         "page":  1,
+                                         "x":  96.4000015258789,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "L",
+                                         "family":  "Arial",
+                                         "y":  221.64999389648438,
+                                         "page":  1,
+                                         "x":  102,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "a",
+                                         "family":  "Arial",
+                                         "y":  221.64999389648438,
+                                         "page":  1,
+                                         "x":  113.25,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "r",
+                                         "family":  "Arial",
+                                         "y":  221.64999389648438,
+                                         "page":  1,
+                                         "x":  124.15000152587891,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  221.64999389648438,
+                                         "page":  1,
+                                         "x":  130.89999389648438,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "e",
+                                         "family":  "Arial",
+                                         "y":  221.64999389648438,
+                                         "page":  1,
+                                         "x":  142.14999389648438,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "\r",
+                                         "family":  "Arial",
+                                         "y":  221.64999389648438,
+                                         "page":  1,
+                                         "x":  153,
+                                         "size":  10
+                                     }
+                                 ]
+                   },
+                   {
+                       "rule":  0,
+                       "spacing":  12,
+                       "text":  "Sg Large\r",
+                       "chars":  [
+                                     {
+                                         "text":  "S",
+                                         "family":  "Arial",
+                                         "y":  244.5,
+                                         "page":  1,
+                                         "x":  72,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  244.5,
+                                         "page":  1,
+                                         "x":  91.9000015258789,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  " ",
+                                         "family":  "Arial",
+                                         "y":  244.5,
+                                         "page":  1,
+                                         "x":  108.75,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "L",
+                                         "family":  "Arial",
+                                         "y":  244.5,
+                                         "page":  1,
+                                         "x":  117,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "a",
+                                         "family":  "Arial",
+                                         "y":  244.5,
+                                         "page":  1,
+                                         "x":  133.89999389648438,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "r",
+                                         "family":  "Arial",
+                                         "y":  244.5,
+                                         "page":  1,
+                                         "x":  150.39999389648438,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  244.5,
+                                         "page":  1,
+                                         "x":  160.5,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "e",
+                                         "family":  "Arial",
+                                         "y":  244.5,
+                                         "page":  1,
+                                         "x":  177,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "\r",
+                                         "family":  "Arial",
+                                         "y":  244.5,
+                                         "page":  1,
+                                         "x":  193.89999389648438,
+                                         "size":  10
+                                     }
+                                 ]
+                   },
+                   {
+                       "rule":  1,
+                       "spacing":  18,
+                       "text":  "Sg Large\r",
+                       "chars":  [
+                                     {
+                                         "text":  "S",
+                                         "family":  "Arial",
+                                         "y":  279,
+                                         "page":  1,
+                                         "x":  72,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  279,
+                                         "page":  1,
+                                         "x":  78.75,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  " ",
+                                         "family":  "Arial",
+                                         "y":  279,
+                                         "page":  1,
+                                         "x":  84.4000015258789,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "L",
+                                         "family":  "Arial",
+                                         "y":  279,
+                                         "page":  1,
+                                         "x":  87,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "a",
+                                         "family":  "Arial",
+                                         "y":  279,
+                                         "page":  1,
+                                         "x":  92.6500015258789,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "r",
+                                         "family":  "Arial",
+                                         "y":  279,
+                                         "page":  1,
+                                         "x":  98.25,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  279,
+                                         "page":  1,
+                                         "x":  101.65000152587891,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "e",
+                                         "family":  "Arial",
+                                         "y":  279,
+                                         "page":  1,
+                                         "x":  106.90000152587891,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "\r",
+                                         "family":  "Arial",
+                                         "y":  279,
+                                         "page":  1,
+                                         "x":  112.5,
+                                         "size":  10
+                                     }
+                                 ]
+                   },
+                   {
+                       "rule":  1,
+                       "spacing":  18,
+                       "text":  "Sg Large\r",
+                       "chars":  [
+                                     {
+                                         "text":  "S",
+                                         "family":  "Arial",
+                                         "y":  296.25,
+                                         "page":  1,
+                                         "x":  72,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  296.25,
+                                         "page":  1,
+                                         "x":  85.5,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  " ",
+                                         "family":  "Arial",
+                                         "y":  296.25,
+                                         "page":  1,
+                                         "x":  96.4000015258789,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "L",
+                                         "family":  "Arial",
+                                         "y":  296.25,
+                                         "page":  1,
+                                         "x":  102,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "a",
+                                         "family":  "Arial",
+                                         "y":  296.25,
+                                         "page":  1,
+                                         "x":  113.25,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "r",
+                                         "family":  "Arial",
+                                         "y":  296.25,
+                                         "page":  1,
+                                         "x":  124.15000152587891,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  296.25,
+                                         "page":  1,
+                                         "x":  130.89999389648438,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "e",
+                                         "family":  "Arial",
+                                         "y":  296.25,
+                                         "page":  1,
+                                         "x":  142.14999389648438,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "\r",
+                                         "family":  "Arial",
+                                         "y":  296.25,
+                                         "page":  1,
+                                         "x":  153,
+                                         "size":  10
+                                     }
+                                 ]
+                   },
+                   {
+                       "rule":  1,
+                       "spacing":  18,
+                       "text":  "Sg Large\r",
+                       "chars":  [
+                                     {
+                                         "text":  "S",
+                                         "family":  "Arial",
+                                         "y":  330.75,
+                                         "page":  1,
+                                         "x":  72,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  330.75,
+                                         "page":  1,
+                                         "x":  91.9000015258789,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  " ",
+                                         "family":  "Arial",
+                                         "y":  330.75,
+                                         "page":  1,
+                                         "x":  108.75,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "L",
+                                         "family":  "Arial",
+                                         "y":  330.75,
+                                         "page":  1,
+                                         "x":  117,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "a",
+                                         "family":  "Arial",
+                                         "y":  330.75,
+                                         "page":  1,
+                                         "x":  133.89999389648438,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "r",
+                                         "family":  "Arial",
+                                         "y":  330.75,
+                                         "page":  1,
+                                         "x":  150.39999389648438,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  330.75,
+                                         "page":  1,
+                                         "x":  160.5,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "e",
+                                         "family":  "Arial",
+                                         "y":  330.75,
+                                         "page":  1,
+                                         "x":  177,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "\r",
+                                         "family":  "Arial",
+                                         "y":  330.75,
+                                         "page":  1,
+                                         "x":  193.89999389648438,
+                                         "size":  10
+                                     }
+                                 ]
+                   },
+                   {
+                       "rule":  1,
+                       "spacing":  18,
+                       "text":  "Sg Large\r",
+                       "chars":  [
+                                     {
+                                         "text":  "S",
+                                         "family":  "Arial",
+                                         "y":  382.5,
+                                         "page":  1,
+                                         "x":  72,
+                                         "size":  8
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  382.5,
+                                         "page":  1,
+                                         "x":  77.25,
+                                         "size":  8
+                                     },
+                                     {
+                                         "text":  " ",
+                                         "family":  "Arial",
+                                         "y":  382.5,
+                                         "page":  1,
+                                         "x":  81.75,
+                                         "size":  8
+                                     },
+                                     {
+                                         "text":  "L",
+                                         "family":  "Arial",
+                                         "y":  382.5,
+                                         "page":  1,
+                                         "x":  84,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "a",
+                                         "family":  "Arial",
+                                         "y":  382.5,
+                                         "page":  1,
+                                         "x":  89.6500015258789,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "r",
+                                         "family":  "Arial",
+                                         "y":  382.5,
+                                         "page":  1,
+                                         "x":  95.25,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  382.5,
+                                         "page":  1,
+                                         "x":  98.6500015258789,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "e",
+                                         "family":  "Arial",
+                                         "y":  382.5,
+                                         "page":  1,
+                                         "x":  103.90000152587891,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "\r",
+                                         "family":  "Arial",
+                                         "y":  382.5,
+                                         "page":  1,
+                                         "x":  109.5,
+                                         "size":  40
+                                     }
+                                 ]
+                   },
+                   {
+                       "rule":  1,
+                       "spacing":  18,
+                       "text":  "Sg Large\r",
+                       "chars":  [
+                                     {
+                                         "text":  "S",
+                                         "family":  "Arial",
+                                         "y":  399.75,
+                                         "page":  1,
+                                         "x":  72,
+                                         "size":  8
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  399.75,
+                                         "page":  1,
+                                         "x":  77.25,
+                                         "size":  8
+                                     },
+                                     {
+                                         "text":  " ",
+                                         "family":  "Arial",
+                                         "y":  399.75,
+                                         "page":  1,
+                                         "x":  81.75,
+                                         "size":  8
+                                     },
+                                     {
+                                         "text":  "L",
+                                         "family":  "Arial",
+                                         "y":  399.75,
+                                         "page":  1,
+                                         "x":  84,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "a",
+                                         "family":  "Arial",
+                                         "y":  399.75,
+                                         "page":  1,
+                                         "x":  95.25,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "r",
+                                         "family":  "Arial",
+                                         "y":  399.75,
+                                         "page":  1,
+                                         "x":  106.15000152587891,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  399.75,
+                                         "page":  1,
+                                         "x":  112.90000152587891,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "e",
+                                         "family":  "Arial",
+                                         "y":  399.75,
+                                         "page":  1,
+                                         "x":  124.15000152587891,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "\r",
+                                         "family":  "Arial",
+                                         "y":  399.75,
+                                         "page":  1,
+                                         "x":  135,
+                                         "size":  40
+                                     }
+                                 ]
+                   },
+                   {
+                       "rule":  1,
+                       "spacing":  18,
+                       "text":  "Sg Large\r",
+                       "chars":  [
+                                     {
+                                         "text":  "S",
+                                         "family":  "Arial",
+                                         "y":  434.25,
+                                         "page":  1,
+                                         "x":  72,
+                                         "size":  8
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  434.25,
+                                         "page":  1,
+                                         "x":  77.25,
+                                         "size":  8
+                                     },
+                                     {
+                                         "text":  " ",
+                                         "family":  "Arial",
+                                         "y":  434.25,
+                                         "page":  1,
+                                         "x":  81.75,
+                                         "size":  8
+                                     },
+                                     {
+                                         "text":  "L",
+                                         "family":  "Arial",
+                                         "y":  434.25,
+                                         "page":  1,
+                                         "x":  84,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "a",
+                                         "family":  "Arial",
+                                         "y":  434.25,
+                                         "page":  1,
+                                         "x":  100.90000152587891,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "r",
+                                         "family":  "Arial",
+                                         "y":  434.25,
+                                         "page":  1,
+                                         "x":  117.40000152587891,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  434.25,
+                                         "page":  1,
+                                         "x":  127.5,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "e",
+                                         "family":  "Arial",
+                                         "y":  434.25,
+                                         "page":  1,
+                                         "x":  144,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "\r",
+                                         "family":  "Arial",
+                                         "y":  434.25,
+                                         "page":  1,
+                                         "x":  160.89999389648438,
+                                         "size":  40
+                                     }
+                                 ]
+                   },
+                   {
+                       "rule":  3,
+                       "spacing":  50,
+                       "text":  "Sg Large\r",
+                       "chars":  [
+                                     {
+                                         "text":  "S",
+                                         "family":  "Arial",
+                                         "y":  486,
+                                         "page":  1,
+                                         "x":  72,
+                                         "size":  8
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  486,
+                                         "page":  1,
+                                         "x":  77.25,
+                                         "size":  8
+                                     },
+                                     {
+                                         "text":  " ",
+                                         "family":  "Arial",
+                                         "y":  486,
+                                         "page":  1,
+                                         "x":  81.75,
+                                         "size":  8
+                                     },
+                                     {
+                                         "text":  "L",
+                                         "family":  "Arial",
+                                         "y":  486,
+                                         "page":  1,
+                                         "x":  84,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "a",
+                                         "family":  "Arial",
+                                         "y":  486,
+                                         "page":  1,
+                                         "x":  89.6500015258789,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "r",
+                                         "family":  "Arial",
+                                         "y":  486,
+                                         "page":  1,
+                                         "x":  95.25,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  486,
+                                         "page":  1,
+                                         "x":  98.6500015258789,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "e",
+                                         "family":  "Arial",
+                                         "y":  486,
+                                         "page":  1,
+                                         "x":  103.90000152587891,
+                                         "size":  10
+                                     },
+                                     {
+                                         "text":  "\r",
+                                         "family":  "Arial",
+                                         "y":  486,
+                                         "page":  1,
+                                         "x":  109.5,
+                                         "size":  10
+                                     }
+                                 ]
+                   },
+                   {
+                       "rule":  3,
+                       "spacing":  50,
+                       "text":  "Sg Large\r",
+                       "chars":  [
+                                     {
+                                         "text":  "S",
+                                         "family":  "Arial",
+                                         "y":  535.9000244140625,
+                                         "page":  1,
+                                         "x":  72,
+                                         "size":  8
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  535.9000244140625,
+                                         "page":  1,
+                                         "x":  77.25,
+                                         "size":  8
+                                     },
+                                     {
+                                         "text":  " ",
+                                         "family":  "Arial",
+                                         "y":  535.9000244140625,
+                                         "page":  1,
+                                         "x":  81.75,
+                                         "size":  8
+                                     },
+                                     {
+                                         "text":  "L",
+                                         "family":  "Arial",
+                                         "y":  535.9000244140625,
+                                         "page":  1,
+                                         "x":  84,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "a",
+                                         "family":  "Arial",
+                                         "y":  535.9000244140625,
+                                         "page":  1,
+                                         "x":  95.25,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "r",
+                                         "family":  "Arial",
+                                         "y":  535.9000244140625,
+                                         "page":  1,
+                                         "x":  106.15000152587891,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  535.9000244140625,
+                                         "page":  1,
+                                         "x":  112.90000152587891,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "e",
+                                         "family":  "Arial",
+                                         "y":  535.9000244140625,
+                                         "page":  1,
+                                         "x":  124.15000152587891,
+                                         "size":  20
+                                     },
+                                     {
+                                         "text":  "\r",
+                                         "family":  "Arial",
+                                         "y":  535.9000244140625,
+                                         "page":  1,
+                                         "x":  135,
+                                         "size":  10
+                                     }
+                                 ]
+                   },
+                   {
+                       "rule":  3,
+                       "spacing":  50,
+                       "text":  "Sg Large\r",
+                       "chars":  [
+                                     {
+                                         "text":  "S",
+                                         "family":  "Arial",
+                                         "y":  586.1500244140625,
+                                         "page":  1,
+                                         "x":  72,
+                                         "size":  8
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  586.1500244140625,
+                                         "page":  1,
+                                         "x":  77.25,
+                                         "size":  8
+                                     },
+                                     {
+                                         "text":  " ",
+                                         "family":  "Arial",
+                                         "y":  586.1500244140625,
+                                         "page":  1,
+                                         "x":  81.75,
+                                         "size":  8
+                                     },
+                                     {
+                                         "text":  "L",
+                                         "family":  "Arial",
+                                         "y":  586.1500244140625,
+                                         "page":  1,
+                                         "x":  84,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "a",
+                                         "family":  "Arial",
+                                         "y":  586.1500244140625,
+                                         "page":  1,
+                                         "x":  100.90000152587891,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "r",
+                                         "family":  "Arial",
+                                         "y":  586.1500244140625,
+                                         "page":  1,
+                                         "x":  117.40000152587891,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "g",
+                                         "family":  "Arial",
+                                         "y":  586.1500244140625,
+                                         "page":  1,
+                                         "x":  127.5,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "e",
+                                         "family":  "Arial",
+                                         "y":  586.1500244140625,
+                                         "page":  1,
+                                         "x":  144,
+                                         "size":  30
+                                     },
+                                     {
+                                         "text":  "\r",
+                                         "family":  "Arial",
+                                         "y":  586.1500244140625,
+                                         "page":  1,
+                                         "x":  160.89999389648438,
+                                         "size":  10
+                                     }
+                                 ]
+                   }
+               ],
+    "build":  "16.0.4627",
+    "version":  "16.0",
+    "passed":  true,
+    "printer":  "Microsoft Print to PDF",
+    "executableSha256":  "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+    "fonts":  [
+                  {
+                      "sha256":  "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+                      "name":  "arial.ttf"
+                  },
+                  {
+                      "sha256":  "e8f4e3baf6cc35fed6fcce3a540e8b39e8f6cda1d22a28f2ec8f526fef7a43f5",
+                      "name":  "arialbd.ttf"
+                  },
+                  {
+                      "sha256":  "86b32db9a06f9694e2a3760c42e5117bcdc5cc1255bb5186ca8ce0305e22f288",
+                      "name":  "ariali.ttf"
+                  },
+                  {
+                      "sha256":  "267a411525980d648f10a7222a6ff1ebe4d4feeefbf9b3100cae2b5cfab5594a",
+                      "name":  "arialbi.ttf"
+                  }
+              ],
+    "artifacts":  [
+                      {
+                          "sha256":  "3ed5fd851eb1e56e7ee610b78700a39d304e9592bda63d8a6497dd527b3dd3f9",
+                          "path":  "authored.docx"
+                      },
+                      {
+                          "sha256":  "2bbd3a3a670fb5f1703f181b99293cc1de4cf8f9e3246a8ca06b1304751d989e",
+                          "path":  "source-native.pdf"
+                      },
+                      {
+                          "sha256":  "a68a5d848558d93425a1718e0d2c258a7370feaf44f3ed2dbf4d09fcc313d022",
+                          "path":  "source-native.xps"
+                      },
+                      {
+                          "sha256":  "431950979466304232e873a4a430fe55e85da807d470e4a9904c05b93cc562b2",
+                          "path":  "source.docx"
+                      }
+                  ],
+    "sourceSha256":  "431950979466304232e873a4a430fe55e85da807d470e4a9904c05b93cc562b2",
+    "stages":  [
+
+               ]
+}

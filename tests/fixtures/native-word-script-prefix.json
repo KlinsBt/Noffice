@@ -1,0 +1,1309 @@
+﻿{
+    "executableHash":  "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+    "method":  "Owned Selection.TypeText prefix edit, Undo/Redo, save/read-only reopen; no foreground certification.",
+    "scriptHash":  "44faa139c144d3b40e8f8afaf63721c24836369479fe5e5f7fc527fc4300ea78",
+    "rows":  [
+                 {
+                     "redo":  [
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "Q",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "A",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "b",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\t",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "B",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\r",
+                                      "superscript":  -1
+                                  }
+                              ],
+                     "initial":  [
+                                     {
+                                         "subscript":  0,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "A",
+                                         "superscript":  -1
+                                     },
+                                     {
+                                         "subscript":  0,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "b",
+                                         "superscript":  -1
+                                     },
+                                     {
+                                         "subscript":  0,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "\t",
+                                         "superscript":  -1
+                                     },
+                                     {
+                                         "subscript":  0,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "B",
+                                         "superscript":  -1
+                                     },
+                                     {
+                                         "subscript":  0,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "\r",
+                                         "superscript":  -1
+                                     }
+                                 ],
+                     "reopened":  [
+                                      {
+                                          "subscript":  0,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "Q",
+                                          "superscript":  -1
+                                      },
+                                      {
+                                          "subscript":  0,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "A",
+                                          "superscript":  -1
+                                      },
+                                      {
+                                          "subscript":  0,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "b",
+                                          "superscript":  -1
+                                      },
+                                      {
+                                          "subscript":  0,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "\t",
+                                          "superscript":  -1
+                                      },
+                                      {
+                                          "subscript":  0,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "B",
+                                          "superscript":  -1
+                                      },
+                                      {
+                                          "subscript":  0,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "\r",
+                                          "superscript":  -1
+                                      }
+                                  ],
+                     "name":  "Body-Superscript-whole-paragraph",
+                     "redoOk":  true,
+                     "kind":  "Body",
+                     "script":  "Superscript",
+                     "docxHash":  "09310423bed032d810829fcf9aea8b123b88c2dbe1c9b1afa730f0d4dca6c0dc",
+                     "undo":  [
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "A",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "b",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\t",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "B",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\r",
+                                      "superscript":  -1
+                                  }
+                              ],
+                     "edited":  [
+                                    {
+                                        "subscript":  0,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "Q",
+                                        "superscript":  -1
+                                    },
+                                    {
+                                        "subscript":  0,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "A",
+                                        "superscript":  -1
+                                    },
+                                    {
+                                        "subscript":  0,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "b",
+                                        "superscript":  -1
+                                    },
+                                    {
+                                        "subscript":  0,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "\t",
+                                        "superscript":  -1
+                                    },
+                                    {
+                                        "subscript":  0,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "B",
+                                        "superscript":  -1
+                                    },
+                                    {
+                                        "subscript":  0,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "\r",
+                                        "superscript":  -1
+                                    }
+                                ],
+                     "pdfHash":  "2132eaac5110dd3eb5c69f67d3343727a1fc43655b0f6ddec6de42bd3f967bb3",
+                     "undoOk":  true,
+                     "pages":  2,
+                     "sourceHash":  "eeba3f4b8a6a6701a7a3d8e829c57514e43cbbd8504c0f769f08fe299c5eb178"
+                 },
+                 {
+                     "redo":  [
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "Q",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "A",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "b",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\t",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "B",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\r",
+                                      "superscript":  0
+                                  }
+                              ],
+                     "initial":  [
+                                     {
+                                         "subscript":  -1,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "A",
+                                         "superscript":  0
+                                     },
+                                     {
+                                         "subscript":  -1,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "b",
+                                         "superscript":  0
+                                     },
+                                     {
+                                         "subscript":  -1,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "\t",
+                                         "superscript":  0
+                                     },
+                                     {
+                                         "subscript":  -1,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "B",
+                                         "superscript":  0
+                                     },
+                                     {
+                                         "subscript":  -1,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "\r",
+                                         "superscript":  0
+                                     }
+                                 ],
+                     "reopened":  [
+                                      {
+                                          "subscript":  -1,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "Q",
+                                          "superscript":  0
+                                      },
+                                      {
+                                          "subscript":  -1,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "A",
+                                          "superscript":  0
+                                      },
+                                      {
+                                          "subscript":  -1,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "b",
+                                          "superscript":  0
+                                      },
+                                      {
+                                          "subscript":  -1,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "\t",
+                                          "superscript":  0
+                                      },
+                                      {
+                                          "subscript":  -1,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "B",
+                                          "superscript":  0
+                                      },
+                                      {
+                                          "subscript":  -1,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "\r",
+                                          "superscript":  0
+                                      }
+                                  ],
+                     "name":  "Body-Subscript-whole-paragraph",
+                     "redoOk":  true,
+                     "kind":  "Body",
+                     "script":  "Subscript",
+                     "docxHash":  "cabc6b2f05362ff3b3d69261537854416e15be16dad0e0e402a294526ba09483",
+                     "undo":  [
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "A",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "b",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\t",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "B",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\r",
+                                      "superscript":  0
+                                  }
+                              ],
+                     "edited":  [
+                                    {
+                                        "subscript":  -1,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "Q",
+                                        "superscript":  0
+                                    },
+                                    {
+                                        "subscript":  -1,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "A",
+                                        "superscript":  0
+                                    },
+                                    {
+                                        "subscript":  -1,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "b",
+                                        "superscript":  0
+                                    },
+                                    {
+                                        "subscript":  -1,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "\t",
+                                        "superscript":  0
+                                    },
+                                    {
+                                        "subscript":  -1,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "B",
+                                        "superscript":  0
+                                    },
+                                    {
+                                        "subscript":  -1,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "\r",
+                                        "superscript":  0
+                                    }
+                                ],
+                     "pdfHash":  "3b211e99936f723ac8f004c7e83f6618a07ac3cb22856b7b425f608c8aae7d1c",
+                     "undoOk":  true,
+                     "pages":  2,
+                     "sourceHash":  "b5019a21b9819acb7b87ea5a8e2c6f54e50467e6cef5f39df8ac6b8d74fd0311"
+                 },
+                 {
+                     "redo":  [
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "Q",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "A",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "b",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\t",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "B",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\r",
+                                      "superscript":  -1
+                                  }
+                              ],
+                     "initial":  [
+                                     {
+                                         "subscript":  0,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "A",
+                                         "superscript":  -1
+                                     },
+                                     {
+                                         "subscript":  0,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "b",
+                                         "superscript":  -1
+                                     },
+                                     {
+                                         "subscript":  0,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "\t",
+                                         "superscript":  -1
+                                     },
+                                     {
+                                         "subscript":  0,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "B",
+                                         "superscript":  -1
+                                     },
+                                     {
+                                         "subscript":  0,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "\r",
+                                         "superscript":  -1
+                                     }
+                                 ],
+                     "reopened":  [
+                                      {
+                                          "subscript":  0,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "Q",
+                                          "superscript":  -1
+                                      },
+                                      {
+                                          "subscript":  0,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "A",
+                                          "superscript":  -1
+                                      },
+                                      {
+                                          "subscript":  0,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "b",
+                                          "superscript":  -1
+                                      },
+                                      {
+                                          "subscript":  0,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "\t",
+                                          "superscript":  -1
+                                      },
+                                      {
+                                          "subscript":  0,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "B",
+                                          "superscript":  -1
+                                      },
+                                      {
+                                          "subscript":  0,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "\r",
+                                          "superscript":  -1
+                                      }
+                                  ],
+                     "name":  "Headers-Superscript-whole-paragraph",
+                     "redoOk":  true,
+                     "kind":  "Headers",
+                     "script":  "Superscript",
+                     "docxHash":  "5d0a61c2f007b3d4bb3e5c0bfd8c0cf539a52e9e64f002754b1d09991c5c4f59",
+                     "undo":  [
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "A",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "b",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\t",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "B",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\r",
+                                      "superscript":  -1
+                                  }
+                              ],
+                     "edited":  [
+                                    {
+                                        "subscript":  0,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "Q",
+                                        "superscript":  -1
+                                    },
+                                    {
+                                        "subscript":  0,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "A",
+                                        "superscript":  -1
+                                    },
+                                    {
+                                        "subscript":  0,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "b",
+                                        "superscript":  -1
+                                    },
+                                    {
+                                        "subscript":  0,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "\t",
+                                        "superscript":  -1
+                                    },
+                                    {
+                                        "subscript":  0,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "B",
+                                        "superscript":  -1
+                                    },
+                                    {
+                                        "subscript":  0,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "\r",
+                                        "superscript":  -1
+                                    }
+                                ],
+                     "pdfHash":  "fb6aef909443db6e561e8dc30dda103c3381c3afa0d556af0a2b60dd5610c1b8",
+                     "undoOk":  true,
+                     "pages":  2,
+                     "sourceHash":  "399de75668a1a1bc02044d6343ae9ba433130416db91cfab1e32fc764404b110"
+                 },
+                 {
+                     "redo":  [
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "Q",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "A",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "b",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\t",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "B",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\r",
+                                      "superscript":  0
+                                  }
+                              ],
+                     "initial":  [
+                                     {
+                                         "subscript":  -1,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "A",
+                                         "superscript":  0
+                                     },
+                                     {
+                                         "subscript":  -1,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "b",
+                                         "superscript":  0
+                                     },
+                                     {
+                                         "subscript":  -1,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "\t",
+                                         "superscript":  0
+                                     },
+                                     {
+                                         "subscript":  -1,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "B",
+                                         "superscript":  0
+                                     },
+                                     {
+                                         "subscript":  -1,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "\r",
+                                         "superscript":  0
+                                     }
+                                 ],
+                     "reopened":  [
+                                      {
+                                          "subscript":  -1,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "Q",
+                                          "superscript":  0
+                                      },
+                                      {
+                                          "subscript":  -1,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "A",
+                                          "superscript":  0
+                                      },
+                                      {
+                                          "subscript":  -1,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "b",
+                                          "superscript":  0
+                                      },
+                                      {
+                                          "subscript":  -1,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "\t",
+                                          "superscript":  0
+                                      },
+                                      {
+                                          "subscript":  -1,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "B",
+                                          "superscript":  0
+                                      },
+                                      {
+                                          "subscript":  -1,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "\r",
+                                          "superscript":  0
+                                      }
+                                  ],
+                     "name":  "Headers-Subscript-whole-paragraph",
+                     "redoOk":  true,
+                     "kind":  "Headers",
+                     "script":  "Subscript",
+                     "docxHash":  "9ce546330543a1b64f5ce8c3d97e28ffd6ab0dd7b7c2203fb7824e87a62426d2",
+                     "undo":  [
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "A",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "b",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\t",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "B",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\r",
+                                      "superscript":  0
+                                  }
+                              ],
+                     "edited":  [
+                                    {
+                                        "subscript":  -1,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "Q",
+                                        "superscript":  0
+                                    },
+                                    {
+                                        "subscript":  -1,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "A",
+                                        "superscript":  0
+                                    },
+                                    {
+                                        "subscript":  -1,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "b",
+                                        "superscript":  0
+                                    },
+                                    {
+                                        "subscript":  -1,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "\t",
+                                        "superscript":  0
+                                    },
+                                    {
+                                        "subscript":  -1,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "B",
+                                        "superscript":  0
+                                    },
+                                    {
+                                        "subscript":  -1,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "\r",
+                                        "superscript":  0
+                                    }
+                                ],
+                     "pdfHash":  "d40bf49e497cc3e6490c16db7672292f85435098fb3b60ffe8237a42be0112c8",
+                     "undoOk":  true,
+                     "pages":  2,
+                     "sourceHash":  "12bacfe24545a767a3ea4e6a024fc6e198edbcd28e323367dc63e1900c5b8da3"
+                 },
+                 {
+                     "redo":  [
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "Q",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "A",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "b",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\t",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "B",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\r",
+                                      "superscript":  -1
+                                  }
+                              ],
+                     "initial":  [
+                                     {
+                                         "subscript":  0,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "A",
+                                         "superscript":  -1
+                                     },
+                                     {
+                                         "subscript":  0,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "b",
+                                         "superscript":  -1
+                                     },
+                                     {
+                                         "subscript":  0,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "\t",
+                                         "superscript":  -1
+                                     },
+                                     {
+                                         "subscript":  0,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "B",
+                                         "superscript":  -1
+                                     },
+                                     {
+                                         "subscript":  0,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "\r",
+                                         "superscript":  -1
+                                     }
+                                 ],
+                     "reopened":  [
+                                      {
+                                          "subscript":  0,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "Q",
+                                          "superscript":  -1
+                                      },
+                                      {
+                                          "subscript":  0,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "A",
+                                          "superscript":  -1
+                                      },
+                                      {
+                                          "subscript":  0,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "b",
+                                          "superscript":  -1
+                                      },
+                                      {
+                                          "subscript":  0,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "\t",
+                                          "superscript":  -1
+                                      },
+                                      {
+                                          "subscript":  0,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "B",
+                                          "superscript":  -1
+                                      },
+                                      {
+                                          "subscript":  0,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "\r",
+                                          "superscript":  -1
+                                      }
+                                  ],
+                     "name":  "Footers-Superscript-whole-paragraph",
+                     "redoOk":  true,
+                     "kind":  "Footers",
+                     "script":  "Superscript",
+                     "docxHash":  "d462c159d264f0f2424173b632e67a8f2a9961f66a645d28358bfceb8a602262",
+                     "undo":  [
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "A",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "b",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\t",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "B",
+                                      "superscript":  -1
+                                  },
+                                  {
+                                      "subscript":  0,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\r",
+                                      "superscript":  -1
+                                  }
+                              ],
+                     "edited":  [
+                                    {
+                                        "subscript":  0,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "Q",
+                                        "superscript":  -1
+                                    },
+                                    {
+                                        "subscript":  0,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "A",
+                                        "superscript":  -1
+                                    },
+                                    {
+                                        "subscript":  0,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "b",
+                                        "superscript":  -1
+                                    },
+                                    {
+                                        "subscript":  0,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "\t",
+                                        "superscript":  -1
+                                    },
+                                    {
+                                        "subscript":  0,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "B",
+                                        "superscript":  -1
+                                    },
+                                    {
+                                        "subscript":  0,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "\r",
+                                        "superscript":  -1
+                                    }
+                                ],
+                     "pdfHash":  "b79e3e6123a325c82a7bbd1c6f1d8cfa15bd8e5e1297dbd25e3be52847f5359e",
+                     "undoOk":  true,
+                     "pages":  2,
+                     "sourceHash":  "992bf9b9c44903780cf37e38fe9aa7e1bd2fa70045d315bfb500963b10652e29"
+                 },
+                 {
+                     "redo":  [
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "Q",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "A",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "b",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\t",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "B",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\r",
+                                      "superscript":  0
+                                  }
+                              ],
+                     "initial":  [
+                                     {
+                                         "subscript":  -1,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "A",
+                                         "superscript":  0
+                                     },
+                                     {
+                                         "subscript":  -1,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "b",
+                                         "superscript":  0
+                                     },
+                                     {
+                                         "subscript":  -1,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "\t",
+                                         "superscript":  0
+                                     },
+                                     {
+                                         "subscript":  -1,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "B",
+                                         "superscript":  0
+                                     },
+                                     {
+                                         "subscript":  -1,
+                                         "size":  10,
+                                         "family":  "Arial",
+                                         "text":  "\r",
+                                         "superscript":  0
+                                     }
+                                 ],
+                     "reopened":  [
+                                      {
+                                          "subscript":  -1,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "Q",
+                                          "superscript":  0
+                                      },
+                                      {
+                                          "subscript":  -1,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "A",
+                                          "superscript":  0
+                                      },
+                                      {
+                                          "subscript":  -1,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "b",
+                                          "superscript":  0
+                                      },
+                                      {
+                                          "subscript":  -1,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "\t",
+                                          "superscript":  0
+                                      },
+                                      {
+                                          "subscript":  -1,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "B",
+                                          "superscript":  0
+                                      },
+                                      {
+                                          "subscript":  -1,
+                                          "size":  10,
+                                          "family":  "Arial",
+                                          "text":  "\r",
+                                          "superscript":  0
+                                      }
+                                  ],
+                     "name":  "Footers-Subscript-whole-paragraph",
+                     "redoOk":  true,
+                     "kind":  "Footers",
+                     "script":  "Subscript",
+                     "docxHash":  "72c335a3e966f6765947c3f27705c088410d7507c791e8d688e7c47ad193e4ab",
+                     "undo":  [
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "A",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "b",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\t",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "B",
+                                      "superscript":  0
+                                  },
+                                  {
+                                      "subscript":  -1,
+                                      "size":  10,
+                                      "family":  "Arial",
+                                      "text":  "\r",
+                                      "superscript":  0
+                                  }
+                              ],
+                     "edited":  [
+                                    {
+                                        "subscript":  -1,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "Q",
+                                        "superscript":  0
+                                    },
+                                    {
+                                        "subscript":  -1,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "A",
+                                        "superscript":  0
+                                    },
+                                    {
+                                        "subscript":  -1,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "b",
+                                        "superscript":  0
+                                    },
+                                    {
+                                        "subscript":  -1,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "\t",
+                                        "superscript":  0
+                                    },
+                                    {
+                                        "subscript":  -1,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "B",
+                                        "superscript":  0
+                                    },
+                                    {
+                                        "subscript":  -1,
+                                        "size":  10,
+                                        "family":  "Arial",
+                                        "text":  "\r",
+                                        "superscript":  0
+                                    }
+                                ],
+                     "pdfHash":  "8b8a57420365e7265cfa75cf680e0ab0213f8b7176b67f415046db7be13fffe0",
+                     "undoOk":  true,
+                     "pages":  2,
+                     "sourceHash":  "b8cf61eeaf111c08bff43f0f8d9eca377d3550ced2ed37f05f95fcd3c5f1ca74"
+                 }
+             ]
+}

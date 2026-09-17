@@ -1,0 +1,810 @@
+﻿{
+    "application":  "Microsoft Excel",
+    "version":  "16.0",
+    "build":  4627,
+    "locale":  1031,
+    "inputSha256":  "fa661f7b56e7a600a28a2328c5ac4e75a1d4a36cd0340177aca163e56eb38238",
+    "hiddenRows":  [
+
+                   ],
+    "cases":  [
+                  {
+                      "ref":  "E1",
+                      "formula":  "=VAR(A2:A8)",
+                      "nativeFormula":  "=VAR(A2:A8)",
+                      "value":  6.333333333333333,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E2",
+                      "formula":  "=VAR.S(A2:A8)",
+                      "nativeFormula":  "=VAR.S(A2:A8)",
+                      "value":  6.333333333333333,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E3",
+                      "formula":  "=VARP(A2:A8)",
+                      "nativeFormula":  "=VARP(A2:A8)",
+                      "value":  4.75,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E4",
+                      "formula":  "=VAR.P(A2:A8)",
+                      "nativeFormula":  "=VAR.P(A2:A8)",
+                      "value":  4.75,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E5",
+                      "formula":  "=STDEV(A2:A8)",
+                      "nativeFormula":  "=STDEV(A2:A8)",
+                      "value":  2.5166114784235831,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E6",
+                      "formula":  "=STDEV.S(A2:A8)",
+                      "nativeFormula":  "=STDEV.S(A2:A8)",
+                      "value":  2.5166114784235831,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E7",
+                      "formula":  "=STDEVP(A2:A8)",
+                      "nativeFormula":  "=STDEVP(A2:A8)",
+                      "value":  2.179449471770337,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E8",
+                      "formula":  "=STDEV.P(A2:A8)",
+                      "nativeFormula":  "=STDEV.P(A2:A8)",
+                      "value":  2.179449471770337,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E9",
+                      "formula":  "=MEDIAN(A2:A8)",
+                      "nativeFormula":  "=MEDIAN(A2:A8)",
+                      "value":  4,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E10",
+                      "formula":  "=PRODUCT(A2:A8)",
+                      "nativeFormula":  "=PRODUCT(A2:A8)",
+                      "value":  256,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E11",
+                      "formula":  "=GEOMEAN(A2:A8)",
+                      "nativeFormula":  "=GEOMEAN(A2:A8)",
+                      "value":  4,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E12",
+                      "formula":  "=HARMEAN(A2:A8)",
+                      "nativeFormula":  "=HARMEAN(A2:A8)",
+                      "value":  3.5555555555555554,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E13",
+                      "formula":  "=DEVSQ(A2:A8)",
+                      "nativeFormula":  "=DEVSQ(A2:A8)",
+                      "value":  19,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E14",
+                      "formula":  "=AVEDEV(A2:A8)",
+                      "nativeFormula":  "=AVEDEV(A2:A8)",
+                      "value":  1.75,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E15",
+                      "formula":  "=MODE(A2:A8)",
+                      "nativeFormula":  "=MODE(A2:A8)",
+                      "value":  4,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E16",
+                      "formula":  "=MODE.SNGL(A2:A8)",
+                      "nativeFormula":  "=MODE.SNGL(A2:A8)",
+                      "value":  4,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E17",
+                      "formula":  "=VAR(2,TRUE,\"4\")",
+                      "nativeFormula":  "=VAR(2,TRUE,\"4\")",
+                      "value":  2.3333333333333339,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E18",
+                      "formula":  "=VAR.S(2,TRUE,\"4\")",
+                      "nativeFormula":  "=VAR.S(2,TRUE,\"4\")",
+                      "value":  2.3333333333333339,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E19",
+                      "formula":  "=VARP(2,TRUE,\"4\")",
+                      "nativeFormula":  "=VARP(2,TRUE,\"4\")",
+                      "value":  1.5555555555555556,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E20",
+                      "formula":  "=VAR.P(2,TRUE,\"4\")",
+                      "nativeFormula":  "=VAR.P(2,TRUE,\"4\")",
+                      "value":  1.5555555555555556,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E21",
+                      "formula":  "=STDEV(2,TRUE,\"4\")",
+                      "nativeFormula":  "=STDEV(2,TRUE,\"4\")",
+                      "value":  1.5275252316519468,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E22",
+                      "formula":  "=STDEV.S(2,TRUE,\"4\")",
+                      "nativeFormula":  "=STDEV.S(2,TRUE,\"4\")",
+                      "value":  1.5275252316519468,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E23",
+                      "formula":  "=STDEVP(2,TRUE,\"4\")",
+                      "nativeFormula":  "=STDEVP(2,TRUE,\"4\")",
+                      "value":  1.247219128924647,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E24",
+                      "formula":  "=STDEV.P(2,TRUE,\"4\")",
+                      "nativeFormula":  "=STDEV.P(2,TRUE,\"4\")",
+                      "value":  1.247219128924647,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E25",
+                      "formula":  "=MEDIAN(2,TRUE,\"4\")",
+                      "nativeFormula":  "=MEDIAN(2,TRUE,\"4\")",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E26",
+                      "formula":  "=PRODUCT(2,TRUE,\"4\")",
+                      "nativeFormula":  "=PRODUCT(2,TRUE,\"4\")",
+                      "value":  8,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E27",
+                      "formula":  "=GEOMEAN(2,TRUE,\"4\")",
+                      "nativeFormula":  "=GEOMEAN(2,TRUE,\"4\")",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E28",
+                      "formula":  "=HARMEAN(2,TRUE,\"4\")",
+                      "nativeFormula":  "=HARMEAN(2,TRUE,\"4\")",
+                      "value":  1.7142857142857142,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E29",
+                      "formula":  "=DEVSQ(2,TRUE,\"4\")",
+                      "nativeFormula":  "=DEVSQ(2,TRUE,\"4\")",
+                      "value":  4.6666666666666661,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E30",
+                      "formula":  "=AVEDEV(2,TRUE,\"4\")",
+                      "nativeFormula":  "=AVEDEV(2,TRUE,\"4\")",
+                      "value":  1.1111111111111112,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E31",
+                      "formula":  "=MODE(2,TRUE,\"4\")",
+                      "nativeFormula":  "=MODE(2,TRUE,\"4\")",
+                      "value":  "#VALUE!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E32",
+                      "formula":  "=MODE.SNGL(2,TRUE,\"4\")",
+                      "nativeFormula":  "=MODE.SNGL(2,TRUE,\"4\")",
+                      "value":  "#VALUE!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E33",
+                      "formula":  "=VAR.S(C1:C2)",
+                      "nativeFormula":  "=VAR.S(C1:C2)",
+                      "value":  "#DIV/0!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E34",
+                      "formula":  "=VAR.P(C1:C2)",
+                      "nativeFormula":  "=VAR.P(C1:C2)",
+                      "value":  "#DIV/0!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E35",
+                      "formula":  "=STDEV.S(C1:C2)",
+                      "nativeFormula":  "=STDEV.S(C1:C2)",
+                      "value":  "#DIV/0!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E36",
+                      "formula":  "=MEDIAN(C1:C2)",
+                      "nativeFormula":  "=MEDIAN(C1:C2)",
+                      "value":  "#NUM!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E37",
+                      "formula":  "=MODE.SNGL(C1:C2)",
+                      "nativeFormula":  "=MODE.SNGL(C1:C2)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E38",
+                      "formula":  "=PRODUCT(C1:C2)",
+                      "nativeFormula":  "=PRODUCT(C1:C2)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E39",
+                      "formula":  "=GEOMEAN(C1:C2)",
+                      "nativeFormula":  "=GEOMEAN(C1:C2)",
+                      "value":  "#NUM!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E40",
+                      "formula":  "=SMALL(A2:A8,2)",
+                      "nativeFormula":  "=SMALL(A2:A8,2)",
+                      "value":  4,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E41",
+                      "formula":  "=LARGE(A2:A8,2.3)",
+                      "nativeFormula":  "=LARGE(A2:A8,2.3)",
+                      "value":  4,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E42",
+                      "formula":  "=SMALL(A2:A8,0.5)",
+                      "nativeFormula":  "=SMALL(A2:A8,0.5)",
+                      "value":  "#NUM!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E43",
+                      "formula":  "=SMALL(A2:A8,0)",
+                      "nativeFormula":  "=SMALL(A2:A8,0)",
+                      "value":  "#NUM!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E44",
+                      "formula":  "=LARGE(A2:A8,10)",
+                      "nativeFormula":  "=LARGE(A2:A8,10)",
+                      "value":  "#NUM!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E45",
+                      "formula":  "=RANK(4,A2:A8)",
+                      "nativeFormula":  "=RANK(4,A2:A8)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E46",
+                      "formula":  "=RANK.EQ(4,A2:A8,1)",
+                      "nativeFormula":  "=RANK.EQ(4,A2:A8,1)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E47",
+                      "formula":  "=RANK.AVG(4,A2:A8)",
+                      "nativeFormula":  "=RANK.AVG(4,A2:A8)",
+                      "value":  2.5,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E48",
+                      "formula":  "=RANK.EQ(7,A2:A8)",
+                      "nativeFormula":  "=RANK.EQ(7,A2:A8)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E49",
+                      "formula":  "=PERCENTILE(A2:A8,0)",
+                      "nativeFormula":  "=PERCENTILE(A2:A8,0)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E50",
+                      "formula":  "=PERCENTILE(A2:A8,0.1)",
+                      "nativeFormula":  "=PERCENTILE(A2:A8,0.1)",
+                      "value":  2.6,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E51",
+                      "formula":  "=PERCENTILE(A2:A8,0.25)",
+                      "nativeFormula":  "=PERCENTILE(A2:A8,0.25)",
+                      "value":  3.5,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E52",
+                      "formula":  "=PERCENTILE(A2:A8,0.5)",
+                      "nativeFormula":  "=PERCENTILE(A2:A8,0.5)",
+                      "value":  4,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E53",
+                      "formula":  "=PERCENTILE(A2:A8,0.9)",
+                      "nativeFormula":  "=PERCENTILE(A2:A8,0.9)",
+                      "value":  6.8000000000000007,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E54",
+                      "formula":  "=PERCENTILE(A2:A8,1)",
+                      "nativeFormula":  "=PERCENTILE(A2:A8,1)",
+                      "value":  8,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E55",
+                      "formula":  "=PERCENTILE.INC(A2:A8,0)",
+                      "nativeFormula":  "=PERCENTILE.INC(A2:A8,0)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E56",
+                      "formula":  "=PERCENTILE.INC(A2:A8,0.1)",
+                      "nativeFormula":  "=PERCENTILE.INC(A2:A8,0.1)",
+                      "value":  2.6,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E57",
+                      "formula":  "=PERCENTILE.INC(A2:A8,0.25)",
+                      "nativeFormula":  "=PERCENTILE.INC(A2:A8,0.25)",
+                      "value":  3.5,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E58",
+                      "formula":  "=PERCENTILE.INC(A2:A8,0.5)",
+                      "nativeFormula":  "=PERCENTILE.INC(A2:A8,0.5)",
+                      "value":  4,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E59",
+                      "formula":  "=PERCENTILE.INC(A2:A8,0.9)",
+                      "nativeFormula":  "=PERCENTILE.INC(A2:A8,0.9)",
+                      "value":  6.8000000000000007,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E60",
+                      "formula":  "=PERCENTILE.INC(A2:A8,1)",
+                      "nativeFormula":  "=PERCENTILE.INC(A2:A8,1)",
+                      "value":  8,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E61",
+                      "formula":  "=PERCENTILE.EXC(A2:A8,0)",
+                      "nativeFormula":  "=PERCENTILE.EXC(A2:A8,0)",
+                      "value":  "#NUM!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E62",
+                      "formula":  "=PERCENTILE.EXC(A2:A8,0.1)",
+                      "nativeFormula":  "=PERCENTILE.EXC(A2:A8,0.1)",
+                      "value":  "#NUM!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E63",
+                      "formula":  "=PERCENTILE.EXC(A2:A8,0.25)",
+                      "nativeFormula":  "=PERCENTILE.EXC(A2:A8,0.25)",
+                      "value":  2.5,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E64",
+                      "formula":  "=PERCENTILE.EXC(A2:A8,0.5)",
+                      "nativeFormula":  "=PERCENTILE.EXC(A2:A8,0.5)",
+                      "value":  4,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E65",
+                      "formula":  "=PERCENTILE.EXC(A2:A8,0.9)",
+                      "nativeFormula":  "=PERCENTILE.EXC(A2:A8,0.9)",
+                      "value":  "#NUM!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E66",
+                      "formula":  "=PERCENTILE.EXC(A2:A8,1)",
+                      "nativeFormula":  "=PERCENTILE.EXC(A2:A8,1)",
+                      "value":  "#NUM!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E67",
+                      "formula":  "=QUARTILE(A2:A8,0)",
+                      "nativeFormula":  "=QUARTILE(A2:A8,0)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E68",
+                      "formula":  "=QUARTILE(A2:A8,1)",
+                      "nativeFormula":  "=QUARTILE(A2:A8,1)",
+                      "value":  3.5,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E69",
+                      "formula":  "=QUARTILE(A2:A8,2.7)",
+                      "nativeFormula":  "=QUARTILE(A2:A8,2.7)",
+                      "value":  4,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E70",
+                      "formula":  "=QUARTILE(A2:A8,3)",
+                      "nativeFormula":  "=QUARTILE(A2:A8,3)",
+                      "value":  5,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E71",
+                      "formula":  "=QUARTILE(A2:A8,4)",
+                      "nativeFormula":  "=QUARTILE(A2:A8,4)",
+                      "value":  8,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E72",
+                      "formula":  "=QUARTILE.INC(A2:A8,0)",
+                      "nativeFormula":  "=QUARTILE.INC(A2:A8,0)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E73",
+                      "formula":  "=QUARTILE.INC(A2:A8,1)",
+                      "nativeFormula":  "=QUARTILE.INC(A2:A8,1)",
+                      "value":  3.5,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E74",
+                      "formula":  "=QUARTILE.INC(A2:A8,2.7)",
+                      "nativeFormula":  "=QUARTILE.INC(A2:A8,2.7)",
+                      "value":  4,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E75",
+                      "formula":  "=QUARTILE.INC(A2:A8,3)",
+                      "nativeFormula":  "=QUARTILE.INC(A2:A8,3)",
+                      "value":  5,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E76",
+                      "formula":  "=QUARTILE.INC(A2:A8,4)",
+                      "nativeFormula":  "=QUARTILE.INC(A2:A8,4)",
+                      "value":  8,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E77",
+                      "formula":  "=QUARTILE.EXC(A2:A8,0)",
+                      "nativeFormula":  "=QUARTILE.EXC(A2:A8,0)",
+                      "value":  "#NUM!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E78",
+                      "formula":  "=QUARTILE.EXC(A2:A8,1)",
+                      "nativeFormula":  "=QUARTILE.EXC(A2:A8,1)",
+                      "value":  2.5,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E79",
+                      "formula":  "=QUARTILE.EXC(A2:A8,2.7)",
+                      "nativeFormula":  "=QUARTILE.EXC(A2:A8,2.7)",
+                      "value":  4,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E80",
+                      "formula":  "=QUARTILE.EXC(A2:A8,3)",
+                      "nativeFormula":  "=QUARTILE.EXC(A2:A8,3)",
+                      "value":  7,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E81",
+                      "formula":  "=QUARTILE.EXC(A2:A8,4)",
+                      "nativeFormula":  "=QUARTILE.EXC(A2:A8,4)",
+                      "value":  "#NUM!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E82",
+                      "formula":  "=VAR.S(B1:B3)",
+                      "nativeFormula":  "=VAR.S(B1:B3)",
+                      "value":  1,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E83",
+                      "formula":  "=STDEV.S(A2)",
+                      "nativeFormula":  "=STDEV.S(A2)",
+                      "value":  "#DIV/0!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E84",
+                      "formula":  "=STDEV.P(A2)",
+                      "nativeFormula":  "=STDEV.P(A2)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E85",
+                      "formula":  "=GEOMEAN(1,0)",
+                      "nativeFormula":  "=GEOMEAN(1,0)",
+                      "value":  "#NUM!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E86",
+                      "formula":  "=HARMEAN(-1,3)",
+                      "nativeFormula":  "=HARMEAN(-1,3)",
+                      "value":  "#NUM!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E87",
+                      "formula":  "=VAR.S(2,\"bad\")",
+                      "nativeFormula":  "=VAR.S(2,\"bad\")",
+                      "value":  "#VALUE!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E88",
+                      "formula":  "=VAR.S(A2:A9)",
+                      "nativeFormula":  "=VAR.S(A2:A9)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E89",
+                      "formula":  "=VAR.S(INDIRECT(\"A2:A8\"))",
+                      "nativeFormula":  "=VAR.S(INDIRECT(\"A2:A8\"))",
+                      "value":  6.333333333333333,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E90",
+                      "formula":  "=VAR.S(Amounts)",
+                      "nativeFormula":  "=VAR.S(Amounts)",
+                      "value":  6.333333333333333,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E91",
+                      "formula":  "=VAR.S(Flag,2)",
+                      "nativeFormula":  "=VAR.S(Flag,2)",
+                      "value":  0.5,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E92",
+                      "formula":  "=MODE.SNGL(4,4,2,2)",
+                      "nativeFormula":  "=MODE.SNGL(4,4,2,2)",
+                      "value":  4,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E93",
+                      "formula":  "=MEDIAN(C1:C2)",
+                      "nativeFormula":  "=MEDIAN(C1:C2)",
+                      "value":  "#NUM!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E94",
+                      "formula":  "=LARGE(A2:A8,TRUE)",
+                      "nativeFormula":  "=LARGE(A2:A8,TRUE)",
+                      "value":  8,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E95",
+                      "formula":  "=SMALL(B1:B3,1.7)",
+                      "nativeFormula":  "=SMALL(B1:B3,1.7)",
+                      "value":  1000000000001,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E96",
+                      "formula":  "=LARGE(B1:B3,1.7)",
+                      "nativeFormula":  "=LARGE(B1:B3,1.7)",
+                      "value":  1000000000002,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E97",
+                      "formula":  "=MODE(1,TRUE)",
+                      "nativeFormula":  "=MODE(1,TRUE)",
+                      "value":  "#VALUE!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E98",
+                      "formula":  "=MODE(2,\"2\")",
+                      "nativeFormula":  "=MODE(2,\"2\")",
+                      "value":  "#VALUE!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E99",
+                      "formula":  "=MODE(TRUE,TRUE)",
+                      "nativeFormula":  "=MODE(TRUE,TRUE)",
+                      "value":  "#VALUE!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E100",
+                      "formula":  "=MODE(2,2,\"bad\")",
+                      "nativeFormula":  "=MODE(2,2,\"bad\")",
+                      "value":  "#VALUE!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E101",
+                      "formula":  "=MODE(2,2,\"4\")",
+                      "nativeFormula":  "=MODE(2,2,\"4\")",
+                      "value":  "#VALUE!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E102",
+                      "formula":  "=MODE(2,2,A6)",
+                      "nativeFormula":  "=MODE(2,2,A6)",
+                      "value":  "#VALUE!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E103",
+                      "formula":  "=MODE.SNGL(2,4,4,2)",
+                      "nativeFormula":  "=MODE.SNGL(2,4,4,2)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E104",
+                      "formula":  "=HARMEAN(C1:C2)",
+                      "nativeFormula":  "=HARMEAN(C1:C2)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E105",
+                      "formula":  "=AVEDEV(C1:C2)",
+                      "nativeFormula":  "=AVEDEV(C1:C2)",
+                      "value":  "#NUM!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E106",
+                      "formula":  "=DEVSQ(C1:C2)",
+                      "nativeFormula":  "=DEVSQ(C1:C2)",
+                      "value":  "#NUM!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E107",
+                      "formula":  "=QUARTILE.INC(A2:A8,-0.1)",
+                      "nativeFormula":  "=QUARTILE.INC(A2:A8,-0.1)",
+                      "value":  "#NUM!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E108",
+                      "formula":  "=PRODUCT(2,TRUE,\"4\")",
+                      "nativeFormula":  "=PRODUCT(2,TRUE,\"4\")",
+                      "value":  8,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E109",
+                      "formula":  "=PERCENTILE.INC(A2:A8,TRUE)",
+                      "nativeFormula":  "=PERCENTILE.INC(A2:A8,TRUE)",
+                      "value":  8,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E110",
+                      "formula":  "=MEDIAN(\"2\")",
+                      "nativeFormula":  "=MEDIAN(\"2\")",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E111",
+                      "formula":  "=SMALL(\"2\",1)",
+                      "nativeFormula":  "=SMALL(\"2\",1)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E112",
+                      "formula":  "=VAR.S(A7,2)",
+                      "nativeFormula":  "=VAR.S(A7,2)",
+                      "value":  "#DIV/0!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E113",
+                      "formula":  "=VAR.S(INDEX(A2:A8,6),2)",
+                      "nativeFormula":  "=VAR.S(INDEX(A2:A8,6),2)",
+                      "value":  "#DIV/0!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E114",
+                      "formula":  "=VAR.S(1,)",
+                      "nativeFormula":  "=VAR.S(1,)",
+                      "value":  0.5,
+                      "kind":  "value"
+                  }
+              ]
+}

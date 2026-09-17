@@ -1,0 +1,31 @@
+{
+  "fixtureHash": "eeb9880f1e89cd14d1866158ddd6f3250459d72a815b1034de71894f29fa7c59",
+  "nativeSourceHash": "41f559e27a791b2e07a6e0f8f427e3f1bcd1e12a682fd419077f177606c2ebb3",
+  "nativeReferenceHash": "3bda5eb0109afa9eae901f0bc1cff4242996403b6206862cceee6aa919c2f36e",
+  "preparationHash": "12904aa5d0aab331ba7913c0b8fdd410b519ca80e0cdf01f9f3c8fe4b9513c75",
+  "comparisonHash": "51bd9e48862cc193f58de4191760e5fbfc62aefa2ffc622bd3a644463b2dee54",
+  "nativeReceiptHash": "dc437221b2d43a5d63bf21270709e67a4e591e05ca3bf6f0cdc491c6d283941d",
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "preservedParts": {
+    "[Content_Types].xml": "a590e3d2bcf99dde4b9acd0ddff156b899994f856cfdaadc9479bf57e06e9472",
+    "_rels/.rels": "e19238d7a71fa7a2490776252686f70e2de6238c87cd509b5e3a3cc07c2ea4df",
+    "word/_rels/document.xml.rels": "b725d5476e76f555fc24ecb908474fd29b671687336e5e1177a5c4c35cb5939f",
+    "word/document.xml": "a10ec202fd3546cf4e70bd990f6dcd62eca45018ab1e2631cc039254049510dc",
+    "word/theme/theme1.xml": "47157396c43511d1feee4f177c80a0c89a0e203fada830edb09a2a5db6f01969",
+    "word/fonts/font3.odttf": "c2daee2db4f63f1286995c41c5093f8dfea2bd86165809acb6f5c25ac7c5dd58",
+    "word/settings.xml": "4bde15d390cdca3fec7596d17551328c0f47f5be928187ebfa927e0d9c275a11",
+    "word/styles.xml": "db4f537ea040907720337f58a5e4856a18b50e6a34322384aeec23befcebd527",
+    "docProps/app.xml": "18ac9c132bfdf9227e9b4edb5d26eb1f6e1f9dd760a847e7670735c28386cad2",
+    "docProps/core.xml": "84dc6ebdc8f113b8baeddd45f6da5b83dbaea7a99bdcab4323722466607e1e06",
+    "word/webSettings.xml": "f096acb67339b77d0e2dd9afd8fc8f34e7b563101773f433d0ed540859d6cb13"
+  },
+  "embeddedFontParts": [
+    "word/fonts/font3.odttf"
+  ],
+  "exactNativePages": [
+    true,
+    true,
+    true
+  ],
+  "scope": "Public source removes only three unused Microsoft font embeddings; original native reference source remains private. Body/styles/settings/Inter bytes and native rendered pages are unchanged."
+}

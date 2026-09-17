@@ -1,0 +1,318 @@
+{
+  "application": "Microsoft Excel",
+  "version": "16.0",
+  "build": 4627,
+  "locale": 1031,
+  "inputSha256": "37eb092d3f7fc3af63c89f24adfa5626446ce7a6fb0d97dadde639fac5e597d4",
+  "hiddenRows": [2, 3, 9, 11],
+  "cases": [
+    {
+      "ref": "J1",
+      "formula": "=SUBTOTAL(1,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(1,A2:A9)",
+      "value": 5,
+      "kind": "value"
+    },
+    {
+      "ref": "J2",
+      "formula": "=SUBTOTAL(2,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(2,A2:A9)",
+      "value": 2,
+      "kind": "value"
+    },
+    {
+      "ref": "J3",
+      "formula": "=SUBTOTAL(3,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(3,A2:A9)",
+      "value": 5,
+      "kind": "value"
+    },
+    {
+      "ref": "J4",
+      "formula": "=SUBTOTAL(4,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(4,A2:A9)",
+      "value": 8,
+      "kind": "value"
+    },
+    {
+      "ref": "J5",
+      "formula": "=SUBTOTAL(5,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(5,A2:A9)",
+      "value": 2,
+      "kind": "value"
+    },
+    {
+      "ref": "J6",
+      "formula": "=SUBTOTAL(6,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(6,A2:A9)",
+      "value": 16,
+      "kind": "value"
+    },
+    {
+      "ref": "J7",
+      "formula": "=SUBTOTAL(7,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(7,A2:A9)",
+      "value": 4.2426406871192848,
+      "kind": "value"
+    },
+    {
+      "ref": "J8",
+      "formula": "=SUBTOTAL(8,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(8,A2:A9)",
+      "value": 3,
+      "kind": "value"
+    },
+    {
+      "ref": "J9",
+      "formula": "=SUBTOTAL(9,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(9,A2:A9)",
+      "value": 10,
+      "kind": "value"
+    },
+    {
+      "ref": "J10",
+      "formula": "=SUBTOTAL(10,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(10,A2:A9)",
+      "value": 18,
+      "kind": "value"
+    },
+    {
+      "ref": "J11",
+      "formula": "=SUBTOTAL(11,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(11,A2:A9)",
+      "value": 9,
+      "kind": "value"
+    },
+    {
+      "ref": "J12",
+      "formula": "=SUBTOTAL(101,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(101,A2:A9)",
+      "value": 5,
+      "kind": "value"
+    },
+    {
+      "ref": "J13",
+      "formula": "=SUBTOTAL(102,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(102,A2:A9)",
+      "value": 2,
+      "kind": "value"
+    },
+    {
+      "ref": "J14",
+      "formula": "=SUBTOTAL(103,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(103,A2:A9)",
+      "value": 5,
+      "kind": "value"
+    },
+    {
+      "ref": "J15",
+      "formula": "=SUBTOTAL(104,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(104,A2:A9)",
+      "value": 8,
+      "kind": "value"
+    },
+    {
+      "ref": "J16",
+      "formula": "=SUBTOTAL(105,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(105,A2:A9)",
+      "value": 2,
+      "kind": "value"
+    },
+    {
+      "ref": "J17",
+      "formula": "=SUBTOTAL(106,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(106,A2:A9)",
+      "value": 16,
+      "kind": "value"
+    },
+    {
+      "ref": "J18",
+      "formula": "=SUBTOTAL(107,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(107,A2:A9)",
+      "value": 4.2426406871192848,
+      "kind": "value"
+    },
+    {
+      "ref": "J19",
+      "formula": "=SUBTOTAL(108,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(108,A2:A9)",
+      "value": 3,
+      "kind": "value"
+    },
+    {
+      "ref": "J20",
+      "formula": "=SUBTOTAL(109,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(109,A2:A9)",
+      "value": 10,
+      "kind": "value"
+    },
+    {
+      "ref": "J21",
+      "formula": "=SUBTOTAL(110,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(110,A2:A9)",
+      "value": 18,
+      "kind": "value"
+    },
+    {
+      "ref": "J22",
+      "formula": "=SUBTOTAL(111,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(111,A2:A9)",
+      "value": 9,
+      "kind": "value"
+    },
+    {
+      "ref": "J23",
+      "formula": "=SUBTOTAL(9,A2:A5,A2:A3)",
+      "nativeFormula": "=SUBTOTAL(9,A2:A5,A2:A3)",
+      "value": 12,
+      "kind": "value"
+    },
+    {
+      "ref": "J24",
+      "formula": "=SUBTOTAL(109,C2:E2)",
+      "nativeFormula": "=SUBTOTAL(109,C2:E2)",
+      "value": 15,
+      "kind": "value"
+    },
+    {
+      "ref": "J25",
+      "formula": "=SUBTOTAL(2,A7:A10)",
+      "nativeFormula": "=SUBTOTAL(2,A7:A10)",
+      "value": 0,
+      "kind": "value"
+    },
+    {
+      "ref": "J26",
+      "formula": "=SUBTOTAL(3,A7:A10)",
+      "nativeFormula": "=SUBTOTAL(3,A7:A10)",
+      "value": 3,
+      "kind": "value"
+    },
+    {
+      "ref": "J27",
+      "formula": "=SUBTOTAL(9,A7:A10)",
+      "nativeFormula": "=SUBTOTAL(9,A7:A10)",
+      "value": 0,
+      "kind": "value"
+    },
+    {
+      "ref": "J28",
+      "formula": "=SUBTOTAL(9,G2:G4)",
+      "nativeFormula": "=SUBTOTAL(9,G2:G4)",
+      "value": 0,
+      "kind": "value"
+    },
+    {
+      "ref": "J29",
+      "formula": "=SUBTOTAL(3,G2:G4)",
+      "nativeFormula": "=SUBTOTAL(3,G2:G4)",
+      "value": 0,
+      "kind": "value"
+    },
+    {
+      "ref": "J30",
+      "formula": "=SUBTOTAL(9,Amounts)",
+      "nativeFormula": "=SUBTOTAL(9,Amounts)",
+      "value": 10,
+      "kind": "value"
+    },
+    {
+      "ref": "J31",
+      "formula": "=SUBTOTAL(109,INDIRECT(\"A2:A5\"))",
+      "nativeFormula": "=SUBTOTAL(109,INDIRECT(\"A2:A5\"))",
+      "value": 10,
+      "kind": "value"
+    },
+    {
+      "ref": "J32",
+      "formula": "=SUBTOTAL(9,A2)",
+      "nativeFormula": "=SUBTOTAL(9,A2)",
+      "value": 2,
+      "kind": "value"
+    },
+    {
+      "ref": "J33",
+      "formula": "=SUBTOTAL(9.9,A2:A5)",
+      "nativeFormula": "=SUBTOTAL(9.9,A2:A5)",
+      "value": 10,
+      "kind": "value"
+    },
+    {
+      "ref": "J34",
+      "formula": "=SUBTOTAL(0,A2:A5)",
+      "nativeFormula": "=SUBTOTAL(0,A2:A5)",
+      "value": "#VALUE!",
+      "kind": "error"
+    },
+    {
+      "ref": "J35",
+      "formula": "=SUBTOTAL(112,A2:A5)",
+      "nativeFormula": "=SUBTOTAL(112,A2:A5)",
+      "value": "#VALUE!",
+      "kind": "error"
+    },
+    {
+      "ref": "J36",
+      "formula": "=SUBTOTAL(9,Z1:Z5)",
+      "nativeFormula": "=SUBTOTAL(9,Z1:Z5)",
+      "value": 0,
+      "kind": "value"
+    },
+    {
+      "ref": "J37",
+      "formula": "=SUBTOTAL(6,Z1:Z5)",
+      "nativeFormula": "=SUBTOTAL(6,Z1:Z5)",
+      "value": 0,
+      "kind": "value"
+    },
+    {
+      "ref": "J38",
+      "formula": "=SUBTOTAL(7,A2)",
+      "nativeFormula": "=SUBTOTAL(7,A2)",
+      "value": "#DIV/0!",
+      "kind": "error"
+    },
+    {
+      "ref": "J39",
+      "formula": "=SUBTOTAL(8,A2)",
+      "nativeFormula": "=SUBTOTAL(8,A2)",
+      "value": 0,
+      "kind": "value"
+    },
+    {
+      "ref": "J40",
+      "formula": "=SUBTOTAL(9,A:A)",
+      "nativeFormula": "=SUBTOTAL(9,A:A)",
+      "value": 10,
+      "kind": "value"
+    },
+    {
+      "ref": "J41",
+      "formula": "=SUBTOTAL(2,G5)",
+      "nativeFormula": "=SUBTOTAL(2,G5)",
+      "value": 0,
+      "kind": "value"
+    },
+    {
+      "ref": "J42",
+      "formula": "=SUBTOTAL(3,G5)",
+      "nativeFormula": "=SUBTOTAL(3,G5)",
+      "value": 1,
+      "kind": "value"
+    },
+    {
+      "ref": "J43",
+      "formula": "=SUBTOTAL(9,C12)",
+      "nativeFormula": "=SUBTOTAL(9,C12)",
+      "value": 0,
+      "kind": "value"
+    },
+    {
+      "ref": "J44",
+      "formula": "=SUBTOTAL(109,C12)",
+      "nativeFormula": "=SUBTOTAL(109,C12)",
+      "value": 0,
+      "kind": "value"
+    }
+  ]
+}

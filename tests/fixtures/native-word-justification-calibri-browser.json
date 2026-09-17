@@ -1,0 +1,126 @@
+{
+  "rows": [
+    {
+      "name": "regular-header-below",
+      "kind": "header",
+      "fixture": "tests/fixtures/word-justification-calibri-regular-header-below.docx",
+      "nativeName": "header-font0-text0-width141.25",
+      "sourceHash": "369f8a4dc227cf689b295c7eef215f16596214b406f14a43fbe6fa63f8f322c3",
+      "nativePdf": ".local/word-story-paragraph-layout/justification-shaped-heldout-native-v1/header-font0-text0-width141.25.pdf",
+      "nativePdfHash": "6f842e1f9561b077622ab88d9fe53ad1f2f6cca3792a6ee5302dcf63926adb61",
+      "text": "The office staff drafted five clear notices after the final meeting. A short title identifies each revision, while a careful reader checks the printed figures and dates.",
+      "pages": 2,
+      "width": 141.25,
+      "ends": [
+        29,
+        59,
+        93,
+        124,
+        150,
+        169
+      ]
+    },
+    {
+      "name": "regular-header-above",
+      "kind": "header",
+      "fixture": "tests/fixtures/word-justification-calibri-regular-header-above.docx",
+      "nativeName": "header-font0-text0-width141.35",
+      "sourceHash": "fa89ff33f9a31fe5ce5d1044a462efcc4444f5b363ef74105282b1b7bf62711a",
+      "nativePdf": ".local/word-story-paragraph-layout/justification-shaped-heldout-native-v1/header-font0-text0-width141.35.pdf",
+      "nativePdfHash": "7a9a206adb506eddcd8dc6e8f80400ec04417e244a47d9e550383658b1fe81ca",
+      "text": "The office staff drafted five clear notices after the final meeting. A short title identifies each revision, while a careful reader checks the printed figures and dates.",
+      "pages": 2,
+      "width": 141.3499755859375,
+      "ends": [
+        35,
+        68,
+        98,
+        131,
+        162,
+        169
+      ]
+    },
+    {
+      "name": "regular-body-below",
+      "kind": "body",
+      "fixture": "tests/fixtures/word-justification-calibri-regular-body-below.docx",
+      "nativeName": "body-font0-text1-width145.7",
+      "sourceHash": "0e6a7c6570edf8e6eaabedd0609bd3a8bcf265457fe6764824dd35338edf4714",
+      "nativePdf": ".local/word-story-paragraph-layout/justification-shaped-heldout-native-v1/body-font0-text1-width145.7.pdf",
+      "nativePdfHash": "3354ace3d4b322a0984824f8cb8ec1c26e632e03b2044ab2c616cba14252d096",
+      "text": "After fifty minutes, the visitor left a detailed account of the afternoon trip. Different routes led past quiet fields, a stone bridge, and a familiar little station.",
+      "pages": 2,
+      "width": 145.69998168945312,
+      "ends": [
+        32,
+        63,
+        96,
+        127,
+        157,
+        166
+      ]
+    },
+    {
+      "name": "regular-body-above",
+      "kind": "body",
+      "fixture": "tests/fixtures/word-justification-calibri-regular-body-above.docx",
+      "nativeName": "body-font0-text1-width145.8",
+      "sourceHash": "c3ddb63083e02651d4b03f274b4699015710cd2feeebd7f9895c95057e578b53",
+      "nativePdf": ".local/word-story-paragraph-layout/justification-shaped-heldout-native-v1/body-font0-text1-width145.8.pdf",
+      "nativePdfHash": "4ff6bac4f99510b359c47b89c85550611ec33cd83ec2aa95c1c8be2cf6d6c782",
+      "text": "After fifty minutes, the visitor left a detailed account of the afternoon trip. Different routes led past quiet fields, a stone bridge, and a familiar little station.",
+      "pages": 2,
+      "width": 145.79998779296875,
+      "ends": [
+        37,
+        63,
+        96,
+        127,
+        157,
+        166
+      ]
+    },
+    {
+      "name": "regular-footer-below",
+      "kind": "footer",
+      "fixture": "tests/fixtures/word-justification-calibri-regular-footer-below.docx",
+      "nativeName": "footer-font0-text2-width166.1",
+      "sourceHash": "61912879149761ecece25946f9514237a0c349e3eeaf963f81fad6dddc1bc4d2",
+      "nativePdf": ".local/word-story-paragraph-layout/justification-shaped-heldout-native-v1/footer-font0-text2-width166.1.pdf",
+      "nativePdfHash": "8c5d4191746557c6ae6b57d8ef5e10211d3d9b2de169be6e6005f7096e564791",
+      "text": "A difficult task becomes simpler when its first draft is complete. Editors often compare two copies, identify missing details, and refine the brief final description.",
+      "pages": 2,
+      "width": 166.0999755859375,
+      "ends": [
+        32,
+        66,
+        100,
+        137,
+        166
+      ]
+    },
+    {
+      "name": "regular-footer-above",
+      "kind": "footer",
+      "fixture": "tests/fixtures/word-justification-calibri-regular-footer-above.docx",
+      "nativeName": "footer-font0-text2-width166.2",
+      "sourceHash": "afa6c819e72305c6c6a269a8a5f745c4c2409acd335aa12b43e64192d4c2f9c6",
+      "nativePdf": ".local/word-story-paragraph-layout/justification-shaped-heldout-native-v1/footer-font0-text2-width166.2.pdf",
+      "nativePdfHash": "7f5f9c829cba1bf80ff0408dc9c0b61ab142338091babe5d915a5f120936b47d",
+      "text": "A difficult task becomes simpler when its first draft is complete. Editors often compare two copies, identify missing details, and refine the brief final description.",
+      "pages": 2,
+      "width": 166.19998168945312,
+      "ends": [
+        37,
+        74,
+        109,
+        147,
+        166
+      ]
+    }
+  ],
+  "nativeReceiptHash": "aed4f3dc32a90ecac92c748edb7601afbc585bed0524f94842c7e7a392857893",
+  "comparisonHash": "f2ba0b55dcdeeff7799ba7398a99c76b5091e18a4b3dbd4fd7a3a6bd2f3b5a71",
+  "metricsHash": "fcdeb4445a024c352cf6b42d6fd40568ea3d45a0cffe95f6762f91bc89024a2f",
+  "producerHash": "230c70d5d29302be6395979fd459f483d0418264384f138150b6563d8c76d4ad"
+}

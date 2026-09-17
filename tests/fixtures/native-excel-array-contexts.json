@@ -1,0 +1,2302 @@
+{
+    "scope":  "Independent ordinary/CSE source/edit/error cells; public authored fixture metadata sanitized without changing worksheet payloads.",
+    "stages":  [
+                   {
+                       "sha256":  "1d31c59efa22b44ddca723875fb53e46cc39dbe7601e2df144a9833bef0dbe56",
+                       "stage":  "source",
+                       "cells":  [
+                                     {
+                                         "ref":  "B1",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;Data!B1:B3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C1",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;Data!B1:B3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$1",
+                                         "value":  13,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B2",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IF(TRUE,Data!A1:A3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(WAHR;Data!A1:A3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  12,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C2",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IF(TRUE,Data!A1:A3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(WAHR;Data!A1:A3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$2",
+                                         "value":  12,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B3",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C3",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$3",
+                                         "value":  2,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B4",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3*1,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3*1;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C4",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3*1,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3*1;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$4",
+                                         "value":  2,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B5",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUM(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                         "formulaArray":  "=SUMME(WENN(Data!A1:A3\u003e1;Data!B1:B3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C5",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUM(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                         "formulaArray":  "=SUMME(WENN(Data!A1:A3\u003e1;Data!B1:B3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$5",
+                                         "value":  13,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B6",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUM(IFERROR(Data!E1:E3,0))",
+                                         "formulaArray":  "=SUMME(WENNFEHLER(Data!E1:E3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C6",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUM(IFERROR(Data!E1:E3,0))",
+                                         "formulaArray":  "=SUMME(WENNFEHLER(Data!E1:E3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$6",
+                                         "value":  2,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B7",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUM(IF(TRUE,Data!A1:A3,0))",
+                                         "formulaArray":  "=SUMME(WENN(WAHR;Data!A1:A3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  12,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C7",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUM(IF(TRUE,Data!A1:A3,0))",
+                                         "formulaArray":  "=SUMME(WENN(WAHR;Data!A1:A3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$7",
+                                         "value":  12,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B8",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IF({TRUE;FALSE;TRUE},Data!B1:B3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN({WAHR;FALSCH;WAHR};Data!B1:B3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  10,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C8",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IF({TRUE;FALSE;TRUE},Data!B1:B3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN({WAHR;FALSCH;WAHR};Data!B1:B3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$8",
+                                         "value":  10,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B9",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,1/0,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;1/0;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C9",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,1/0,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;1/0;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$9",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B10",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,{10;20;30}))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;Data!B1:B3;{10;20;30}))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C10",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,{10;20;30}))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;Data!B1:B3;{10;20;30}))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$10",
+                                         "value":  23,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B11",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IFERROR({1;#N/A;3},9))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER({1;#NV;3};9))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  13,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C11",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IFERROR({1;#N/A;3},9))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER({1;#NV;3};9))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$11",
+                                         "value":  13,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B12",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IFNA(Data!E1:E3,9))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNNV(Data!E1:E3;9))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C12",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IFNA(Data!E1:E3,9))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNNV(Data!E1:E3;9))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$12",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B13",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IF(FALSE,1/0,Data!B1:B3))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(FALSCH;1/0;Data!B1:B3))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  15,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C13",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IF(FALSE,1/0,Data!B1:B3))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(FALSCH;1/0;Data!B1:B3))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$13",
+                                         "value":  15,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B14",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:C3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;Data!B1:C3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C14",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:C3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;Data!B1:C3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$14",
+                                         "value":  28,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B15",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,Data!B1:C3))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3;Data!B1:C3))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  33,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C15",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,Data!B1:C3))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3;Data!B1:C3))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$15",
+                                         "value":  32,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B16",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0),Data!A1:A3)",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3;0);Data!A1:A3)",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C16",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0),Data!A1:A3)",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3;0);Data!A1:A3)",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$16",
+                                         "value":  2,
+                                         "kind":  "value"
+                                     }
+                                 ]
+                   },
+                   {
+                       "sha256":  "b06ef1a2cec64f4f3f0eaf3dec4f38549f7f8d23ad45f14e339421d9e6f6e4bb",
+                       "stage":  "edit",
+                       "cells":  [
+                                     {
+                                         "ref":  "B1",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;Data!B1:B3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C1",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;Data!B1:B3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$1",
+                                         "value":  8,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B2",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IF(TRUE,Data!A1:A3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(WAHR;Data!A1:A3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  8,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C2",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IF(TRUE,Data!A1:A3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(WAHR;Data!A1:A3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$2",
+                                         "value":  8,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B3",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C3",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$3",
+                                         "value":  2,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B4",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3*1,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3*1;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C4",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3*1,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3*1;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$4",
+                                         "value":  2,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B5",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUM(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                         "formulaArray":  "=SUMME(WENN(Data!A1:A3\u003e1;Data!B1:B3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C5",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUM(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                         "formulaArray":  "=SUMME(WENN(Data!A1:A3\u003e1;Data!B1:B3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$5",
+                                         "value":  8,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B6",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUM(IFERROR(Data!E1:E3,0))",
+                                         "formulaArray":  "=SUMME(WENNFEHLER(Data!E1:E3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C6",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUM(IFERROR(Data!E1:E3,0))",
+                                         "formulaArray":  "=SUMME(WENNFEHLER(Data!E1:E3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$6",
+                                         "value":  2,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B7",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUM(IF(TRUE,Data!A1:A3,0))",
+                                         "formulaArray":  "=SUMME(WENN(WAHR;Data!A1:A3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  8,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C7",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUM(IF(TRUE,Data!A1:A3,0))",
+                                         "formulaArray":  "=SUMME(WENN(WAHR;Data!A1:A3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$7",
+                                         "value":  8,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B8",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IF({TRUE;FALSE;TRUE},Data!B1:B3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN({WAHR;FALSCH;WAHR};Data!B1:B3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  10,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C8",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IF({TRUE;FALSE;TRUE},Data!B1:B3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN({WAHR;FALSCH;WAHR};Data!B1:B3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$8",
+                                         "value":  10,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B9",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,1/0,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;1/0;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C9",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,1/0,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;1/0;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$9",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B10",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,{10;20;30}))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;Data!B1:B3;{10;20;30}))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C10",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,{10;20;30}))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;Data!B1:B3;{10;20;30}))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$10",
+                                         "value":  38,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B11",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IFERROR({1;#N/A;3},9))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER({1;#NV;3};9))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  13,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C11",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IFERROR({1;#N/A;3},9))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER({1;#NV;3};9))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$11",
+                                         "value":  13,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B12",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IFNA(Data!E1:E3,9))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNNV(Data!E1:E3;9))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C12",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IFNA(Data!E1:E3,9))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNNV(Data!E1:E3;9))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$12",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B13",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IF(FALSE,1/0,Data!B1:B3))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(FALSCH;1/0;Data!B1:B3))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  15,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C13",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IF(FALSE,1/0,Data!B1:B3))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(FALSCH;1/0;Data!B1:B3))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$13",
+                                         "value":  15,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B14",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:C3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;Data!B1:C3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C14",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:C3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;Data!B1:C3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$14",
+                                         "value":  17,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B15",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,Data!B1:C3))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3;Data!B1:C3))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  33,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C15",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,Data!B1:C3))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3;Data!B1:C3))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$15",
+                                         "value":  32,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B16",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0),Data!A1:A3)",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3;0);Data!A1:A3)",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C16",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0),Data!A1:A3)",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3;0);Data!A1:A3)",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$16",
+                                         "value":  2,
+                                         "kind":  "value"
+                                     }
+                                 ]
+                   },
+                   {
+                       "sha256":  "61a5866be310fdc6f19807720d5913c561f539932b8937225cc6ea24a592ba99",
+                       "stage":  "error",
+                       "cells":  [
+                                     {
+                                         "ref":  "B1",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;Data!B1:B3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C1",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;Data!B1:B3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$1",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B2",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IF(TRUE,Data!A1:A3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(WAHR;Data!A1:A3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C2",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IF(TRUE,Data!A1:A3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(WAHR;Data!A1:A3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$2",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B3",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C3",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$3",
+                                         "value":  2,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B4",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3*1,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3*1;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C4",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3*1,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3*1;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$4",
+                                         "value":  2,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B5",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUM(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                         "formulaArray":  "=SUMME(WENN(Data!A1:A3\u003e1;Data!B1:B3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C5",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUM(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                         "formulaArray":  "=SUMME(WENN(Data!A1:A3\u003e1;Data!B1:B3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$5",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B6",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUM(IFERROR(Data!E1:E3,0))",
+                                         "formulaArray":  "=SUMME(WENNFEHLER(Data!E1:E3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C6",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUM(IFERROR(Data!E1:E3,0))",
+                                         "formulaArray":  "=SUMME(WENNFEHLER(Data!E1:E3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$6",
+                                         "value":  2,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B7",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUM(IF(TRUE,Data!A1:A3,0))",
+                                         "formulaArray":  "=SUMME(WENN(WAHR;Data!A1:A3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C7",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUM(IF(TRUE,Data!A1:A3,0))",
+                                         "formulaArray":  "=SUMME(WENN(WAHR;Data!A1:A3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$7",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B8",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IF({TRUE;FALSE;TRUE},Data!B1:B3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN({WAHR;FALSCH;WAHR};Data!B1:B3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  10,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C8",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IF({TRUE;FALSE;TRUE},Data!B1:B3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN({WAHR;FALSCH;WAHR};Data!B1:B3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$8",
+                                         "value":  10,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B9",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,1/0,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;1/0;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C9",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,1/0,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;1/0;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$9",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B10",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,{10;20;30}))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;Data!B1:B3;{10;20;30}))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C10",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,{10;20;30}))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;Data!B1:B3;{10;20;30}))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$10",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B11",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IFERROR({1;#N/A;3},9))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER({1;#NV;3};9))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  13,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C11",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IFERROR({1;#N/A;3},9))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER({1;#NV;3};9))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$11",
+                                         "value":  13,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B12",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IFNA(Data!E1:E3,9))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNNV(Data!E1:E3;9))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C12",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IFNA(Data!E1:E3,9))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNNV(Data!E1:E3;9))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$12",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B13",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IF(FALSE,1/0,Data!B1:B3))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(FALSCH;1/0;Data!B1:B3))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  15,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C13",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IF(FALSE,1/0,Data!B1:B3))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(FALSCH;1/0;Data!B1:B3))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$13",
+                                         "value":  15,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B14",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:C3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;Data!B1:C3;0))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C14",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:C3,0))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENN(Data!A1:A3\u003e1;Data!B1:C3;0))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$14",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B15",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,Data!B1:C3))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3;Data!B1:C3))",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  33,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C15",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,Data!B1:C3))",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3;Data!B1:C3))",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$15",
+                                         "value":  32,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B16",
+                                         "entry":  "Formula",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0),Data!A1:A3)",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3;0);Data!A1:A3)",
+                                         "hasArray":  false,
+                                         "arrayAddress":  null,
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C16",
+                                         "entry":  "FormulaArray",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0),Data!A1:A3)",
+                                         "formulaArray":  "=SUMMENPRODUKT(WENNFEHLER(Data!E1:E3;0);Data!A1:A3)",
+                                         "hasArray":  true,
+                                         "arrayAddress":  "$C$16",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     }
+                                 ]
+                   }
+               ],
+    "scriptSha256":  "10b93da91142277343a6d424dd75d3bae03e13c82cfbb0f472e8b151fc0d9d15",
+    "rejections":  {
+
+                   },
+    "executableSha256":  "34f17e922e344705a958b52e2472e6667b1d32a887f28a18b7b97e0e7ab167a9",
+    "sourceSha256":  "c9c05637294578b1920fdc42c59c1350d2b7c2cb0d48d38e08202ed514bb0347",
+    "editingStages":  [
+                          {
+                              "stage":  "edit",
+                              "cells":  [
+                                            {
+                                                "ref":  "B1",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                                "value":  0,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C1",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                                "value":  8,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$1"
+                                            },
+                                            {
+                                                "ref":  "B2",
+                                                "formula":  "=SUMPRODUCT(IF(TRUE,Data!A1:A3,0))",
+                                                "value":  8,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C2",
+                                                "formula":  "=SUMPRODUCT(IF(TRUE,Data!A1:A3,0))",
+                                                "value":  8,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$2"
+                                            },
+                                            {
+                                                "ref":  "B3",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0))",
+                                                "value":  0,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C3",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0))",
+                                                "value":  2,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$3"
+                                            },
+                                            {
+                                                "ref":  "B4",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3*1,0))",
+                                                "value":  0,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C4",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3*1,0))",
+                                                "value":  2,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$4"
+                                            },
+                                            {
+                                                "ref":  "B5",
+                                                "formula":  "=SUM(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C5",
+                                                "formula":  "=SUM(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                                "value":  8,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$5"
+                                            },
+                                            {
+                                                "ref":  "B6",
+                                                "formula":  "=SUM(IFERROR(Data!E1:E3,0))",
+                                                "value":  0,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C6",
+                                                "formula":  "=SUM(IFERROR(Data!E1:E3,0))",
+                                                "value":  2,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$6"
+                                            },
+                                            {
+                                                "ref":  "B7",
+                                                "formula":  "=SUM(IF(TRUE,Data!A1:A3,0))",
+                                                "value":  8,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C7",
+                                                "formula":  "=SUM(IF(TRUE,Data!A1:A3,0))",
+                                                "value":  8,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$7"
+                                            },
+                                            {
+                                                "ref":  "B8",
+                                                "formula":  "=SUMPRODUCT(IF({TRUE;FALSE;TRUE},Data!B1:B3,0))",
+                                                "value":  10,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C8",
+                                                "formula":  "=SUMPRODUCT(IF({TRUE;FALSE;TRUE},Data!B1:B3,0))",
+                                                "value":  10,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$8"
+                                            },
+                                            {
+                                                "ref":  "B9",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,1/0,0))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C9",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,1/0,0))",
+                                                "value":  "#DIV/0!",
+                                                "kind":  "error",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$9"
+                                            },
+                                            {
+                                                "ref":  "B10",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,{10;20;30}))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C10",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,{10;20;30}))",
+                                                "value":  38,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$10"
+                                            },
+                                            {
+                                                "ref":  "B11",
+                                                "formula":  "=SUMPRODUCT(IFERROR({1;#N/A;3},9))",
+                                                "value":  13,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C11",
+                                                "formula":  "=SUMPRODUCT(IFERROR({1;#N/A;3},9))",
+                                                "value":  13,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$11"
+                                            },
+                                            {
+                                                "ref":  "B12",
+                                                "formula":  "=SUMPRODUCT(IFNA(Data!E1:E3,9))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C12",
+                                                "formula":  "=SUMPRODUCT(IFNA(Data!E1:E3,9))",
+                                                "value":  "#DIV/0!",
+                                                "kind":  "error",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$12"
+                                            },
+                                            {
+                                                "ref":  "B13",
+                                                "formula":  "=SUMPRODUCT(IF(FALSE,1/0,Data!B1:B3))",
+                                                "value":  15,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C13",
+                                                "formula":  "=SUMPRODUCT(IF(FALSE,1/0,Data!B1:B3))",
+                                                "value":  15,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$13"
+                                            },
+                                            {
+                                                "ref":  "B14",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:C3,0))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C14",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:C3,0))",
+                                                "value":  17,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$14"
+                                            },
+                                            {
+                                                "ref":  "B15",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,Data!B1:C3))",
+                                                "value":  33,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C15",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,Data!B1:C3))",
+                                                "value":  32,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$15"
+                                            },
+                                            {
+                                                "ref":  "B16",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0),Data!A1:A3)",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C16",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0),Data!A1:A3)",
+                                                "value":  2,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$16"
+                                            }
+                                        ],
+                              "expectedSha256":  "d5101644f238e7b6663d4c011c5d35f3865d18809ed6eed119dad38212e63983"
+                          },
+                          {
+                              "stage":  "error",
+                              "cells":  [
+                                            {
+                                                "ref":  "B1",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                                "value":  0,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C1",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                                "value":  "#DIV/0!",
+                                                "kind":  "error",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$1"
+                                            },
+                                            {
+                                                "ref":  "B2",
+                                                "formula":  "=SUMPRODUCT(IF(TRUE,Data!A1:A3,0))",
+                                                "value":  "#DIV/0!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C2",
+                                                "formula":  "=SUMPRODUCT(IF(TRUE,Data!A1:A3,0))",
+                                                "value":  "#DIV/0!",
+                                                "kind":  "error",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$2"
+                                            },
+                                            {
+                                                "ref":  "B3",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0))",
+                                                "value":  0,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C3",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0))",
+                                                "value":  2,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$3"
+                                            },
+                                            {
+                                                "ref":  "B4",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3*1,0))",
+                                                "value":  0,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C4",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3*1,0))",
+                                                "value":  2,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$4"
+                                            },
+                                            {
+                                                "ref":  "B5",
+                                                "formula":  "=SUM(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C5",
+                                                "formula":  "=SUM(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                                "value":  "#DIV/0!",
+                                                "kind":  "error",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$5"
+                                            },
+                                            {
+                                                "ref":  "B6",
+                                                "formula":  "=SUM(IFERROR(Data!E1:E3,0))",
+                                                "value":  0,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C6",
+                                                "formula":  "=SUM(IFERROR(Data!E1:E3,0))",
+                                                "value":  2,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$6"
+                                            },
+                                            {
+                                                "ref":  "B7",
+                                                "formula":  "=SUM(IF(TRUE,Data!A1:A3,0))",
+                                                "value":  "#DIV/0!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C7",
+                                                "formula":  "=SUM(IF(TRUE,Data!A1:A3,0))",
+                                                "value":  "#DIV/0!",
+                                                "kind":  "error",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$7"
+                                            },
+                                            {
+                                                "ref":  "B8",
+                                                "formula":  "=SUMPRODUCT(IF({TRUE;FALSE;TRUE},Data!B1:B3,0))",
+                                                "value":  10,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C8",
+                                                "formula":  "=SUMPRODUCT(IF({TRUE;FALSE;TRUE},Data!B1:B3,0))",
+                                                "value":  10,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$8"
+                                            },
+                                            {
+                                                "ref":  "B9",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,1/0,0))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C9",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,1/0,0))",
+                                                "value":  "#DIV/0!",
+                                                "kind":  "error",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$9"
+                                            },
+                                            {
+                                                "ref":  "B10",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,{10;20;30}))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C10",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,{10;20;30}))",
+                                                "value":  "#DIV/0!",
+                                                "kind":  "error",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$10"
+                                            },
+                                            {
+                                                "ref":  "B11",
+                                                "formula":  "=SUMPRODUCT(IFERROR({1;#N/A;3},9))",
+                                                "value":  13,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C11",
+                                                "formula":  "=SUMPRODUCT(IFERROR({1;#N/A;3},9))",
+                                                "value":  13,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$11"
+                                            },
+                                            {
+                                                "ref":  "B12",
+                                                "formula":  "=SUMPRODUCT(IFNA(Data!E1:E3,9))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C12",
+                                                "formula":  "=SUMPRODUCT(IFNA(Data!E1:E3,9))",
+                                                "value":  "#DIV/0!",
+                                                "kind":  "error",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$12"
+                                            },
+                                            {
+                                                "ref":  "B13",
+                                                "formula":  "=SUMPRODUCT(IF(FALSE,1/0,Data!B1:B3))",
+                                                "value":  15,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C13",
+                                                "formula":  "=SUMPRODUCT(IF(FALSE,1/0,Data!B1:B3))",
+                                                "value":  15,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$13"
+                                            },
+                                            {
+                                                "ref":  "B14",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:C3,0))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C14",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:C3,0))",
+                                                "value":  "#DIV/0!",
+                                                "kind":  "error",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$14"
+                                            },
+                                            {
+                                                "ref":  "B15",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,Data!B1:C3))",
+                                                "value":  33,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C15",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,Data!B1:C3))",
+                                                "value":  32,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$15"
+                                            },
+                                            {
+                                                "ref":  "B16",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0),Data!A1:A3)",
+                                                "value":  "#DIV/0!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C16",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0),Data!A1:A3)",
+                                                "value":  "#DIV/0!",
+                                                "kind":  "error",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$16"
+                                            }
+                                        ],
+                              "expectedSha256":  "b33bc501007fa10d9a31f3774639574ff8a6a40f3600464d846f84c62fb8d56a"
+                          },
+                          {
+                              "stage":  "entry",
+                              "cells":  [
+                                            {
+                                                "ref":  "B1",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                                "value":  13,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$B$1"
+                                            },
+                                            {
+                                                "ref":  "C1",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                                "value":  13,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$1"
+                                            },
+                                            {
+                                                "ref":  "B2",
+                                                "formula":  "=SUMPRODUCT(IF(TRUE,Data!A1:A3,0))",
+                                                "value":  12,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C2",
+                                                "formula":  "=SUMPRODUCT(IF(TRUE,Data!A1:A3,0))",
+                                                "value":  12,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$2"
+                                            },
+                                            {
+                                                "ref":  "B3",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0))",
+                                                "value":  0,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C3",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0))",
+                                                "value":  2,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$3"
+                                            },
+                                            {
+                                                "ref":  "B4",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3*1,0))",
+                                                "value":  0,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C4",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3*1,0))",
+                                                "value":  2,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$4"
+                                            },
+                                            {
+                                                "ref":  "B5",
+                                                "formula":  "=SUM(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C5",
+                                                "formula":  "=SUM(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                                "value":  13,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$5"
+                                            },
+                                            {
+                                                "ref":  "B6",
+                                                "formula":  "=SUM(IFERROR(Data!E1:E3,0))",
+                                                "value":  0,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C6",
+                                                "formula":  "=SUM(IFERROR(Data!E1:E3,0))",
+                                                "value":  2,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$6"
+                                            },
+                                            {
+                                                "ref":  "B7",
+                                                "formula":  "=SUM(IF(TRUE,Data!A1:A3,0))",
+                                                "value":  12,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C7",
+                                                "formula":  "=SUM(IF(TRUE,Data!A1:A3,0))",
+                                                "value":  12,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$7"
+                                            },
+                                            {
+                                                "ref":  "B8",
+                                                "formula":  "=SUMPRODUCT(IF({TRUE;FALSE;TRUE},Data!B1:B3,0))",
+                                                "value":  10,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C8",
+                                                "formula":  "=SUMPRODUCT(IF({TRUE;FALSE;TRUE},Data!B1:B3,0))",
+                                                "value":  10,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$8"
+                                            },
+                                            {
+                                                "ref":  "B9",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,1/0,0))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C9",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,1/0,0))",
+                                                "value":  "#DIV/0!",
+                                                "kind":  "error",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$9"
+                                            },
+                                            {
+                                                "ref":  "B10",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,{10;20;30}))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C10",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,{10;20;30}))",
+                                                "value":  23,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$10"
+                                            },
+                                            {
+                                                "ref":  "B11",
+                                                "formula":  "=SUMPRODUCT(IFERROR({1;#N/A;3},9))",
+                                                "value":  13,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C11",
+                                                "formula":  "=SUMPRODUCT(IFERROR({1;#N/A;3},9))",
+                                                "value":  13,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$11"
+                                            },
+                                            {
+                                                "ref":  "B12",
+                                                "formula":  "=SUMPRODUCT(IFNA(Data!E1:E3,9))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C12",
+                                                "formula":  "=SUMPRODUCT(IFNA(Data!E1:E3,9))",
+                                                "value":  "#DIV/0!",
+                                                "kind":  "error",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$12"
+                                            },
+                                            {
+                                                "ref":  "B13",
+                                                "formula":  "=SUMPRODUCT(IF(FALSE,1/0,Data!B1:B3))",
+                                                "value":  15,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C13",
+                                                "formula":  "=SUMPRODUCT(IF(FALSE,1/0,Data!B1:B3))",
+                                                "value":  15,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$13"
+                                            },
+                                            {
+                                                "ref":  "B14",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:C3,0))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C14",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:C3,0))",
+                                                "value":  28,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$14"
+                                            },
+                                            {
+                                                "ref":  "B15",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,Data!B1:C3))",
+                                                "value":  33,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C15",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,Data!B1:C3))",
+                                                "value":  32,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$15"
+                                            },
+                                            {
+                                                "ref":  "B16",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0),Data!A1:A3)",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C16",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0),Data!A1:A3)",
+                                                "value":  2,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$16"
+                                            }
+                                        ],
+                              "expectedSha256":  "9b9e6b44973d6b65350c70905592aad618a0d522e0ce631afded11bb74a7b46c"
+                          },
+                          {
+                              "stage":  "ordinary",
+                              "cells":  [
+                                            {
+                                                "ref":  "B1",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                                "value":  0,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C1",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                                "value":  0,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "B2",
+                                                "formula":  "=SUMPRODUCT(IF(TRUE,Data!A1:A3,0))",
+                                                "value":  12,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C2",
+                                                "formula":  "=SUMPRODUCT(IF(TRUE,Data!A1:A3,0))",
+                                                "value":  12,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$2"
+                                            },
+                                            {
+                                                "ref":  "B3",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0))",
+                                                "value":  0,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C3",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0))",
+                                                "value":  2,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$3"
+                                            },
+                                            {
+                                                "ref":  "B4",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3*1,0))",
+                                                "value":  0,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C4",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3*1,0))",
+                                                "value":  2,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$4"
+                                            },
+                                            {
+                                                "ref":  "B5",
+                                                "formula":  "=SUM(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C5",
+                                                "formula":  "=SUM(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                                "value":  13,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$5"
+                                            },
+                                            {
+                                                "ref":  "B6",
+                                                "formula":  "=SUM(IFERROR(Data!E1:E3,0))",
+                                                "value":  0,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C6",
+                                                "formula":  "=SUM(IFERROR(Data!E1:E3,0))",
+                                                "value":  2,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$6"
+                                            },
+                                            {
+                                                "ref":  "B7",
+                                                "formula":  "=SUM(IF(TRUE,Data!A1:A3,0))",
+                                                "value":  12,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C7",
+                                                "formula":  "=SUM(IF(TRUE,Data!A1:A3,0))",
+                                                "value":  12,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$7"
+                                            },
+                                            {
+                                                "ref":  "B8",
+                                                "formula":  "=SUMPRODUCT(IF({TRUE;FALSE;TRUE},Data!B1:B3,0))",
+                                                "value":  10,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C8",
+                                                "formula":  "=SUMPRODUCT(IF({TRUE;FALSE;TRUE},Data!B1:B3,0))",
+                                                "value":  10,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$8"
+                                            },
+                                            {
+                                                "ref":  "B9",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,1/0,0))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C9",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,1/0,0))",
+                                                "value":  "#DIV/0!",
+                                                "kind":  "error",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$9"
+                                            },
+                                            {
+                                                "ref":  "B10",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,{10;20;30}))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C10",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,{10;20;30}))",
+                                                "value":  23,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$10"
+                                            },
+                                            {
+                                                "ref":  "B11",
+                                                "formula":  "=SUMPRODUCT(IFERROR({1;#N/A;3},9))",
+                                                "value":  13,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C11",
+                                                "formula":  "=SUMPRODUCT(IFERROR({1;#N/A;3},9))",
+                                                "value":  13,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$11"
+                                            },
+                                            {
+                                                "ref":  "B12",
+                                                "formula":  "=SUMPRODUCT(IFNA(Data!E1:E3,9))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C12",
+                                                "formula":  "=SUMPRODUCT(IFNA(Data!E1:E3,9))",
+                                                "value":  "#DIV/0!",
+                                                "kind":  "error",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$12"
+                                            },
+                                            {
+                                                "ref":  "B13",
+                                                "formula":  "=SUMPRODUCT(IF(FALSE,1/0,Data!B1:B3))",
+                                                "value":  15,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C13",
+                                                "formula":  "=SUMPRODUCT(IF(FALSE,1/0,Data!B1:B3))",
+                                                "value":  15,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$13"
+                                            },
+                                            {
+                                                "ref":  "B14",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:C3,0))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C14",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:C3,0))",
+                                                "value":  28,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$14"
+                                            },
+                                            {
+                                                "ref":  "B15",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,Data!B1:C3))",
+                                                "value":  33,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C15",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,Data!B1:C3))",
+                                                "value":  32,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$15"
+                                            },
+                                            {
+                                                "ref":  "B16",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0),Data!A1:A3)",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C16",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0),Data!A1:A3)",
+                                                "value":  2,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$16"
+                                            }
+                                        ],
+                              "expectedSha256":  "449bc37a22dce78d681fba6f74e6e02d158ce413a49b2cb1ddb658de85c8e6cd"
+                          },
+                          {
+                              "stage":  "formula",
+                              "cells":  [
+                                            {
+                                                "ref":  "B1",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                                "value":  0,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C1",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e6,Data!B1:B3,0))",
+                                                "value":  8,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$1"
+                                            },
+                                            {
+                                                "ref":  "B2",
+                                                "formula":  "=SUMPRODUCT(IF(TRUE,Data!A1:A3,0))",
+                                                "value":  12,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C2",
+                                                "formula":  "=SUMPRODUCT(IF(TRUE,Data!A1:A3,0))",
+                                                "value":  12,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$2"
+                                            },
+                                            {
+                                                "ref":  "B3",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0))",
+                                                "value":  0,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C3",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0))",
+                                                "value":  2,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$3"
+                                            },
+                                            {
+                                                "ref":  "B4",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3*1,0))",
+                                                "value":  0,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C4",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3*1,0))",
+                                                "value":  2,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$4"
+                                            },
+                                            {
+                                                "ref":  "B5",
+                                                "formula":  "=SUM(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C5",
+                                                "formula":  "=SUM(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                                "value":  13,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$5"
+                                            },
+                                            {
+                                                "ref":  "B6",
+                                                "formula":  "=SUM(IFERROR(Data!E1:E3,0))",
+                                                "value":  0,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C6",
+                                                "formula":  "=SUM(IFERROR(Data!E1:E3,0))",
+                                                "value":  2,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$6"
+                                            },
+                                            {
+                                                "ref":  "B7",
+                                                "formula":  "=SUM(IF(TRUE,Data!A1:A3,0))",
+                                                "value":  12,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C7",
+                                                "formula":  "=SUM(IF(TRUE,Data!A1:A3,0))",
+                                                "value":  12,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$7"
+                                            },
+                                            {
+                                                "ref":  "B8",
+                                                "formula":  "=SUMPRODUCT(IF({TRUE;FALSE;TRUE},Data!B1:B3,0))",
+                                                "value":  10,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C8",
+                                                "formula":  "=SUMPRODUCT(IF({TRUE;FALSE;TRUE},Data!B1:B3,0))",
+                                                "value":  10,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$8"
+                                            },
+                                            {
+                                                "ref":  "B9",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,1/0,0))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C9",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,1/0,0))",
+                                                "value":  "#DIV/0!",
+                                                "kind":  "error",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$9"
+                                            },
+                                            {
+                                                "ref":  "B10",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,{10;20;30}))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C10",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,{10;20;30}))",
+                                                "value":  23,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$10"
+                                            },
+                                            {
+                                                "ref":  "B11",
+                                                "formula":  "=SUMPRODUCT(IFERROR({1;#N/A;3},9))",
+                                                "value":  13,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C11",
+                                                "formula":  "=SUMPRODUCT(IFERROR({1;#N/A;3},9))",
+                                                "value":  13,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$11"
+                                            },
+                                            {
+                                                "ref":  "B12",
+                                                "formula":  "=SUMPRODUCT(IFNA(Data!E1:E3,9))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C12",
+                                                "formula":  "=SUMPRODUCT(IFNA(Data!E1:E3,9))",
+                                                "value":  "#DIV/0!",
+                                                "kind":  "error",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$12"
+                                            },
+                                            {
+                                                "ref":  "B13",
+                                                "formula":  "=SUMPRODUCT(IF(FALSE,1/0,Data!B1:B3))",
+                                                "value":  15,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C13",
+                                                "formula":  "=SUMPRODUCT(IF(FALSE,1/0,Data!B1:B3))",
+                                                "value":  15,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$13"
+                                            },
+                                            {
+                                                "ref":  "B14",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:C3,0))",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C14",
+                                                "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:C3,0))",
+                                                "value":  28,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$14"
+                                            },
+                                            {
+                                                "ref":  "B15",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,Data!B1:C3))",
+                                                "value":  33,
+                                                "kind":  "value",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C15",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,Data!B1:C3))",
+                                                "value":  32,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$15"
+                                            },
+                                            {
+                                                "ref":  "B16",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0),Data!A1:A3)",
+                                                "value":  "#VALUE!",
+                                                "kind":  "error",
+                                                "hasArray":  false,
+                                                "arrayAddress":  null
+                                            },
+                                            {
+                                                "ref":  "C16",
+                                                "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E3,0),Data!A1:A3)",
+                                                "value":  2,
+                                                "kind":  "value",
+                                                "hasArray":  true,
+                                                "arrayAddress":  "$C$16"
+                                            }
+                                        ],
+                              "expectedSha256":  "ac59fd9080b4c004bdf4d249910456a1c13b24ce61387149058b4f60bea57689"
+                          }
+                      ],
+    "editingReferenceScriptSha256":  "fc6e57d2dc02254615c2910da0229a481b2c77e9ccbde6a5aca869243c268d9b"
+}

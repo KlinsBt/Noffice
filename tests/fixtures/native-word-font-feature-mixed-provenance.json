@@ -1,0 +1,556 @@
+{
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "scriptHash": "d9c32394f69111721e6d801387598f85d5af0314a5edc891af415f07979baa29",
+  "rows": [
+    {
+      "stages": [
+        {
+          "docxHash": "0cfe7f66acb974eed7dcb27ca3038e338b8782b02765c615ad67204a07bfc438",
+          "pdfHash": "87fe045b473e1a57957bd9e08a175563a0a23b8ff3945ebb234079657aa8597f",
+          "stage": "source",
+          "state": {
+            "pages": 4,
+            "characters": [
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "S",
+                "ligatures": 0
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "1",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "h",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "d",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "r",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "d",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "f",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "u",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "l",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "\r",
+                "ligatures": 1
+              }
+            ],
+            "linked": true,
+            "text": "S1 header default\r"
+          }
+        },
+        {
+          "docxHash": "ea74d3576f60abb3bb673d537df2d2541d05e59dc8c145a685d6f66396fde935",
+          "pdfHash": "c3cdf2f16d631426c16c25364dd742196b2f1400579c5c603e87685e07c62996",
+          "stage": "expected",
+          "state": {
+            "pages": 4,
+            "characters": [
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "S",
+                "ligatures": 0
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "1",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "h",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "d",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "r",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "d",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "f",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "u",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "l",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "N",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "w",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "\r",
+                "ligatures": 1
+              }
+            ],
+            "linked": false,
+            "text": "S1 header default New\r"
+          }
+        }
+      ],
+      "name": "cloned-Headers",
+      "baseHash": "e9fe069958fabffc1d8a7a10bae8b46ab683b8e9c11c616b98fe346694699cdd",
+      "section": 2,
+      "kind": "Headers",
+      "mode": "cloned",
+      "sourceFile": "word-font-feature-mixed-provenance-cloned-headers.docx"
+    },
+    {
+      "stages": [
+        {
+          "docxHash": "bcfe54c21fa429139b1ba1d1e5f3b1dd3f6cefef375ef8db995f024d807f1c58",
+          "pdfHash": "70c50faed6e5f7351eb26518288ada10bbe1b81140857c9475606d50dbf966f1",
+          "stage": "source",
+          "state": {
+            "pages": 4,
+            "characters": [
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "S",
+                "ligatures": 0
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "1",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "f",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "o",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "o",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "r",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "d",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "f",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "u",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "l",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "\r",
+                "ligatures": 1
+              }
+            ],
+            "linked": true,
+            "text": "S1 footer default\r"
+          }
+        },
+        {
+          "docxHash": "f74ba5390127302c47afcae0a66c490db19aa14c61fcbbc164235139bb12a1ce",
+          "pdfHash": "244d626ccaf3413d32da9027ec0cf9fa4b90f3d274d02bfc510d30b6c87b0831",
+          "stage": "expected",
+          "state": {
+            "pages": 4,
+            "characters": [
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "S",
+                "ligatures": 0
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "1",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "f",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "o",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "o",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "r",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "d",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "f",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "u",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "l",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "N",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "w",
+                "ligatures": 1
+              },
+              {
+                "size": 10,
+                "family": "Arial",
+                "text": "\r",
+                "ligatures": 1
+              }
+            ],
+            "linked": false,
+            "text": "S1 footer default New\r"
+          }
+        }
+      ],
+      "name": "cloned-Footers",
+      "baseHash": "e9fe069958fabffc1d8a7a10bae8b46ab683b8e9c11c616b98fe346694699cdd",
+      "section": 2,
+      "kind": "Footers",
+      "mode": "cloned",
+      "sourceFile": "word-font-feature-mixed-provenance-cloned-footers.docx"
+    }
+  ],
+  "nativeReceiptHash": "5049a3001f211c9f3b281ecddc612b971d5840b3e9b931a3e3bc949258418a3c",
+  "scope": "Two synthetic mixed-ligature copied-story references. Native first character disables standard ligatures while remaining characters enable them. Legacy ambiguity rejection is a browser recovery contract, not native Word behavior."
+}

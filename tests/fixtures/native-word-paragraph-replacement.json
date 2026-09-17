@@ -1,0 +1,311 @@
+{
+  "replaceSelection": true,
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "method": "Native baseline TypeText and Undo/Redo, SmartParaSelection false/true; no foreground UI certification",
+  "scriptHash": "16d0e370e070dec136a296a76019770102013313cc25a6378dc2017381e9640e",
+  "originalSmartParaSelection": true,
+  "rows": [
+    {
+      "redo": "X\rBody2\r",
+      "redoOk": true,
+      "undo": "Ab\tB\rBody2\r",
+      "selection": {
+        "start": 0,
+        "end": 5
+      },
+      "name": "Body-whole-paragraph-smart-False",
+      "source": "Body-text-source.docx",
+      "kind": "Body",
+      "paragraphs": [
+        "X\r",
+        "Body2\r"
+      ],
+      "docxHash": "4d22a4e4a629951fbcb25646ec2dda0d29cb5fdc03eb19ced09cccbb8541e062",
+      "scope": "whole-paragraph",
+      "before": "Ab\tB\rBody2\r",
+      "typed": "X\rBody2\r",
+      "undoOk": true,
+      "smartParaSelection": false,
+      "sourceHash": "958a060a6854a3c7551885c4710732911643e169d649d1473d09997aaa11dafe"
+    },
+    {
+      "redo": "X\rBody2\r",
+      "redoOk": true,
+      "undo": "Ab\tB\rBody2\r",
+      "selection": {
+        "start": 0,
+        "end": 5
+      },
+      "name": "Body-whole-paragraph-smart-True",
+      "source": "Body-text-source.docx",
+      "kind": "Body",
+      "paragraphs": [
+        "X\r",
+        "Body2\r"
+      ],
+      "docxHash": "46e91da2b18b857959379d6be2e29108b70df2219bcb37dfc89169d142e4342e",
+      "scope": "whole-paragraph",
+      "before": "Ab\tB\rBody2\r",
+      "typed": "X\rBody2\r",
+      "undoOk": true,
+      "smartParaSelection": true,
+      "sourceHash": "958a060a6854a3c7551885c4710732911643e169d649d1473d09997aaa11dafe"
+    },
+    {
+      "redo": "Ab\tBX\rBody2\r",
+      "redoOk": true,
+      "undo": "Ab\tB\rBody2\r",
+      "selection": {
+        "start": 4,
+        "end": 5
+      },
+      "name": "Body-mark-only-smart-False",
+      "source": "Body-text-source.docx",
+      "kind": "Body",
+      "paragraphs": [
+        "Ab\tBX\r",
+        "Body2\r"
+      ],
+      "docxHash": "4162681bc1a91c4e9c08f4b116473addb62a333c83c62d933f0ea4c2879fb305",
+      "scope": "mark-only",
+      "before": "Ab\tB\rBody2\r",
+      "typed": "Ab\tBX\rBody2\r",
+      "undoOk": true,
+      "smartParaSelection": false,
+      "sourceHash": "958a060a6854a3c7551885c4710732911643e169d649d1473d09997aaa11dafe"
+    },
+    {
+      "redo": "Ab\tBX\rBody2\r",
+      "redoOk": true,
+      "undo": "Ab\tB\rBody2\r",
+      "selection": {
+        "start": 4,
+        "end": 5
+      },
+      "name": "Body-mark-only-smart-True",
+      "source": "Body-text-source.docx",
+      "kind": "Body",
+      "paragraphs": [
+        "Ab\tBX\r",
+        "Body2\r"
+      ],
+      "docxHash": "f193b2dc254b40fe2ef6422a6c05237c662fd5ee1683efb056192fd5ae289ab3",
+      "scope": "mark-only",
+      "before": "Ab\tB\rBody2\r",
+      "typed": "Ab\tBX\rBody2\r",
+      "undoOk": true,
+      "smartParaSelection": true,
+      "sourceHash": "958a060a6854a3c7551885c4710732911643e169d649d1473d09997aaa11dafe"
+    },
+    {
+      "redo": "X\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "redoOk": true,
+      "undo": "Ab\tB\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "selection": {
+        "start": 0,
+        "end": 5
+      },
+      "name": "Headers-whole-paragraph-smart-False",
+      "source": "Headers-text-source.docx",
+      "kind": "Headers",
+      "paragraphs": [
+        "X\r",
+        "A\tB\r",
+        "A\tB\r",
+        "A\tB\r",
+        "A\tB\r"
+      ],
+      "docxHash": "0472dd092ef981956fcbeb1a95e3efa5d4586fef018045198cc6ea3efb56ba48",
+      "scope": "whole-paragraph",
+      "before": "Ab\tB\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "typed": "X\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "undoOk": true,
+      "smartParaSelection": false,
+      "sourceHash": "f66408d6b479d0e1235c16f9ab72db8f975c5f84f6d884e745238a1a544a45d0"
+    },
+    {
+      "redo": "X\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "redoOk": true,
+      "undo": "Ab\tB\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "selection": {
+        "start": 0,
+        "end": 5
+      },
+      "name": "Headers-whole-paragraph-smart-True",
+      "source": "Headers-text-source.docx",
+      "kind": "Headers",
+      "paragraphs": [
+        "X\r",
+        "A\tB\r",
+        "A\tB\r",
+        "A\tB\r",
+        "A\tB\r"
+      ],
+      "docxHash": "6743780a107239de8b521defce5255157e7bad960e8f00d972cd055a8eb7673f",
+      "scope": "whole-paragraph",
+      "before": "Ab\tB\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "typed": "X\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "undoOk": true,
+      "smartParaSelection": true,
+      "sourceHash": "f66408d6b479d0e1235c16f9ab72db8f975c5f84f6d884e745238a1a544a45d0"
+    },
+    {
+      "redo": "Ab\tBX\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "redoOk": true,
+      "undo": "Ab\tB\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "selection": {
+        "start": 4,
+        "end": 5
+      },
+      "name": "Headers-mark-only-smart-False",
+      "source": "Headers-text-source.docx",
+      "kind": "Headers",
+      "paragraphs": [
+        "Ab\tBX\r",
+        "A\tB\r",
+        "A\tB\r",
+        "A\tB\r",
+        "A\tB\r"
+      ],
+      "docxHash": "798b290c50a3fcab8091f405bf116a958e2401da4654d99b505f9082fae08973",
+      "scope": "mark-only",
+      "before": "Ab\tB\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "typed": "Ab\tBX\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "undoOk": true,
+      "smartParaSelection": false,
+      "sourceHash": "f66408d6b479d0e1235c16f9ab72db8f975c5f84f6d884e745238a1a544a45d0"
+    },
+    {
+      "redo": "Ab\tBX\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "redoOk": true,
+      "undo": "Ab\tB\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "selection": {
+        "start": 4,
+        "end": 5
+      },
+      "name": "Headers-mark-only-smart-True",
+      "source": "Headers-text-source.docx",
+      "kind": "Headers",
+      "paragraphs": [
+        "Ab\tBX\r",
+        "A\tB\r",
+        "A\tB\r",
+        "A\tB\r",
+        "A\tB\r"
+      ],
+      "docxHash": "833205551511f5616cb7e22c61f013446428ea0d5e7ecf2e813218e911023592",
+      "scope": "mark-only",
+      "before": "Ab\tB\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "typed": "Ab\tBX\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "undoOk": true,
+      "smartParaSelection": true,
+      "sourceHash": "f66408d6b479d0e1235c16f9ab72db8f975c5f84f6d884e745238a1a544a45d0"
+    },
+    {
+      "redo": "X\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "redoOk": true,
+      "undo": "Ab\tB\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "selection": {
+        "start": 0,
+        "end": 5
+      },
+      "name": "Footers-whole-paragraph-smart-False",
+      "source": "Footers-text-source.docx",
+      "kind": "Footers",
+      "paragraphs": [
+        "X\r",
+        "A\tB\r",
+        "A\tB\r",
+        "A\tB\r",
+        "A\tB\r"
+      ],
+      "docxHash": "a35483d230da0d52eb00b4c531b7d6c5ce49cd339da4f4bd013f482750932412",
+      "scope": "whole-paragraph",
+      "before": "Ab\tB\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "typed": "X\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "undoOk": true,
+      "smartParaSelection": false,
+      "sourceHash": "9085af4b9f312eb998e9d6758180f95d8e51615bf2f60eaafbe76e759b2cc230"
+    },
+    {
+      "redo": "X\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "redoOk": true,
+      "undo": "Ab\tB\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "selection": {
+        "start": 0,
+        "end": 5
+      },
+      "name": "Footers-whole-paragraph-smart-True",
+      "source": "Footers-text-source.docx",
+      "kind": "Footers",
+      "paragraphs": [
+        "X\r",
+        "A\tB\r",
+        "A\tB\r",
+        "A\tB\r",
+        "A\tB\r"
+      ],
+      "docxHash": "45f1f6f8e000c717fb9896522d1d9394b21ab2aa146c3a61c076e1bed4a5826a",
+      "scope": "whole-paragraph",
+      "before": "Ab\tB\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "typed": "X\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "undoOk": true,
+      "smartParaSelection": true,
+      "sourceHash": "9085af4b9f312eb998e9d6758180f95d8e51615bf2f60eaafbe76e759b2cc230"
+    },
+    {
+      "redo": "Ab\tBX\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "redoOk": true,
+      "undo": "Ab\tB\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "selection": {
+        "start": 4,
+        "end": 5
+      },
+      "name": "Footers-mark-only-smart-False",
+      "source": "Footers-text-source.docx",
+      "kind": "Footers",
+      "paragraphs": [
+        "Ab\tBX\r",
+        "A\tB\r",
+        "A\tB\r",
+        "A\tB\r",
+        "A\tB\r"
+      ],
+      "docxHash": "680222477adf16c9edc32ff84909f230178a42bbcde4293d26b084736fdf24ab",
+      "scope": "mark-only",
+      "before": "Ab\tB\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "typed": "Ab\tBX\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "undoOk": true,
+      "smartParaSelection": false,
+      "sourceHash": "9085af4b9f312eb998e9d6758180f95d8e51615bf2f60eaafbe76e759b2cc230"
+    },
+    {
+      "redo": "Ab\tBX\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "redoOk": true,
+      "undo": "Ab\tB\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "selection": {
+        "start": 4,
+        "end": 5
+      },
+      "name": "Footers-mark-only-smart-True",
+      "source": "Footers-text-source.docx",
+      "kind": "Footers",
+      "paragraphs": [
+        "Ab\tBX\r",
+        "A\tB\r",
+        "A\tB\r",
+        "A\tB\r",
+        "A\tB\r"
+      ],
+      "docxHash": "de7c28bdbd07d96f3bfb83ee61c743b9c25238b8dcfce67027ba6bac4dd86a4d",
+      "scope": "mark-only",
+      "before": "Ab\tB\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "typed": "Ab\tBX\rA\tB\rA\tB\rA\tB\rA\tB\r",
+      "undoOk": true,
+      "smartParaSelection": true,
+      "sourceHash": "9085af4b9f312eb998e9d6758180f95d8e51615bf2f60eaafbe76e759b2cc230"
+    }
+  ],
+  "nativeReportHash": "ab24f00fcea4a2c6383f680ac53b3185d069da597e8cde9bde8628f2a5d46400",
+  "promotionHash": "ebaacc9fbe4308a2132a04e5f3bf49d92d06a3a9378c0a77bac6591190c46ec2"
+}

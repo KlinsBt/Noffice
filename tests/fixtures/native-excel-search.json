@@ -1,0 +1,215 @@
+{
+    "application":  "Microsoft Excel",
+    "version":  "16.0",
+    "build":  "4627",
+    "inputSha256":  "fbc5e2180808b2266af3c6b3472c1972059701378ffb70c5bf371a197ad8803c",
+    "cases":  [
+                  {
+                      "text":  "sat set sit",
+                      "query":  "s?t",
+                      "replacement":  "X",
+                      "matchCase":  false,
+                      "wholeCell":  false,
+                      "found":  true,
+                      "result":  "X X X"
+                  },
+                  {
+                      "text":  "xx a1b a2b yy",
+                      "query":  "a*b",
+                      "replacement":  "X",
+                      "matchCase":  false,
+                      "wholeCell":  false,
+                      "found":  true,
+                      "result":  "xx X X yy"
+                  },
+                  {
+                      "text":  "any text",
+                      "query":  "*",
+                      "replacement":  "X",
+                      "matchCase":  false,
+                      "wholeCell":  false,
+                      "found":  true,
+                      "result":  "X"
+                  },
+                  {
+                      "text":  "fy91? fy91x",
+                      "query":  "fy91~?",
+                      "replacement":  "X",
+                      "matchCase":  false,
+                      "wholeCell":  false,
+                      "found":  true,
+                      "result":  "X fy91x"
+                  },
+                  {
+                      "text":  "cost* and ~",
+                      "query":  "~*",
+                      "replacement":  "X",
+                      "matchCase":  false,
+                      "wholeCell":  false,
+                      "found":  true,
+                      "result":  "costX and ~"
+                  },
+                  {
+                      "text":  "cost* and ~",
+                      "query":  "~~",
+                      "replacement":  "X",
+                      "matchCase":  false,
+                      "wholeCell":  false,
+                      "found":  true,
+                      "result":  "cost* and X"
+                  },
+                  {
+                      "text":  "a\nb",
+                      "query":  "a*b",
+                      "replacement":  "X",
+                      "matchCase":  false,
+                      "wholeCell":  false,
+                      "found":  true,
+                      "result":  "X"
+                  },
+                  {
+                      "text":  "SAT sat",
+                      "query":  "s?t",
+                      "replacement":  "X",
+                      "matchCase":  true,
+                      "wholeCell":  false,
+                      "found":  true,
+                      "result":  "SAT X"
+                  },
+                  {
+                      "text":  "SAT",
+                      "query":  "s?t",
+                      "replacement":  "X",
+                      "matchCase":  false,
+                      "wholeCell":  true,
+                      "found":  true,
+                      "result":  "X"
+                  },
+                  {
+                      "text":  "extra SAT",
+                      "query":  "s?t",
+                      "replacement":  "X",
+                      "matchCase":  false,
+                      "wholeCell":  true,
+                      "found":  false,
+                      "result":  "extra SAT"
+                  },
+                  {
+                      "text":  "sat set",
+                      "query":  "s?t",
+                      "replacement":  "$\u0026",
+                      "matchCase":  false,
+                      "wholeCell":  false,
+                      "found":  true,
+                      "result":  "$\u0026 $\u0026"
+                  },
+                  {
+                      "text":  "~x x",
+                      "query":  "~x",
+                      "replacement":  "X",
+                      "matchCase":  false,
+                      "wholeCell":  false,
+                      "found":  true,
+                      "result":  "~X X"
+                  },
+                  {
+                      "text":  "aaaaa",
+                      "query":  "aa",
+                      "replacement":  "X",
+                      "matchCase":  false,
+                      "wholeCell":  false,
+                      "found":  true,
+                      "result":  "XXa"
+                  },
+                  {
+                      "text":  "abc",
+                      "query":  "**",
+                      "replacement":  "X",
+                      "matchCase":  false,
+                      "wholeCell":  false,
+                      "found":  true,
+                      "result":  "X"
+                  },
+                  {
+                      "text":  "Atlas Atlas",
+                      "query":  "Atlas",
+                      "replacement":  "Orion",
+                      "matchCase":  false,
+                      "wholeCell":  false,
+                      "found":  true,
+                      "result":  "Orion Orion"
+                  },
+                  {
+                      "text":  "abcabc",
+                      "query":  "*b",
+                      "replacement":  "X",
+                      "matchCase":  false,
+                      "wholeCell":  false,
+                      "found":  true,
+                      "result":  "XXc"
+                  },
+                  {
+                      "text":  "abcabc",
+                      "query":  "a*",
+                      "replacement":  "X",
+                      "matchCase":  false,
+                      "wholeCell":  false,
+                      "found":  true,
+                      "result":  "X"
+                  },
+                  {
+                      "text":  "abcabc",
+                      "query":  "*?",
+                      "replacement":  "X",
+                      "matchCase":  false,
+                      "wholeCell":  false,
+                      "found":  true,
+                      "result":  "XXXXXX"
+                  },
+                  {
+                      "text":  "abcabc",
+                      "query":  "a*b*",
+                      "replacement":  "X",
+                      "matchCase":  false,
+                      "wholeCell":  false,
+                      "found":  true,
+                      "result":  "X"
+                  },
+                  {
+                      "text":  "a1b a2b",
+                      "query":  "a*b",
+                      "replacement":  "X",
+                      "matchCase":  false,
+                      "wholeCell":  true,
+                      "found":  true,
+                      "result":  "X"
+                  },
+                  {
+                      "text":  "a1b a2b c",
+                      "query":  "a*b*c",
+                      "replacement":  "X",
+                      "matchCase":  false,
+                      "wholeCell":  false,
+                      "found":  true,
+                      "result":  "X"
+                  },
+                  {
+                      "text":  "x~ y",
+                      "query":  "~",
+                      "replacement":  "X",
+                      "matchCase":  false,
+                      "wholeCell":  false,
+                      "found":  true,
+                      "result":  "x~ y"
+                  },
+                  {
+                      "text":  "miss",
+                      "query":  "absent",
+                      "replacement":  "X",
+                      "matchCase":  false,
+                      "wholeCell":  false,
+                      "found":  false,
+                      "result":  "miss"
+                  }
+              ]
+}

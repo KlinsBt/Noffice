@@ -1,0 +1,33 @@
+{
+  "revision": "b230a0df45036b2d5e8b49ebf368b3f90ada8d63",
+  "files": [
+    {
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/OfficeDev/office-fluent-ui-command-identifiers/b230a0df45036b2d5e8b49ebf368b3f90ada8d63/LICENSE",
+      "gitBlob": "4b1ad51b2f0efc36f38aa3349a9f30fbd9217547",
+      "sha256": "dea9265341829002e2c23a7372393eb2ed6e26085fb623f38a4ba0af833f30a6",
+      "bytes": 1183
+    },
+    {
+      "path": "Office 2016/wordcontrols.xlsx",
+      "url": "https://raw.githubusercontent.com/OfficeDev/office-fluent-ui-command-identifiers/b230a0df45036b2d5e8b49ebf368b3f90ada8d63/Office%202016/wordcontrols.xlsx",
+      "gitBlob": "e26e752cc7804707d28ef82536de603868993304",
+      "sha256": "f9f3372fea7a09d3db36480b4cb914135893ea50fe7f535eec3d48e565632d2e",
+      "bytes": 171354
+    },
+    {
+      "path": "Office 2016/excelcontrols.xlsx",
+      "url": "https://raw.githubusercontent.com/OfficeDev/office-fluent-ui-command-identifiers/b230a0df45036b2d5e8b49ebf368b3f90ada8d63/Office%202016/excelcontrols.xlsx",
+      "gitBlob": "2fba513e4a0c38ccb8b994afdd3d0ec132f5af48",
+      "sha256": "3b64deed980c5b579b4d7d86fdb9b39a643cc7ba850397a62b47ad2c544258e4",
+      "bytes": 146378
+    },
+    {
+      "path": "Office 2016/powerpointcontrols.xlsx",
+      "url": "https://raw.githubusercontent.com/OfficeDev/office-fluent-ui-command-identifiers/b230a0df45036b2d5e8b49ebf368b3f90ada8d63/Office%202016/powerpointcontrols.xlsx",
+      "gitBlob": "dd79ca6aa711e6ea68c7fcb3f28c3b7bde76c58b",
+      "sha256": "92fa5acaddfda6f89ba7532a3e0b217fd2e1e2c4a878c26f52644cd12adf6467",
+      "bytes": 141952
+    }
+  ]
+}

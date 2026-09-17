@@ -1,0 +1,128 @@
+﻿{
+    "application":  "Microsoft PowerPoint",
+    "version":  "16.0",
+    "inputSha256":  "29e5ea2624e1901e4e07809adf7ae263f375c5ada7452d4849f51251b2dbf4a3",
+    "presentationSha256":  "a2fa958ab8028c215b49cd421fdfddc2510644aa700930b889171ab472cc7b80",
+    "cases":  [
+                  {
+                      "name":  "806040-plain",
+                      "color":  "#806040",
+                      "opacity":  1
+                  },
+                  {
+                      "name":  "806040-tint",
+                      "color":  "#d8d2ce",
+                      "opacity":  1
+                  },
+                  {
+                      "name":  "806040-shade",
+                      "color":  "#694e33",
+                      "opacity":  1
+                  },
+                  {
+                      "name":  "806040-light",
+                      "color":  "#d5bfaa",
+                      "opacity":  1
+                  },
+                  {
+                      "name":  "806040-dark",
+                      "color":  "#533e2a",
+                      "opacity":  1
+                  },
+                  {
+                      "name":  "806040-saturation",
+                      "color":  "#706050",
+                      "opacity":  1
+                  },
+                  {
+                      "name":  "806040-alpha",
+                      "color":  "#806040",
+                      "opacity":  0.44999998807907104
+                  },
+                  {
+                      "name":  "806040-alpha-chain",
+                      "color":  "#806040",
+                      "opacity":  0.39999997615814209
+                  },
+                  {
+                      "name":  "4472C4-plain",
+                      "color":  "#4472c4",
+                      "opacity":  1
+                  },
+                  {
+                      "name":  "4472C4-tint",
+                      "color":  "#cfd5ea",
+                      "opacity":  1
+                  },
+                  {
+                      "name":  "4472C4-shade",
+                      "color":  "#375da1",
+                      "opacity":  1
+                  },
+                  {
+                      "name":  "4472C4-light",
+                      "color":  "#b4c7e7",
+                      "opacity":  1
+                  },
+                  {
+                      "name":  "4472C4-dark",
+                      "color":  "#294982",
+                      "opacity":  1
+                  },
+                  {
+                      "name":  "4472C4-saturation",
+                      "color":  "#647ba4",
+                      "opacity":  1
+                  },
+                  {
+                      "name":  "4472C4-alpha",
+                      "color":  "#4472c4",
+                      "opacity":  0.44999998807907104
+                  },
+                  {
+                      "name":  "4472C4-alpha-chain",
+                      "color":  "#4472c4",
+                      "opacity":  0.39999997615814209
+                  },
+                  {
+                      "name":  "EF3F88-plain",
+                      "color":  "#ef3f88",
+                      "opacity":  1
+                  },
+                  {
+                      "name":  "EF3F88-tint",
+                      "color":  "#f9ceda",
+                      "opacity":  1
+                  },
+                  {
+                      "name":  "EF3F88-shade",
+                      "color":  "#c5326f",
+                      "opacity":  1
+                  },
+                  {
+                      "name":  "EF3F88-light",
+                      "color":  "#f9b2cf",
+                      "opacity":  1
+                  },
+                  {
+                      "name":  "EF3F88-dark",
+                      "color":  "#b50f54",
+                      "opacity":  1
+                  },
+                  {
+                      "name":  "EF3F88-saturation",
+                      "color":  "#c36b8f",
+                      "opacity":  1
+                  },
+                  {
+                      "name":  "EF3F88-alpha",
+                      "color":  "#ef3f88",
+                      "opacity":  0.44999998807907104
+                  },
+                  {
+                      "name":  "EF3F88-alpha-chain",
+                      "color":  "#ef3f88",
+                      "opacity":  0.39999997615814209
+                  }
+              ]
+}

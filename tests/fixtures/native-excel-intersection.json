@@ -1,0 +1,1198 @@
+{
+    "scope":  "Bounded legacy scalar intersection; full reference/array/table semantics remain open",
+    "scriptSha256":  "a64fe8af8737c3d3ea80f9705a54289f01afb55455e17f7278ceb9f858bf2363",
+    "sourceSha256":  "d128005ff89f90ee011631e951ae5c3635cdd86c0dc03e1cfed1951fd0ec73d5",
+    "executableSha256":  "34f17e922e344705a958b52e2472e6667b1d32a887f28a18b7b97e0e7ab167a9",
+    "locale":  1031,
+    "initial":  [
+                    {
+                        "ref":  "C1",
+                        "formula":  "=Data!A1:A8",
+                        "value":  1,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "C2",
+                        "formula":  "=Data!A1:A5",
+                        "value":  4,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "C3",
+                        "formula":  "=Data!A1:A5+1",
+                        "value":  10,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "C4",
+                        "formula":  "=SQRT(Data!A1:A5)",
+                        "value":  4,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "C6",
+                        "formula":  "=Data!A1:A8",
+                        "value":  0,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "C7",
+                        "formula":  "=Data!A1:A8",
+                        "value":  "",
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "C8",
+                        "formula":  "=Data!A1:A8",
+                        "value":  "#DIV/0!",
+                        "kind":  "error"
+                    },
+                    {
+                        "ref":  "C9",
+                        "formula":  "=Data!A1:A5",
+                        "value":  "#VALUE!",
+                        "kind":  "error"
+                    },
+                    {
+                        "ref":  "B10",
+                        "formula":  "=Data!A1:C1",
+                        "value":  6,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "F10",
+                        "formula":  "=Data!A1:C1",
+                        "value":  "#VALUE!",
+                        "kind":  "error"
+                    },
+                    {
+                        "ref":  "B2",
+                        "formula":  "=Data!A1:B4",
+                        "value":  false,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "E2",
+                        "formula":  "=Data!A1:B4",
+                        "value":  "#VALUE!",
+                        "kind":  "error"
+                    },
+                    {
+                        "ref":  "D2",
+                        "formula":  "=SUM(Data!A1:A5)",
+                        "value":  55,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "E3",
+                        "formula":  "=SUM(Data!A1:A5+1)",
+                        "value":  10,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "D3",
+                        "formula":  "=INDEX(Data!A1:A5,0)",
+                        "value":  9,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "D4",
+                        "formula":  "=INDIRECT(\"Data!A1:A5\")",
+                        "value":  16,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "D5",
+                        "formula":  "=ColumnValues",
+                        "value":  25,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "E4",
+                        "formula":  "=Data!A:A",
+                        "value":  16,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "E10",
+                        "formula":  "=Data!1:1",
+                        "value":  0,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "D6",
+                        "formula":  "=ISNUMBER(Data!A1:A8)",
+                        "value":  false,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "E6",
+                        "formula":  "=ISTEXT(Data!A1:A8)",
+                        "value":  false,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "F6",
+                        "formula":  "=ISBLANK(Data!A1:A8)",
+                        "value":  true,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "D7",
+                        "formula":  "=ISNUMBER(Data!A1:A8)",
+                        "value":  false,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "E7",
+                        "formula":  "=ISTEXT(Data!A1:A8)",
+                        "value":  true,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "F7",
+                        "formula":  "=ISBLANK(Data!A1:A8)",
+                        "value":  false,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "G2",
+                        "formula":  "=IFERROR(Data!A1:A8,99)",
+                        "value":  4,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "G8",
+                        "formula":  "=IFERROR(Data!A1:A8,99)",
+                        "value":  99,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "H2",
+                        "formula":  "=ISERROR(Data!A1:A8)",
+                        "value":  false,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "H8",
+                        "formula":  "=ISERROR(Data!A1:A8)",
+                        "value":  true,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "I7",
+                        "formula":  "=PMT(Data!A6:A7,1,100)",
+                        "value":  "#VALUE!",
+                        "kind":  "error"
+                    },
+                    {
+                        "ref":  "I2",
+                        "formula":  "=NextColumn",
+                        "value":  4,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "I6",
+                        "formula":  "=NextColumn",
+                        "value":  0,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "I3",
+                        "formula":  "=IFERROR(RelativeArea,0)",
+                        "value":  0,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "D8",
+                        "formula":  "=ISNUMBER(Data!A1:A8)",
+                        "value":  false,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "E8",
+                        "formula":  "=ISTEXT(Data!A1:A8)",
+                        "value":  false,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "F8",
+                        "formula":  "=ISBLANK(Data!A1:A8)",
+                        "value":  false,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "F2",
+                        "formula":  "=SUM(IF(TRUE,Data!A1:A5,0))",
+                        "value":  55,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "F3",
+                        "formula":  "=SUM(IFERROR(Data!A1:A5,0))",
+                        "value":  9,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "G3",
+                        "formula":  "=AVERAGE(Data!A1:A5)",
+                        "value":  11,
+                        "kind":  "value"
+                    }
+                ],
+    "stages":  [
+                   {
+                       "stage":  "edit",
+                       "cells":  [
+                                     {
+                                         "ref":  "C1",
+                                         "formula":  "=Data!A1:A8",
+                                         "value":  1,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C2",
+                                         "formula":  "=Data!A1:A5",
+                                         "value":  64,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C3",
+                                         "formula":  "=Data!A1:A5+1",
+                                         "value":  10,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C4",
+                                         "formula":  "=SQRT(Data!A1:A5)",
+                                         "value":  4,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C6",
+                                         "formula":  "=Data!A1:A8",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C7",
+                                         "formula":  "=Data!A1:A8",
+                                         "value":  "",
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C8",
+                                         "formula":  "=Data!A1:A8",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C9",
+                                         "formula":  "=Data!A1:A5",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B10",
+                                         "formula":  "=Data!A1:C1",
+                                         "value":  6,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "F10",
+                                         "formula":  "=Data!A1:C1",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B2",
+                                         "formula":  "=Data!A1:B4",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "E2",
+                                         "formula":  "=Data!A1:B4",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D2",
+                                         "formula":  "=SUM(Data!A1:A5)",
+                                         "value":  115,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "E3",
+                                         "formula":  "=SUM(Data!A1:A5+1)",
+                                         "value":  10,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D3",
+                                         "formula":  "=INDEX(Data!A1:A5,0)",
+                                         "value":  9,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D4",
+                                         "formula":  "=INDIRECT(\"Data!A1:A5\")",
+                                         "value":  16,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D5",
+                                         "formula":  "=ColumnValues",
+                                         "value":  25,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "E4",
+                                         "formula":  "=Data!A:A",
+                                         "value":  16,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "E10",
+                                         "formula":  "=Data!1:1",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D6",
+                                         "formula":  "=ISNUMBER(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "E6",
+                                         "formula":  "=ISTEXT(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "F6",
+                                         "formula":  "=ISBLANK(Data!A1:A8)",
+                                         "value":  true,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D7",
+                                         "formula":  "=ISNUMBER(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "E7",
+                                         "formula":  "=ISTEXT(Data!A1:A8)",
+                                         "value":  true,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "F7",
+                                         "formula":  "=ISBLANK(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "G2",
+                                         "formula":  "=IFERROR(Data!A1:A8,99)",
+                                         "value":  64,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "G8",
+                                         "formula":  "=IFERROR(Data!A1:A8,99)",
+                                         "value":  99,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "H2",
+                                         "formula":  "=ISERROR(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "H8",
+                                         "formula":  "=ISERROR(Data!A1:A8)",
+                                         "value":  true,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "I7",
+                                         "formula":  "=PMT(Data!A6:A7,1,100)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "I2",
+                                         "formula":  "=NextColumn",
+                                         "value":  64,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "I6",
+                                         "formula":  "=NextColumn",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "I3",
+                                         "formula":  "=IFERROR(RelativeArea,0)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D8",
+                                         "formula":  "=ISNUMBER(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "E8",
+                                         "formula":  "=ISTEXT(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "F8",
+                                         "formula":  "=ISBLANK(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "F2",
+                                         "formula":  "=SUM(IF(TRUE,Data!A1:A5,0))",
+                                         "value":  115,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "F3",
+                                         "formula":  "=SUM(IFERROR(Data!A1:A5,0))",
+                                         "value":  9,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "G3",
+                                         "formula":  "=AVERAGE(Data!A1:A5)",
+                                         "value":  23,
+                                         "kind":  "value"
+                                     }
+                                 ]
+                   },
+                   {
+                       "stage":  "delete",
+                       "cells":  [
+                                     {
+                                         "ref":  "C1",
+                                         "formula":  "=Data!A1:A8",
+                                         "value":  1,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C2",
+                                         "formula":  "=Data!A1:A5",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C3",
+                                         "formula":  "=Data!A1:A5+1",
+                                         "value":  10,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C4",
+                                         "formula":  "=SQRT(Data!A1:A5)",
+                                         "value":  4,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C6",
+                                         "formula":  "=Data!A1:A8",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C7",
+                                         "formula":  "=Data!A1:A8",
+                                         "value":  "",
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C8",
+                                         "formula":  "=Data!A1:A8",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C9",
+                                         "formula":  "=Data!A1:A5",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B10",
+                                         "formula":  "=Data!A1:C1",
+                                         "value":  6,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "F10",
+                                         "formula":  "=Data!A1:C1",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B2",
+                                         "formula":  "=Data!A1:B4",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "E2",
+                                         "formula":  "=Data!A1:B4",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D2",
+                                         "formula":  "=SUM(Data!A1:A5)",
+                                         "value":  51,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "E3",
+                                         "formula":  "=SUM(Data!A1:A5+1)",
+                                         "value":  10,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D3",
+                                         "formula":  "=INDEX(Data!A1:A5,0)",
+                                         "value":  9,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D4",
+                                         "formula":  "=INDIRECT(\"Data!A1:A5\")",
+                                         "value":  16,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D5",
+                                         "formula":  "=ColumnValues",
+                                         "value":  25,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "E4",
+                                         "formula":  "=Data!A:A",
+                                         "value":  16,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "E10",
+                                         "formula":  "=Data!1:1",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D6",
+                                         "formula":  "=ISNUMBER(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "E6",
+                                         "formula":  "=ISTEXT(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "F6",
+                                         "formula":  "=ISBLANK(Data!A1:A8)",
+                                         "value":  true,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D7",
+                                         "formula":  "=ISNUMBER(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "E7",
+                                         "formula":  "=ISTEXT(Data!A1:A8)",
+                                         "value":  true,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "F7",
+                                         "formula":  "=ISBLANK(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "G2",
+                                         "formula":  "=IFERROR(Data!A1:A8,99)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "G8",
+                                         "formula":  "=IFERROR(Data!A1:A8,99)",
+                                         "value":  99,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "H2",
+                                         "formula":  "=ISERROR(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "H8",
+                                         "formula":  "=ISERROR(Data!A1:A8)",
+                                         "value":  true,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "I7",
+                                         "formula":  "=PMT(Data!A6:A7,1,100)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "I2",
+                                         "formula":  "=NextColumn",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "I6",
+                                         "formula":  "=NextColumn",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "I3",
+                                         "formula":  "=IFERROR(RelativeArea,0)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D8",
+                                         "formula":  "=ISNUMBER(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "E8",
+                                         "formula":  "=ISTEXT(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "F8",
+                                         "formula":  "=ISBLANK(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "F2",
+                                         "formula":  "=SUM(IF(TRUE,Data!A1:A5,0))",
+                                         "value":  51,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "F3",
+                                         "formula":  "=SUM(IFERROR(Data!A1:A5,0))",
+                                         "value":  9,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "G3",
+                                         "formula":  "=AVERAGE(Data!A1:A5)",
+                                         "value":  12.75,
+                                         "kind":  "value"
+                                     }
+                                 ]
+                   },
+                   {
+                       "stage":  "error",
+                       "cells":  [
+                                     {
+                                         "ref":  "C1",
+                                         "formula":  "=Data!A1:A8",
+                                         "value":  1,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C2",
+                                         "formula":  "=Data!A1:A5",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C3",
+                                         "formula":  "=Data!A1:A5+1",
+                                         "value":  10,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C4",
+                                         "formula":  "=SQRT(Data!A1:A5)",
+                                         "value":  4,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C6",
+                                         "formula":  "=Data!A1:A8",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C7",
+                                         "formula":  "=Data!A1:A8",
+                                         "value":  "",
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C8",
+                                         "formula":  "=Data!A1:A8",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C9",
+                                         "formula":  "=Data!A1:A5",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B10",
+                                         "formula":  "=Data!A1:C1",
+                                         "value":  6,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "F10",
+                                         "formula":  "=Data!A1:C1",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B2",
+                                         "formula":  "=Data!A1:B4",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "E2",
+                                         "formula":  "=Data!A1:B4",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D2",
+                                         "formula":  "=SUM(Data!A1:A5)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "E3",
+                                         "formula":  "=SUM(Data!A1:A5+1)",
+                                         "value":  10,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D3",
+                                         "formula":  "=INDEX(Data!A1:A5,0)",
+                                         "value":  9,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D4",
+                                         "formula":  "=INDIRECT(\"Data!A1:A5\")",
+                                         "value":  16,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D5",
+                                         "formula":  "=ColumnValues",
+                                         "value":  25,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "E4",
+                                         "formula":  "=Data!A:A",
+                                         "value":  16,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "E10",
+                                         "formula":  "=Data!1:1",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D6",
+                                         "formula":  "=ISNUMBER(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "E6",
+                                         "formula":  "=ISTEXT(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "F6",
+                                         "formula":  "=ISBLANK(Data!A1:A8)",
+                                         "value":  true,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D7",
+                                         "formula":  "=ISNUMBER(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "E7",
+                                         "formula":  "=ISTEXT(Data!A1:A8)",
+                                         "value":  true,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "F7",
+                                         "formula":  "=ISBLANK(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "G2",
+                                         "formula":  "=IFERROR(Data!A1:A8,99)",
+                                         "value":  99,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "G8",
+                                         "formula":  "=IFERROR(Data!A1:A8,99)",
+                                         "value":  99,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "H2",
+                                         "formula":  "=ISERROR(Data!A1:A8)",
+                                         "value":  true,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "H8",
+                                         "formula":  "=ISERROR(Data!A1:A8)",
+                                         "value":  true,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "I7",
+                                         "formula":  "=PMT(Data!A6:A7,1,100)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "I2",
+                                         "formula":  "=NextColumn",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "I6",
+                                         "formula":  "=NextColumn",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "I3",
+                                         "formula":  "=IFERROR(RelativeArea,0)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D8",
+                                         "formula":  "=ISNUMBER(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "E8",
+                                         "formula":  "=ISTEXT(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "F8",
+                                         "formula":  "=ISBLANK(Data!A1:A8)",
+                                         "value":  false,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "F2",
+                                         "formula":  "=SUM(IF(TRUE,Data!A1:A5,0))",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "F3",
+                                         "formula":  "=SUM(IFERROR(Data!A1:A5,0))",
+                                         "value":  9,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "G3",
+                                         "formula":  "=AVERAGE(Data!A1:A5)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     }
+                                 ]
+                   }
+               ],
+    "reopened":  [
+                     {
+                         "ref":  "C1",
+                         "formula":  "=Data!A1:A8",
+                         "value":  1,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "C2",
+                         "formula":  "=Data!A1:A5",
+                         "value":  4,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "C3",
+                         "formula":  "=Data!A1:A5+1",
+                         "value":  10,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "C4",
+                         "formula":  "=SQRT(Data!A1:A5)",
+                         "value":  4,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "C6",
+                         "formula":  "=Data!A1:A8",
+                         "value":  0,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "C7",
+                         "formula":  "=Data!A1:A8",
+                         "value":  "",
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "C8",
+                         "formula":  "=Data!A1:A8",
+                         "value":  "#DIV/0!",
+                         "kind":  "error"
+                     },
+                     {
+                         "ref":  "C9",
+                         "formula":  "=Data!A1:A5",
+                         "value":  "#VALUE!",
+                         "kind":  "error"
+                     },
+                     {
+                         "ref":  "B10",
+                         "formula":  "=Data!A1:C1",
+                         "value":  6,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "F10",
+                         "formula":  "=Data!A1:C1",
+                         "value":  "#VALUE!",
+                         "kind":  "error"
+                     },
+                     {
+                         "ref":  "B2",
+                         "formula":  "=Data!A1:B4",
+                         "value":  false,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "E2",
+                         "formula":  "=Data!A1:B4",
+                         "value":  "#VALUE!",
+                         "kind":  "error"
+                     },
+                     {
+                         "ref":  "D2",
+                         "formula":  "=SUM(Data!A1:A5)",
+                         "value":  55,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "E3",
+                         "formula":  "=SUM(Data!A1:A5+1)",
+                         "value":  10,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "D3",
+                         "formula":  "=INDEX(Data!A1:A5,0)",
+                         "value":  9,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "D4",
+                         "formula":  "=INDIRECT(\"Data!A1:A5\")",
+                         "value":  16,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "D5",
+                         "formula":  "=ColumnValues",
+                         "value":  25,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "E4",
+                         "formula":  "=Data!A:A",
+                         "value":  16,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "E10",
+                         "formula":  "=Data!1:1",
+                         "value":  0,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "D6",
+                         "formula":  "=ISNUMBER(Data!A1:A8)",
+                         "value":  false,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "E6",
+                         "formula":  "=ISTEXT(Data!A1:A8)",
+                         "value":  false,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "F6",
+                         "formula":  "=ISBLANK(Data!A1:A8)",
+                         "value":  true,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "D7",
+                         "formula":  "=ISNUMBER(Data!A1:A8)",
+                         "value":  false,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "E7",
+                         "formula":  "=ISTEXT(Data!A1:A8)",
+                         "value":  true,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "F7",
+                         "formula":  "=ISBLANK(Data!A1:A8)",
+                         "value":  false,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "G2",
+                         "formula":  "=IFERROR(Data!A1:A8,99)",
+                         "value":  4,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "G8",
+                         "formula":  "=IFERROR(Data!A1:A8,99)",
+                         "value":  99,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "H2",
+                         "formula":  "=ISERROR(Data!A1:A8)",
+                         "value":  false,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "H8",
+                         "formula":  "=ISERROR(Data!A1:A8)",
+                         "value":  true,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "I7",
+                         "formula":  "=PMT(Data!A6:A7,1,100)",
+                         "value":  "#VALUE!",
+                         "kind":  "error"
+                     },
+                     {
+                         "ref":  "I2",
+                         "formula":  "=NextColumn",
+                         "value":  4,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "I6",
+                         "formula":  "=NextColumn",
+                         "value":  0,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "I3",
+                         "formula":  "=IFERROR(RelativeArea,0)",
+                         "value":  0,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "D8",
+                         "formula":  "=ISNUMBER(Data!A1:A8)",
+                         "value":  false,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "E8",
+                         "formula":  "=ISTEXT(Data!A1:A8)",
+                         "value":  false,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "F8",
+                         "formula":  "=ISBLANK(Data!A1:A8)",
+                         "value":  false,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "F2",
+                         "formula":  "=SUM(IF(TRUE,Data!A1:A5,0))",
+                         "value":  55,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "F3",
+                         "formula":  "=SUM(IFERROR(Data!A1:A5,0))",
+                         "value":  9,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "G3",
+                         "formula":  "=AVERAGE(Data!A1:A5)",
+                         "value":  11,
+                         "kind":  "value"
+                     }
+                 ]
+}

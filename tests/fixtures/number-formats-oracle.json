@@ -1,0 +1,405 @@
+﻿{
+  "application": "Microsoft Excel",
+  "version": "16.0",
+  "build": 4627,
+  "locale": 1031,
+  "inputSha256": "7791bb1a51f028b63f6b80bfae808bdf2188cda430a366db2428593c37a10665",
+  "cases": [
+    {
+      "code": "000.00",
+      "input": 7.6,
+      "date1904": false,
+      "nativeCode": "000.00",
+      "nativeValue": 7.6,
+      "value": "007.60",
+      "kind": "value"
+    },
+    {
+      "code": "£000.00",
+      "input": -7.6,
+      "date1904": false,
+      "nativeCode": "£000.00",
+      "nativeValue": -7.6,
+      "value": "-£007.60",
+      "kind": "value"
+    },
+    {
+      "code": "¥0.00\" net\"",
+      "input": 42.8,
+      "date1904": false,
+      "nativeCode": "¥0.00\" net\"",
+      "nativeValue": 42.8,
+      "value": "¥42.80 net",
+      "kind": "value"
+    },
+    {
+      "code": "0,0",
+      "input": 3456789,
+      "date1904": false,
+      "nativeCode": "0,0",
+      "nativeValue": 3456789,
+      "value": "3,456,789",
+      "kind": "value"
+    },
+    {
+      "code": "0,000000",
+      "input": 1234,
+      "date1904": false,
+      "nativeCode": "0,000000",
+      "nativeValue": 1234,
+      "value": "0,001,234",
+      "kind": "value"
+    },
+    {
+      "code": "?,???????",
+      "input": 3456789,
+      "date1904": false,
+      "nativeCode": "?,???????",
+      "nativeValue": 3456789,
+      "value": " 3,456,789",
+      "kind": "value"
+    },
+    {
+      "code": "#.##",
+      "input": 0,
+      "date1904": false,
+      "nativeCode": "#.##",
+      "nativeValue": 0,
+      "value": ".",
+      "kind": "value"
+    },
+    {
+      "code": "0.00",
+      "input": 1.005,
+      "date1904": false,
+      "nativeCode": "0.00",
+      "nativeValue": 1.005,
+      "value": "1.01",
+      "kind": "value"
+    },
+    {
+      "code": "0.00",
+      "input": -1.005,
+      "date1904": false,
+      "nativeCode": "0.00",
+      "nativeValue": -1.005,
+      "value": "-1.01",
+      "kind": "value"
+    },
+    {
+      "code": "#,##0.00%",
+      "input": 0.00035,
+      "date1904": false,
+      "nativeCode": "#,##0.00%",
+      "nativeValue": 0.00035,
+      "value": "0.04%",
+      "kind": "value"
+    },
+    {
+      "code": "0.0%",
+      "input": 0.285,
+      "date1904": false,
+      "nativeCode": "0.0%",
+      "nativeValue": 0.285,
+      "value": "28.5%",
+      "kind": "value"
+    },
+    {
+      "code": "0,0.00%%",
+      "input": 15.75,
+      "date1904": false,
+      "nativeCode": "0,0.00%%",
+      "nativeValue": 15.75,
+      "value": "157,500.00%%",
+      "kind": "value"
+    },
+    {
+      "code": "#,",
+      "input": 7654321,
+      "date1904": false,
+      "nativeCode": "#,",
+      "nativeValue": 7654321,
+      "value": "7654",
+      "kind": "value"
+    },
+    {
+      "code": "#,,",
+      "input": 7654321,
+      "date1904": false,
+      "nativeCode": "#,,",
+      "nativeValue": 7654321,
+      "value": "8",
+      "kind": "value"
+    },
+    {
+      "code": "#,.#,",
+      "input": 7654321,
+      "date1904": false,
+      "nativeCode": "#,.#,",
+      "nativeValue": 7654321,
+      "value": "7.7",
+      "kind": "value"
+    },
+    {
+      "code": "000-00-0000",
+      "input": 12345678,
+      "date1904": false,
+      "nativeCode": "000-00-0000",
+      "nativeValue": 12345678,
+      "value": "012-34-5678",
+      "kind": "value"
+    },
+    {
+      "code": "0.0?",
+      "input": 8.9,
+      "date1904": false,
+      "nativeCode": "0.0?",
+      "nativeValue": 8.9,
+      "value": "8.9 ",
+      "kind": "value"
+    },
+    {
+      "code": "???.???",
+      "input": 2.8,
+      "date1904": false,
+      "nativeCode": "???.???",
+      "nativeValue": 2.8,
+      "value": "  2.8  ",
+      "kind": "value"
+    },
+    {
+      "code": "0.00;[Red](0.00);\"zero\";\"text: \"@",
+      "input": -8.25,
+      "date1904": false,
+      "nativeCode": "0.00;[Rot](0.00);\"zero\";\"text: \"@",
+      "nativeValue": -8.25,
+      "value": "(8.25)",
+      "kind": "value"
+    },
+    {
+      "code": "0.00;[Red](0.00);\"zero\";\"text: \"@",
+      "input": 0,
+      "date1904": false,
+      "nativeCode": "0.00;[Rot](0.00);\"zero\";\"text: \"@",
+      "nativeValue": 0,
+      "value": "zero",
+      "kind": "value"
+    },
+    {
+      "code": "[\u003e=100]0.0;[\u003c0](0.00);0",
+      "input": -2.5,
+      "date1904": false,
+      "nativeCode": "[\u003e=100]0.0;[\u003c0](0.00);0",
+      "nativeValue": -2.5,
+      "value": "(2.50)",
+      "kind": "value"
+    },
+    {
+      "code": "[\u003e=100]0.0;[\u003c0](0.00);0",
+      "input": 101.25,
+      "date1904": false,
+      "nativeCode": "[\u003e=100]0.0;[\u003c0](0.00);0",
+      "nativeValue": 101.25,
+      "value": "101.3",
+      "kind": "value"
+    },
+    {
+      "code": "[$€-407]#,##0.00",
+      "input": 1234.5,
+      "date1904": false,
+      "nativeCode": "[$€-407]#,##0.00",
+      "nativeValue": 1234.5,
+      "value": "€1,234.50",
+      "kind": "value"
+    },
+    {
+      "code": "# ?/?",
+      "input": 5.25,
+      "date1904": false,
+      "nativeCode": "# ?/?",
+      "nativeValue": 5.25,
+      "value": "5 1/4",
+      "kind": "value"
+    },
+    {
+      "code": "# ??/??",
+      "input": 5.3,
+      "date1904": false,
+      "nativeCode": "# ??/??",
+      "nativeValue": 5.3,
+      "value": "5  3/10",
+      "kind": "value"
+    },
+    {
+      "code": "# ?/8",
+      "input": 1.2,
+      "date1904": false,
+      "nativeCode": "# ?/8",
+      "nativeValue": 1.2,
+      "value": "1 2/8",
+      "kind": "value"
+    },
+    {
+      "code": "?/??",
+      "input": 3.75,
+      "date1904": false,
+      "nativeCode": "?/??",
+      "nativeValue": 3.75,
+      "value": "15/4 ",
+      "kind": "value"
+    },
+    {
+      "code": "# ?/?",
+      "input": 0.999,
+      "date1904": false,
+      "nativeCode": "# ?/?",
+      "nativeValue": 0.999,
+      "value": "1    ",
+      "kind": "value"
+    },
+    {
+      "code": "|#\\:#/#|",
+      "input": 12.75,
+      "date1904": false,
+      "nativeCode": "|#\\:#/#|",
+      "nativeValue": 12.75,
+      "value": "|12:3/4|",
+      "kind": "value"
+    },
+    {
+      "code": "|#\\:#/#|",
+      "input": 0,
+      "date1904": false,
+      "nativeCode": "|#\\:#/#|",
+      "nativeValue": 0,
+      "value": "|0|",
+      "kind": "value"
+    },
+    {
+      "code": "|#\\:#=/=?|",
+      "input": 2,
+      "date1904": false,
+      "nativeCode": "|#\\:#=/=?|",
+      "nativeValue": 2,
+      "value": "|2      |",
+      "kind": "value"
+    },
+    {
+      "code": "|#\\:?=/=#|",
+      "input": 0.75,
+      "date1904": false,
+      "nativeCode": "|#\\:?=/=#|",
+      "nativeValue": 0.75,
+      "value": "| 3=/=4|",
+      "kind": "value"
+    },
+    {
+      "code": "|?\\:0=/=#|",
+      "input": 0,
+      "date1904": false,
+      "nativeCode": "|?\\:0=/=#|",
+      "nativeValue": 0,
+      "value": "|0:0=/=1|",
+      "kind": "value"
+    },
+    {
+      "code": "|#\\:0=/=#|",
+      "input": 0,
+      "date1904": false,
+      "nativeCode": "|#\\:0=/=#|",
+      "nativeValue": 0,
+      "value": "|0=/=1|",
+      "kind": "value"
+    },
+    {
+      "code": "|?\\:?0=/=#|",
+      "input": -0.75,
+      "date1904": false,
+      "nativeCode": "|?\\:?0=/=#|",
+      "nativeValue": -0.75,
+      "value": "-|   3=/=4|",
+      "kind": "value"
+    },
+    {
+      "code": "|#_#/#|",
+      "input": -2.75,
+      "date1904": false,
+      "nativeCode": "|#_#/#|",
+      "nativeValue": -2.75,
+      "value": "-|11 /4|",
+      "kind": "value"
+    },
+    {
+      "code": "# ?/?",
+      "input": 0,
+      "date1904": false,
+      "nativeCode": "# ?/?",
+      "nativeValue": 0,
+      "value": "0    ",
+      "kind": "value"
+    },
+    {
+      "code": "0.00E+00",
+      "input": 123456,
+      "date1904": false,
+      "nativeCode": "0.00E+00",
+      "nativeValue": 123456,
+      "value": "1.23E+05",
+      "kind": "value"
+    },
+    {
+      "code": "dd.mm.yyyy",
+      "input": 45994,
+      "date1904": false,
+      "nativeCode": "TT.MM.JJJJ",
+      "nativeValue": 45994,
+      "value": "03.12.2025",
+      "kind": "value"
+    },
+    {
+      "code": "hh:mm:ss a/p",
+      "input": 0.60875,
+      "date1904": false,
+      "nativeCode": "hh:mm:ss a/p",
+      "nativeValue": 0.60875,
+      "value": "02:36:36 p",
+      "kind": "value"
+    },
+    {
+      "code": "h:m:s.00 a/p",
+      "input": 0.1702084490740741,
+      "date1904": false,
+      "nativeCode": "h:m:s.00 a/p",
+      "nativeValue": 0.17020844907407409,
+      "value": "4:5:6.01 a",
+      "kind": "value"
+    },
+    {
+      "code": "[h]:mm:ss",
+      "input": 2.5,
+      "date1904": false,
+      "nativeCode": "[h]:mm:ss",
+      "nativeValue": 2.5,
+      "value": "60:00:00",
+      "kind": "value"
+    },
+    {
+      "code": "mm/dd/yyyy",
+      "input": 60,
+      "date1904": false,
+      "nativeCode": "MM/TT/JJJJ",
+      "nativeValue": 60,
+      "value": "02/29/1900",
+      "kind": "value"
+    },
+    {
+      "code": "mm/dd/yyyy",
+      "input": 0,
+      "date1904": true,
+      "nativeCode": "MM/TT/JJJJ",
+      "nativeValue": 1462,
+      "value": "01/01/1904",
+      "kind": "value"
+    }
+  ]
+}

@@ -1,0 +1,2503 @@
+{
+  "rows": [
+    {
+      "name": "numbered-independent-nextPage",
+      "kind": "nextPage",
+      "source": "tests/fixtures/word-section-containers/numbered-independent.docx",
+      "sourceHash": "df4a60b566a4e21320e4e32e28dd032603e9edecb8e042e327bce0f866a89b3e",
+      "authoredSelection": {
+        "fromParagraph": 3,
+        "toParagraph": 3,
+        "fromOffset": 3,
+        "toOffset": 3
+      },
+      "before": "Before.\rAlpha item.\rBeta item.\rBetween.\rDelta item.\rEpsilon item.\rAfter.\r",
+      "after": "Before.\rAlpha item.\rBet\fa item.\rBetween.\rDelta item.\rEpsilon item.\rAfter.\r",
+      "selection": {
+        "from": 23,
+        "to": 23,
+        "text": "a"
+      },
+      "afterSelection": {
+        "from": 24,
+        "to": 24,
+        "text": "a"
+      },
+      "sourceContainers": {
+        "tables": 0,
+        "sections": 1,
+        "paragraphs": [
+          {
+            "start": 0,
+            "listType": 0,
+            "listString": "",
+            "end": 8,
+            "first": 0,
+            "listValue": 0,
+            "text": "Before.\r",
+            "left": 0
+          },
+          {
+            "start": 8,
+            "listType": 3,
+            "listString": "4.",
+            "end": 20,
+            "first": -18,
+            "listValue": 4,
+            "text": "Alpha item.\r",
+            "left": 36
+          },
+          {
+            "start": 20,
+            "listType": 3,
+            "listString": "5.",
+            "end": 31,
+            "first": -18,
+            "listValue": 5,
+            "text": "Beta item.\r",
+            "left": 36
+          },
+          {
+            "start": 31,
+            "listType": 0,
+            "listString": "",
+            "end": 40,
+            "first": 0,
+            "listValue": 0,
+            "text": "Between.\r",
+            "left": 0
+          },
+          {
+            "start": 40,
+            "listType": 3,
+            "listString": "9.",
+            "end": 52,
+            "first": -18,
+            "listValue": 9,
+            "text": "Delta item.\r",
+            "left": 36
+          },
+          {
+            "start": 52,
+            "listType": 3,
+            "listString": "10.",
+            "end": 66,
+            "first": -18,
+            "listValue": 10,
+            "text": "Epsilon item.\r",
+            "left": 36
+          },
+          {
+            "start": 66,
+            "listType": 0,
+            "listString": "",
+            "end": 73,
+            "first": 0,
+            "listValue": 0,
+            "text": "After.\r",
+            "left": 0
+          }
+        ]
+      },
+      "containers": {
+        "tables": 0,
+        "sections": 2,
+        "paragraphs": [
+          {
+            "start": 0,
+            "listType": 0,
+            "listString": "",
+            "end": 8,
+            "first": 0,
+            "listValue": 0,
+            "text": "Before.\r",
+            "left": 0
+          },
+          {
+            "start": 8,
+            "listType": 3,
+            "listString": "4.",
+            "end": 20,
+            "first": -18,
+            "listValue": 4,
+            "text": "Alpha item.\r",
+            "left": 36
+          },
+          {
+            "start": 20,
+            "listType": 3,
+            "listString": "5.",
+            "end": 24,
+            "first": -18,
+            "listValue": 5,
+            "text": "Bet\f",
+            "left": 36
+          },
+          {
+            "start": 24,
+            "listType": 3,
+            "listString": "6.",
+            "end": 32,
+            "first": -18,
+            "listValue": 6,
+            "text": "a item.\r",
+            "left": 36
+          },
+          {
+            "start": 32,
+            "listType": 0,
+            "listString": "",
+            "end": 41,
+            "first": 0,
+            "listValue": 0,
+            "text": "Between.\r",
+            "left": 0
+          },
+          {
+            "start": 41,
+            "listType": 3,
+            "listString": "9.",
+            "end": 53,
+            "first": -18,
+            "listValue": 9,
+            "text": "Delta item.\r",
+            "left": 36
+          },
+          {
+            "start": 53,
+            "listType": 3,
+            "listString": "10.",
+            "end": 67,
+            "first": -18,
+            "listValue": 10,
+            "text": "Epsilon item.\r",
+            "left": 36
+          },
+          {
+            "start": 67,
+            "listType": 0,
+            "listString": "",
+            "end": 74,
+            "first": 0,
+            "listValue": 0,
+            "text": "After.\r",
+            "left": 0
+          }
+        ]
+      },
+      "pages": 2,
+      "sections": [
+        {
+          "start": 0,
+          "end": 24,
+          "width": 612,
+          "height": 792,
+          "left": 72,
+          "right": 72,
+          "top": 72,
+          "bottom": 72,
+          "header": 35.400001525878906,
+          "footer": 35.400001525878906,
+          "sectionStart": 2,
+          "first": 0,
+          "even": 0,
+          "columns": 1,
+          "stories": [
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": false,
+              "exists": true,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": false,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": false,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": false,
+              "exists": true,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": false,
+              "exists": false,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": false,
+              "exists": false,
+              "kind": "footer"
+            }
+          ]
+        },
+        {
+          "start": 24,
+          "end": 74,
+          "width": 612,
+          "height": 792,
+          "left": 72,
+          "right": 72,
+          "top": 72,
+          "bottom": 72,
+          "header": 35.400001525878906,
+          "footer": 35.400001525878906,
+          "sectionStart": 2,
+          "first": 0,
+          "even": 0,
+          "columns": 1,
+          "stories": [
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": true,
+              "exists": true,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": true,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": true,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": true,
+              "exists": true,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": true,
+              "exists": false,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": true,
+              "exists": false,
+              "kind": "footer"
+            }
+          ]
+        }
+      ],
+      "sourcePdfHash": "acb283e2926d075c4ea3f7775ccef1704a234901e79486b2496cca2eb52088ee",
+      "pdfHash": "53feb77f1ae256a2b493311cb34234e2b20b5d9f204aad0373b2d42244b919cd",
+      "savedHash": "7a50d4f13b83471cf975425ae7cdfeceb13575c2a41ad2469e533376b30b3bfb"
+    },
+    {
+      "name": "numbered-independent-continuous",
+      "kind": "continuous",
+      "source": "tests/fixtures/word-section-containers/numbered-independent.docx",
+      "sourceHash": "df4a60b566a4e21320e4e32e28dd032603e9edecb8e042e327bce0f866a89b3e",
+      "authoredSelection": {
+        "fromParagraph": 3,
+        "toParagraph": 3,
+        "fromOffset": 3,
+        "toOffset": 3
+      },
+      "before": "Before.\rAlpha item.\rBeta item.\rBetween.\rDelta item.\rEpsilon item.\rAfter.\r",
+      "after": "Before.\rAlpha item.\rBet\fa item.\rBetween.\rDelta item.\rEpsilon item.\rAfter.\r",
+      "selection": {
+        "from": 23,
+        "to": 23,
+        "text": "a"
+      },
+      "afterSelection": {
+        "from": 24,
+        "to": 24,
+        "text": "a"
+      },
+      "sourceContainers": {
+        "tables": 0,
+        "sections": 1,
+        "paragraphs": [
+          {
+            "start": 0,
+            "listType": 0,
+            "listString": "",
+            "end": 8,
+            "first": 0,
+            "listValue": 0,
+            "text": "Before.\r",
+            "left": 0
+          },
+          {
+            "start": 8,
+            "listType": 3,
+            "listString": "4.",
+            "end": 20,
+            "first": -18,
+            "listValue": 4,
+            "text": "Alpha item.\r",
+            "left": 36
+          },
+          {
+            "start": 20,
+            "listType": 3,
+            "listString": "5.",
+            "end": 31,
+            "first": -18,
+            "listValue": 5,
+            "text": "Beta item.\r",
+            "left": 36
+          },
+          {
+            "start": 31,
+            "listType": 0,
+            "listString": "",
+            "end": 40,
+            "first": 0,
+            "listValue": 0,
+            "text": "Between.\r",
+            "left": 0
+          },
+          {
+            "start": 40,
+            "listType": 3,
+            "listString": "9.",
+            "end": 52,
+            "first": -18,
+            "listValue": 9,
+            "text": "Delta item.\r",
+            "left": 36
+          },
+          {
+            "start": 52,
+            "listType": 3,
+            "listString": "10.",
+            "end": 66,
+            "first": -18,
+            "listValue": 10,
+            "text": "Epsilon item.\r",
+            "left": 36
+          },
+          {
+            "start": 66,
+            "listType": 0,
+            "listString": "",
+            "end": 73,
+            "first": 0,
+            "listValue": 0,
+            "text": "After.\r",
+            "left": 0
+          }
+        ]
+      },
+      "containers": {
+        "tables": 0,
+        "sections": 2,
+        "paragraphs": [
+          {
+            "start": 0,
+            "listType": 0,
+            "listString": "",
+            "end": 8,
+            "first": 0,
+            "listValue": 0,
+            "text": "Before.\r",
+            "left": 0
+          },
+          {
+            "start": 8,
+            "listType": 3,
+            "listString": "4.",
+            "end": 20,
+            "first": -18,
+            "listValue": 4,
+            "text": "Alpha item.\r",
+            "left": 36
+          },
+          {
+            "start": 20,
+            "listType": 3,
+            "listString": "5.",
+            "end": 24,
+            "first": -18,
+            "listValue": 5,
+            "text": "Bet\f",
+            "left": 36
+          },
+          {
+            "start": 24,
+            "listType": 3,
+            "listString": "6.",
+            "end": 32,
+            "first": -18,
+            "listValue": 6,
+            "text": "a item.\r",
+            "left": 36
+          },
+          {
+            "start": 32,
+            "listType": 0,
+            "listString": "",
+            "end": 41,
+            "first": 0,
+            "listValue": 0,
+            "text": "Between.\r",
+            "left": 0
+          },
+          {
+            "start": 41,
+            "listType": 3,
+            "listString": "9.",
+            "end": 53,
+            "first": -18,
+            "listValue": 9,
+            "text": "Delta item.\r",
+            "left": 36
+          },
+          {
+            "start": 53,
+            "listType": 3,
+            "listString": "10.",
+            "end": 67,
+            "first": -18,
+            "listValue": 10,
+            "text": "Epsilon item.\r",
+            "left": 36
+          },
+          {
+            "start": 67,
+            "listType": 0,
+            "listString": "",
+            "end": 74,
+            "first": 0,
+            "listValue": 0,
+            "text": "After.\r",
+            "left": 0
+          }
+        ]
+      },
+      "pages": 1,
+      "sections": [
+        {
+          "start": 0,
+          "end": 24,
+          "width": 612,
+          "height": 792,
+          "left": 72,
+          "right": 72,
+          "top": 72,
+          "bottom": 72,
+          "header": 35.400001525878906,
+          "footer": 35.400001525878906,
+          "sectionStart": 2,
+          "first": 0,
+          "even": 0,
+          "columns": 1,
+          "stories": [
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": false,
+              "exists": true,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": false,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": false,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": false,
+              "exists": true,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": false,
+              "exists": false,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": false,
+              "exists": false,
+              "kind": "footer"
+            }
+          ]
+        },
+        {
+          "start": 24,
+          "end": 74,
+          "width": 612,
+          "height": 792,
+          "left": 72,
+          "right": 72,
+          "top": 72,
+          "bottom": 72,
+          "header": 35.400001525878906,
+          "footer": 35.400001525878906,
+          "sectionStart": 0,
+          "first": 0,
+          "even": 0,
+          "columns": 1,
+          "stories": [
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": true,
+              "exists": true,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": true,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": true,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": true,
+              "exists": true,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": true,
+              "exists": false,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": true,
+              "exists": false,
+              "kind": "footer"
+            }
+          ]
+        }
+      ],
+      "sourcePdfHash": "b85025b8d7efa31db28bc72e074da68bb8dbea9a8b6d22fbc7b2ae86b2e0f128",
+      "pdfHash": "dcf0f6627d3ad91a2c49da881796578a75803006b56d2b48869386299bb0dee7",
+      "savedHash": "1c047cbfbea546c7e85bb0e41254b443f5b53e08f892485e60f368542be697a8"
+    },
+    {
+      "name": "numbered-independent-evenPage",
+      "kind": "evenPage",
+      "source": "tests/fixtures/word-section-containers/numbered-independent.docx",
+      "sourceHash": "df4a60b566a4e21320e4e32e28dd032603e9edecb8e042e327bce0f866a89b3e",
+      "authoredSelection": {
+        "fromParagraph": 3,
+        "toParagraph": 3,
+        "fromOffset": 3,
+        "toOffset": 3
+      },
+      "before": "Before.\rAlpha item.\rBeta item.\rBetween.\rDelta item.\rEpsilon item.\rAfter.\r",
+      "after": "Before.\rAlpha item.\rBet\fa item.\rBetween.\rDelta item.\rEpsilon item.\rAfter.\r",
+      "selection": {
+        "from": 23,
+        "to": 23,
+        "text": "a"
+      },
+      "afterSelection": {
+        "from": 24,
+        "to": 24,
+        "text": "a"
+      },
+      "sourceContainers": {
+        "tables": 0,
+        "sections": 1,
+        "paragraphs": [
+          {
+            "start": 0,
+            "listType": 0,
+            "listString": "",
+            "end": 8,
+            "first": 0,
+            "listValue": 0,
+            "text": "Before.\r",
+            "left": 0
+          },
+          {
+            "start": 8,
+            "listType": 3,
+            "listString": "4.",
+            "end": 20,
+            "first": -18,
+            "listValue": 4,
+            "text": "Alpha item.\r",
+            "left": 36
+          },
+          {
+            "start": 20,
+            "listType": 3,
+            "listString": "5.",
+            "end": 31,
+            "first": -18,
+            "listValue": 5,
+            "text": "Beta item.\r",
+            "left": 36
+          },
+          {
+            "start": 31,
+            "listType": 0,
+            "listString": "",
+            "end": 40,
+            "first": 0,
+            "listValue": 0,
+            "text": "Between.\r",
+            "left": 0
+          },
+          {
+            "start": 40,
+            "listType": 3,
+            "listString": "9.",
+            "end": 52,
+            "first": -18,
+            "listValue": 9,
+            "text": "Delta item.\r",
+            "left": 36
+          },
+          {
+            "start": 52,
+            "listType": 3,
+            "listString": "10.",
+            "end": 66,
+            "first": -18,
+            "listValue": 10,
+            "text": "Epsilon item.\r",
+            "left": 36
+          },
+          {
+            "start": 66,
+            "listType": 0,
+            "listString": "",
+            "end": 73,
+            "first": 0,
+            "listValue": 0,
+            "text": "After.\r",
+            "left": 0
+          }
+        ]
+      },
+      "containers": {
+        "tables": 0,
+        "sections": 2,
+        "paragraphs": [
+          {
+            "start": 0,
+            "listType": 0,
+            "listString": "",
+            "end": 8,
+            "first": 0,
+            "listValue": 0,
+            "text": "Before.\r",
+            "left": 0
+          },
+          {
+            "start": 8,
+            "listType": 3,
+            "listString": "4.",
+            "end": 20,
+            "first": -18,
+            "listValue": 4,
+            "text": "Alpha item.\r",
+            "left": 36
+          },
+          {
+            "start": 20,
+            "listType": 3,
+            "listString": "5.",
+            "end": 24,
+            "first": -18,
+            "listValue": 5,
+            "text": "Bet\f",
+            "left": 36
+          },
+          {
+            "start": 24,
+            "listType": 3,
+            "listString": "6.",
+            "end": 32,
+            "first": -18,
+            "listValue": 6,
+            "text": "a item.\r",
+            "left": 36
+          },
+          {
+            "start": 32,
+            "listType": 0,
+            "listString": "",
+            "end": 41,
+            "first": 0,
+            "listValue": 0,
+            "text": "Between.\r",
+            "left": 0
+          },
+          {
+            "start": 41,
+            "listType": 3,
+            "listString": "9.",
+            "end": 53,
+            "first": -18,
+            "listValue": 9,
+            "text": "Delta item.\r",
+            "left": 36
+          },
+          {
+            "start": 53,
+            "listType": 3,
+            "listString": "10.",
+            "end": 67,
+            "first": -18,
+            "listValue": 10,
+            "text": "Epsilon item.\r",
+            "left": 36
+          },
+          {
+            "start": 67,
+            "listType": 0,
+            "listString": "",
+            "end": 74,
+            "first": 0,
+            "listValue": 0,
+            "text": "After.\r",
+            "left": 0
+          }
+        ]
+      },
+      "pages": 2,
+      "sections": [
+        {
+          "start": 0,
+          "end": 24,
+          "width": 612,
+          "height": 792,
+          "left": 72,
+          "right": 72,
+          "top": 72,
+          "bottom": 72,
+          "header": 35.400001525878906,
+          "footer": 35.400001525878906,
+          "sectionStart": 2,
+          "first": 0,
+          "even": 0,
+          "columns": 1,
+          "stories": [
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": false,
+              "exists": true,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": false,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": false,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": false,
+              "exists": true,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": false,
+              "exists": false,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": false,
+              "exists": false,
+              "kind": "footer"
+            }
+          ]
+        },
+        {
+          "start": 24,
+          "end": 74,
+          "width": 612,
+          "height": 792,
+          "left": 72,
+          "right": 72,
+          "top": 72,
+          "bottom": 72,
+          "header": 35.400001525878906,
+          "footer": 35.400001525878906,
+          "sectionStart": 3,
+          "first": 0,
+          "even": 0,
+          "columns": 1,
+          "stories": [
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": true,
+              "exists": true,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": true,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": true,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": true,
+              "exists": true,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": true,
+              "exists": false,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": true,
+              "exists": false,
+              "kind": "footer"
+            }
+          ]
+        }
+      ],
+      "sourcePdfHash": "a8e090d7c37682a363917fed08b4c1758dbc4f28d8162d171a38eb35a79b0022",
+      "pdfHash": "3d7b856131ef72869e3d13a941a117b60ff015598c0b6a04d76f55e9b0952c44",
+      "savedHash": "4d6e7049891c58c207fdf4e72929beb64f533687b085255ef2a855c0c6789b3e"
+    },
+    {
+      "name": "numbered-independent-oddPage",
+      "kind": "oddPage",
+      "source": "tests/fixtures/word-section-containers/numbered-independent.docx",
+      "sourceHash": "df4a60b566a4e21320e4e32e28dd032603e9edecb8e042e327bce0f866a89b3e",
+      "authoredSelection": {
+        "fromParagraph": 3,
+        "toParagraph": 3,
+        "fromOffset": 3,
+        "toOffset": 3
+      },
+      "before": "Before.\rAlpha item.\rBeta item.\rBetween.\rDelta item.\rEpsilon item.\rAfter.\r",
+      "after": "Before.\rAlpha item.\rBet\fa item.\rBetween.\rDelta item.\rEpsilon item.\rAfter.\r",
+      "selection": {
+        "from": 23,
+        "to": 23,
+        "text": "a"
+      },
+      "afterSelection": {
+        "from": 24,
+        "to": 24,
+        "text": "a"
+      },
+      "sourceContainers": {
+        "tables": 0,
+        "sections": 1,
+        "paragraphs": [
+          {
+            "start": 0,
+            "listType": 0,
+            "listString": "",
+            "end": 8,
+            "first": 0,
+            "listValue": 0,
+            "text": "Before.\r",
+            "left": 0
+          },
+          {
+            "start": 8,
+            "listType": 3,
+            "listString": "4.",
+            "end": 20,
+            "first": -18,
+            "listValue": 4,
+            "text": "Alpha item.\r",
+            "left": 36
+          },
+          {
+            "start": 20,
+            "listType": 3,
+            "listString": "5.",
+            "end": 31,
+            "first": -18,
+            "listValue": 5,
+            "text": "Beta item.\r",
+            "left": 36
+          },
+          {
+            "start": 31,
+            "listType": 0,
+            "listString": "",
+            "end": 40,
+            "first": 0,
+            "listValue": 0,
+            "text": "Between.\r",
+            "left": 0
+          },
+          {
+            "start": 40,
+            "listType": 3,
+            "listString": "9.",
+            "end": 52,
+            "first": -18,
+            "listValue": 9,
+            "text": "Delta item.\r",
+            "left": 36
+          },
+          {
+            "start": 52,
+            "listType": 3,
+            "listString": "10.",
+            "end": 66,
+            "first": -18,
+            "listValue": 10,
+            "text": "Epsilon item.\r",
+            "left": 36
+          },
+          {
+            "start": 66,
+            "listType": 0,
+            "listString": "",
+            "end": 73,
+            "first": 0,
+            "listValue": 0,
+            "text": "After.\r",
+            "left": 0
+          }
+        ]
+      },
+      "containers": {
+        "tables": 0,
+        "sections": 2,
+        "paragraphs": [
+          {
+            "start": 0,
+            "listType": 0,
+            "listString": "",
+            "end": 8,
+            "first": 0,
+            "listValue": 0,
+            "text": "Before.\r",
+            "left": 0
+          },
+          {
+            "start": 8,
+            "listType": 3,
+            "listString": "4.",
+            "end": 20,
+            "first": -18,
+            "listValue": 4,
+            "text": "Alpha item.\r",
+            "left": 36
+          },
+          {
+            "start": 20,
+            "listType": 3,
+            "listString": "5.",
+            "end": 24,
+            "first": -18,
+            "listValue": 5,
+            "text": "Bet\f",
+            "left": 36
+          },
+          {
+            "start": 24,
+            "listType": 3,
+            "listString": "6.",
+            "end": 32,
+            "first": -18,
+            "listValue": 6,
+            "text": "a item.\r",
+            "left": 36
+          },
+          {
+            "start": 32,
+            "listType": 0,
+            "listString": "",
+            "end": 41,
+            "first": 0,
+            "listValue": 0,
+            "text": "Between.\r",
+            "left": 0
+          },
+          {
+            "start": 41,
+            "listType": 3,
+            "listString": "9.",
+            "end": 53,
+            "first": -18,
+            "listValue": 9,
+            "text": "Delta item.\r",
+            "left": 36
+          },
+          {
+            "start": 53,
+            "listType": 3,
+            "listString": "10.",
+            "end": 67,
+            "first": -18,
+            "listValue": 10,
+            "text": "Epsilon item.\r",
+            "left": 36
+          },
+          {
+            "start": 67,
+            "listType": 0,
+            "listString": "",
+            "end": 74,
+            "first": 0,
+            "listValue": 0,
+            "text": "After.\r",
+            "left": 0
+          }
+        ]
+      },
+      "pages": 3,
+      "sections": [
+        {
+          "start": 0,
+          "end": 24,
+          "width": 612,
+          "height": 792,
+          "left": 72,
+          "right": 72,
+          "top": 72,
+          "bottom": 72,
+          "header": 35.400001525878906,
+          "footer": 35.400001525878906,
+          "sectionStart": 2,
+          "first": 0,
+          "even": 0,
+          "columns": 1,
+          "stories": [
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": false,
+              "exists": true,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": false,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": false,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": false,
+              "exists": true,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": false,
+              "exists": false,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": false,
+              "exists": false,
+              "kind": "footer"
+            }
+          ]
+        },
+        {
+          "start": 24,
+          "end": 74,
+          "width": 612,
+          "height": 792,
+          "left": 72,
+          "right": 72,
+          "top": 72,
+          "bottom": 72,
+          "header": 35.400001525878906,
+          "footer": 35.400001525878906,
+          "sectionStart": 4,
+          "first": 0,
+          "even": 0,
+          "columns": 1,
+          "stories": [
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": true,
+              "exists": true,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": true,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": true,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": true,
+              "exists": true,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": true,
+              "exists": false,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": true,
+              "exists": false,
+              "kind": "footer"
+            }
+          ]
+        }
+      ],
+      "sourcePdfHash": "1131876cda615b3f7e5290c38ff2e145740a80c30627f9a9ddfbfe2293e99c72",
+      "pdfHash": "0fbad1e66c8f525b3ce29d7aa82803a356c8a3b33c9d386d21f3b3df3cbf8bd6",
+      "savedHash": "8dc8a0675a7407b9abe864fd42070e25abe4581f41d45899cbdf8fb27c4fec64"
+    },
+    {
+      "name": "numbered-continuing-nextPage",
+      "kind": "nextPage",
+      "source": "tests/fixtures/word-section-containers/numbered-continuing.docx",
+      "sourceHash": "26d66f05dd488f05d2f4b6015d0009929dabeb58f73ab455e0ee8dfc65532e44",
+      "authoredSelection": {
+        "fromParagraph": 3,
+        "toParagraph": 3,
+        "fromOffset": 3,
+        "toOffset": 3
+      },
+      "before": "Before.\rAlpha item.\rBeta item.\rBetween.\rDelta item.\rEpsilon item.\rAfter.\r",
+      "after": "Before.\rAlpha item.\rBet\fa item.\rBetween.\rDelta item.\rEpsilon item.\rAfter.\r",
+      "selection": {
+        "from": 23,
+        "to": 23,
+        "text": "a"
+      },
+      "afterSelection": {
+        "from": 24,
+        "to": 24,
+        "text": "a"
+      },
+      "sourceContainers": {
+        "tables": 0,
+        "sections": 1,
+        "paragraphs": [
+          {
+            "start": 0,
+            "listType": 0,
+            "listString": "",
+            "end": 8,
+            "first": 0,
+            "listValue": 0,
+            "text": "Before.\r",
+            "left": 0
+          },
+          {
+            "start": 8,
+            "listType": 3,
+            "listString": "4.",
+            "end": 20,
+            "first": -18,
+            "listValue": 4,
+            "text": "Alpha item.\r",
+            "left": 36
+          },
+          {
+            "start": 20,
+            "listType": 3,
+            "listString": "5.",
+            "end": 31,
+            "first": -18,
+            "listValue": 5,
+            "text": "Beta item.\r",
+            "left": 36
+          },
+          {
+            "start": 31,
+            "listType": 0,
+            "listString": "",
+            "end": 40,
+            "first": 0,
+            "listValue": 0,
+            "text": "Between.\r",
+            "left": 0
+          },
+          {
+            "start": 40,
+            "listType": 3,
+            "listString": "6.",
+            "end": 52,
+            "first": -18,
+            "listValue": 6,
+            "text": "Delta item.\r",
+            "left": 36
+          },
+          {
+            "start": 52,
+            "listType": 3,
+            "listString": "7.",
+            "end": 66,
+            "first": -18,
+            "listValue": 7,
+            "text": "Epsilon item.\r",
+            "left": 36
+          },
+          {
+            "start": 66,
+            "listType": 0,
+            "listString": "",
+            "end": 73,
+            "first": 0,
+            "listValue": 0,
+            "text": "After.\r",
+            "left": 0
+          }
+        ]
+      },
+      "containers": {
+        "tables": 0,
+        "sections": 2,
+        "paragraphs": [
+          {
+            "start": 0,
+            "listType": 0,
+            "listString": "",
+            "end": 8,
+            "first": 0,
+            "listValue": 0,
+            "text": "Before.\r",
+            "left": 0
+          },
+          {
+            "start": 8,
+            "listType": 3,
+            "listString": "4.",
+            "end": 20,
+            "first": -18,
+            "listValue": 4,
+            "text": "Alpha item.\r",
+            "left": 36
+          },
+          {
+            "start": 20,
+            "listType": 3,
+            "listString": "5.",
+            "end": 24,
+            "first": -18,
+            "listValue": 5,
+            "text": "Bet\f",
+            "left": 36
+          },
+          {
+            "start": 24,
+            "listType": 3,
+            "listString": "6.",
+            "end": 32,
+            "first": -18,
+            "listValue": 6,
+            "text": "a item.\r",
+            "left": 36
+          },
+          {
+            "start": 32,
+            "listType": 0,
+            "listString": "",
+            "end": 41,
+            "first": 0,
+            "listValue": 0,
+            "text": "Between.\r",
+            "left": 0
+          },
+          {
+            "start": 41,
+            "listType": 3,
+            "listString": "7.",
+            "end": 53,
+            "first": -18,
+            "listValue": 7,
+            "text": "Delta item.\r",
+            "left": 36
+          },
+          {
+            "start": 53,
+            "listType": 3,
+            "listString": "8.",
+            "end": 67,
+            "first": -18,
+            "listValue": 8,
+            "text": "Epsilon item.\r",
+            "left": 36
+          },
+          {
+            "start": 67,
+            "listType": 0,
+            "listString": "",
+            "end": 74,
+            "first": 0,
+            "listValue": 0,
+            "text": "After.\r",
+            "left": 0
+          }
+        ]
+      },
+      "pages": 2,
+      "sections": [
+        {
+          "start": 0,
+          "end": 24,
+          "width": 612,
+          "height": 792,
+          "left": 72,
+          "right": 72,
+          "top": 72,
+          "bottom": 72,
+          "header": 35.400001525878906,
+          "footer": 35.400001525878906,
+          "sectionStart": 2,
+          "first": 0,
+          "even": 0,
+          "columns": 1,
+          "stories": [
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": false,
+              "exists": true,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": false,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": false,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": false,
+              "exists": true,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": false,
+              "exists": false,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": false,
+              "exists": false,
+              "kind": "footer"
+            }
+          ]
+        },
+        {
+          "start": 24,
+          "end": 74,
+          "width": 612,
+          "height": 792,
+          "left": 72,
+          "right": 72,
+          "top": 72,
+          "bottom": 72,
+          "header": 35.400001525878906,
+          "footer": 35.400001525878906,
+          "sectionStart": 2,
+          "first": 0,
+          "even": 0,
+          "columns": 1,
+          "stories": [
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": true,
+              "exists": true,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": true,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": true,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": true,
+              "exists": true,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": true,
+              "exists": false,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": true,
+              "exists": false,
+              "kind": "footer"
+            }
+          ]
+        }
+      ],
+      "sourcePdfHash": "7aff20f6b9cc0897f516dc5b86da3e336a036713a9169b535d1f4461e0eccfe6",
+      "pdfHash": "0bffe7a7e6700afa3ead2c4ef77312eabfd3a1e725ddc53fb147064d22184878",
+      "savedHash": "9d7751db5e78d37d6f49d5d5ffa79b7f0d3d4485796ebfa721afcfb540650e37"
+    },
+    {
+      "name": "numbered-continuing-continuous",
+      "kind": "continuous",
+      "source": "tests/fixtures/word-section-containers/numbered-continuing.docx",
+      "sourceHash": "26d66f05dd488f05d2f4b6015d0009929dabeb58f73ab455e0ee8dfc65532e44",
+      "authoredSelection": {
+        "fromParagraph": 3,
+        "toParagraph": 3,
+        "fromOffset": 3,
+        "toOffset": 3
+      },
+      "before": "Before.\rAlpha item.\rBeta item.\rBetween.\rDelta item.\rEpsilon item.\rAfter.\r",
+      "after": "Before.\rAlpha item.\rBet\fa item.\rBetween.\rDelta item.\rEpsilon item.\rAfter.\r",
+      "selection": {
+        "from": 23,
+        "to": 23,
+        "text": "a"
+      },
+      "afterSelection": {
+        "from": 24,
+        "to": 24,
+        "text": "a"
+      },
+      "sourceContainers": {
+        "tables": 0,
+        "sections": 1,
+        "paragraphs": [
+          {
+            "start": 0,
+            "listType": 0,
+            "listString": "",
+            "end": 8,
+            "first": 0,
+            "listValue": 0,
+            "text": "Before.\r",
+            "left": 0
+          },
+          {
+            "start": 8,
+            "listType": 3,
+            "listString": "4.",
+            "end": 20,
+            "first": -18,
+            "listValue": 4,
+            "text": "Alpha item.\r",
+            "left": 36
+          },
+          {
+            "start": 20,
+            "listType": 3,
+            "listString": "5.",
+            "end": 31,
+            "first": -18,
+            "listValue": 5,
+            "text": "Beta item.\r",
+            "left": 36
+          },
+          {
+            "start": 31,
+            "listType": 0,
+            "listString": "",
+            "end": 40,
+            "first": 0,
+            "listValue": 0,
+            "text": "Between.\r",
+            "left": 0
+          },
+          {
+            "start": 40,
+            "listType": 3,
+            "listString": "6.",
+            "end": 52,
+            "first": -18,
+            "listValue": 6,
+            "text": "Delta item.\r",
+            "left": 36
+          },
+          {
+            "start": 52,
+            "listType": 3,
+            "listString": "7.",
+            "end": 66,
+            "first": -18,
+            "listValue": 7,
+            "text": "Epsilon item.\r",
+            "left": 36
+          },
+          {
+            "start": 66,
+            "listType": 0,
+            "listString": "",
+            "end": 73,
+            "first": 0,
+            "listValue": 0,
+            "text": "After.\r",
+            "left": 0
+          }
+        ]
+      },
+      "containers": {
+        "tables": 0,
+        "sections": 2,
+        "paragraphs": [
+          {
+            "start": 0,
+            "listType": 0,
+            "listString": "",
+            "end": 8,
+            "first": 0,
+            "listValue": 0,
+            "text": "Before.\r",
+            "left": 0
+          },
+          {
+            "start": 8,
+            "listType": 3,
+            "listString": "4.",
+            "end": 20,
+            "first": -18,
+            "listValue": 4,
+            "text": "Alpha item.\r",
+            "left": 36
+          },
+          {
+            "start": 20,
+            "listType": 3,
+            "listString": "5.",
+            "end": 24,
+            "first": -18,
+            "listValue": 5,
+            "text": "Bet\f",
+            "left": 36
+          },
+          {
+            "start": 24,
+            "listType": 3,
+            "listString": "6.",
+            "end": 32,
+            "first": -18,
+            "listValue": 6,
+            "text": "a item.\r",
+            "left": 36
+          },
+          {
+            "start": 32,
+            "listType": 0,
+            "listString": "",
+            "end": 41,
+            "first": 0,
+            "listValue": 0,
+            "text": "Between.\r",
+            "left": 0
+          },
+          {
+            "start": 41,
+            "listType": 3,
+            "listString": "7.",
+            "end": 53,
+            "first": -18,
+            "listValue": 7,
+            "text": "Delta item.\r",
+            "left": 36
+          },
+          {
+            "start": 53,
+            "listType": 3,
+            "listString": "8.",
+            "end": 67,
+            "first": -18,
+            "listValue": 8,
+            "text": "Epsilon item.\r",
+            "left": 36
+          },
+          {
+            "start": 67,
+            "listType": 0,
+            "listString": "",
+            "end": 74,
+            "first": 0,
+            "listValue": 0,
+            "text": "After.\r",
+            "left": 0
+          }
+        ]
+      },
+      "pages": 1,
+      "sections": [
+        {
+          "start": 0,
+          "end": 24,
+          "width": 612,
+          "height": 792,
+          "left": 72,
+          "right": 72,
+          "top": 72,
+          "bottom": 72,
+          "header": 35.400001525878906,
+          "footer": 35.400001525878906,
+          "sectionStart": 2,
+          "first": 0,
+          "even": 0,
+          "columns": 1,
+          "stories": [
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": false,
+              "exists": true,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": false,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": false,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": false,
+              "exists": true,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": false,
+              "exists": false,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": false,
+              "exists": false,
+              "kind": "footer"
+            }
+          ]
+        },
+        {
+          "start": 24,
+          "end": 74,
+          "width": 612,
+          "height": 792,
+          "left": 72,
+          "right": 72,
+          "top": 72,
+          "bottom": 72,
+          "header": 35.400001525878906,
+          "footer": 35.400001525878906,
+          "sectionStart": 0,
+          "first": 0,
+          "even": 0,
+          "columns": 1,
+          "stories": [
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": true,
+              "exists": true,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": true,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": true,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": true,
+              "exists": true,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": true,
+              "exists": false,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": true,
+              "exists": false,
+              "kind": "footer"
+            }
+          ]
+        }
+      ],
+      "sourcePdfHash": "69be98686f5c992dbbf3fb4b4a962a2b23fafea5b2669e10493aab53f7ff6629",
+      "pdfHash": "6120f1bfcc73fe471b102eaebb31c3a662aa80c8f25753be4b20a3607cc04564",
+      "savedHash": "d88f815a6bba22d787a9952100d9568386b73c67e39275880fda8058b1668776"
+    },
+    {
+      "name": "numbered-continuing-evenPage",
+      "kind": "evenPage",
+      "source": "tests/fixtures/word-section-containers/numbered-continuing.docx",
+      "sourceHash": "26d66f05dd488f05d2f4b6015d0009929dabeb58f73ab455e0ee8dfc65532e44",
+      "authoredSelection": {
+        "fromParagraph": 3,
+        "toParagraph": 3,
+        "fromOffset": 3,
+        "toOffset": 3
+      },
+      "before": "Before.\rAlpha item.\rBeta item.\rBetween.\rDelta item.\rEpsilon item.\rAfter.\r",
+      "after": "Before.\rAlpha item.\rBet\fa item.\rBetween.\rDelta item.\rEpsilon item.\rAfter.\r",
+      "selection": {
+        "from": 23,
+        "to": 23,
+        "text": "a"
+      },
+      "afterSelection": {
+        "from": 24,
+        "to": 24,
+        "text": "a"
+      },
+      "sourceContainers": {
+        "tables": 0,
+        "sections": 1,
+        "paragraphs": [
+          {
+            "start": 0,
+            "listType": 0,
+            "listString": "",
+            "end": 8,
+            "first": 0,
+            "listValue": 0,
+            "text": "Before.\r",
+            "left": 0
+          },
+          {
+            "start": 8,
+            "listType": 3,
+            "listString": "4.",
+            "end": 20,
+            "first": -18,
+            "listValue": 4,
+            "text": "Alpha item.\r",
+            "left": 36
+          },
+          {
+            "start": 20,
+            "listType": 3,
+            "listString": "5.",
+            "end": 31,
+            "first": -18,
+            "listValue": 5,
+            "text": "Beta item.\r",
+            "left": 36
+          },
+          {
+            "start": 31,
+            "listType": 0,
+            "listString": "",
+            "end": 40,
+            "first": 0,
+            "listValue": 0,
+            "text": "Between.\r",
+            "left": 0
+          },
+          {
+            "start": 40,
+            "listType": 3,
+            "listString": "6.",
+            "end": 52,
+            "first": -18,
+            "listValue": 6,
+            "text": "Delta item.\r",
+            "left": 36
+          },
+          {
+            "start": 52,
+            "listType": 3,
+            "listString": "7.",
+            "end": 66,
+            "first": -18,
+            "listValue": 7,
+            "text": "Epsilon item.\r",
+            "left": 36
+          },
+          {
+            "start": 66,
+            "listType": 0,
+            "listString": "",
+            "end": 73,
+            "first": 0,
+            "listValue": 0,
+            "text": "After.\r",
+            "left": 0
+          }
+        ]
+      },
+      "containers": {
+        "tables": 0,
+        "sections": 2,
+        "paragraphs": [
+          {
+            "start": 0,
+            "listType": 0,
+            "listString": "",
+            "end": 8,
+            "first": 0,
+            "listValue": 0,
+            "text": "Before.\r",
+            "left": 0
+          },
+          {
+            "start": 8,
+            "listType": 3,
+            "listString": "4.",
+            "end": 20,
+            "first": -18,
+            "listValue": 4,
+            "text": "Alpha item.\r",
+            "left": 36
+          },
+          {
+            "start": 20,
+            "listType": 3,
+            "listString": "5.",
+            "end": 24,
+            "first": -18,
+            "listValue": 5,
+            "text": "Bet\f",
+            "left": 36
+          },
+          {
+            "start": 24,
+            "listType": 3,
+            "listString": "6.",
+            "end": 32,
+            "first": -18,
+            "listValue": 6,
+            "text": "a item.\r",
+            "left": 36
+          },
+          {
+            "start": 32,
+            "listType": 0,
+            "listString": "",
+            "end": 41,
+            "first": 0,
+            "listValue": 0,
+            "text": "Between.\r",
+            "left": 0
+          },
+          {
+            "start": 41,
+            "listType": 3,
+            "listString": "7.",
+            "end": 53,
+            "first": -18,
+            "listValue": 7,
+            "text": "Delta item.\r",
+            "left": 36
+          },
+          {
+            "start": 53,
+            "listType": 3,
+            "listString": "8.",
+            "end": 67,
+            "first": -18,
+            "listValue": 8,
+            "text": "Epsilon item.\r",
+            "left": 36
+          },
+          {
+            "start": 67,
+            "listType": 0,
+            "listString": "",
+            "end": 74,
+            "first": 0,
+            "listValue": 0,
+            "text": "After.\r",
+            "left": 0
+          }
+        ]
+      },
+      "pages": 2,
+      "sections": [
+        {
+          "start": 0,
+          "end": 24,
+          "width": 612,
+          "height": 792,
+          "left": 72,
+          "right": 72,
+          "top": 72,
+          "bottom": 72,
+          "header": 35.400001525878906,
+          "footer": 35.400001525878906,
+          "sectionStart": 2,
+          "first": 0,
+          "even": 0,
+          "columns": 1,
+          "stories": [
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": false,
+              "exists": true,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": false,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": false,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": false,
+              "exists": true,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": false,
+              "exists": false,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": false,
+              "exists": false,
+              "kind": "footer"
+            }
+          ]
+        },
+        {
+          "start": 24,
+          "end": 74,
+          "width": 612,
+          "height": 792,
+          "left": 72,
+          "right": 72,
+          "top": 72,
+          "bottom": 72,
+          "header": 35.400001525878906,
+          "footer": 35.400001525878906,
+          "sectionStart": 3,
+          "first": 0,
+          "even": 0,
+          "columns": 1,
+          "stories": [
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": true,
+              "exists": true,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": true,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": true,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": true,
+              "exists": true,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": true,
+              "exists": false,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": true,
+              "exists": false,
+              "kind": "footer"
+            }
+          ]
+        }
+      ],
+      "sourcePdfHash": "8c676ebae46a2ff35206d98492a0edb96ddc1a47b18d4ef3de3c34088f27383b",
+      "pdfHash": "9d74fbb76f0b1b7d6c82c76ce0fe64a59ecfc0cf68402d23f5a462b560a72074",
+      "savedHash": "146313effc236d91d4468e47c86829d64b7f936700e2c3d8a1023dc7a62913be"
+    },
+    {
+      "name": "numbered-continuing-oddPage",
+      "kind": "oddPage",
+      "source": "tests/fixtures/word-section-containers/numbered-continuing.docx",
+      "sourceHash": "26d66f05dd488f05d2f4b6015d0009929dabeb58f73ab455e0ee8dfc65532e44",
+      "authoredSelection": {
+        "fromParagraph": 3,
+        "toParagraph": 3,
+        "fromOffset": 3,
+        "toOffset": 3
+      },
+      "before": "Before.\rAlpha item.\rBeta item.\rBetween.\rDelta item.\rEpsilon item.\rAfter.\r",
+      "after": "Before.\rAlpha item.\rBet\fa item.\rBetween.\rDelta item.\rEpsilon item.\rAfter.\r",
+      "selection": {
+        "from": 23,
+        "to": 23,
+        "text": "a"
+      },
+      "afterSelection": {
+        "from": 24,
+        "to": 24,
+        "text": "a"
+      },
+      "sourceContainers": {
+        "tables": 0,
+        "sections": 1,
+        "paragraphs": [
+          {
+            "start": 0,
+            "listType": 0,
+            "listString": "",
+            "end": 8,
+            "first": 0,
+            "listValue": 0,
+            "text": "Before.\r",
+            "left": 0
+          },
+          {
+            "start": 8,
+            "listType": 3,
+            "listString": "4.",
+            "end": 20,
+            "first": -18,
+            "listValue": 4,
+            "text": "Alpha item.\r",
+            "left": 36
+          },
+          {
+            "start": 20,
+            "listType": 3,
+            "listString": "5.",
+            "end": 31,
+            "first": -18,
+            "listValue": 5,
+            "text": "Beta item.\r",
+            "left": 36
+          },
+          {
+            "start": 31,
+            "listType": 0,
+            "listString": "",
+            "end": 40,
+            "first": 0,
+            "listValue": 0,
+            "text": "Between.\r",
+            "left": 0
+          },
+          {
+            "start": 40,
+            "listType": 3,
+            "listString": "6.",
+            "end": 52,
+            "first": -18,
+            "listValue": 6,
+            "text": "Delta item.\r",
+            "left": 36
+          },
+          {
+            "start": 52,
+            "listType": 3,
+            "listString": "7.",
+            "end": 66,
+            "first": -18,
+            "listValue": 7,
+            "text": "Epsilon item.\r",
+            "left": 36
+          },
+          {
+            "start": 66,
+            "listType": 0,
+            "listString": "",
+            "end": 73,
+            "first": 0,
+            "listValue": 0,
+            "text": "After.\r",
+            "left": 0
+          }
+        ]
+      },
+      "containers": {
+        "tables": 0,
+        "sections": 2,
+        "paragraphs": [
+          {
+            "start": 0,
+            "listType": 0,
+            "listString": "",
+            "end": 8,
+            "first": 0,
+            "listValue": 0,
+            "text": "Before.\r",
+            "left": 0
+          },
+          {
+            "start": 8,
+            "listType": 3,
+            "listString": "4.",
+            "end": 20,
+            "first": -18,
+            "listValue": 4,
+            "text": "Alpha item.\r",
+            "left": 36
+          },
+          {
+            "start": 20,
+            "listType": 3,
+            "listString": "5.",
+            "end": 24,
+            "first": -18,
+            "listValue": 5,
+            "text": "Bet\f",
+            "left": 36
+          },
+          {
+            "start": 24,
+            "listType": 3,
+            "listString": "6.",
+            "end": 32,
+            "first": -18,
+            "listValue": 6,
+            "text": "a item.\r",
+            "left": 36
+          },
+          {
+            "start": 32,
+            "listType": 0,
+            "listString": "",
+            "end": 41,
+            "first": 0,
+            "listValue": 0,
+            "text": "Between.\r",
+            "left": 0
+          },
+          {
+            "start": 41,
+            "listType": 3,
+            "listString": "7.",
+            "end": 53,
+            "first": -18,
+            "listValue": 7,
+            "text": "Delta item.\r",
+            "left": 36
+          },
+          {
+            "start": 53,
+            "listType": 3,
+            "listString": "8.",
+            "end": 67,
+            "first": -18,
+            "listValue": 8,
+            "text": "Epsilon item.\r",
+            "left": 36
+          },
+          {
+            "start": 67,
+            "listType": 0,
+            "listString": "",
+            "end": 74,
+            "first": 0,
+            "listValue": 0,
+            "text": "After.\r",
+            "left": 0
+          }
+        ]
+      },
+      "pages": 3,
+      "sections": [
+        {
+          "start": 0,
+          "end": 24,
+          "width": 612,
+          "height": 792,
+          "left": 72,
+          "right": 72,
+          "top": 72,
+          "bottom": 72,
+          "header": 35.400001525878906,
+          "footer": 35.400001525878906,
+          "sectionStart": 2,
+          "first": 0,
+          "even": 0,
+          "columns": 1,
+          "stories": [
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": false,
+              "exists": true,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": false,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": false,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": false,
+              "exists": true,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": false,
+              "exists": false,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": false,
+              "exists": false,
+              "kind": "footer"
+            }
+          ]
+        },
+        {
+          "start": 24,
+          "end": 74,
+          "width": 612,
+          "height": 792,
+          "left": 72,
+          "right": 72,
+          "top": 72,
+          "bottom": 72,
+          "header": 35.400001525878906,
+          "footer": 35.400001525878906,
+          "sectionStart": 4,
+          "first": 0,
+          "even": 0,
+          "columns": 1,
+          "stories": [
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": true,
+              "exists": true,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": true,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": true,
+              "exists": false,
+              "kind": "header"
+            },
+            {
+              "text": "\r",
+              "slot": 1,
+              "linked": true,
+              "exists": true,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 2,
+              "linked": true,
+              "exists": false,
+              "kind": "footer"
+            },
+            {
+              "text": null,
+              "slot": 3,
+              "linked": true,
+              "exists": false,
+              "kind": "footer"
+            }
+          ]
+        }
+      ],
+      "sourcePdfHash": "58de334b579a8a66ca8dc49c8483336cf75c28a5126add783653eae1e4146a86",
+      "pdfHash": "3936ddf0ccea208148230b4d0c3a3b10ab192cc67fc3df95abbd338a7d66bd3b",
+      "savedHash": "b2e6bbb2e45230a7a7c5ab67a55a2e7569ee4033c2925d15cd8edda4fa5a5f7a"
+    }
+  ],
+  "nativeReportHash": "adfb64a6a3b9c96784b30469ccab456b65f955a69d1ca0429006a1f62901faee",
+  "planHash": "571700ea94796e7c95258100454a9ab5c3ad40a9f1a18a362f5c6082181f2041",
+  "provenance": "MIT-authored source fixtures; native Word InsertBreak, undo/redo and reopen. Physical keyboard UI not certified."
+}

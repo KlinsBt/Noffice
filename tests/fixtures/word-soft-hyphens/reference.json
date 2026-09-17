@@ -1,0 +1,1480 @@
+{
+  "rows": [
+    {
+      "name": "regular-160-element",
+      "path": "tests/fixtures/word-soft-hyphens/regular-160-element.docx",
+      "sourceHash": "b8b3c604192129b00b807f27d610dbd83d1512eb52df60b698a6203916f7c062",
+      "baseSourceHash": "0ead7ae8b46419ab4fb9e12b9b116228e201eace78826ad977abc26ddfc4072f",
+      "width": 160,
+      "encoding": "element",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "A\u00adB A-B"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "A\u00adB A-B"
+        }
+      ],
+      "editParagraph": 2,
+      "edit": "Remove the first optional hyphen in paragraph2; preserve all other text.",
+      "native": {
+        "sourceText": "micro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\rmicro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\r",
+        "editedText": "micro\u001fscope\rantidisestablishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\rmicro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\r",
+        "sourcePages": 1,
+        "editedPages": 1,
+        "sourcePdfHash": "4e045fea592889e3303278efd3d9aa738355b9d1eb322f40f8fdf33f25cc32a7",
+        "editedPdfHash": "b7e2885bd71a3bbd2c495ff268ee085b0d9f293db3b2ab2e580d5d3edf5f4b14"
+      }
+    },
+    {
+      "name": "regular-160-literal",
+      "path": "tests/fixtures/word-soft-hyphens/regular-160-literal.docx",
+      "sourceHash": "6379422831b501b7fc614f79fd37d788d670486ce32720c01b8fced3c3c68f8f",
+      "baseSourceHash": "0ead7ae8b46419ab4fb9e12b9b116228e201eace78826ad977abc26ddfc4072f",
+      "width": 160,
+      "encoding": "literal",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "A\u00adB A-B"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "A\u00adB A-B"
+        }
+      ],
+      "editParagraph": 2,
+      "edit": "Remove the first optional hyphen in paragraph2; preserve all other text.",
+      "native": {
+        "sourceText": "micro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\rmicro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\r",
+        "editedText": "micro\u00adscope\rantidisestablishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\rmicro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\r",
+        "sourcePages": 1,
+        "editedPages": 1,
+        "sourcePdfHash": "10be14226be71fefdd923b56704b9b7ddde58a04ab276e50ca924d3639643def",
+        "editedPdfHash": "7c836968b553566966c842d8643d1c0bb5f47d7526d9f15b021f7cfde971857d"
+      }
+    },
+    {
+      "name": "regular-300-element",
+      "path": "tests/fixtures/word-soft-hyphens/regular-300-element.docx",
+      "sourceHash": "4f4db26d3b86132790271b59aeb364b486b0289729bd39bb12c8f4f526e5fb20",
+      "baseSourceHash": "0ead7ae8b46419ab4fb9e12b9b116228e201eace78826ad977abc26ddfc4072f",
+      "width": 300,
+      "encoding": "element",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "A\u00adB A-B"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "A\u00adB A-B"
+        }
+      ],
+      "editParagraph": 2,
+      "edit": "Remove the first optional hyphen in paragraph2; preserve all other text.",
+      "native": {
+        "sourceText": "micro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\rmicro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\r",
+        "editedText": "micro\u001fscope\rantidisestablishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\rmicro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\r",
+        "sourcePages": 1,
+        "editedPages": 1,
+        "sourcePdfHash": "2e68fcd3db0660791ccd9b868c64f50e84810e1c0a18a09858f6e6ac809968c2",
+        "editedPdfHash": "2eafe622a38cd8f626a2a3eaef91073730207bdb0ac15ddd7c6cac742ae0047e"
+      }
+    },
+    {
+      "name": "regular-300-literal",
+      "path": "tests/fixtures/word-soft-hyphens/regular-300-literal.docx",
+      "sourceHash": "b50d29d12506cccddeb9f8ffaf9a180b82c869ea366e7980157a5a7488ab2b72",
+      "baseSourceHash": "0ead7ae8b46419ab4fb9e12b9b116228e201eace78826ad977abc26ddfc4072f",
+      "width": 300,
+      "encoding": "literal",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "regular",
+          "text": "A\u00adB A-B"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "regular",
+          "text": "A\u00adB A-B"
+        }
+      ],
+      "editParagraph": 2,
+      "edit": "Remove the first optional hyphen in paragraph2; preserve all other text.",
+      "native": {
+        "sourceText": "micro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\rmicro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\r",
+        "editedText": "micro\u00adscope\rantidisestablishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\rmicro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\r",
+        "sourcePages": 1,
+        "editedPages": 1,
+        "sourcePdfHash": "da9ddbb45062b59917675ad3e09e784718ebb88450c8a46d05e1d4387a42e890",
+        "editedPdfHash": "0e296c1e8bbba4f7a096e105d4f35ad23bd73f26e105d84d0d36b61040c80f2d"
+      }
+    },
+    {
+      "name": "bold-160-element",
+      "path": "tests/fixtures/word-soft-hyphens/bold-160-element.docx",
+      "sourceHash": "0286873314ee39714011dcc83666376c2e7bd61dbfed9e7f3295d56d97953914",
+      "baseSourceHash": "d838d2e9e82344a3ef9924650824c322a568f754d2e7c1855156a5c3f9b70afc",
+      "width": 160,
+      "encoding": "element",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "A\u00adB A-B"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "A\u00adB A-B"
+        }
+      ],
+      "editParagraph": 2,
+      "edit": "Remove the first optional hyphen in paragraph2; preserve all other text.",
+      "native": {
+        "sourceText": "micro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\rmicro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\r",
+        "editedText": "micro\u001fscope\rantidisestablishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\rmicro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\r",
+        "sourcePages": 2,
+        "editedPages": 2,
+        "sourcePdfHash": "5aa3a48c0362297719a8a80f12e97a121da18ff08bdfde31e39d9b760925629b",
+        "editedPdfHash": "495a1a1e1712dfac9636a760b706ef05681be69cad260086ff6e0c6a1a570eeb"
+      }
+    },
+    {
+      "name": "bold-160-literal",
+      "path": "tests/fixtures/word-soft-hyphens/bold-160-literal.docx",
+      "sourceHash": "428db3b860365105b1b8c2e8455ed8e508e57311e2651b683bdd91e89182b73e",
+      "baseSourceHash": "d838d2e9e82344a3ef9924650824c322a568f754d2e7c1855156a5c3f9b70afc",
+      "width": 160,
+      "encoding": "literal",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "A\u00adB A-B"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "A\u00adB A-B"
+        }
+      ],
+      "editParagraph": 2,
+      "edit": "Remove the first optional hyphen in paragraph2; preserve all other text.",
+      "native": {
+        "sourceText": "micro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\rmicro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\r",
+        "editedText": "micro\u00adscope\rantidisestablishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\rmicro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\r",
+        "sourcePages": 1,
+        "editedPages": 1,
+        "sourcePdfHash": "2c31e0f8b4b8c5e4e06dc2aef0dc73b770a067f0be5928690394303927797ccf",
+        "editedPdfHash": "e8427e0185606f2533f6f10f504454e013df2f893cfe2c11b991256ea8dd7454"
+      }
+    },
+    {
+      "name": "bold-300-element",
+      "path": "tests/fixtures/word-soft-hyphens/bold-300-element.docx",
+      "sourceHash": "22e2ce9553d22caaa29426123baf40990fdbe100f190edca2f6a6d86080b8e6b",
+      "baseSourceHash": "d838d2e9e82344a3ef9924650824c322a568f754d2e7c1855156a5c3f9b70afc",
+      "width": 300,
+      "encoding": "element",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "A\u00adB A-B"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "A\u00adB A-B"
+        }
+      ],
+      "editParagraph": 2,
+      "edit": "Remove the first optional hyphen in paragraph2; preserve all other text.",
+      "native": {
+        "sourceText": "micro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\rmicro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\r",
+        "editedText": "micro\u001fscope\rantidisestablishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\rmicro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\r",
+        "sourcePages": 1,
+        "editedPages": 1,
+        "sourcePdfHash": "890b98e89d3824e1d3a133bafc7e680b3939631897a71f63fac262fc83927f75",
+        "editedPdfHash": "8430a885c054535142e9f90bdbc77239a94d6a0ce360c851bbac884604a6146a"
+      }
+    },
+    {
+      "name": "bold-300-literal",
+      "path": "tests/fixtures/word-soft-hyphens/bold-300-literal.docx",
+      "sourceHash": "689b00b928a36ce9832cba93823084fc1148bf23783203bc4cfb7f2cb4234071",
+      "baseSourceHash": "d838d2e9e82344a3ef9924650824c322a568f754d2e7c1855156a5c3f9b70afc",
+      "width": 300,
+      "encoding": "literal",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "bold",
+          "text": "A\u00adB A-B"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "bold",
+          "text": "A\u00adB A-B"
+        }
+      ],
+      "editParagraph": 2,
+      "edit": "Remove the first optional hyphen in paragraph2; preserve all other text.",
+      "native": {
+        "sourceText": "micro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\rmicro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\r",
+        "editedText": "micro\u00adscope\rantidisestablishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\rmicro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\r",
+        "sourcePages": 1,
+        "editedPages": 1,
+        "sourcePdfHash": "66ae40537c8f9b9b9d31403d2f4efbe6e453e9eb6c0c34677004ca77b90ac17b",
+        "editedPdfHash": "7e4dcaac06ba1f0c7ddadec5f0cf7b76cb6d2032d1faf5ced51a3eb172e78685"
+      }
+    },
+    {
+      "name": "italic-160-element",
+      "path": "tests/fixtures/word-soft-hyphens/italic-160-element.docx",
+      "sourceHash": "88e58b7970100eea1794920f73ff98b59a2bce8f1856faa6bd95594396776ef0",
+      "baseSourceHash": "7568baedbbe4ada3c0ba4fd1885d2813219196b2e883d984b6054d91528e4eec",
+      "width": 160,
+      "encoding": "element",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "A\u00adB A-B"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "A\u00adB A-B"
+        }
+      ],
+      "editParagraph": 2,
+      "edit": "Remove the first optional hyphen in paragraph2; preserve all other text.",
+      "native": {
+        "sourceText": "micro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\rmicro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\r",
+        "editedText": "micro\u001fscope\rantidisestablishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\rmicro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\r",
+        "sourcePages": 1,
+        "editedPages": 1,
+        "sourcePdfHash": "b498f7b96a372b62ceb9fea906e9e0878e9d79740e47af24ea66937a7c170527",
+        "editedPdfHash": "8813b7031e918ce3eb6ae2fa828a8ee4459f96042cb8ee663f4e7d86395a4932"
+      }
+    },
+    {
+      "name": "italic-160-literal",
+      "path": "tests/fixtures/word-soft-hyphens/italic-160-literal.docx",
+      "sourceHash": "0f068abab29c3bbfa75dffac4b6ba84c69ba6be8bb38f3ed88bb5ed6f32fc176",
+      "baseSourceHash": "7568baedbbe4ada3c0ba4fd1885d2813219196b2e883d984b6054d91528e4eec",
+      "width": 160,
+      "encoding": "literal",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "A\u00adB A-B"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "A\u00adB A-B"
+        }
+      ],
+      "editParagraph": 2,
+      "edit": "Remove the first optional hyphen in paragraph2; preserve all other text.",
+      "native": {
+        "sourceText": "micro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\rmicro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\r",
+        "editedText": "micro\u00adscope\rantidisestablishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\rmicro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\r",
+        "sourcePages": 1,
+        "editedPages": 1,
+        "sourcePdfHash": "a663c58d88b2107f1248b4e5b9ede288ef72b6425c332dbf5cac9909ec58d394",
+        "editedPdfHash": "e469a9cd5147566ead293e36f09b1af8d94833095035a3b2bc0c58b499ca118e"
+      }
+    },
+    {
+      "name": "italic-300-element",
+      "path": "tests/fixtures/word-soft-hyphens/italic-300-element.docx",
+      "sourceHash": "d256cd22e1351d674172c37aea7c46b48e00e0ad95b50b8be4fbe3d438f4b4c5",
+      "baseSourceHash": "7568baedbbe4ada3c0ba4fd1885d2813219196b2e883d984b6054d91528e4eec",
+      "width": 300,
+      "encoding": "element",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "A\u00adB A-B"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "A\u00adB A-B"
+        }
+      ],
+      "editParagraph": 2,
+      "edit": "Remove the first optional hyphen in paragraph2; preserve all other text.",
+      "native": {
+        "sourceText": "micro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\rmicro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\r",
+        "editedText": "micro\u001fscope\rantidisestablishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\rmicro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\r",
+        "sourcePages": 1,
+        "editedPages": 1,
+        "sourcePdfHash": "f125dc2a0d912843b28266d8948d15b60e90c3176538c2f430e3687229d8fc2d",
+        "editedPdfHash": "e7c7e6198c8ee95d8514c2dabeb7258f34fc1b5147666fa208fc66e186ed98d6"
+      }
+    },
+    {
+      "name": "italic-300-literal",
+      "path": "tests/fixtures/word-soft-hyphens/italic-300-literal.docx",
+      "sourceHash": "920607e487627de92409ef98f2b0b4f5b05f7cf37372f5bb1ece334e0b446bd0",
+      "baseSourceHash": "7568baedbbe4ada3c0ba4fd1885d2813219196b2e883d984b6054d91528e4eec",
+      "width": 300,
+      "encoding": "literal",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "italic",
+          "text": "A\u00adB A-B"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "italic",
+          "text": "A\u00adB A-B"
+        }
+      ],
+      "editParagraph": 2,
+      "edit": "Remove the first optional hyphen in paragraph2; preserve all other text.",
+      "native": {
+        "sourceText": "micro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\rmicro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\r",
+        "editedText": "micro\u00adscope\rantidisestablishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\rmicro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\r",
+        "sourcePages": 1,
+        "editedPages": 1,
+        "sourcePdfHash": "4db231e9ae13f0de13c2ff7b43a5cbcf5e7414eb7f56bfa9fa7ec81cbe81be95",
+        "editedPdfHash": "632d097fcd674b844d1b85032e230d0280de67f8c80595bcb63848be00151dda"
+      }
+    },
+    {
+      "name": "boldItalic-160-element",
+      "path": "tests/fixtures/word-soft-hyphens/boldItalic-160-element.docx",
+      "sourceHash": "ba5c33a89a357085e353c54f5f9903fe8075c291cc3dae1b8d29524cbba039df",
+      "baseSourceHash": "e7489528cf8a78ea6474e4051c61710763e21bca85b6e7cc471dce02395c39c0",
+      "width": 160,
+      "encoding": "element",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "A\u00adB A-B"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "A\u00adB A-B"
+        }
+      ],
+      "editParagraph": 2,
+      "edit": "Remove the first optional hyphen in paragraph2; preserve all other text.",
+      "native": {
+        "sourceText": "micro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\rmicro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\r",
+        "editedText": "micro\u001fscope\rantidisestablishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\rmicro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\r",
+        "sourcePages": 2,
+        "editedPages": 2,
+        "sourcePdfHash": "6ca83d26a415cc9ba5d65e4539f0e1ff589ca24ac139da0d4e39636d3a24ff88",
+        "editedPdfHash": "7cc8094658f939ff29469f465d0e7c236f22e6459b7ad40cb922e848a7b566f3"
+      }
+    },
+    {
+      "name": "boldItalic-160-literal",
+      "path": "tests/fixtures/word-soft-hyphens/boldItalic-160-literal.docx",
+      "sourceHash": "7554218c597391defc7098345a79527b92b411bceccdc5cdd52dfdfdd8574bb2",
+      "baseSourceHash": "e7489528cf8a78ea6474e4051c61710763e21bca85b6e7cc471dce02395c39c0",
+      "width": 160,
+      "encoding": "literal",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "A\u00adB A-B"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "A\u00adB A-B"
+        }
+      ],
+      "editParagraph": 2,
+      "edit": "Remove the first optional hyphen in paragraph2; preserve all other text.",
+      "native": {
+        "sourceText": "micro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\rmicro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\r",
+        "editedText": "micro\u00adscope\rantidisestablishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\rmicro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\r",
+        "sourcePages": 1,
+        "editedPages": 1,
+        "sourcePdfHash": "57860e244129ecccdd764b912fd94a70de9ba7b2720123f1953944dcdef694a4",
+        "editedPdfHash": "5bd5f64dd20debca9fc75a73bcfb91e5bd528afd9b3a87191c07cc0ea3ff7e4e"
+      }
+    },
+    {
+      "name": "boldItalic-300-element",
+      "path": "tests/fixtures/word-soft-hyphens/boldItalic-300-element.docx",
+      "sourceHash": "342cc543b00c998cd638174ee99c42198dc7f91c77008d4ac8e132613ce91580",
+      "baseSourceHash": "e7489528cf8a78ea6474e4051c61710763e21bca85b6e7cc471dce02395c39c0",
+      "width": 300,
+      "encoding": "element",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "A\u00adB A-B"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "A\u00adB A-B"
+        }
+      ],
+      "editParagraph": 2,
+      "edit": "Remove the first optional hyphen in paragraph2; preserve all other text.",
+      "native": {
+        "sourceText": "micro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\rmicro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\r",
+        "editedText": "micro\u001fscope\rantidisestablishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\rmicro\u001fscope\rantidisestab\u001flishmentarianism\ralpha\u001fbeta\u001fgammadelta\u001fomega\rA\u001fB \u001fC D\u001f\ralpha\u001f\u001fbetagammadelta\rA\u001fB A-B\r",
+        "sourcePages": 1,
+        "editedPages": 1,
+        "sourcePdfHash": "3e6561fbd8e0a1b8469c0df3a10ccbc7969e7087d826350fab362a3f0212fb2d",
+        "editedPdfHash": "30f4357e9ebe9c8f122e814be301c9bb2c9b8ab2cc92aa8164c2866e8dcb84c7"
+      }
+    },
+    {
+      "name": "boldItalic-300-literal",
+      "path": "tests/fixtures/word-soft-hyphens/boldItalic-300-literal.docx",
+      "sourceHash": "9f7af47d06c16df2e5c6862e7e2f7104eb40a220fb361342d59dbf356424ef9d",
+      "baseSourceHash": "e7489528cf8a78ea6474e4051c61710763e21bca85b6e7cc471dce02395c39c0",
+      "width": 300,
+      "encoding": "literal",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "face": "boldItalic",
+          "text": "A\u00adB A-B"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "micro\u00adscope"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "antidisestab\u00adlishmentarianism"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "alpha\u00adbeta\u00adgammadelta\u00adomega"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "A\u00adB \u00adC D\u00ad"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "alpha\u00ad\u00adbetagammadelta"
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "face": "boldItalic",
+          "text": "A\u00adB A-B"
+        }
+      ],
+      "editParagraph": 2,
+      "edit": "Remove the first optional hyphen in paragraph2; preserve all other text.",
+      "native": {
+        "sourceText": "micro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\rmicro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\r",
+        "editedText": "micro\u00adscope\rantidisestablishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\rmicro\u00adscope\rantidisestab\u00adlishmentarianism\ralpha\u00adbeta\u00adgammadelta\u00adomega\rA\u00adB \u00adC D\u00ad\ralpha\u00ad\u00adbetagammadelta\rA\u00adB A-B\r",
+        "sourcePages": 1,
+        "editedPages": 1,
+        "sourcePdfHash": "2852bc0f21af93ccc9456ee7474980bcc79f30692235d0182bb876272d497eca",
+        "editedPdfHash": "cfc8e81865aca2efa237f5e0fa36012fdcbdcaca67aa3af56efbbe577287b4ee"
+      }
+    }
+  ],
+  "nativeReceiptHash": "f3149787ba9e23d7dba396c499da560e43c66ec4430beabfacd1820d927c24c2",
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "producerHash": "5123e6f51398ff4335e3bb5df66114262d1a02863540bf17c364f6afa7b6085d",
+  "scope": "Project-authored optional-element and literal-U+00AD controls, narrow/wide, two fonts and four faces. Independent Word text/page observations; no browser acceptance or font redistribution."
+}

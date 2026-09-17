@@ -1,0 +1,4714 @@
+{
+  "rows": [
+    {
+      "name": "body-underline",
+      "fixture": "tests/fixtures/word-pdf-tab-decorations/return-body-underline.docx",
+      "sourceHash": "61c7ac812c9ac7e45b143819721502395a968757fcbf58f41d613d191e10f337",
+      "nativeSourceHash": "947cb51583402d49310b647dba15c95a58a6ab1c9a283f158f56786b02e6d450",
+      "snapshot": {
+        "mode": 15,
+        "text": "A\tB tail.\rA\tB tail.\rA\tB tail.\rA\tB tail.\r",
+        "paragraphs": [
+          {
+            "end": 10,
+            "text": "A\tB tail.\r",
+            "start": 0
+          },
+          {
+            "end": 20,
+            "text": "A\tB tail.\r",
+            "start": 10
+          },
+          {
+            "end": 30,
+            "text": "A\tB tail.\r",
+            "start": 20
+          },
+          {
+            "end": 40,
+            "text": "A\tB tail.\r",
+            "start": 30
+          }
+        ],
+        "sections": [
+          {
+            "start": 0,
+            "end": 40,
+            "width": 595.2999877929688,
+            "height": 841.9000244140625,
+            "left": 72,
+            "right": 72,
+            "top": 72,
+            "bottom": 72,
+            "header": 36,
+            "footer": 36,
+            "sectionStart": 2,
+            "first": 0,
+            "even": 0,
+            "columns": 1,
+            "stories": [
+              {
+                "text": "\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": "\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              }
+            ]
+          }
+        ],
+        "tabDecorations": [
+          {
+            "characters": [
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "body",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "body",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "body",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "body",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "empty": true,
+            "story": "Headers",
+            "text": "\r"
+          },
+          {
+            "empty": true,
+            "story": "Footers",
+            "text": "\r"
+          }
+        ],
+        "pages": 1
+      },
+      "nativePdfHash": "d408421f4c11004fc0c1f4f068a9326930a9fba99deedc2c86c9cfb1f4834e6e"
+    },
+    {
+      "name": "body-strike",
+      "fixture": "tests/fixtures/word-pdf-tab-decorations/return-body-strike.docx",
+      "sourceHash": "34b551b9c4f820a0b9a8282e31aceb0ce0d41e98ebeee45d13722d9b072da5ac",
+      "nativeSourceHash": "fcd96546ea16cf23cce028ff8d86c818a6778491e19fa15676a200cbbab9541a",
+      "snapshot": {
+        "mode": 15,
+        "text": "A\tB tail.\rA\tB tail.\rA\tB tail.\rA\tB tail.\r",
+        "paragraphs": [
+          {
+            "end": 10,
+            "text": "A\tB tail.\r",
+            "start": 0
+          },
+          {
+            "end": 20,
+            "text": "A\tB tail.\r",
+            "start": 10
+          },
+          {
+            "end": 30,
+            "text": "A\tB tail.\r",
+            "start": 20
+          },
+          {
+            "end": 40,
+            "text": "A\tB tail.\r",
+            "start": 30
+          }
+        ],
+        "sections": [
+          {
+            "start": 0,
+            "end": 40,
+            "width": 595.2999877929688,
+            "height": 841.9000244140625,
+            "left": 72,
+            "right": 72,
+            "top": 72,
+            "bottom": 72,
+            "header": 36,
+            "footer": 36,
+            "sectionStart": 2,
+            "first": 0,
+            "even": 0,
+            "columns": 1,
+            "stories": [
+              {
+                "text": "\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": "\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              }
+            ]
+          }
+        ],
+        "tabDecorations": [
+          {
+            "characters": [
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "body",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "A"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "B"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "body",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "body",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "A"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "B"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "body",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "empty": true,
+            "story": "Headers",
+            "text": "\r"
+          },
+          {
+            "empty": true,
+            "story": "Footers",
+            "text": "\r"
+          }
+        ],
+        "pages": 1
+      },
+      "nativePdfHash": "d5c8ad77687d4ec03cb5115779c607e22084f2a81d93eba5fb6e8408a082374d"
+    },
+    {
+      "name": "body-both",
+      "fixture": "tests/fixtures/word-pdf-tab-decorations/return-body-both.docx",
+      "sourceHash": "796ba3c6efc452eaa5743cee37ea9d6115fcc8c1d4e1e3780a4bf672269e93b6",
+      "nativeSourceHash": "f04fde4a93fcdbbe09d5c3dceb9aa731ae22bebece06eb4036b400e99fb39f24",
+      "snapshot": {
+        "mode": 15,
+        "text": "A\tB tail.\rA\tB tail.\rA\tB tail.\rA\tB tail.\r",
+        "paragraphs": [
+          {
+            "end": 10,
+            "text": "A\tB tail.\r",
+            "start": 0
+          },
+          {
+            "end": 20,
+            "text": "A\tB tail.\r",
+            "start": 10
+          },
+          {
+            "end": 30,
+            "text": "A\tB tail.\r",
+            "start": 20
+          },
+          {
+            "end": 40,
+            "text": "A\tB tail.\r",
+            "start": 30
+          }
+        ],
+        "sections": [
+          {
+            "start": 0,
+            "end": 40,
+            "width": 595.2999877929688,
+            "height": 841.9000244140625,
+            "left": 72,
+            "right": 72,
+            "top": 72,
+            "bottom": 72,
+            "header": 36,
+            "footer": 36,
+            "sectionStart": 2,
+            "first": 0,
+            "even": 0,
+            "columns": 1,
+            "stories": [
+              {
+                "text": "\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": "\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              }
+            ]
+          }
+        ],
+        "tabDecorations": [
+          {
+            "characters": [
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "body",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "A"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "B"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "body",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "body",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "A"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "B"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "body",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "empty": true,
+            "story": "Headers",
+            "text": "\r"
+          },
+          {
+            "empty": true,
+            "story": "Footers",
+            "text": "\r"
+          }
+        ],
+        "pages": 1
+      },
+      "nativePdfHash": "2b425e0670ee3bec98984dabbb784c2552a540690ed1bd00dce16d6d30ccbc86"
+    },
+    {
+      "name": "stories-underline",
+      "fixture": "tests/fixtures/word-pdf-tab-decorations/return-stories-underline.docx",
+      "sourceHash": "19803a5b62171d147f7af66b0398b3c096d193beb90a0fa7a756eebf05cc8a03",
+      "nativeSourceHash": "7b17c7c0d10ff9430480a595b4cc04140c6257369ef8929e488aabf09c3014ab",
+      "snapshot": {
+        "mode": 15,
+        "text": "A\tB tail.\r",
+        "paragraphs": [
+          {
+            "end": 10,
+            "text": "A\tB tail.\r",
+            "start": 0
+          }
+        ],
+        "sections": [
+          {
+            "start": 0,
+            "end": 10,
+            "width": 595.2999877929688,
+            "height": 841.9000244140625,
+            "left": 72,
+            "right": 72,
+            "top": 216,
+            "bottom": 216,
+            "header": 36,
+            "footer": 36,
+            "sectionStart": 2,
+            "first": 0,
+            "even": 0,
+            "columns": 1,
+            "stories": [
+              {
+                "text": "A\tB tail.\rA\tB tail.\rA\tB tail.\rA\tB tail.\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": "A\tB tail.\rA\tB tail.\rA\tB tail.\rA\tB tail.\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              }
+            ]
+          }
+        ],
+        "tabDecorations": [
+          {
+            "characters": [
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "body",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Headers",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Headers",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Headers",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Headers",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Footers",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Footers",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Footers",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Footers",
+            "text": "A\tB tail.\r"
+          }
+        ],
+        "pages": 1
+      },
+      "nativePdfHash": "fd3a3b0003e72e99a2424456c715864f596ca520e662202aacabea6213a30780"
+    },
+    {
+      "name": "stories-strike",
+      "fixture": "tests/fixtures/word-pdf-tab-decorations/return-stories-strike.docx",
+      "sourceHash": "3d5eaf37dbc2052aa0b8e0976905565dc14295f40cf58c5a5c6a3280bbe2ee8d",
+      "nativeSourceHash": "04f358ca2ff58f9a8a9d7f6bdead1fc7f778e059b806137f414ba21b55db7674",
+      "snapshot": {
+        "mode": 15,
+        "text": "A\tB tail.\r",
+        "paragraphs": [
+          {
+            "end": 10,
+            "text": "A\tB tail.\r",
+            "start": 0
+          }
+        ],
+        "sections": [
+          {
+            "start": 0,
+            "end": 10,
+            "width": 595.2999877929688,
+            "height": 841.9000244140625,
+            "left": 72,
+            "right": 72,
+            "top": 216,
+            "bottom": 216,
+            "header": 36,
+            "footer": 36,
+            "sectionStart": 2,
+            "first": 0,
+            "even": 0,
+            "columns": 1,
+            "stories": [
+              {
+                "text": "A\tB tail.\rA\tB tail.\rA\tB tail.\rA\tB tail.\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": "A\tB tail.\rA\tB tail.\rA\tB tail.\rA\tB tail.\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              }
+            ]
+          }
+        ],
+        "tabDecorations": [
+          {
+            "characters": [
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "body",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Headers",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "A"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "B"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Headers",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Headers",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "A"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "B"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Headers",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Footers",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "A"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "B"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Footers",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Footers",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "A"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "B"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Footers",
+            "text": "A\tB tail.\r"
+          }
+        ],
+        "pages": 1
+      },
+      "nativePdfHash": "55b1a2d1b37bae42647e3597d6cb9fa5cbaf7990a8edaee1656ec429bf101bd4"
+    },
+    {
+      "name": "stories-both",
+      "fixture": "tests/fixtures/word-pdf-tab-decorations/return-stories-both.docx",
+      "sourceHash": "625978133295152d7a5c3aa777a98a8fd25c866a65e4746257e3369dcde55962",
+      "nativeSourceHash": "85a3b01e82acb5548533ca689971b47bed874ccc36ba7204972dde2a561b96d5",
+      "snapshot": {
+        "mode": 15,
+        "text": "A\tB tail.\r",
+        "paragraphs": [
+          {
+            "end": 10,
+            "text": "A\tB tail.\r",
+            "start": 0
+          }
+        ],
+        "sections": [
+          {
+            "start": 0,
+            "end": 10,
+            "width": 595.2999877929688,
+            "height": 841.9000244140625,
+            "left": 72,
+            "right": 72,
+            "top": 216,
+            "bottom": 216,
+            "header": 36,
+            "footer": 36,
+            "sectionStart": 2,
+            "first": 0,
+            "even": 0,
+            "columns": 1,
+            "stories": [
+              {
+                "text": "A\tB tail.\rA\tB tail.\rA\tB tail.\rA\tB tail.\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": "A\tB tail.\rA\tB tail.\rA\tB tail.\rA\tB tail.\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              }
+            ]
+          }
+        ],
+        "tabDecorations": [
+          {
+            "characters": [
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "body",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Headers",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "A"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "B"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Headers",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Headers",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "A"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "B"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Headers",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Footers",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "A"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": -1,
+                "text": "B"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 10,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Arial",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Footers",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "A"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "B"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Footers",
+            "text": "A\tB tail.\r"
+          },
+          {
+            "characters": [
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "A"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "\t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 1,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": -1,
+                "text": "B"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": " "
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "t"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "a"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "i"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "l"
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "."
+              },
+              {
+                "size": 11,
+                "color": 10508320,
+                "underline": 0,
+                "italic": 0,
+                "bold": 0,
+                "font": "Calibri",
+                "strike": 0,
+                "text": "\r"
+              }
+            ],
+            "story": "Footers",
+            "text": "A\tB tail.\r"
+          }
+        ],
+        "pages": 1
+      },
+      "nativePdfHash": "986391e07c89c9bc55914651f7c0061347e2ac42b071775b1c78e29cd30fc96c"
+    }
+  ],
+  "nativeReceiptHash": "751e832f94f182994414f867bc69aa3931f8a4d68992e1f03ca8ff70b4f6c851",
+  "producerHash": "8ef17d67f157ddef3e4327a4d2ca2ef8f59d0330ce3b283d263409bd94191a03",
+  "scope": "Synthetic actual browser files natively re-edited, saved and reopened. Only core author/editor metadata is sanitized. Full glyph/pixel native equivalence passes before metadata sanitization; sanitized-copy verification and browser return remain required."
+}

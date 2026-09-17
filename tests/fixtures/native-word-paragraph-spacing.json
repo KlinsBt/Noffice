@@ -1,0 +1,1092 @@
+{
+  "license": "MIT",
+  "provenance": "Synthetic ABCDE paragraphs derived from the repository MIT word-tab-leader-story-arial10 fixture; spacing-only OOXML controls independently opened, saved and rendered by installed Word. No user documents or embedded Office fonts.",
+  "nativeUiVerified": false,
+  "nativeReportHash": "8ccac3824e46e49cdf2d46f2a24b68def8167bb6cddf4239c1507d582296d46f",
+  "preparationHash": "8a57f90ffc82d9ee031c558485fab49c6a7ac4aaf01ef7fa024db4686a5a1dd0",
+  "rows": [
+    {
+      "name": "line-before-no-fallback",
+      "spacing": {
+        "beforeLines": 100
+      },
+      "inputHash": "3f7c876258ea230e08e816fb9b29017457072a73ecfd683e087dc66b7e96cb22",
+      "fixture": "word-paragraph-spacing-line-before-no-fallback.docx",
+      "geometry": {
+        "name": "line-before-no-fallback",
+        "bodyGlyphs": [
+          {
+            "text": "A",
+            "x": 72.98400115966797,
+            "y": 320.0899658203125,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "B",
+            "x": 72.98400115966797,
+            "y": 360.04998779296875,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "C",
+            "x": 72.98400115966797,
+            "y": 412.1299743652344,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "D",
+            "x": 72.98400115966797,
+            "y": 452.1099853515625,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "E",
+            "x": 72.98400115966797,
+            "y": 492.0699768066406,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          }
+        ],
+        "advances": [
+          39.96002197265625,
+          52.079986572265625,
+          39.980010986328125,
+          39.959991455078125
+        ],
+        "inputHash": "3f7c876258ea230e08e816fb9b29017457072a73ecfd683e087dc66b7e96cb22",
+        "pdfHash": "5b4b60e386c9983d69102ec9d31ea4c7dba7e5b8fd8d6173399f9c2ece0f5129"
+      }
+    },
+    {
+      "name": "line-inherited-point-override",
+      "inherited": {
+        "beforeLines": 100,
+        "before": 240
+      },
+      "spacing": {
+        "before": 160
+      },
+      "inputHash": "95f6f64bcf4ac4864eb3f67d8737e38b5fe9c534d6d6037dfbb5fe80256f9e6a",
+      "fixture": "word-paragraph-spacing-line-inherited-point-override.docx",
+      "geometry": {
+        "name": "line-inherited-point-override",
+        "bodyGlyphs": [
+          {
+            "text": "A",
+            "x": 72.98400115966797,
+            "y": 320.0899658203125,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "B",
+            "x": 72.98400115966797,
+            "y": 360.04998779296875,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "C",
+            "x": 72.98400115966797,
+            "y": 412.1299743652344,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "D",
+            "x": 72.98400115966797,
+            "y": 452.1099853515625,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "E",
+            "x": 72.98400115966797,
+            "y": 492.0699768066406,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          }
+        ],
+        "advances": [
+          39.96002197265625,
+          52.079986572265625,
+          39.980010986328125,
+          39.959991455078125
+        ],
+        "inputHash": "95f6f64bcf4ac4864eb3f67d8737e38b5fe9c534d6d6037dfbb5fe80256f9e6a",
+        "pdfHash": "28b9903d0ecf976bd0433d1367ab052bd435d99daeaff7c768ab6c9b01d9951b"
+      }
+    },
+    {
+      "name": "line-explicit-zero",
+      "inherited": {
+        "beforeLines": 100,
+        "before": 240
+      },
+      "spacing": {
+        "beforeLines": 0,
+        "before": 160
+      },
+      "inputHash": "9f202c7974e5eafc927f8cfc7ad2d14a647948cf738d156ca245696834dbdeb1",
+      "fixture": "word-paragraph-spacing-line-explicit-zero.docx",
+      "geometry": {
+        "name": "line-explicit-zero",
+        "bodyGlyphs": [
+          {
+            "text": "A",
+            "x": 72.98400115966797,
+            "y": 320.0899658203125,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "B",
+            "x": 72.98400115966797,
+            "y": 360.04998779296875,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "C",
+            "x": 72.98400115966797,
+            "y": 408.16998291015625,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "D",
+            "x": 72.98400115966797,
+            "y": 448.1499938964844,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "E",
+            "x": 72.98400115966797,
+            "y": 488.1099853515625,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          }
+        ],
+        "advances": [
+          39.96002197265625,
+          48.1199951171875,
+          39.980010986328125,
+          39.959991455078125
+        ],
+        "inputHash": "9f202c7974e5eafc927f8cfc7ad2d14a647948cf738d156ca245696834dbdeb1",
+        "pdfHash": "d8f307ef12fb270e2391af4f11d977bec16a5c0107e60d3c23a53bbb150387c5"
+      }
+    },
+    {
+      "name": "auto-before",
+      "spacing": {
+        "beforeAutospacing": 1,
+        "before": 0
+      },
+      "inputHash": "ae479f88d9c969c36a0fa042829e3b02369218d6bb20c8b97f97152009daa55f",
+      "fixture": "word-paragraph-spacing-auto-before.docx",
+      "geometry": {
+        "name": "auto-before",
+        "bodyGlyphs": [
+          {
+            "text": "A",
+            "x": 72.98400115966797,
+            "y": 320.0899658203125,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "B",
+            "x": 72.98400115966797,
+            "y": 360.04998779296875,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "C",
+            "x": 72.98400115966797,
+            "y": 414.16998291015625,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "D",
+            "x": 72.98400115966797,
+            "y": 454.1499938964844,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "E",
+            "x": 72.98400115966797,
+            "y": 494.1099853515625,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          }
+        ],
+        "advances": [
+          39.96002197265625,
+          54.1199951171875,
+          39.980010986328125,
+          39.959991455078125
+        ],
+        "inputHash": "ae479f88d9c969c36a0fa042829e3b02369218d6bb20c8b97f97152009daa55f",
+        "pdfHash": "27cd21d945db911f2b40b7a96ebc750a0bfe0738823e7f807eda301269620aca"
+      }
+    },
+    {
+      "name": "auto-after",
+      "spacing": {
+        "afterAutospacing": 1,
+        "after": 0
+      },
+      "inputHash": "beeb90a3c8a323761d20928648a702380a08fbd808541481b6ec2f9fda3e22a2",
+      "fixture": "word-paragraph-spacing-auto-after.docx",
+      "geometry": {
+        "name": "auto-after",
+        "bodyGlyphs": [
+          {
+            "text": "A",
+            "x": 72.98400115966797,
+            "y": 320.0899658203125,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "B",
+            "x": 72.98400115966797,
+            "y": 360.04998779296875,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "C",
+            "x": 72.98400115966797,
+            "y": 400.1299743652344,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "D",
+            "x": 72.98400115966797,
+            "y": 454.1499938964844,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "E",
+            "x": 72.98400115966797,
+            "y": 494.1099853515625,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          }
+        ],
+        "advances": [
+          39.96002197265625,
+          40.079986572265625,
+          54.02001953125,
+          39.959991455078125
+        ],
+        "inputHash": "beeb90a3c8a323761d20928648a702380a08fbd808541481b6ec2f9fda3e22a2",
+        "pdfHash": "dd32ea7044455dad6dcd6c61217cf96a6b53e425e4b4b98f039ec19265227edc"
+      }
+    },
+    {
+      "name": "fixed-auto-before",
+      "fixed": true,
+      "spacing": {
+        "beforeAutospacing": 1,
+        "before": 0
+      },
+      "inputHash": "6c7102aa492e57ead383ba8096fac94580937bf9a30bc1abecd6ffe11b24b2e1",
+      "fixture": "word-paragraph-spacing-fixed-auto-before.docx",
+      "geometry": {
+        "name": "fixed-auto-before",
+        "bodyGlyphs": [
+          {
+            "text": "A",
+            "x": 72.98400115966797,
+            "y": 320.0899658203125,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "B",
+            "x": 72.98400115966797,
+            "y": 360.04998779296875,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "C",
+            "x": 72.98400115966797,
+            "y": 414.16998291015625,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "D",
+            "x": 72.98400115966797,
+            "y": 454.1499938964844,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "E",
+            "x": 72.98400115966797,
+            "y": 494.1099853515625,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          }
+        ],
+        "advances": [
+          39.96002197265625,
+          54.1199951171875,
+          39.980010986328125,
+          39.959991455078125
+        ],
+        "inputHash": "6c7102aa492e57ead383ba8096fac94580937bf9a30bc1abecd6ffe11b24b2e1",
+        "pdfHash": "ff151cc95bffb4dd00e65ca0c24d3770bec4acac7673c40915eea2e5012c7fe8"
+      }
+    },
+    {
+      "name": "fixed-auto-after",
+      "fixed": true,
+      "spacing": {
+        "afterAutospacing": 1,
+        "after": 0
+      },
+      "inputHash": "3bd9593b8167a281487f494feab36e3690498487529f9c9bd2143a71ae086b35",
+      "fixture": "word-paragraph-spacing-fixed-auto-after.docx",
+      "geometry": {
+        "name": "fixed-auto-after",
+        "bodyGlyphs": [
+          {
+            "text": "A",
+            "x": 72.98400115966797,
+            "y": 320.0899658203125,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "B",
+            "x": 72.98400115966797,
+            "y": 360.04998779296875,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "C",
+            "x": 72.98400115966797,
+            "y": 400.1299743652344,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "D",
+            "x": 72.98400115966797,
+            "y": 454.1499938964844,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "E",
+            "x": 72.98400115966797,
+            "y": 494.1099853515625,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          }
+        ],
+        "advances": [
+          39.96002197265625,
+          40.079986572265625,
+          54.02001953125,
+          39.959991455078125
+        ],
+        "inputHash": "3bd9593b8167a281487f494feab36e3690498487529f9c9bd2143a71ae086b35",
+        "pdfHash": "fd669b0e883ffa7ca00681740d6d14a3235d449422f51ad627e548fc94c12527"
+      }
+    },
+    {
+      "name": "auto-inherited-point-override",
+      "inherited": {
+        "beforeAutospacing": 1,
+        "before": 240
+      },
+      "spacing": {
+        "before": 160
+      },
+      "inputHash": "d907a2aeab33215e5239db76bd8159f27c4a4cdc0ec158bd45d1adb689e2be2c",
+      "fixture": "word-paragraph-spacing-auto-inherited-point-override.docx",
+      "geometry": {
+        "name": "auto-inherited-point-override",
+        "bodyGlyphs": [
+          {
+            "text": "A",
+            "x": 72.98400115966797,
+            "y": 320.0899658203125,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "B",
+            "x": 72.98400115966797,
+            "y": 360.04998779296875,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "C",
+            "x": 72.98400115966797,
+            "y": 414.16998291015625,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "D",
+            "x": 72.98400115966797,
+            "y": 454.1499938964844,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "E",
+            "x": 72.98400115966797,
+            "y": 494.1099853515625,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          }
+        ],
+        "advances": [
+          39.96002197265625,
+          54.1199951171875,
+          39.980010986328125,
+          39.959991455078125
+        ],
+        "inputHash": "d907a2aeab33215e5239db76bd8159f27c4a4cdc0ec158bd45d1adb689e2be2c",
+        "pdfHash": "c2e6ccaf7e35427cee0cb9bc57c505fbd0190301189c2a2efcb8362ebb66b192"
+      }
+    },
+    {
+      "name": "auto-explicit-false",
+      "inherited": {
+        "beforeAutospacing": 1,
+        "before": 240
+      },
+      "spacing": {
+        "beforeAutospacing": 0,
+        "before": 160
+      },
+      "inputHash": "654cad7466f06752cb0ffbfc5072692c53691ec7afcced2ba497308d9a1125f2",
+      "fixture": "word-paragraph-spacing-auto-explicit-false.docx",
+      "geometry": {
+        "name": "auto-explicit-false",
+        "bodyGlyphs": [
+          {
+            "text": "A",
+            "x": 72.98400115966797,
+            "y": 320.0899658203125,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "B",
+            "x": 72.98400115966797,
+            "y": 360.04998779296875,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "C",
+            "x": 72.98400115966797,
+            "y": 408.16998291015625,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "D",
+            "x": 72.98400115966797,
+            "y": 448.1499938964844,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "E",
+            "x": 72.98400115966797,
+            "y": 488.1099853515625,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          }
+        ],
+        "advances": [
+          39.96002197265625,
+          48.1199951171875,
+          39.980010986328125,
+          39.959991455078125
+        ],
+        "inputHash": "654cad7466f06752cb0ffbfc5072692c53691ec7afcced2ba497308d9a1125f2",
+        "pdfHash": "723b45ef8bba251374bcab326f41750e2cd622ecfa6ab51020f5083d0b2d670b"
+      }
+    },
+    {
+      "name": "point-reset-lines",
+      "spacing": {
+        "beforeLines": 0,
+        "before": 160
+      },
+      "inputHash": "8be56475c187dc5d49871135e54810505b0355cc1186be2392e1eb7e9221994b",
+      "fixture": "word-paragraph-spacing-point-reset-lines.docx",
+      "geometry": {
+        "name": "point-reset-lines",
+        "bodyGlyphs": [
+          {
+            "text": "A",
+            "x": 72.98400115966797,
+            "y": 320.0899658203125,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "B",
+            "x": 72.98400115966797,
+            "y": 360.04998779296875,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "C",
+            "x": 72.98400115966797,
+            "y": 408.16998291015625,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "D",
+            "x": 72.98400115966797,
+            "y": 448.1499938964844,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "E",
+            "x": 72.98400115966797,
+            "y": 488.1099853515625,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          }
+        ],
+        "advances": [
+          39.96002197265625,
+          48.1199951171875,
+          39.980010986328125,
+          39.959991455078125
+        ],
+        "inputHash": "8be56475c187dc5d49871135e54810505b0355cc1186be2392e1eb7e9221994b",
+        "pdfHash": "516505e95e63699d5114043169e9ba0f15d7773fa8c64f02b5a38bae7663ed4d"
+      }
+    },
+    {
+      "name": "both-auto",
+      "spacing": {
+        "beforeAutospacing": 1,
+        "afterAutospacing": 1
+      },
+      "inputHash": "fc3c5821cf76c8ec0649a791e2e7ee0df7dd665b1bce589f5a160621e729679f",
+      "fixture": "word-paragraph-spacing-both-auto.docx",
+      "geometry": {
+        "name": "both-auto",
+        "bodyGlyphs": [
+          {
+            "text": "A",
+            "x": 72.98400115966797,
+            "y": 320.0899658203125,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "B",
+            "x": 72.98400115966797,
+            "y": 360.04998779296875,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "C",
+            "x": 72.98400115966797,
+            "y": 414.16998291015625,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "D",
+            "x": 72.98400115966797,
+            "y": 468.0699768066406,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "E",
+            "x": 72.98400115966797,
+            "y": 508.1499938964844,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          }
+        ],
+        "advances": [
+          39.96002197265625,
+          54.1199951171875,
+          53.899993896484375,
+          40.08001708984375
+        ],
+        "inputHash": "fc3c5821cf76c8ec0649a791e2e7ee0df7dd665b1bce589f5a160621e729679f",
+        "pdfHash": "1cce2358d5b2cc4983b6f448a63ea5cee8b4c547f6a199f0eb397bd464f125d1"
+      }
+    },
+    {
+      "name": "contextual-auto",
+      "contextual": true,
+      "spacing": {
+        "beforeAutospacing": 1,
+        "afterAutospacing": 1
+      },
+      "inputHash": "673fa73e9e804ab48f3cbad8cd563a6f1dd6426a2ea470a907683ebdd4bf9836",
+      "fixture": "word-paragraph-spacing-contextual-auto.docx",
+      "geometry": {
+        "name": "contextual-auto",
+        "bodyGlyphs": [
+          {
+            "text": "A",
+            "x": 72.98400115966797,
+            "y": 320.0899658203125,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "B",
+            "x": 72.98400115966797,
+            "y": 360.04998779296875,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "C",
+            "x": 72.98400115966797,
+            "y": 400.1299743652344,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "D",
+            "x": 72.98400115966797,
+            "y": 440.1099853515625,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "E",
+            "x": 72.98400115966797,
+            "y": 480.0699768066406,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          }
+        ],
+        "advances": [
+          39.96002197265625,
+          40.079986572265625,
+          39.980010986328125,
+          39.959991455078125
+        ],
+        "inputHash": "673fa73e9e804ab48f3cbad8cd563a6f1dd6426a2ea470a907683ebdd4bf9836",
+        "pdfHash": "a55105d78341c97efab88c78e53ffc66cd8a1cc8808dbb7ac4c695883476bd28"
+      }
+    },
+    {
+      "name": "contextual-point",
+      "contextual": true,
+      "spacing": {
+        "before": 160,
+        "after": 240
+      },
+      "inputHash": "3ba7f6d58134e3b45d771fee51c41348be1500e40640906cfed047246eba3f6f",
+      "fixture": "word-paragraph-spacing-contextual-point.docx",
+      "geometry": {
+        "name": "contextual-point",
+        "bodyGlyphs": [
+          {
+            "text": "A",
+            "x": 72.98400115966797,
+            "y": 320.0899658203125,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "B",
+            "x": 72.98400115966797,
+            "y": 360.04998779296875,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "C",
+            "x": 72.98400115966797,
+            "y": 400.1299743652344,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "D",
+            "x": 72.98400115966797,
+            "y": 440.1099853515625,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          },
+          {
+            "text": "E",
+            "x": 72.98400115966797,
+            "y": 480.0699768066406,
+            "size": 9.960000038146973,
+            "color": [
+              0,
+              0,
+              0,
+              255
+            ]
+          }
+        ],
+        "advances": [
+          39.96002197265625,
+          40.079986572265625,
+          39.980010986328125,
+          39.959991455078125
+        ],
+        "inputHash": "3ba7f6d58134e3b45d771fee51c41348be1500e40640906cfed047246eba3f6f",
+        "pdfHash": "7e43511e3f0cc1e73c0bf4de91b3ab02817c1e1a6b920ecfeafde17a7cabbecb"
+      }
+    }
+  ]
+}

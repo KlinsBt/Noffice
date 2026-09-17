@@ -1,0 +1,1731 @@
+{
+  "rows": [
+    {
+      "name": "body-plain",
+      "fixture": "tests/fixtures/word-pdf-decorations/return-body-plain.docx",
+      "sourceHash": "1b7344f6cd24f61ab7428d379cd6765cad267cad587a492e41601020f0b81263",
+      "nativeSourceHash": "56dedfb4c705920b358df58715beefa3eaf5d7fcca0f8545b98f5d98f3c10dc1",
+      "snapshot": {
+        "mode": 15,
+        "decorations": [
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 4,
+            "color": 0,
+            "italic": 0,
+            "story": "body",
+            "strike": -1,
+            "underline": 0,
+            "bold": 0,
+            "font": "Arial",
+            "end": 23
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 33,
+            "color": 10508320,
+            "italic": 0,
+            "story": "body",
+            "strike": 0,
+            "underline": 0,
+            "bold": -1,
+            "font": "Arial",
+            "end": 52
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 62,
+            "color": 3154080,
+            "italic": -1,
+            "story": "body",
+            "strike": 0,
+            "underline": 0,
+            "bold": 0,
+            "font": "Arial",
+            "end": 81
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 91,
+            "color": 0,
+            "italic": -1,
+            "story": "body",
+            "strike": 0,
+            "underline": 0,
+            "bold": -1,
+            "font": "Arial",
+            "end": 110
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 120,
+            "color": 0,
+            "italic": 0,
+            "story": "body",
+            "strike": 0,
+            "underline": 0,
+            "bold": 0,
+            "font": "Calibri",
+            "end": 139
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 149,
+            "color": 10508320,
+            "italic": 0,
+            "story": "body",
+            "strike": 0,
+            "underline": 0,
+            "bold": -1,
+            "font": "Calibri",
+            "end": 168
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 178,
+            "color": 3154080,
+            "italic": -1,
+            "story": "body",
+            "strike": 0,
+            "underline": 0,
+            "bold": 0,
+            "font": "Calibri",
+            "end": 197
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 207,
+            "color": 0,
+            "italic": -1,
+            "story": "body",
+            "strike": 0,
+            "underline": 0,
+            "bold": -1,
+            "font": "Calibri",
+            "end": 226
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 20,
+            "start": 236,
+            "color": 0,
+            "italic": 0,
+            "story": "body",
+            "strike": 0,
+            "underline": 0,
+            "bold": 0,
+            "font": "Arial",
+            "end": 255
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 22,
+            "start": 265,
+            "color": 0,
+            "italic": 0,
+            "story": "body",
+            "strike": 0,
+            "underline": 0,
+            "bold": 0,
+            "font": "Calibri",
+            "end": 284
+          },
+          {
+            "text": "\r",
+            "story": "Headers",
+            "empty": true
+          },
+          {
+            "text": "\r",
+            "story": "Footers",
+            "empty": true
+          }
+        ],
+        "text": "P01 Agjpqy mixed marks tail.\rP02 Agjpqy mixed marks tail.\rP03 Agjpqy mixed marks tail.\rP04 Agjpqy mixed marks tail.\rP05 Agjpqy mixed marks tail.\rP06 Agjpqy mixed marks tail.\rP07 Agjpqy mixed marks tail.\rP08 Agjpqy mixed marks tail.\rP09 Agjpqy mixed marks tail.\rP10 Agjpqy mixed marks tail.\r",
+        "paragraphs": [
+          {
+            "end": 29,
+            "text": "P01 Agjpqy mixed marks tail.\r",
+            "start": 0
+          },
+          {
+            "end": 58,
+            "text": "P02 Agjpqy mixed marks tail.\r",
+            "start": 29
+          },
+          {
+            "end": 87,
+            "text": "P03 Agjpqy mixed marks tail.\r",
+            "start": 58
+          },
+          {
+            "end": 116,
+            "text": "P04 Agjpqy mixed marks tail.\r",
+            "start": 87
+          },
+          {
+            "end": 145,
+            "text": "P05 Agjpqy mixed marks tail.\r",
+            "start": 116
+          },
+          {
+            "end": 174,
+            "text": "P06 Agjpqy mixed marks tail.\r",
+            "start": 145
+          },
+          {
+            "end": 203,
+            "text": "P07 Agjpqy mixed marks tail.\r",
+            "start": 174
+          },
+          {
+            "end": 232,
+            "text": "P08 Agjpqy mixed marks tail.\r",
+            "start": 203
+          },
+          {
+            "end": 261,
+            "text": "P09 Agjpqy mixed marks tail.\r",
+            "start": 232
+          },
+          {
+            "end": 290,
+            "text": "P10 Agjpqy mixed marks tail.\r",
+            "start": 261
+          }
+        ],
+        "sections": [
+          {
+            "start": 0,
+            "end": 290,
+            "width": 595.2999877929688,
+            "height": 841.9000244140625,
+            "left": 72,
+            "right": 72,
+            "top": 72,
+            "bottom": 72,
+            "header": 36,
+            "footer": 36,
+            "sectionStart": 2,
+            "first": 0,
+            "even": 0,
+            "columns": 1,
+            "stories": [
+              {
+                "text": "\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": "\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              }
+            ]
+          }
+        ],
+        "pages": 1
+      },
+      "nativePdfHash": "3a05345e20bd05a7905e5dd18d00aa925112213c2f107ea18604c74a62706c2e"
+    },
+    {
+      "name": "body-underline",
+      "fixture": "tests/fixtures/word-pdf-decorations/return-body-underline.docx",
+      "sourceHash": "0f5b4ecca1fe9fdcf2357c24d804f3d8c771a117f8c7660c68068d55eacd7886",
+      "nativeSourceHash": "8d224c6496e9269bcea9e5ab6bf731f59e601c11cbea7996802861076058164b",
+      "snapshot": {
+        "mode": 15,
+        "decorations": [
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 4,
+            "color": 0,
+            "italic": 0,
+            "story": "body",
+            "strike": -1,
+            "underline": 1,
+            "bold": 0,
+            "font": "Arial",
+            "end": 23
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 33,
+            "color": 10508320,
+            "italic": 0,
+            "story": "body",
+            "strike": 0,
+            "underline": 1,
+            "bold": -1,
+            "font": "Arial",
+            "end": 52
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 62,
+            "color": 3154080,
+            "italic": -1,
+            "story": "body",
+            "strike": 0,
+            "underline": 1,
+            "bold": 0,
+            "font": "Arial",
+            "end": 81
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 91,
+            "color": 0,
+            "italic": -1,
+            "story": "body",
+            "strike": 0,
+            "underline": 1,
+            "bold": -1,
+            "font": "Arial",
+            "end": 110
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 120,
+            "color": 0,
+            "italic": 0,
+            "story": "body",
+            "strike": 0,
+            "underline": 1,
+            "bold": 0,
+            "font": "Calibri",
+            "end": 139
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 149,
+            "color": 10508320,
+            "italic": 0,
+            "story": "body",
+            "strike": 0,
+            "underline": 1,
+            "bold": -1,
+            "font": "Calibri",
+            "end": 168
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 178,
+            "color": 3154080,
+            "italic": -1,
+            "story": "body",
+            "strike": 0,
+            "underline": 1,
+            "bold": 0,
+            "font": "Calibri",
+            "end": 197
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 207,
+            "color": 0,
+            "italic": -1,
+            "story": "body",
+            "strike": 0,
+            "underline": 1,
+            "bold": -1,
+            "font": "Calibri",
+            "end": 226
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 20,
+            "start": 236,
+            "color": 0,
+            "italic": 0,
+            "story": "body",
+            "strike": 0,
+            "underline": 1,
+            "bold": 0,
+            "font": "Arial",
+            "end": 255
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 22,
+            "start": 265,
+            "color": 0,
+            "italic": 0,
+            "story": "body",
+            "strike": 0,
+            "underline": 1,
+            "bold": 0,
+            "font": "Calibri",
+            "end": 284
+          },
+          {
+            "text": "\r",
+            "story": "Headers",
+            "empty": true
+          },
+          {
+            "text": "\r",
+            "story": "Footers",
+            "empty": true
+          }
+        ],
+        "text": "P01 Agjpqy mixed marks tail.\rP02 Agjpqy mixed marks tail.\rP03 Agjpqy mixed marks tail.\rP04 Agjpqy mixed marks tail.\rP05 Agjpqy mixed marks tail.\rP06 Agjpqy mixed marks tail.\rP07 Agjpqy mixed marks tail.\rP08 Agjpqy mixed marks tail.\rP09 Agjpqy mixed marks tail.\rP10 Agjpqy mixed marks tail.\r",
+        "paragraphs": [
+          {
+            "end": 29,
+            "text": "P01 Agjpqy mixed marks tail.\r",
+            "start": 0
+          },
+          {
+            "end": 58,
+            "text": "P02 Agjpqy mixed marks tail.\r",
+            "start": 29
+          },
+          {
+            "end": 87,
+            "text": "P03 Agjpqy mixed marks tail.\r",
+            "start": 58
+          },
+          {
+            "end": 116,
+            "text": "P04 Agjpqy mixed marks tail.\r",
+            "start": 87
+          },
+          {
+            "end": 145,
+            "text": "P05 Agjpqy mixed marks tail.\r",
+            "start": 116
+          },
+          {
+            "end": 174,
+            "text": "P06 Agjpqy mixed marks tail.\r",
+            "start": 145
+          },
+          {
+            "end": 203,
+            "text": "P07 Agjpqy mixed marks tail.\r",
+            "start": 174
+          },
+          {
+            "end": 232,
+            "text": "P08 Agjpqy mixed marks tail.\r",
+            "start": 203
+          },
+          {
+            "end": 261,
+            "text": "P09 Agjpqy mixed marks tail.\r",
+            "start": 232
+          },
+          {
+            "end": 290,
+            "text": "P10 Agjpqy mixed marks tail.\r",
+            "start": 261
+          }
+        ],
+        "sections": [
+          {
+            "start": 0,
+            "end": 290,
+            "width": 595.2999877929688,
+            "height": 841.9000244140625,
+            "left": 72,
+            "right": 72,
+            "top": 72,
+            "bottom": 72,
+            "header": 36,
+            "footer": 36,
+            "sectionStart": 2,
+            "first": 0,
+            "even": 0,
+            "columns": 1,
+            "stories": [
+              {
+                "text": "\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": "\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              }
+            ]
+          }
+        ],
+        "pages": 1
+      },
+      "nativePdfHash": "b2c63601dd2303406b79bc3c7152f61d712adb009ce7deea6cabd5ff22d3d0be"
+    },
+    {
+      "name": "body-strike",
+      "fixture": "tests/fixtures/word-pdf-decorations/return-body-strike.docx",
+      "sourceHash": "a70e4293b0f297ba503b0e1488250a83e5d1c4f9ff9edd0a352d9b150e01ae89",
+      "nativeSourceHash": "7899e68afdbd34fe12a978f4de5290b2f38abd68313ed57c96a1a98352afbcf9",
+      "snapshot": {
+        "mode": 15,
+        "decorations": [
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 4,
+            "color": 0,
+            "italic": 0,
+            "story": "body",
+            "strike": 0,
+            "underline": 0,
+            "bold": 0,
+            "font": "Arial",
+            "end": 23
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 33,
+            "color": 10508320,
+            "italic": 0,
+            "story": "body",
+            "strike": -1,
+            "underline": 0,
+            "bold": -1,
+            "font": "Arial",
+            "end": 52
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 62,
+            "color": 3154080,
+            "italic": -1,
+            "story": "body",
+            "strike": -1,
+            "underline": 0,
+            "bold": 0,
+            "font": "Arial",
+            "end": 81
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 91,
+            "color": 0,
+            "italic": -1,
+            "story": "body",
+            "strike": -1,
+            "underline": 0,
+            "bold": -1,
+            "font": "Arial",
+            "end": 110
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 120,
+            "color": 0,
+            "italic": 0,
+            "story": "body",
+            "strike": -1,
+            "underline": 0,
+            "bold": 0,
+            "font": "Calibri",
+            "end": 139
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 149,
+            "color": 10508320,
+            "italic": 0,
+            "story": "body",
+            "strike": -1,
+            "underline": 0,
+            "bold": -1,
+            "font": "Calibri",
+            "end": 168
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 178,
+            "color": 3154080,
+            "italic": -1,
+            "story": "body",
+            "strike": -1,
+            "underline": 0,
+            "bold": 0,
+            "font": "Calibri",
+            "end": 197
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 207,
+            "color": 0,
+            "italic": -1,
+            "story": "body",
+            "strike": -1,
+            "underline": 0,
+            "bold": -1,
+            "font": "Calibri",
+            "end": 226
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 20,
+            "start": 236,
+            "color": 0,
+            "italic": 0,
+            "story": "body",
+            "strike": -1,
+            "underline": 0,
+            "bold": 0,
+            "font": "Arial",
+            "end": 255
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 22,
+            "start": 265,
+            "color": 0,
+            "italic": 0,
+            "story": "body",
+            "strike": -1,
+            "underline": 0,
+            "bold": 0,
+            "font": "Calibri",
+            "end": 284
+          },
+          {
+            "text": "\r",
+            "story": "Headers",
+            "empty": true
+          },
+          {
+            "text": "\r",
+            "story": "Footers",
+            "empty": true
+          }
+        ],
+        "text": "P01 Agjpqy mixed marks tail.\rP02 Agjpqy mixed marks tail.\rP03 Agjpqy mixed marks tail.\rP04 Agjpqy mixed marks tail.\rP05 Agjpqy mixed marks tail.\rP06 Agjpqy mixed marks tail.\rP07 Agjpqy mixed marks tail.\rP08 Agjpqy mixed marks tail.\rP09 Agjpqy mixed marks tail.\rP10 Agjpqy mixed marks tail.\r",
+        "paragraphs": [
+          {
+            "end": 29,
+            "text": "P01 Agjpqy mixed marks tail.\r",
+            "start": 0
+          },
+          {
+            "end": 58,
+            "text": "P02 Agjpqy mixed marks tail.\r",
+            "start": 29
+          },
+          {
+            "end": 87,
+            "text": "P03 Agjpqy mixed marks tail.\r",
+            "start": 58
+          },
+          {
+            "end": 116,
+            "text": "P04 Agjpqy mixed marks tail.\r",
+            "start": 87
+          },
+          {
+            "end": 145,
+            "text": "P05 Agjpqy mixed marks tail.\r",
+            "start": 116
+          },
+          {
+            "end": 174,
+            "text": "P06 Agjpqy mixed marks tail.\r",
+            "start": 145
+          },
+          {
+            "end": 203,
+            "text": "P07 Agjpqy mixed marks tail.\r",
+            "start": 174
+          },
+          {
+            "end": 232,
+            "text": "P08 Agjpqy mixed marks tail.\r",
+            "start": 203
+          },
+          {
+            "end": 261,
+            "text": "P09 Agjpqy mixed marks tail.\r",
+            "start": 232
+          },
+          {
+            "end": 290,
+            "text": "P10 Agjpqy mixed marks tail.\r",
+            "start": 261
+          }
+        ],
+        "sections": [
+          {
+            "start": 0,
+            "end": 290,
+            "width": 595.2999877929688,
+            "height": 841.9000244140625,
+            "left": 72,
+            "right": 72,
+            "top": 72,
+            "bottom": 72,
+            "header": 36,
+            "footer": 36,
+            "sectionStart": 2,
+            "first": 0,
+            "even": 0,
+            "columns": 1,
+            "stories": [
+              {
+                "text": "\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": "\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              }
+            ]
+          }
+        ],
+        "pages": 1
+      },
+      "nativePdfHash": "9d06ea1ef8c4b1a0816fe42d6f2f7ede7995ea3fdd0b5863fe96c0fda79ed74e"
+    },
+    {
+      "name": "body-both",
+      "fixture": "tests/fixtures/word-pdf-decorations/return-body-both.docx",
+      "sourceHash": "7d3b95c5c9b5324e88bffd0a493515fc0bdab0676ce33f0cec587b8cfeca5a44",
+      "nativeSourceHash": "42b4a6fb26072068053f682e388593fd356e2e6086fcbf54de96c89b6cc56e20",
+      "snapshot": {
+        "mode": 15,
+        "decorations": [
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 4,
+            "color": 0,
+            "italic": 0,
+            "story": "body",
+            "strike": 0,
+            "underline": 1,
+            "bold": 0,
+            "font": "Arial",
+            "end": 23
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 33,
+            "color": 10508320,
+            "italic": 0,
+            "story": "body",
+            "strike": -1,
+            "underline": 1,
+            "bold": -1,
+            "font": "Arial",
+            "end": 52
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 62,
+            "color": 3154080,
+            "italic": -1,
+            "story": "body",
+            "strike": -1,
+            "underline": 1,
+            "bold": 0,
+            "font": "Arial",
+            "end": 81
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 91,
+            "color": 0,
+            "italic": -1,
+            "story": "body",
+            "strike": -1,
+            "underline": 1,
+            "bold": -1,
+            "font": "Arial",
+            "end": 110
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 120,
+            "color": 0,
+            "italic": 0,
+            "story": "body",
+            "strike": -1,
+            "underline": 1,
+            "bold": 0,
+            "font": "Calibri",
+            "end": 139
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 149,
+            "color": 10508320,
+            "italic": 0,
+            "story": "body",
+            "strike": -1,
+            "underline": 1,
+            "bold": -1,
+            "font": "Calibri",
+            "end": 168
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 178,
+            "color": 3154080,
+            "italic": -1,
+            "story": "body",
+            "strike": -1,
+            "underline": 1,
+            "bold": 0,
+            "font": "Calibri",
+            "end": 197
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 207,
+            "color": 0,
+            "italic": -1,
+            "story": "body",
+            "strike": -1,
+            "underline": 1,
+            "bold": -1,
+            "font": "Calibri",
+            "end": 226
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 20,
+            "start": 236,
+            "color": 0,
+            "italic": 0,
+            "story": "body",
+            "strike": -1,
+            "underline": 1,
+            "bold": 0,
+            "font": "Arial",
+            "end": 255
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 22,
+            "start": 265,
+            "color": 0,
+            "italic": 0,
+            "story": "body",
+            "strike": -1,
+            "underline": 1,
+            "bold": 0,
+            "font": "Calibri",
+            "end": 284
+          },
+          {
+            "text": "\r",
+            "story": "Headers",
+            "empty": true
+          },
+          {
+            "text": "\r",
+            "story": "Footers",
+            "empty": true
+          }
+        ],
+        "text": "P01 Agjpqy mixed marks tail.\rP02 Agjpqy mixed marks tail.\rP03 Agjpqy mixed marks tail.\rP04 Agjpqy mixed marks tail.\rP05 Agjpqy mixed marks tail.\rP06 Agjpqy mixed marks tail.\rP07 Agjpqy mixed marks tail.\rP08 Agjpqy mixed marks tail.\rP09 Agjpqy mixed marks tail.\rP10 Agjpqy mixed marks tail.\r",
+        "paragraphs": [
+          {
+            "end": 29,
+            "text": "P01 Agjpqy mixed marks tail.\r",
+            "start": 0
+          },
+          {
+            "end": 58,
+            "text": "P02 Agjpqy mixed marks tail.\r",
+            "start": 29
+          },
+          {
+            "end": 87,
+            "text": "P03 Agjpqy mixed marks tail.\r",
+            "start": 58
+          },
+          {
+            "end": 116,
+            "text": "P04 Agjpqy mixed marks tail.\r",
+            "start": 87
+          },
+          {
+            "end": 145,
+            "text": "P05 Agjpqy mixed marks tail.\r",
+            "start": 116
+          },
+          {
+            "end": 174,
+            "text": "P06 Agjpqy mixed marks tail.\r",
+            "start": 145
+          },
+          {
+            "end": 203,
+            "text": "P07 Agjpqy mixed marks tail.\r",
+            "start": 174
+          },
+          {
+            "end": 232,
+            "text": "P08 Agjpqy mixed marks tail.\r",
+            "start": 203
+          },
+          {
+            "end": 261,
+            "text": "P09 Agjpqy mixed marks tail.\r",
+            "start": 232
+          },
+          {
+            "end": 290,
+            "text": "P10 Agjpqy mixed marks tail.\r",
+            "start": 261
+          }
+        ],
+        "sections": [
+          {
+            "start": 0,
+            "end": 290,
+            "width": 595.2999877929688,
+            "height": 841.9000244140625,
+            "left": 72,
+            "right": 72,
+            "top": 72,
+            "bottom": 72,
+            "header": 36,
+            "footer": 36,
+            "sectionStart": 2,
+            "first": 0,
+            "even": 0,
+            "columns": 1,
+            "stories": [
+              {
+                "text": "\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": "\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              }
+            ]
+          }
+        ],
+        "pages": 1
+      },
+      "nativePdfHash": "d17b6b02b7ff7ac1a2dd4ba9aae07311b2e4268200c62f39decdf1b2a76da974"
+    },
+    {
+      "name": "stories-plain",
+      "fixture": "tests/fixtures/word-pdf-decorations/return-stories-plain.docx",
+      "sourceHash": "61727f06a3c900353184189882f38cd82d5bc12c76c5f3265998c28879bff742",
+      "nativeSourceHash": "9c9c912d210d442e0fdbfb41e66dac72f9090acbdd96bfbb4487e605fa643b9a",
+      "snapshot": {
+        "mode": 15,
+        "decorations": [
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 4,
+            "color": 0,
+            "italic": 0,
+            "story": "body",
+            "strike": 0,
+            "underline": 0,
+            "bold": 0,
+            "font": "Arial",
+            "end": 23
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 4,
+            "color": 0,
+            "italic": 0,
+            "story": "Headers",
+            "strike": -1,
+            "underline": 0,
+            "bold": 0,
+            "font": "Arial",
+            "end": 23
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 33,
+            "color": 0,
+            "italic": 0,
+            "story": "Headers",
+            "strike": 0,
+            "underline": 0,
+            "bold": 0,
+            "font": "Calibri",
+            "end": 52
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 4,
+            "color": 0,
+            "italic": 0,
+            "story": "Footers",
+            "strike": 0,
+            "underline": 0,
+            "bold": 0,
+            "font": "Arial",
+            "end": 23
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 33,
+            "color": 0,
+            "italic": 0,
+            "story": "Footers",
+            "strike": 0,
+            "underline": 0,
+            "bold": 0,
+            "font": "Calibri",
+            "end": 52
+          }
+        ],
+        "text": "P01 Agjpqy mixed marks tail.\r",
+        "paragraphs": [
+          {
+            "end": 29,
+            "text": "P01 Agjpqy mixed marks tail.\r",
+            "start": 0
+          }
+        ],
+        "sections": [
+          {
+            "start": 0,
+            "end": 29,
+            "width": 595.2999877929688,
+            "height": 841.9000244140625,
+            "left": 72,
+            "right": 72,
+            "top": 144,
+            "bottom": 144,
+            "header": 36,
+            "footer": 36,
+            "sectionStart": 2,
+            "first": 0,
+            "even": 0,
+            "columns": 1,
+            "stories": [
+              {
+                "text": "P01 Agjpqy mixed marks tail.\rP02 Agjpqy mixed marks tail.\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": "P01 Agjpqy mixed marks tail.\rP02 Agjpqy mixed marks tail.\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              }
+            ]
+          }
+        ],
+        "pages": 1
+      },
+      "nativePdfHash": "7028aefa31a17d5101184c7b9041b873347f832ccdbcc9ba98a2c3465b705592"
+    },
+    {
+      "name": "stories-underline",
+      "fixture": "tests/fixtures/word-pdf-decorations/return-stories-underline.docx",
+      "sourceHash": "66cc10f4094e299f9cc81a0ebfe8a3ff70356ae5a17786db2a250b51a31b7259",
+      "nativeSourceHash": "7845a3a9fc8e0c454437a8046b00c2fb07fa16588937f12149aabf32fde152a8",
+      "snapshot": {
+        "mode": 15,
+        "decorations": [
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 4,
+            "color": 0,
+            "italic": 0,
+            "story": "body",
+            "strike": 0,
+            "underline": 0,
+            "bold": 0,
+            "font": "Arial",
+            "end": 23
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 4,
+            "color": 0,
+            "italic": 0,
+            "story": "Headers",
+            "strike": -1,
+            "underline": 1,
+            "bold": 0,
+            "font": "Arial",
+            "end": 23
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 33,
+            "color": 0,
+            "italic": 0,
+            "story": "Headers",
+            "strike": 0,
+            "underline": 1,
+            "bold": 0,
+            "font": "Calibri",
+            "end": 52
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 4,
+            "color": 0,
+            "italic": 0,
+            "story": "Footers",
+            "strike": 0,
+            "underline": 1,
+            "bold": 0,
+            "font": "Arial",
+            "end": 23
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 33,
+            "color": 0,
+            "italic": 0,
+            "story": "Footers",
+            "strike": 0,
+            "underline": 1,
+            "bold": 0,
+            "font": "Calibri",
+            "end": 52
+          }
+        ],
+        "text": "P01 Agjpqy mixed marks tail.\r",
+        "paragraphs": [
+          {
+            "end": 29,
+            "text": "P01 Agjpqy mixed marks tail.\r",
+            "start": 0
+          }
+        ],
+        "sections": [
+          {
+            "start": 0,
+            "end": 29,
+            "width": 595.2999877929688,
+            "height": 841.9000244140625,
+            "left": 72,
+            "right": 72,
+            "top": 144,
+            "bottom": 144,
+            "header": 36,
+            "footer": 36,
+            "sectionStart": 2,
+            "first": 0,
+            "even": 0,
+            "columns": 1,
+            "stories": [
+              {
+                "text": "P01 Agjpqy mixed marks tail.\rP02 Agjpqy mixed marks tail.\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": "P01 Agjpqy mixed marks tail.\rP02 Agjpqy mixed marks tail.\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              }
+            ]
+          }
+        ],
+        "pages": 1
+      },
+      "nativePdfHash": "a74438acd846b6589d1e6f78af71fe19b303802995da786684b5a850157bc4e1"
+    },
+    {
+      "name": "stories-strike",
+      "fixture": "tests/fixtures/word-pdf-decorations/return-stories-strike.docx",
+      "sourceHash": "f688bb9d34efb5c966ad684e1d6c052b823063de480bd71d0e2d5860d0d99572",
+      "nativeSourceHash": "76ab2a5353f1917ad44c8cde1c3ee5eceea39ba4a144ba560399b2c467bc5c2c",
+      "snapshot": {
+        "mode": 15,
+        "decorations": [
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 4,
+            "color": 0,
+            "italic": 0,
+            "story": "body",
+            "strike": 0,
+            "underline": 0,
+            "bold": 0,
+            "font": "Arial",
+            "end": 23
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 4,
+            "color": 0,
+            "italic": 0,
+            "story": "Headers",
+            "strike": 0,
+            "underline": 0,
+            "bold": 0,
+            "font": "Arial",
+            "end": 23
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 33,
+            "color": 0,
+            "italic": 0,
+            "story": "Headers",
+            "strike": -1,
+            "underline": 0,
+            "bold": 0,
+            "font": "Calibri",
+            "end": 52
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 4,
+            "color": 0,
+            "italic": 0,
+            "story": "Footers",
+            "strike": -1,
+            "underline": 0,
+            "bold": 0,
+            "font": "Arial",
+            "end": 23
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 33,
+            "color": 0,
+            "italic": 0,
+            "story": "Footers",
+            "strike": -1,
+            "underline": 0,
+            "bold": 0,
+            "font": "Calibri",
+            "end": 52
+          }
+        ],
+        "text": "P01 Agjpqy mixed marks tail.\r",
+        "paragraphs": [
+          {
+            "end": 29,
+            "text": "P01 Agjpqy mixed marks tail.\r",
+            "start": 0
+          }
+        ],
+        "sections": [
+          {
+            "start": 0,
+            "end": 29,
+            "width": 595.2999877929688,
+            "height": 841.9000244140625,
+            "left": 72,
+            "right": 72,
+            "top": 144,
+            "bottom": 144,
+            "header": 36,
+            "footer": 36,
+            "sectionStart": 2,
+            "first": 0,
+            "even": 0,
+            "columns": 1,
+            "stories": [
+              {
+                "text": "P01 Agjpqy mixed marks tail.\rP02 Agjpqy mixed marks tail.\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": "P01 Agjpqy mixed marks tail.\rP02 Agjpqy mixed marks tail.\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              }
+            ]
+          }
+        ],
+        "pages": 1
+      },
+      "nativePdfHash": "5488b89aeb51eeca8d37fae1608f41992d3131945a75d2fc83027bf30c2adbb8"
+    },
+    {
+      "name": "stories-both",
+      "fixture": "tests/fixtures/word-pdf-decorations/return-stories-both.docx",
+      "sourceHash": "f08f0028a5df6271a9812771f5c444c670940042009801eaea4d8b7fa7d22884",
+      "nativeSourceHash": "167a78db78dc1405ec0bf3c2e8fb7bbb05a771cfcb7eebfa2962ada5036d136d",
+      "snapshot": {
+        "mode": 15,
+        "decorations": [
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 4,
+            "color": 0,
+            "italic": 0,
+            "story": "body",
+            "strike": 0,
+            "underline": 0,
+            "bold": 0,
+            "font": "Arial",
+            "end": 23
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 4,
+            "color": 0,
+            "italic": 0,
+            "story": "Headers",
+            "strike": 0,
+            "underline": 1,
+            "bold": 0,
+            "font": "Arial",
+            "end": 23
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 33,
+            "color": 0,
+            "italic": 0,
+            "story": "Headers",
+            "strike": -1,
+            "underline": 1,
+            "bold": 0,
+            "font": "Calibri",
+            "end": 52
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 10,
+            "start": 4,
+            "color": 0,
+            "italic": 0,
+            "story": "Footers",
+            "strike": -1,
+            "underline": 1,
+            "bold": 0,
+            "font": "Arial",
+            "end": 23
+          },
+          {
+            "doubleStrike": 0,
+            "text": "Agjpqy mixed marks ",
+            "size": 11,
+            "start": 33,
+            "color": 0,
+            "italic": 0,
+            "story": "Footers",
+            "strike": -1,
+            "underline": 1,
+            "bold": 0,
+            "font": "Calibri",
+            "end": 52
+          }
+        ],
+        "text": "P01 Agjpqy mixed marks tail.\r",
+        "paragraphs": [
+          {
+            "end": 29,
+            "text": "P01 Agjpqy mixed marks tail.\r",
+            "start": 0
+          }
+        ],
+        "sections": [
+          {
+            "start": 0,
+            "end": 29,
+            "width": 595.2999877929688,
+            "height": 841.9000244140625,
+            "left": 72,
+            "right": 72,
+            "top": 144,
+            "bottom": 144,
+            "header": 36,
+            "footer": 36,
+            "sectionStart": 2,
+            "first": 0,
+            "even": 0,
+            "columns": 1,
+            "stories": [
+              {
+                "text": "P01 Agjpqy mixed marks tail.\rP02 Agjpqy mixed marks tail.\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "header"
+              },
+              {
+                "text": "P01 Agjpqy mixed marks tail.\rP02 Agjpqy mixed marks tail.\r",
+                "slot": 1,
+                "linked": false,
+                "exists": true,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 2,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              },
+              {
+                "text": null,
+                "slot": 3,
+                "linked": false,
+                "exists": false,
+                "kind": "footer"
+              }
+            ]
+          }
+        ],
+        "pages": 1
+      },
+      "nativePdfHash": "7956ad3ebdf594cca18bf84ee0f0e9ecf6ebaf3ebd7284ca901749685ed64038"
+    }
+  ],
+  "nativeReceiptHash": "dda94fa79948bf020b75dd2316c9a3bee6f16640c279d36c53506392699c84e3",
+  "producerHash": "b6dd46c7a6d59d2962ea83225ecddd44a063eac465153be1d3fa20eae9410fc2",
+  "scope": "Synthetic actual browser files natively re-edited, saved and reopened. Only core author/editor metadata is sanitized. Full glyph/pixel native equivalence passes before metadata sanitization; sanitized-copy verification and browser return remain required."
+}

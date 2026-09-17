@@ -1,0 +1,228 @@
+﻿{
+    "rows":  [
+                 {
+                     "name":  "body-underline",
+                     "context":  "body",
+                     "mode":  "underline",
+                     "path":  "tests/fixtures/word-pdf-tab-decorations/body-underline.docx",
+                     "sourceHash":  "43498c2397ec026d12a7574c81513dd485d0fa8f67c1c135df9f5f01a6d55899",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        }
+                                    ]
+                 },
+                 {
+                     "name":  "body-strike",
+                     "context":  "body",
+                     "mode":  "strike",
+                     "path":  "tests/fixtures/word-pdf-tab-decorations/body-strike.docx",
+                     "sourceHash":  "84f2ae962d6f1061638dcfc64155ab865405572888ad514603b00d4637b01880",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        }
+                                    ]
+                 },
+                 {
+                     "name":  "body-both",
+                     "context":  "body",
+                     "mode":  "both",
+                     "path":  "tests/fixtures/word-pdf-tab-decorations/body-both.docx",
+                     "sourceHash":  "be3d183045d973fe5805d3e0dc02a41478c80735a937b1f9cd8df53d55783983",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        }
+                                    ]
+                 },
+                 {
+                     "name":  "stories-underline",
+                     "context":  "stories",
+                     "mode":  "underline",
+                     "path":  "tests/fixtures/word-pdf-tab-decorations/stories-underline.docx",
+                     "sourceHash":  "e77b345b0851c8f820b6854ab4664e583d8256686b27aacd24e44d1b318add43",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "underline"
+                                        }
+                                    ]
+                 },
+                 {
+                     "name":  "stories-strike",
+                     "context":  "stories",
+                     "mode":  "strike",
+                     "path":  "tests/fixtures/word-pdf-tab-decorations/stories-strike.docx",
+                     "sourceHash":  "c5981ca1108a49fa639f2b5e9ff24426b1f676f59273a519b9e7b65225d5838d",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "strike"
+                                        }
+                                    ]
+                 },
+                 {
+                     "name":  "stories-both",
+                     "context":  "stories",
+                     "mode":  "both",
+                     "path":  "tests/fixtures/word-pdf-tab-decorations/stories-both.docx",
+                     "sourceHash":  "4090ce5c042a68a0e268f3f50776f7a76dbdb005e0f2f21677316b7ef0e0f5d1",
+                     "paragraphs":  [
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Arial",
+                                            "size":  10,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "tab",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        },
+                                        {
+                                            "family":  "Calibri",
+                                            "size":  11,
+                                            "scope":  "run",
+                                            "text":  "A\tB tail.",
+                                            "mode":  "both"
+                                        }
+                                    ]
+                 }
+             ],
+    "producerHash":  "19fe67b82d30a61af1adc352654c6b9ded6cfee2d9c9d75d9c998b49952c0382",
+    "scope":  "Independent tab-only versus whole A-tab-B underline/strike/both controls, explicit 72pt stop, Arial10/Calibri11, body/header/footer; no paint prediction fitted to native outcomes."
+}

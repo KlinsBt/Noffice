@@ -1,0 +1,2087 @@
+{
+    "application":  "Microsoft PowerPoint",
+    "version":  "16.0",
+    "inputSha256":  "7914a55255737f1db392a1450f8ff2f04fd4227f89371bd215b66db18db63f5f",
+    "cases":  [
+                  {
+                      "name":  "unequal-left-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  60,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  60,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "unequal-center-selection",
+                      "positions":  [
+                                        {
+                                            "x":  340,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  395,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  365,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "unequal-right-selection",
+                      "positions":  [
+                                        {
+                                            "x":  620,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  730,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "unequal-top-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  40,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  40,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "unequal-middle-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  230,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  215,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "unequal-bottom-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  420,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  360,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "unequal-horizontal-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  420,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "unequal-vertical-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  185,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "unequal-left-slide",
+                      "positions":  [
+                                        {
+                                            "x":  0,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  0,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  0,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "unequal-center-slide",
+                      "positions":  [
+                                        {
+                                            "x":  390,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  445,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  415,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "unequal-right-slide",
+                      "positions":  [
+                                        {
+                                            "x":  780,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  890,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  830,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "unequal-top-slide",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  0,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  0,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  0,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "unequal-middle-slide",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  240,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  210,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  225,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "unequal-bottom-slide",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  480,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  420,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  450,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "unequal-horizontal-slide",
+                      "positions":  [
+                                        {
+                                            "x":  145,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  470,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  685,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "unequal-vertical-slide",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  67.5,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  195,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  382.5,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "rotated-left-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  30
+                                        },
+                                        {
+                                            "x":  82.0576400756836,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  90
+                                        },
+                                        {
+                                            "x":  37.057636260986328,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  270
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "rotated-center-selection",
+                      "positions":  [
+                                        {
+                                            "x":  278.52880859375,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  30
+                                        },
+                                        {
+                                            "x":  333.52880859375,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  90
+                                        },
+                                        {
+                                            "x":  303.52880859375,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  270
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "rotated-right-selection",
+                      "positions":  [
+                                        {
+                                            "x":  497.05764770507813,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  30
+                                        },
+                                        {
+                                            "x":  585,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  90
+                                        },
+                                        {
+                                            "x":  570,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  270
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "rotated-top-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  30
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  -25.98078727722168,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  90
+                                        },
+                                        {
+                                            "x":  570,
+                                            "y":  19.019290924072266,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  270
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "rotated-middle-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  219.50961303710938,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  30
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  189.50961303710938,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  90
+                                        },
+                                        {
+                                            "x":  570,
+                                            "y":  204.50968933105469,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  270
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "rotated-bottom-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  399.01922607421875,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  30
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  405,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  90
+                                        },
+                                        {
+                                            "x":  570,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  270
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "rotated-horizontal-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  30
+                                        },
+                                        {
+                                            "x":  380,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  90
+                                        },
+                                        {
+                                            "x":  570,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  270
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "rotated-vertical-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  30
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  175,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  90
+                                        },
+                                        {
+                                            "x":  570,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  270
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "rotated-left-slide",
+                      "positions":  [
+                                        {
+                                            "x":  2.9423623085021973,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  30
+                                        },
+                                        {
+                                            "x":  25,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  90
+                                        },
+                                        {
+                                            "x":  -20,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  270
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "rotated-center-slide",
+                      "positions":  [
+                                        {
+                                            "x":  270,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  30
+                                        },
+                                        {
+                                            "x":  325,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  90
+                                        },
+                                        {
+                                            "x":  295,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  270
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "rotated-right-slide",
+                      "positions":  [
+                                        {
+                                            "x":  537.0576171875,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  30
+                                        },
+                                        {
+                                            "x":  625,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  90
+                                        },
+                                        {
+                                            "x":  610,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  270
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "rotated-top-slide",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  40.980789184570313,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  30
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  -25,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  90
+                                        },
+                                        {
+                                            "x":  570,
+                                            "y":  20.000078201293945,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  270
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "rotated-middle-slide",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  240,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  30
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  210,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  90
+                                        },
+                                        {
+                                            "x":  570,
+                                            "y":  225.00007629394531,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  270
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "rotated-bottom-slide",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  439.01922607421875,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  30
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  445,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  90
+                                        },
+                                        {
+                                            "x":  570,
+                                            "y":  430,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  270
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "rotated-horizontal-slide",
+                      "positions":  [
+                                        {
+                                            "x":  82.5,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  30
+                                        },
+                                        {
+                                            "x":  370,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  90
+                                        },
+                                        {
+                                            "x":  527.5,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  270
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "rotated-vertical-slide",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  70,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  30
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  175,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  90
+                                        },
+                                        {
+                                            "x":  570,
+                                            "y":  360,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  270
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "overlapping-left-selection",
+                      "positions":  [
+                                        {
+                                            "x":  100,
+                                            "y":  70,
+                                            "w":  400,
+                                            "h":  220,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  100,
+                                            "y":  90,
+                                            "w":  80,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  100,
+                                            "y":  100,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "overlapping-center-selection",
+                      "positions":  [
+                                        {
+                                            "x":  100,
+                                            "y":  70,
+                                            "w":  400,
+                                            "h":  220,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  260,
+                                            "y":  90,
+                                            "w":  80,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  235,
+                                            "y":  100,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "overlapping-right-selection",
+                      "positions":  [
+                                        {
+                                            "x":  100,
+                                            "y":  70,
+                                            "w":  400,
+                                            "h":  220,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  420,
+                                            "y":  90,
+                                            "w":  80,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  370,
+                                            "y":  100,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "overlapping-top-selection",
+                      "positions":  [
+                                        {
+                                            "x":  100,
+                                            "y":  70,
+                                            "w":  400,
+                                            "h":  220,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  120,
+                                            "y":  70,
+                                            "w":  80,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  250,
+                                            "y":  70,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "overlapping-middle-selection",
+                      "positions":  [
+                                        {
+                                            "x":  100,
+                                            "y":  70,
+                                            "w":  400,
+                                            "h":  220,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  120,
+                                            "y":  150,
+                                            "w":  80,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  250,
+                                            "y":  135,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "overlapping-bottom-selection",
+                      "positions":  [
+                                        {
+                                            "x":  100,
+                                            "y":  70,
+                                            "w":  400,
+                                            "h":  220,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  120,
+                                            "y":  230,
+                                            "w":  80,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  250,
+                                            "y":  200,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "overlapping-horizontal-selection",
+                      "positions":  [
+                                        {
+                                            "x":  25,
+                                            "y":  70,
+                                            "w":  400,
+                                            "h":  220,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  120,
+                                            "y":  90,
+                                            "w":  80,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  250,
+                                            "y":  100,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "overlapping-vertical-selection",
+                      "positions":  [
+                                        {
+                                            "x":  100,
+                                            "y":  70,
+                                            "w":  400,
+                                            "h":  220,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  120,
+                                            "y":  90,
+                                            "w":  80,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  250,
+                                            "y":  65,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "overlapping-left-slide",
+                      "positions":  [
+                                        {
+                                            "x":  0,
+                                            "y":  70,
+                                            "w":  400,
+                                            "h":  220,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  0,
+                                            "y":  90,
+                                            "w":  80,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  0,
+                                            "y":  100,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "overlapping-center-slide",
+                      "positions":  [
+                                        {
+                                            "x":  280,
+                                            "y":  70,
+                                            "w":  400,
+                                            "h":  220,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  440,
+                                            "y":  90,
+                                            "w":  80,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  415,
+                                            "y":  100,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "overlapping-right-slide",
+                      "positions":  [
+                                        {
+                                            "x":  560,
+                                            "y":  70,
+                                            "w":  400,
+                                            "h":  220,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  880,
+                                            "y":  90,
+                                            "w":  80,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  830,
+                                            "y":  100,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "overlapping-top-slide",
+                      "positions":  [
+                                        {
+                                            "x":  100,
+                                            "y":  0,
+                                            "w":  400,
+                                            "h":  220,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  120,
+                                            "y":  0,
+                                            "w":  80,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  250,
+                                            "y":  0,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "overlapping-middle-slide",
+                      "positions":  [
+                                        {
+                                            "x":  100,
+                                            "y":  160,
+                                            "w":  400,
+                                            "h":  220,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  120,
+                                            "y":  240,
+                                            "w":  80,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  250,
+                                            "y":  225,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "overlapping-bottom-slide",
+                      "positions":  [
+                                        {
+                                            "x":  100,
+                                            "y":  320,
+                                            "w":  400,
+                                            "h":  220,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  120,
+                                            "y":  480,
+                                            "w":  80,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  250,
+                                            "y":  450,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "overlapping-horizontal-slide",
+                      "positions":  [
+                                        {
+                                            "x":  255,
+                                            "y":  70,
+                                            "w":  400,
+                                            "h":  220,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  87.5,
+                                            "y":  90,
+                                            "w":  80,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  742.5,
+                                            "y":  100,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "overlapping-vertical-slide",
+                      "positions":  [
+                                        {
+                                            "x":  100,
+                                            "y":  277.5,
+                                            "w":  400,
+                                            "h":  220,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  120,
+                                            "y":  42.5,
+                                            "w":  80,
+                                            "h":  60,
+                                            "rotation":  0
+                                        },
+                                        {
+                                            "x":  250,
+                                            "y":  145,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  0
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-44-45-46-left-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  44
+                                        },
+                                        {
+                                            "x":  96.594802856445313,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  45
+                                        },
+                                        {
+                                            "x":  76.942756652832031,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  46
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-44-45-46-center-selection",
+                      "positions":  [
+                                        {
+                                            "x":  348.47134399414063,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  44
+                                        },
+                                        {
+                                            "x":  403.47134399414063,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  45
+                                        },
+                                        {
+                                            "x":  373.47134399414063,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  46
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-44-45-46-right-selection",
+                      "positions":  [
+                                        {
+                                            "x":  636.9427490234375,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  44
+                                        },
+                                        {
+                                            "x":  710.34796142578125,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  45
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  46
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-44-45-46-top-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  44
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  -6.9242520332336426,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  45
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  18.917322158813477,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  46
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-44-45-46-middle-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  219.45866394042969,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  44
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  189.45866394042969,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  45
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  204.45866394042969,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  46
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-44-45-46-bottom-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  398.91732788085938,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  44
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  385.84158325195313,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  45
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  46
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-44-45-46-horizontal-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  44
+                                        },
+                                        {
+                                            "x":  430,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  45
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  46
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-44-45-46-vertical-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  44
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  175,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  45
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  46
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-44-45-46-left-slide",
+                      "positions":  [
+                                        {
+                                            "x":  -4.4196062088012695,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  44
+                                        },
+                                        {
+                                            "x":  32.175197601318359,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  45
+                                        },
+                                        {
+                                            "x":  12.523149490356445,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  46
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-44-45-46-center-slide",
+                      "positions":  [
+                                        {
+                                            "x":  390,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  44
+                                        },
+                                        {
+                                            "x":  445,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  45
+                                        },
+                                        {
+                                            "x":  415,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  46
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-44-45-46-right-slide",
+                      "positions":  [
+                                        {
+                                            "x":  784.41961669921875,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  44
+                                        },
+                                        {
+                                            "x":  857.8248291015625,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  45
+                                        },
+                                        {
+                                            "x":  817.47686767578125,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  46
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-44-45-46-top-slide",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  54.099449157714844,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  44
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  7.175196647644043,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  45
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  33.016773223876953,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  46
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-44-45-46-middle-slide",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  240,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  44
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  210,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  45
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  225,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  46
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-44-45-46-bottom-slide",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  425.90054321289063,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  44
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  412.82479858398438,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  45
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  416.98321533203125,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  46
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-44-45-46-horizontal-slide",
+                      "positions":  [
+                                        {
+                                            "x":  142.5,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  44
+                                        },
+                                        {
+                                            "x":  490,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  45
+                                        },
+                                        {
+                                            "x":  707.5,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  46
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-44-45-46-vertical-slide",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  70,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  44
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  175,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  45
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  360,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  46
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-135-225-315-left-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  135
+                                        },
+                                        {
+                                            "x":  97.3223648071289,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  225
+                                        },
+                                        {
+                                            "x":  77.9289779663086,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  315
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-135-225-315-center-selection",
+                      "positions":  [
+                                        {
+                                            "x":  348.9644775390625,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  135
+                                        },
+                                        {
+                                            "x":  403.9644775390625,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  225
+                                        },
+                                        {
+                                            "x":  373.9644775390625,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  315
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-135-225-315-right-selection",
+                      "positions":  [
+                                        {
+                                            "x":  637.928955078125,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  135
+                                        },
+                                        {
+                                            "x":  710.60662841796875,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  225
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  315
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-135-225-315-top-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  135
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  -7.6776375770568848,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  225
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  17.928976058959961,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  315
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-135-225-315-middle-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  218.96449279785156,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  135
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  188.96449279785156,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  225
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  203.96449279785156,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  315
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-135-225-315-bottom-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  397.92898559570313,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  135
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  385.60662841796875,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  225
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  315
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-135-225-315-horizontal-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  135
+                                        },
+                                        {
+                                            "x":  420,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  225
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  315
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-135-225-315-vertical-selection",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  135
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  185,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  225
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  315
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-135-225-315-left-slide",
+                      "positions":  [
+                                        {
+                                            "x":  -5.1471652984619141,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  135
+                                        },
+                                        {
+                                            "x":  32.175197601318359,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  225
+                                        },
+                                        {
+                                            "x":  12.781810760498047,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  315
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-135-225-315-center-slide",
+                      "positions":  [
+                                        {
+                                            "x":  390,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  135
+                                        },
+                                        {
+                                            "x":  445,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  225
+                                        },
+                                        {
+                                            "x":  415,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  315
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-135-225-315-right-slide",
+                      "positions":  [
+                                        {
+                                            "x":  785.14715576171875,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  135
+                                        },
+                                        {
+                                            "x":  857.8248291015625,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  225
+                                        },
+                                        {
+                                            "x":  817.21820068359375,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  315
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-135-225-315-top-slide",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  54.852832794189453,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  135
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  7.175196647644043,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  225
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  32.781810760498047,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  315
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-135-225-315-middle-slide",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  240,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  135
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  210,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  225
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  225,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  315
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-135-225-315-bottom-slide",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  425.14715576171875,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  135
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  412.82479858398438,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  225
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  417.21820068359375,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  315
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-135-225-315-horizontal-slide",
+                      "positions":  [
+                                        {
+                                            "x":  132.5,
+                                            "y":  40,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  135
+                                        },
+                                        {
+                                            "x":  470,
+                                            "y":  200,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  225
+                                        },
+                                        {
+                                            "x":  697.5,
+                                            "y":  390,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  315
+                                        }
+                                    ]
+                  },
+                  {
+                      "name":  "angles-135-225-315-vertical-slide",
+                      "positions":  [
+                                        {
+                                            "x":  60,
+                                            "y":  80,
+                                            "w":  180,
+                                            "h":  60,
+                                            "rotation":  135
+                                        },
+                                        {
+                                            "x":  310,
+                                            "y":  195,
+                                            "w":  70,
+                                            "h":  120,
+                                            "rotation":  225
+                                        },
+                                        {
+                                            "x":  670,
+                                            "y":  370,
+                                            "w":  130,
+                                            "h":  90,
+                                            "rotation":  315
+                                        }
+                                    ]
+                  }
+              ]
+}

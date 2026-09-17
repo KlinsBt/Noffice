@@ -1,0 +1,1252 @@
+{
+  "license": "MIT",
+  "provenance": "Synthetic numeric property inputs to the installed native Word oracle; native UI not verified.",
+  "sources": [
+    {
+      "path": ".local\\word-paragraph-spacing-modes\\native-v2\\native-report.json",
+      "hash": "e7b6d3852e72bfddf3d95cea7964d93f30d691bb26e14e17eee27f3738d532cc"
+    },
+    {
+      "path": ".local\\word-paragraph-spacing-modes\\controls-v1\\native-report.json",
+      "hash": "8ccac3824e46e49cdf2d46f2a24b68def8167bb6cddf4239c1507d582296d46f"
+    },
+    {
+      "path": ".local\\word-paragraph-spacing-modes\\limits-v1\\native-report.json",
+      "hash": "6b22aada091e3dba0a93e73d569e47d0b78d148df4cd873801e0d97254c9be27"
+    }
+  ],
+  "rows": [
+    {
+      "afterAuto": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Der Wert f\u00fcr das Ma\u00df muss zwischen 0 Pt. und 1584 Pt. liegen.",
+        "hresult": -2146823139
+      },
+      "property": "SpaceBefore",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": -1,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Der Wert f\u00fcr das Ma\u00df muss zwischen 0 Pt. und 1584 Pt. liegen.",
+        "hresult": -2146823139
+      },
+      "property": "SpaceBefore",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": -0.1,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": true,
+      "failure": null,
+      "property": "SpaceBefore",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 0,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": true,
+      "failure": null,
+      "property": "SpaceBefore",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 0.005,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": true,
+      "failure": null,
+      "property": "SpaceBefore",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 0.01,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": true,
+      "failure": null,
+      "property": "SpaceBefore",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 1,
+      "before": 1,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": true,
+      "failure": null,
+      "property": "SpaceBefore",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 1584,
+      "before": 1584,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Der Wert f\u00fcr das Ma\u00df muss zwischen 0 Pt. und 1584 Pt. liegen.",
+        "hresult": -2146823139
+      },
+      "property": "SpaceBefore",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 1584.05,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Der Wert f\u00fcr das Ma\u00df muss zwischen 0 Pt. und 1584 Pt. liegen.",
+        "hresult": -2146823139
+      },
+      "property": "SpaceBefore",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 2000,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Der Wert f\u00fcr das Ma\u00df muss zwischen 0 Pt. und 1584 Pt. liegen.",
+        "hresult": -2146823139
+      },
+      "property": "SpaceAfter",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": -1,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Der Wert f\u00fcr das Ma\u00df muss zwischen 0 Pt. und 1584 Pt. liegen.",
+        "hresult": -2146823139
+      },
+      "property": "SpaceAfter",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": -0.1,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": true,
+      "failure": null,
+      "property": "SpaceAfter",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 0,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": true,
+      "failure": null,
+      "property": "SpaceAfter",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 0.005,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": true,
+      "failure": null,
+      "property": "SpaceAfter",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 0.01,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": true,
+      "failure": null,
+      "property": "SpaceAfter",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 1,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 1
+    },
+    {
+      "afterAuto": 0,
+      "accepted": true,
+      "failure": null,
+      "property": "SpaceAfter",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 1584,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 1584
+    },
+    {
+      "afterAuto": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Der Wert f\u00fcr das Ma\u00df muss zwischen 0 Pt. und 1584 Pt. liegen.",
+        "hresult": -2146823139
+      },
+      "property": "SpaceAfter",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 1584.05,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Der Wert f\u00fcr das Ma\u00df muss zwischen 0 Pt. und 1584 Pt. liegen.",
+        "hresult": -2146823139
+      },
+      "property": "SpaceAfter",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 2000,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      },
+      "property": "LineUnitBefore",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": -1,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      },
+      "property": "LineUnitBefore",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": -0.1,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": true,
+      "failure": null,
+      "property": "LineUnitBefore",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 0,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": true,
+      "failure": null,
+      "property": "LineUnitBefore",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 0.005,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": true,
+      "failure": null,
+      "property": "LineUnitBefore",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 0.01,
+      "before": 0.10000000149011612,
+      "beforeLines": 0.009999999776482582,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": true,
+      "failure": null,
+      "property": "LineUnitBefore",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 1,
+      "before": 12,
+      "beforeLines": 1,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      },
+      "property": "LineUnitBefore",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 1584,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      },
+      "property": "LineUnitBefore",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 1584.05,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      },
+      "property": "LineUnitBefore",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 2000,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      },
+      "property": "LineUnitAfter",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": -1,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      },
+      "property": "LineUnitAfter",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": -0.1,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": true,
+      "failure": null,
+      "property": "LineUnitAfter",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 0,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": true,
+      "failure": null,
+      "property": "LineUnitAfter",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 0.005,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": true,
+      "failure": null,
+      "property": "LineUnitAfter",
+      "afterLines": 0.009999999776482582,
+      "beforeAuto": 0,
+      "value": 0.01,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0.10000000149011612
+    },
+    {
+      "afterAuto": 0,
+      "accepted": true,
+      "failure": null,
+      "property": "LineUnitAfter",
+      "afterLines": 1,
+      "beforeAuto": 0,
+      "value": 1,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 12
+    },
+    {
+      "afterAuto": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      },
+      "property": "LineUnitAfter",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 1584,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      },
+      "property": "LineUnitAfter",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 1584.05,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "afterAuto": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      },
+      "property": "LineUnitAfter",
+      "afterLines": 0,
+      "beforeAuto": 0,
+      "value": 2000,
+      "before": 0,
+      "beforeLines": 0,
+      "after": 0
+    },
+    {
+      "value": 0.005,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 0
+    },
+    {
+      "value": 0.009,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 0
+    },
+    {
+      "value": 0.01,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 0
+    },
+    {
+      "value": 0.015,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 0
+    },
+    {
+      "value": 0.019,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 0
+    },
+    {
+      "value": 0.02,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 0
+    },
+    {
+      "value": 0.025,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 0.05000000074505806
+    },
+    {
+      "value": 0.029,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 0.05000000074505806
+    },
+    {
+      "value": 0.03,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 0.05000000074505806
+    },
+    {
+      "value": 0.04,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 0.05000000074505806
+    },
+    {
+      "value": 0.335,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 0.3499999940395355
+    },
+    {
+      "value": 0.339,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 0.3499999940395355
+    },
+    {
+      "value": 0.345,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 0.3499999940395355
+    },
+    {
+      "value": 0.999,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 1
+    },
+    {
+      "value": 1.005,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 1
+    },
+    {
+      "value": 1.009,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 1
+    },
+    {
+      "value": 1.015,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 1
+    },
+    {
+      "value": 131.99,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 132
+    },
+    {
+      "value": 132,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 132
+    },
+    {
+      "value": 132.001,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 132
+    },
+    {
+      "value": 132.005,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 132
+    },
+    {
+      "value": 132.01,
+      "accepted": true,
+      "property": "SpaceBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 132
+    },
+    {
+      "value": 0.005,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 0,
+      "before": 0
+    },
+    {
+      "value": 0.009,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 0.009999999776482582,
+      "before": 0.10000000149011612
+    },
+    {
+      "value": 0.01,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 0.009999999776482582,
+      "before": 0.10000000149011612
+    },
+    {
+      "value": 0.015,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 0.009999999776482582,
+      "before": 0.10000000149011612
+    },
+    {
+      "value": 0.019,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 0.019999999552965164,
+      "before": 0.20000000298023224
+    },
+    {
+      "value": 0.02,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 0.019999999552965164,
+      "before": 0.20000000298023224
+    },
+    {
+      "value": 0.025,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 0.029999999329447746,
+      "before": 0.3499999940395355
+    },
+    {
+      "value": 0.029,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 0.029999999329447746,
+      "before": 0.3499999940395355
+    },
+    {
+      "value": 0.03,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 0.029999999329447746,
+      "before": 0.3499999940395355
+    },
+    {
+      "value": 0.04,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 0.03999999910593033,
+      "before": 0.44999998807907104
+    },
+    {
+      "value": 0.335,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 0.3400000035762787,
+      "before": 4.050000190734863
+    },
+    {
+      "value": 0.339,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 0.3400000035762787,
+      "before": 4.050000190734863
+    },
+    {
+      "value": 0.345,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 0.3400000035762787,
+      "before": 4.050000190734863
+    },
+    {
+      "value": 0.999,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 1,
+      "before": 12
+    },
+    {
+      "value": 1.005,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 1,
+      "before": 12
+    },
+    {
+      "value": 1.009,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 1.0099999904632568,
+      "before": 12.100000381469727
+    },
+    {
+      "value": 1.015,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 1.0099999904632568,
+      "before": 12.100000381469727
+    },
+    {
+      "value": 131.99,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 131.99000549316406,
+      "before": 1583.8499755859375
+    },
+    {
+      "value": 132,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 132,
+      "before": 1584
+    },
+    {
+      "value": 132.001,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 132,
+      "before": 1584
+    },
+    {
+      "value": 132.005,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 132.00999450683594,
+      "before": 1584
+    },
+    {
+      "value": 132.01,
+      "accepted": true,
+      "property": "LineUnitBefore",
+      "failure": null,
+      "beforeLines": 132.00999450683594,
+      "before": 1584
+    },
+    {
+      "beforeLines": 132.00999450683594,
+      "before": 1584,
+      "property": "LineUnitBefore",
+      "after": 0,
+      "value": 132.01,
+      "afterLines": 0,
+      "accepted": true,
+      "failure": null
+    },
+    {
+      "beforeLines": 132.49000549316406,
+      "before": 1584,
+      "property": "LineUnitBefore",
+      "after": 0,
+      "value": 132.49,
+      "afterLines": 0,
+      "accepted": true,
+      "failure": null
+    },
+    {
+      "beforeLines": 132.99000549316406,
+      "before": 1584,
+      "property": "LineUnitBefore",
+      "after": 0,
+      "value": 132.99,
+      "afterLines": 0,
+      "accepted": true,
+      "failure": null
+    },
+    {
+      "beforeLines": 133,
+      "before": 1584,
+      "property": "LineUnitBefore",
+      "after": 0,
+      "value": 133,
+      "afterLines": 0,
+      "accepted": true,
+      "failure": null
+    },
+    {
+      "beforeLines": 200,
+      "before": 1584,
+      "property": "LineUnitBefore",
+      "after": 0,
+      "value": 200,
+      "afterLines": 0,
+      "accepted": true,
+      "failure": null
+    },
+    {
+      "beforeLines": 264,
+      "before": 1584,
+      "property": "LineUnitBefore",
+      "after": 0,
+      "value": 264,
+      "afterLines": 0,
+      "accepted": true,
+      "failure": null
+    },
+    {
+      "beforeLines": 316.79998779296875,
+      "before": 1584,
+      "property": "LineUnitBefore",
+      "after": 0,
+      "value": 316.8,
+      "afterLines": 0,
+      "accepted": true,
+      "failure": null
+    },
+    {
+      "beforeLines": 327.6700134277344,
+      "before": 1584,
+      "property": "LineUnitBefore",
+      "after": 0,
+      "value": 327.67,
+      "afterLines": 0,
+      "accepted": true,
+      "failure": null
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitBefore",
+      "after": 0,
+      "value": 327.68,
+      "afterLines": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      }
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitBefore",
+      "after": 0,
+      "value": 400,
+      "afterLines": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      }
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitBefore",
+      "after": 0,
+      "value": 999,
+      "afterLines": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      }
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitBefore",
+      "after": 0,
+      "value": 1000,
+      "afterLines": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      }
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitBefore",
+      "after": 0,
+      "value": 1319.99,
+      "afterLines": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      }
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitBefore",
+      "after": 0,
+      "value": 1320,
+      "afterLines": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      }
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitBefore",
+      "after": 0,
+      "value": 1320.01,
+      "afterLines": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      }
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitBefore",
+      "after": 0,
+      "value": 1583,
+      "afterLines": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      }
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitBefore",
+      "after": 0,
+      "value": 1584,
+      "afterLines": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      }
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitAfter",
+      "after": 1584,
+      "value": 132.01,
+      "afterLines": 132.00999450683594,
+      "accepted": true,
+      "failure": null
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitAfter",
+      "after": 1584,
+      "value": 132.49,
+      "afterLines": 132.49000549316406,
+      "accepted": true,
+      "failure": null
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitAfter",
+      "after": 1584,
+      "value": 132.99,
+      "afterLines": 132.99000549316406,
+      "accepted": true,
+      "failure": null
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitAfter",
+      "after": 1584,
+      "value": 133,
+      "afterLines": 133,
+      "accepted": true,
+      "failure": null
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitAfter",
+      "after": 1584,
+      "value": 200,
+      "afterLines": 200,
+      "accepted": true,
+      "failure": null
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitAfter",
+      "after": 1584,
+      "value": 264,
+      "afterLines": 264,
+      "accepted": true,
+      "failure": null
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitAfter",
+      "after": 1584,
+      "value": 316.8,
+      "afterLines": 316.79998779296875,
+      "accepted": true,
+      "failure": null
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitAfter",
+      "after": 1584,
+      "value": 327.67,
+      "afterLines": 327.6700134277344,
+      "accepted": true,
+      "failure": null
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitAfter",
+      "after": 0,
+      "value": 327.68,
+      "afterLines": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      }
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitAfter",
+      "after": 0,
+      "value": 400,
+      "afterLines": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      }
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitAfter",
+      "after": 0,
+      "value": 999,
+      "afterLines": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      }
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitAfter",
+      "after": 0,
+      "value": 1000,
+      "afterLines": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      }
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitAfter",
+      "after": 0,
+      "value": 1319.99,
+      "afterLines": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      }
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitAfter",
+      "after": 0,
+      "value": 1320,
+      "afterLines": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      }
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitAfter",
+      "after": 0,
+      "value": 1320.01,
+      "afterLines": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      }
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitAfter",
+      "after": 0,
+      "value": 1583,
+      "afterLines": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      }
+    },
+    {
+      "beforeLines": 0,
+      "before": 0,
+      "property": "LineUnitAfter",
+      "after": 0,
+      "value": 1584,
+      "afterLines": 0,
+      "accepted": false,
+      "failure": {
+        "message": "Die Zahl muss zwischen 0 und 32767 liegen.",
+        "hresult": -2146823140
+      }
+    }
+  ]
+}

@@ -1,0 +1,3584 @@
+{
+  "sourceHash": "4045ef25c8c1c94bc9c7298eeab324e7ef52006b5c0fae3b4fbb9e2e45d23394",
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "pdfHash": "1d8e7daf31f01675fffbcff2abbf9f5d8e2f35e1de4ac86ff96203a9ee18a30b",
+  "producerHash": "8593a3c75df964314e3e963108b07791d0f80fd1180fb0b968d5ad338fa46985",
+  "scriptHash": "8a74625e1b84a9b03942e55344845ee3bed9cf7a035344ef5c636ea5e353b078",
+  "state": {
+    "pages": 1,
+    "defaultTab": 36,
+    "paragraphs": [
+      {
+        "tabs": [
+          {
+            "position": 450,
+            "leader": 0,
+            "custom": true,
+            "alignment": 0
+          },
+          {
+            "position": 468,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 504,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 540,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "indent": 0,
+        "characters": [
+          {
+            "y": 72,
+            "page": 1,
+            "text": "A",
+            "x": 72
+          },
+          {
+            "y": 91.9000015258789,
+            "page": 1,
+            "text": "\t",
+            "x": 72
+          },
+          {
+            "y": 112.1500015258789,
+            "page": 1,
+            "text": "1",
+            "x": 72
+          },
+          {
+            "y": 112.1500015258789,
+            "page": 1,
+            "text": "2",
+            "x": 77.6500015258789
+          },
+          {
+            "y": 112.1500015258789,
+            "page": 1,
+            "text": ",",
+            "x": 83.25
+          },
+          {
+            "y": 112.1500015258789,
+            "page": 1,
+            "text": "3",
+            "x": 85.9000015258789
+          },
+          {
+            "y": 112.1500015258789,
+            "page": 1,
+            "text": "4",
+            "x": 91.5
+          },
+          {
+            "y": 112.1500015258789,
+            "page": 1,
+            "text": "\r",
+            "x": 97.1500015258789
+          }
+        ],
+        "first": 0,
+        "text": "A\t12,34\r"
+      },
+      {
+        "tabs": [
+          {
+            "position": 451.29998779296875,
+            "leader": 0,
+            "custom": true,
+            "alignment": 0
+          },
+          {
+            "position": 468,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 504,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 540,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "indent": 0,
+        "characters": [
+          {
+            "y": 132,
+            "page": 1,
+            "text": "A",
+            "x": 72
+          },
+          {
+            "y": 132,
+            "page": 1,
+            "text": "\t",
+            "x": 78.75
+          },
+          {
+            "y": 151.89999389648438,
+            "page": 1,
+            "text": "1",
+            "x": 72
+          },
+          {
+            "y": 151.89999389648438,
+            "page": 1,
+            "text": "2",
+            "x": 77.6500015258789
+          },
+          {
+            "y": 151.89999389648438,
+            "page": 1,
+            "text": ",",
+            "x": 83.25
+          },
+          {
+            "y": 151.89999389648438,
+            "page": 1,
+            "text": "3",
+            "x": 85.9000015258789
+          },
+          {
+            "y": 151.89999389648438,
+            "page": 1,
+            "text": "4",
+            "x": 91.5
+          },
+          {
+            "y": 151.89999389648438,
+            "page": 1,
+            "text": "\r",
+            "x": 97.1500015258789
+          }
+        ],
+        "first": 0,
+        "text": "A\t12,34\r"
+      },
+      {
+        "tabs": [
+          {
+            "position": 453.6000061035156,
+            "leader": 0,
+            "custom": true,
+            "alignment": 0
+          },
+          {
+            "position": 468,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 504,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 540,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "indent": 0,
+        "characters": [
+          {
+            "y": 172.14999389648438,
+            "page": 1,
+            "text": "A",
+            "x": 72
+          },
+          {
+            "y": 192,
+            "page": 1,
+            "text": "\t",
+            "x": 72
+          },
+          {
+            "y": 212.25,
+            "page": 1,
+            "text": "1",
+            "x": 72
+          },
+          {
+            "y": 212.25,
+            "page": 1,
+            "text": "2",
+            "x": 77.6500015258789
+          },
+          {
+            "y": 212.25,
+            "page": 1,
+            "text": ",",
+            "x": 83.25
+          },
+          {
+            "y": 212.25,
+            "page": 1,
+            "text": "3",
+            "x": 85.9000015258789
+          },
+          {
+            "y": 212.25,
+            "page": 1,
+            "text": "4",
+            "x": 91.5
+          },
+          {
+            "y": 212.25,
+            "page": 1,
+            "text": "\r",
+            "x": 97.1500015258789
+          }
+        ],
+        "first": 0,
+        "text": "A\t12,34\r"
+      },
+      {
+        "tabs": [
+          {
+            "position": 480,
+            "leader": 0,
+            "custom": true,
+            "alignment": 0
+          },
+          {
+            "position": 504,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 540,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "indent": 0,
+        "characters": [
+          {
+            "y": 232.14999389648438,
+            "page": 1,
+            "text": "A",
+            "x": 72
+          },
+          {
+            "y": 252,
+            "page": 1,
+            "text": "\t",
+            "x": 72
+          },
+          {
+            "y": 272.25,
+            "page": 1,
+            "text": "1",
+            "x": 72
+          },
+          {
+            "y": 272.25,
+            "page": 1,
+            "text": "2",
+            "x": 77.6500015258789
+          },
+          {
+            "y": 272.25,
+            "page": 1,
+            "text": ",",
+            "x": 83.25
+          },
+          {
+            "y": 272.25,
+            "page": 1,
+            "text": "3",
+            "x": 85.9000015258789
+          },
+          {
+            "y": 272.25,
+            "page": 1,
+            "text": "4",
+            "x": 91.5
+          },
+          {
+            "y": 272.25,
+            "page": 1,
+            "text": "\r",
+            "x": 97.1500015258789
+          }
+        ],
+        "first": 0,
+        "text": "A\t12,34\r"
+      },
+      {
+        "tabs": [
+          {
+            "position": 550,
+            "leader": 0,
+            "custom": true,
+            "alignment": 0
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "indent": 0,
+        "characters": [
+          {
+            "y": 292.1499938964844,
+            "page": 1,
+            "text": "A",
+            "x": 72
+          },
+          {
+            "y": 312,
+            "page": 1,
+            "text": "\t",
+            "x": 72
+          },
+          {
+            "y": 332.25,
+            "page": 1,
+            "text": "1",
+            "x": 72
+          },
+          {
+            "y": 332.25,
+            "page": 1,
+            "text": "2",
+            "x": 77.6500015258789
+          },
+          {
+            "y": 332.25,
+            "page": 1,
+            "text": ",",
+            "x": 83.25
+          },
+          {
+            "y": 332.25,
+            "page": 1,
+            "text": "3",
+            "x": 85.9000015258789
+          },
+          {
+            "y": 332.25,
+            "page": 1,
+            "text": "4",
+            "x": 91.5
+          },
+          {
+            "y": 332.25,
+            "page": 1,
+            "text": "\r",
+            "x": 97.1500015258789
+          }
+        ],
+        "first": 0,
+        "text": "A\t12,34\r"
+      },
+      {
+        "tabs": [
+          {
+            "position": 450,
+            "leader": 0,
+            "custom": true,
+            "alignment": 1
+          },
+          {
+            "position": 468,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 504,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 540,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "indent": 0,
+        "characters": [
+          {
+            "y": 352.1499938964844,
+            "page": 1,
+            "text": "A",
+            "x": 72
+          },
+          {
+            "y": 352.1499938964844,
+            "page": 1,
+            "text": "\t",
+            "x": 78.75
+          },
+          {
+            "y": 352.1499938964844,
+            "page": 1,
+            "text": "1",
+            "x": 498.3999938964844
+          },
+          {
+            "y": 352.1499938964844,
+            "page": 1,
+            "text": "2",
+            "x": 504
+          },
+          {
+            "y": 352.1499938964844,
+            "page": 1,
+            "text": ",",
+            "x": 509.25
+          },
+          {
+            "y": 352.1499938964844,
+            "page": 1,
+            "text": "3",
+            "x": 512.25
+          },
+          {
+            "y": 352.1499938964844,
+            "page": 1,
+            "text": "4",
+            "x": 517.9000244140625
+          },
+          {
+            "y": 352.1499938964844,
+            "page": 1,
+            "text": "\r",
+            "x": 523.1500244140625
+          }
+        ],
+        "first": 0,
+        "text": "A\t12,34\r"
+      },
+      {
+        "tabs": [
+          {
+            "position": 451.29998779296875,
+            "leader": 0,
+            "custom": true,
+            "alignment": 1
+          },
+          {
+            "position": 468,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 504,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 540,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "indent": 0,
+        "characters": [
+          {
+            "y": 372,
+            "page": 1,
+            "text": "A",
+            "x": 72
+          },
+          {
+            "y": 372,
+            "page": 1,
+            "text": "\t",
+            "x": 78.75
+          },
+          {
+            "y": 372,
+            "page": 1,
+            "text": "1",
+            "x": 498.3999938964844
+          },
+          {
+            "y": 372,
+            "page": 1,
+            "text": "2",
+            "x": 504
+          },
+          {
+            "y": 372,
+            "page": 1,
+            "text": ",",
+            "x": 509.25
+          },
+          {
+            "y": 372,
+            "page": 1,
+            "text": "3",
+            "x": 512.25
+          },
+          {
+            "y": 372,
+            "page": 1,
+            "text": "4",
+            "x": 517.9000244140625
+          },
+          {
+            "y": 372,
+            "page": 1,
+            "text": "\r",
+            "x": 523.1500244140625
+          }
+        ],
+        "first": 0,
+        "text": "A\t12,34\r"
+      },
+      {
+        "tabs": [
+          {
+            "position": 453.6000061035156,
+            "leader": 0,
+            "custom": true,
+            "alignment": 1
+          },
+          {
+            "position": 468,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 504,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 540,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "indent": 0,
+        "characters": [
+          {
+            "y": 391.8999938964844,
+            "page": 1,
+            "text": "A",
+            "x": 72
+          },
+          {
+            "y": 391.8999938964844,
+            "page": 1,
+            "text": "\t",
+            "x": 78.75
+          },
+          {
+            "y": 391.8999938964844,
+            "page": 1,
+            "text": "1",
+            "x": 498.3999938964844
+          },
+          {
+            "y": 391.8999938964844,
+            "page": 1,
+            "text": "2",
+            "x": 504
+          },
+          {
+            "y": 391.8999938964844,
+            "page": 1,
+            "text": ",",
+            "x": 509.25
+          },
+          {
+            "y": 391.8999938964844,
+            "page": 1,
+            "text": "3",
+            "x": 512.25
+          },
+          {
+            "y": 391.8999938964844,
+            "page": 1,
+            "text": "4",
+            "x": 517.9000244140625
+          },
+          {
+            "y": 391.8999938964844,
+            "page": 1,
+            "text": "\r",
+            "x": 523.1500244140625
+          }
+        ],
+        "first": 0,
+        "text": "A\t12,34\r"
+      },
+      {
+        "tabs": [
+          {
+            "position": 480,
+            "leader": 0,
+            "custom": true,
+            "alignment": 1
+          },
+          {
+            "position": 504,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 540,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "indent": 0,
+        "characters": [
+          {
+            "y": 412.1499938964844,
+            "page": 1,
+            "text": "A",
+            "x": 72
+          },
+          {
+            "y": 412.1499938964844,
+            "page": 1,
+            "text": "\t",
+            "x": 78.75
+          },
+          {
+            "y": 412.1499938964844,
+            "page": 1,
+            "text": "1",
+            "x": 498.3999938964844
+          },
+          {
+            "y": 412.1499938964844,
+            "page": 1,
+            "text": "2",
+            "x": 504
+          },
+          {
+            "y": 412.1499938964844,
+            "page": 1,
+            "text": ",",
+            "x": 509.25
+          },
+          {
+            "y": 412.1499938964844,
+            "page": 1,
+            "text": "3",
+            "x": 512.25
+          },
+          {
+            "y": 412.1499938964844,
+            "page": 1,
+            "text": "4",
+            "x": 517.9000244140625
+          },
+          {
+            "y": 412.1499938964844,
+            "page": 1,
+            "text": "\r",
+            "x": 523.1500244140625
+          }
+        ],
+        "first": 0,
+        "text": "A\t12,34\r"
+      },
+      {
+        "tabs": [
+          {
+            "position": 550,
+            "leader": 0,
+            "custom": true,
+            "alignment": 1
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "indent": 0,
+        "characters": [
+          {
+            "y": 432,
+            "page": 1,
+            "text": "A",
+            "x": 72
+          },
+          {
+            "y": 432,
+            "page": 1,
+            "text": "\t",
+            "x": 78.75
+          },
+          {
+            "y": 432,
+            "page": 1,
+            "text": "1",
+            "x": 498.3999938964844
+          },
+          {
+            "y": 432,
+            "page": 1,
+            "text": "2",
+            "x": 504
+          },
+          {
+            "y": 432,
+            "page": 1,
+            "text": ",",
+            "x": 509.25
+          },
+          {
+            "y": 432,
+            "page": 1,
+            "text": "3",
+            "x": 512.25
+          },
+          {
+            "y": 432,
+            "page": 1,
+            "text": "4",
+            "x": 517.9000244140625
+          },
+          {
+            "y": 432,
+            "page": 1,
+            "text": "\r",
+            "x": 523.1500244140625
+          }
+        ],
+        "first": 0,
+        "text": "A\t12,34\r"
+      },
+      {
+        "tabs": [
+          {
+            "position": 450,
+            "leader": 0,
+            "custom": true,
+            "alignment": 2
+          },
+          {
+            "position": 468,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 504,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 540,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "indent": 0,
+        "characters": [
+          {
+            "y": 451.8999938964844,
+            "page": 1,
+            "text": "A",
+            "x": 72
+          },
+          {
+            "y": 451.8999938964844,
+            "page": 1,
+            "text": "\t",
+            "x": 78.75
+          },
+          {
+            "y": 451.8999938964844,
+            "page": 1,
+            "text": "1",
+            "x": 496.8999938964844
+          },
+          {
+            "y": 451.8999938964844,
+            "page": 1,
+            "text": "2",
+            "x": 502.5
+          },
+          {
+            "y": 451.8999938964844,
+            "page": 1,
+            "text": ",",
+            "x": 508.1499938964844
+          },
+          {
+            "y": 451.8999938964844,
+            "page": 1,
+            "text": "3",
+            "x": 510.75
+          },
+          {
+            "y": 451.8999938964844,
+            "page": 1,
+            "text": "4",
+            "x": 516.4000244140625
+          },
+          {
+            "y": 451.8999938964844,
+            "page": 1,
+            "text": "\r",
+            "x": 522
+          }
+        ],
+        "first": 0,
+        "text": "A\t12,34\r"
+      },
+      {
+        "tabs": [
+          {
+            "position": 451.29998779296875,
+            "leader": 0,
+            "custom": true,
+            "alignment": 2
+          },
+          {
+            "position": 468,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 504,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 540,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "indent": 0,
+        "characters": [
+          {
+            "y": 472.1499938964844,
+            "page": 1,
+            "text": "A",
+            "x": 72
+          },
+          {
+            "y": 472.1499938964844,
+            "page": 1,
+            "text": "\t",
+            "x": 78.75
+          },
+          {
+            "y": 472.1499938964844,
+            "page": 1,
+            "text": "1",
+            "x": 498.3999938964844
+          },
+          {
+            "y": 472.1499938964844,
+            "page": 1,
+            "text": "2",
+            "x": 504
+          },
+          {
+            "y": 472.1499938964844,
+            "page": 1,
+            "text": ",",
+            "x": 509.25
+          },
+          {
+            "y": 472.1499938964844,
+            "page": 1,
+            "text": "3",
+            "x": 512.25
+          },
+          {
+            "y": 472.1499938964844,
+            "page": 1,
+            "text": "4",
+            "x": 517.9000244140625
+          },
+          {
+            "y": 472.1499938964844,
+            "page": 1,
+            "text": "\r",
+            "x": 523.1500244140625
+          }
+        ],
+        "first": 0,
+        "text": "A\t12,34\r"
+      },
+      {
+        "tabs": [
+          {
+            "position": 453.6000061035156,
+            "leader": 0,
+            "custom": true,
+            "alignment": 2
+          },
+          {
+            "position": 468,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 504,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 540,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "indent": 0,
+        "characters": [
+          {
+            "y": 492,
+            "page": 1,
+            "text": "A",
+            "x": 72
+          },
+          {
+            "y": 492,
+            "page": 1,
+            "text": "\t",
+            "x": 78.75
+          },
+          {
+            "y": 492,
+            "page": 1,
+            "text": "1",
+            "x": 498.3999938964844
+          },
+          {
+            "y": 492,
+            "page": 1,
+            "text": "2",
+            "x": 504
+          },
+          {
+            "y": 492,
+            "page": 1,
+            "text": ",",
+            "x": 509.25
+          },
+          {
+            "y": 492,
+            "page": 1,
+            "text": "3",
+            "x": 512.25
+          },
+          {
+            "y": 492,
+            "page": 1,
+            "text": "4",
+            "x": 517.9000244140625
+          },
+          {
+            "y": 492,
+            "page": 1,
+            "text": "\r",
+            "x": 523.1500244140625
+          }
+        ],
+        "first": 0,
+        "text": "A\t12,34\r"
+      },
+      {
+        "tabs": [
+          {
+            "position": 480,
+            "leader": 0,
+            "custom": true,
+            "alignment": 2
+          },
+          {
+            "position": 504,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 540,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "indent": 0,
+        "characters": [
+          {
+            "y": 511.8999938964844,
+            "page": 1,
+            "text": "A",
+            "x": 72
+          },
+          {
+            "y": 511.8999938964844,
+            "page": 1,
+            "text": "\t",
+            "x": 78.75
+          },
+          {
+            "y": 511.8999938964844,
+            "page": 1,
+            "text": "1",
+            "x": 498.3999938964844
+          },
+          {
+            "y": 511.8999938964844,
+            "page": 1,
+            "text": "2",
+            "x": 504
+          },
+          {
+            "y": 511.8999938964844,
+            "page": 1,
+            "text": ",",
+            "x": 509.25
+          },
+          {
+            "y": 511.8999938964844,
+            "page": 1,
+            "text": "3",
+            "x": 512.25
+          },
+          {
+            "y": 511.8999938964844,
+            "page": 1,
+            "text": "4",
+            "x": 517.9000244140625
+          },
+          {
+            "y": 511.8999938964844,
+            "page": 1,
+            "text": "\r",
+            "x": 523.1500244140625
+          }
+        ],
+        "first": 0,
+        "text": "A\t12,34\r"
+      },
+      {
+        "tabs": [
+          {
+            "position": 550,
+            "leader": 0,
+            "custom": true,
+            "alignment": 2
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "indent": 0,
+        "characters": [
+          {
+            "y": 532.1500244140625,
+            "page": 1,
+            "text": "A",
+            "x": 72
+          },
+          {
+            "y": 532.1500244140625,
+            "page": 1,
+            "text": "\t",
+            "x": 78.75
+          },
+          {
+            "y": 532.1500244140625,
+            "page": 1,
+            "text": "1",
+            "x": 498.3999938964844
+          },
+          {
+            "y": 532.1500244140625,
+            "page": 1,
+            "text": "2",
+            "x": 504
+          },
+          {
+            "y": 532.1500244140625,
+            "page": 1,
+            "text": ",",
+            "x": 509.25
+          },
+          {
+            "y": 532.1500244140625,
+            "page": 1,
+            "text": "3",
+            "x": 512.25
+          },
+          {
+            "y": 532.1500244140625,
+            "page": 1,
+            "text": "4",
+            "x": 517.9000244140625
+          },
+          {
+            "y": 532.1500244140625,
+            "page": 1,
+            "text": "\r",
+            "x": 523.1500244140625
+          }
+        ],
+        "first": 0,
+        "text": "A\t12,34\r"
+      },
+      {
+        "tabs": [
+          {
+            "position": 450,
+            "leader": 0,
+            "custom": true,
+            "alignment": 3
+          },
+          {
+            "position": 468,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 504,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 540,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "indent": 0,
+        "characters": [
+          {
+            "y": 552,
+            "page": 1,
+            "text": "A",
+            "x": 72
+          },
+          {
+            "y": 552,
+            "page": 1,
+            "text": "\t",
+            "x": 78.75
+          },
+          {
+            "y": 552,
+            "page": 1,
+            "text": "1",
+            "x": 498.3999938964844
+          },
+          {
+            "y": 552,
+            "page": 1,
+            "text": "2",
+            "x": 504
+          },
+          {
+            "y": 552,
+            "page": 1,
+            "text": ",",
+            "x": 509.25
+          },
+          {
+            "y": 552,
+            "page": 1,
+            "text": "3",
+            "x": 512.25
+          },
+          {
+            "y": 552,
+            "page": 1,
+            "text": "4",
+            "x": 517.9000244140625
+          },
+          {
+            "y": 552,
+            "page": 1,
+            "text": "\r",
+            "x": 523.1500244140625
+          }
+        ],
+        "first": 0,
+        "text": "A\t12,34\r"
+      },
+      {
+        "tabs": [
+          {
+            "position": 451.29998779296875,
+            "leader": 0,
+            "custom": true,
+            "alignment": 3
+          },
+          {
+            "position": 468,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 504,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 540,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "indent": 0,
+        "characters": [
+          {
+            "y": 571.9000244140625,
+            "page": 1,
+            "text": "A",
+            "x": 72
+          },
+          {
+            "y": 571.9000244140625,
+            "page": 1,
+            "text": "\t",
+            "x": 78.75
+          },
+          {
+            "y": 571.9000244140625,
+            "page": 1,
+            "text": "1",
+            "x": 498.3999938964844
+          },
+          {
+            "y": 571.9000244140625,
+            "page": 1,
+            "text": "2",
+            "x": 504
+          },
+          {
+            "y": 571.9000244140625,
+            "page": 1,
+            "text": ",",
+            "x": 509.25
+          },
+          {
+            "y": 571.9000244140625,
+            "page": 1,
+            "text": "3",
+            "x": 512.25
+          },
+          {
+            "y": 571.9000244140625,
+            "page": 1,
+            "text": "4",
+            "x": 517.9000244140625
+          },
+          {
+            "y": 571.9000244140625,
+            "page": 1,
+            "text": "\r",
+            "x": 523.1500244140625
+          }
+        ],
+        "first": 0,
+        "text": "A\t12,34\r"
+      },
+      {
+        "tabs": [
+          {
+            "position": 453.6000061035156,
+            "leader": 0,
+            "custom": true,
+            "alignment": 3
+          },
+          {
+            "position": 468,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 504,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 540,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "indent": 0,
+        "characters": [
+          {
+            "y": 592.1500244140625,
+            "page": 1,
+            "text": "A",
+            "x": 72
+          },
+          {
+            "y": 592.1500244140625,
+            "page": 1,
+            "text": "\t",
+            "x": 78.75
+          },
+          {
+            "y": 592.1500244140625,
+            "page": 1,
+            "text": "1",
+            "x": 498.3999938964844
+          },
+          {
+            "y": 592.1500244140625,
+            "page": 1,
+            "text": "2",
+            "x": 504
+          },
+          {
+            "y": 592.1500244140625,
+            "page": 1,
+            "text": ",",
+            "x": 509.25
+          },
+          {
+            "y": 592.1500244140625,
+            "page": 1,
+            "text": "3",
+            "x": 512.25
+          },
+          {
+            "y": 592.1500244140625,
+            "page": 1,
+            "text": "4",
+            "x": 517.9000244140625
+          },
+          {
+            "y": 592.1500244140625,
+            "page": 1,
+            "text": "\r",
+            "x": 523.1500244140625
+          }
+        ],
+        "first": 0,
+        "text": "A\t12,34\r"
+      },
+      {
+        "tabs": [
+          {
+            "position": 480,
+            "leader": 0,
+            "custom": true,
+            "alignment": 3
+          },
+          {
+            "position": 504,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 540,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "indent": 0,
+        "characters": [
+          {
+            "y": 612,
+            "page": 1,
+            "text": "A",
+            "x": 72
+          },
+          {
+            "y": 612,
+            "page": 1,
+            "text": "\t",
+            "x": 78.75
+          },
+          {
+            "y": 612,
+            "page": 1,
+            "text": "1",
+            "x": 498.3999938964844
+          },
+          {
+            "y": 612,
+            "page": 1,
+            "text": "2",
+            "x": 504
+          },
+          {
+            "y": 612,
+            "page": 1,
+            "text": ",",
+            "x": 509.25
+          },
+          {
+            "y": 612,
+            "page": 1,
+            "text": "3",
+            "x": 512.25
+          },
+          {
+            "y": 612,
+            "page": 1,
+            "text": "4",
+            "x": 517.9000244140625
+          },
+          {
+            "y": 612,
+            "page": 1,
+            "text": "\r",
+            "x": 523.1500244140625
+          }
+        ],
+        "first": 0,
+        "text": "A\t12,34\r"
+      },
+      {
+        "tabs": [
+          {
+            "position": 550,
+            "leader": 0,
+            "custom": true,
+            "alignment": 3
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "indent": 0,
+        "characters": [
+          {
+            "y": 631.9000244140625,
+            "page": 1,
+            "text": "A",
+            "x": 72
+          },
+          {
+            "y": 631.9000244140625,
+            "page": 1,
+            "text": "\t",
+            "x": 78.75
+          },
+          {
+            "y": 631.9000244140625,
+            "page": 1,
+            "text": "1",
+            "x": 498.3999938964844
+          },
+          {
+            "y": 631.9000244140625,
+            "page": 1,
+            "text": "2",
+            "x": 504
+          },
+          {
+            "y": 631.9000244140625,
+            "page": 1,
+            "text": ",",
+            "x": 509.25
+          },
+          {
+            "y": 631.9000244140625,
+            "page": 1,
+            "text": "3",
+            "x": 512.25
+          },
+          {
+            "y": 631.9000244140625,
+            "page": 1,
+            "text": "4",
+            "x": 517.9000244140625
+          },
+          {
+            "y": 631.9000244140625,
+            "page": 1,
+            "text": "\r",
+            "x": 523.1500244140625
+          }
+        ],
+        "first": 0,
+        "text": "A\t12,34\r"
+      }
+    ],
+    "stories": [
+      {
+        "tabs": [
+          {
+            "position": 226.8000030517578,
+            "leader": 0,
+            "custom": true,
+            "alignment": 1
+          },
+          {
+            "position": 453.6000061035156,
+            "leader": 0,
+            "custom": true,
+            "alignment": 2
+          },
+          {
+            "position": 468,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 504,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 540,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "characters": [
+          {
+            "y": 35.25,
+            "text": "\r",
+            "x": 72
+          }
+        ],
+        "text": "\r",
+        "kind": "Headers"
+      },
+      {
+        "tabs": [
+          {
+            "position": 226.8000030517578,
+            "leader": 0,
+            "custom": true,
+            "alignment": 1
+          },
+          {
+            "position": 453.6000061035156,
+            "leader": 0,
+            "custom": true,
+            "alignment": 2
+          },
+          {
+            "position": 468,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 504,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 540,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          },
+          {
+            "position": 576,
+            "leader": 0,
+            "custom": false,
+            "alignment": 0
+          }
+        ],
+        "characters": [
+          {
+            "y": 795,
+            "text": "\r",
+            "x": 72
+          }
+        ],
+        "text": "\r",
+        "kind": "Footers"
+      }
+    ]
+  },
+  "cases": [
+    {
+      "position": 450,
+      "alignment": 0,
+      "text": "A\t12,34"
+    },
+    {
+      "position": 451.3,
+      "alignment": 0,
+      "text": "A\t12,34"
+    },
+    {
+      "position": 453.6,
+      "alignment": 0,
+      "text": "A\t12,34"
+    },
+    {
+      "position": 480,
+      "alignment": 0,
+      "text": "A\t12,34"
+    },
+    {
+      "position": 550,
+      "alignment": 0,
+      "text": "A\t12,34"
+    },
+    {
+      "position": 450,
+      "alignment": 1,
+      "text": "A\t12,34"
+    },
+    {
+      "position": 451.3,
+      "alignment": 1,
+      "text": "A\t12,34"
+    },
+    {
+      "position": 453.6,
+      "alignment": 1,
+      "text": "A\t12,34"
+    },
+    {
+      "position": 480,
+      "alignment": 1,
+      "text": "A\t12,34"
+    },
+    {
+      "position": 550,
+      "alignment": 1,
+      "text": "A\t12,34"
+    },
+    {
+      "position": 450,
+      "alignment": 2,
+      "text": "A\t12,34"
+    },
+    {
+      "position": 451.3,
+      "alignment": 2,
+      "text": "A\t12,34"
+    },
+    {
+      "position": 453.6,
+      "alignment": 2,
+      "text": "A\t12,34"
+    },
+    {
+      "position": 480,
+      "alignment": 2,
+      "text": "A\t12,34"
+    },
+    {
+      "position": 550,
+      "alignment": 2,
+      "text": "A\t12,34"
+    },
+    {
+      "position": 450,
+      "alignment": 3,
+      "text": "A\t12,34"
+    },
+    {
+      "position": 451.3,
+      "alignment": 3,
+      "text": "A\t12,34"
+    },
+    {
+      "position": 453.6,
+      "alignment": 3,
+      "text": "A\t12,34"
+    },
+    {
+      "position": 480,
+      "alignment": 3,
+      "text": "A\t12,34"
+    },
+    {
+      "position": 550,
+      "alignment": 3,
+      "text": "A\t12,34"
+    }
+  ],
+  "rows": [
+    {
+      "position": 450,
+      "alignment": 0,
+      "text": "A\t12,34",
+      "paragraph": 0,
+      "glyphs": [
+        {
+          "text": "A",
+          "x": 72.02400207519531,
+          "y": 88.0999755859375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "1",
+          "x": 72.02400207519531,
+          "y": 128.05999755859375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "2",
+          "x": 77.56175994873047,
+          "y": 128.05999755859375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": ",",
+          "x": 83.05968475341797,
+          "y": 128.05999755859375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "3",
+          "x": 85.82855987548828,
+          "y": 128.05999755859375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "4",
+          "x": 91.44599914550781,
+          "y": 128.05999755859375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        }
+      ]
+    },
+    {
+      "position": 451.3,
+      "alignment": 0,
+      "text": "A\t12,34",
+      "paragraph": 1,
+      "glyphs": [
+        {
+          "text": "A",
+          "x": 72.02400207519531,
+          "y": 148.0999755859375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "1",
+          "x": 72.02400207519531,
+          "y": 168.01995849609375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "2",
+          "x": 77.56175994873047,
+          "y": 168.01995849609375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": ",",
+          "x": 83.05968475341797,
+          "y": 168.01995849609375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "3",
+          "x": 85.82855987548828,
+          "y": 168.01995849609375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "4",
+          "x": 91.44599914550781,
+          "y": 168.01995849609375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        }
+      ]
+    },
+    {
+      "position": 453.6,
+      "alignment": 0,
+      "text": "A\t12,34",
+      "paragraph": 2,
+      "glyphs": [
+        {
+          "text": "A",
+          "x": 72.02400207519531,
+          "y": 188.05999755859375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "1",
+          "x": 72.02400207519531,
+          "y": 228.01995849609375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "2",
+          "x": 77.56175994873047,
+          "y": 228.01995849609375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": ",",
+          "x": 83.05968475341797,
+          "y": 228.01995849609375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "3",
+          "x": 85.82855987548828,
+          "y": 228.01995849609375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "4",
+          "x": 91.44599914550781,
+          "y": 228.01995849609375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        }
+      ]
+    },
+    {
+      "position": 480,
+      "alignment": 0,
+      "text": "A\t12,34",
+      "paragraph": 3,
+      "glyphs": [
+        {
+          "text": "A",
+          "x": 72.02400207519531,
+          "y": 248.05999755859375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "1",
+          "x": 72.02400207519531,
+          "y": 288.04998779296875,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "2",
+          "x": 77.56175994873047,
+          "y": 288.04998779296875,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": ",",
+          "x": 83.05968475341797,
+          "y": 288.04998779296875,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "3",
+          "x": 85.82855987548828,
+          "y": 288.04998779296875,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "4",
+          "x": 91.44599914550781,
+          "y": 288.04998779296875,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        }
+      ]
+    },
+    {
+      "position": 550,
+      "alignment": 0,
+      "text": "A\t12,34",
+      "paragraph": 4,
+      "glyphs": [
+        {
+          "text": "A",
+          "x": 72.02400207519531,
+          "y": 308.0899658203125,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "1",
+          "x": 72.02400207519531,
+          "y": 348.04998779296875,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "2",
+          "x": 77.56175994873047,
+          "y": 348.04998779296875,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": ",",
+          "x": 83.05968475341797,
+          "y": 348.04998779296875,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "3",
+          "x": 85.82855987548828,
+          "y": 348.04998779296875,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "4",
+          "x": 91.44599914550781,
+          "y": 348.04998779296875,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        }
+      ]
+    },
+    {
+      "position": 450,
+      "alignment": 1,
+      "text": "A\t12,34",
+      "paragraph": 5,
+      "glyphs": [
+        {
+          "text": "A",
+          "x": 72.02400207519531,
+          "y": 368.0899963378906,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "1",
+          "x": 498.3399963378906,
+          "y": 368.0899963378906,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "2",
+          "x": 503.87774658203125,
+          "y": 368.0899963378906,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": ",",
+          "x": 509.37567138671875,
+          "y": 368.0899963378906,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "3",
+          "x": 512.14453125,
+          "y": 368.0899963378906,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "4",
+          "x": 517.7620239257812,
+          "y": 368.0899963378906,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        }
+      ]
+    },
+    {
+      "position": 451.3,
+      "alignment": 1,
+      "text": "A\t12,34",
+      "paragraph": 6,
+      "glyphs": [
+        {
+          "text": "A",
+          "x": 72.02400207519531,
+          "y": 388.1299743652344,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "1",
+          "x": 498.3399963378906,
+          "y": 388.1299743652344,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "2",
+          "x": 503.87774658203125,
+          "y": 388.1299743652344,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": ",",
+          "x": 509.37567138671875,
+          "y": 388.1299743652344,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "3",
+          "x": 512.14453125,
+          "y": 388.1299743652344,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "4",
+          "x": 517.7620239257812,
+          "y": 388.1299743652344,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        }
+      ]
+    },
+    {
+      "position": 453.6,
+      "alignment": 1,
+      "text": "A\t12,34",
+      "paragraph": 7,
+      "glyphs": [
+        {
+          "text": "A",
+          "x": 72.02400207519531,
+          "y": 408.04998779296875,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "1",
+          "x": 498.3399963378906,
+          "y": 408.04998779296875,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "2",
+          "x": 503.87774658203125,
+          "y": 408.04998779296875,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": ",",
+          "x": 509.37567138671875,
+          "y": 408.04998779296875,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "3",
+          "x": 512.14453125,
+          "y": 408.04998779296875,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "4",
+          "x": 517.7620239257812,
+          "y": 408.04998779296875,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        }
+      ]
+    },
+    {
+      "position": 480,
+      "alignment": 1,
+      "text": "A\t12,34",
+      "paragraph": 8,
+      "glyphs": [
+        {
+          "text": "A",
+          "x": 72.02400207519531,
+          "y": 428.0899963378906,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "1",
+          "x": 498.3399963378906,
+          "y": 428.0899963378906,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "2",
+          "x": 503.87774658203125,
+          "y": 428.0899963378906,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": ",",
+          "x": 509.37567138671875,
+          "y": 428.0899963378906,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "3",
+          "x": 512.14453125,
+          "y": 428.0899963378906,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "4",
+          "x": 517.7620239257812,
+          "y": 428.0899963378906,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        }
+      ]
+    },
+    {
+      "position": 550,
+      "alignment": 1,
+      "text": "A\t12,34",
+      "paragraph": 9,
+      "glyphs": [
+        {
+          "text": "A",
+          "x": 72.02400207519531,
+          "y": 448.1499938964844,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "1",
+          "x": 498.3399963378906,
+          "y": 448.1499938964844,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "2",
+          "x": 503.87774658203125,
+          "y": 448.1499938964844,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": ",",
+          "x": 509.37567138671875,
+          "y": 448.1499938964844,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "3",
+          "x": 512.14453125,
+          "y": 448.1499938964844,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "4",
+          "x": 517.7620239257812,
+          "y": 448.1499938964844,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        }
+      ]
+    },
+    {
+      "position": 450,
+      "alignment": 2,
+      "text": "A\t12,34",
+      "paragraph": 10,
+      "glyphs": [
+        {
+          "text": "A",
+          "x": 72.02400207519531,
+          "y": 468.0699768066406,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "1",
+          "x": 497.0199890136719,
+          "y": 468.0699768066406,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "2",
+          "x": 502.5577392578125,
+          "y": 468.0699768066406,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": ",",
+          "x": 508.0556640625,
+          "y": 468.0699768066406,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "3",
+          "x": 510.8245544433594,
+          "y": 468.0699768066406,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "4",
+          "x": 516.4420166015625,
+          "y": 468.0699768066406,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        }
+      ]
+    },
+    {
+      "position": 451.3,
+      "alignment": 2,
+      "text": "A\t12,34",
+      "paragraph": 11,
+      "glyphs": [
+        {
+          "text": "A",
+          "x": 72.02400207519531,
+          "y": 488.1099853515625,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "1",
+          "x": 498.3399963378906,
+          "y": 488.1099853515625,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "2",
+          "x": 503.87774658203125,
+          "y": 488.1099853515625,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": ",",
+          "x": 509.37567138671875,
+          "y": 488.1099853515625,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "3",
+          "x": 512.14453125,
+          "y": 488.1099853515625,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "4",
+          "x": 517.7620239257812,
+          "y": 488.1099853515625,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        }
+      ]
+    },
+    {
+      "position": 453.6,
+      "alignment": 2,
+      "text": "A\t12,34",
+      "paragraph": 12,
+      "glyphs": [
+        {
+          "text": "A",
+          "x": 72.02400207519531,
+          "y": 508.1499938964844,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "1",
+          "x": 498.3399963378906,
+          "y": 508.1499938964844,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "2",
+          "x": 503.87774658203125,
+          "y": 508.1499938964844,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": ",",
+          "x": 509.37567138671875,
+          "y": 508.1499938964844,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "3",
+          "x": 512.14453125,
+          "y": 508.1499938964844,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "4",
+          "x": 517.7620239257812,
+          "y": 508.1499938964844,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        }
+      ]
+    },
+    {
+      "position": 480,
+      "alignment": 2,
+      "text": "A\t12,34",
+      "paragraph": 13,
+      "glyphs": [
+        {
+          "text": "A",
+          "x": 72.02400207519531,
+          "y": 528.0699768066406,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "1",
+          "x": 498.3399963378906,
+          "y": 528.0699768066406,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "2",
+          "x": 503.87774658203125,
+          "y": 528.0699768066406,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": ",",
+          "x": 509.37567138671875,
+          "y": 528.0699768066406,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "3",
+          "x": 512.14453125,
+          "y": 528.0699768066406,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "4",
+          "x": 517.7620239257812,
+          "y": 528.0699768066406,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        }
+      ]
+    },
+    {
+      "position": 550,
+      "alignment": 2,
+      "text": "A\t12,34",
+      "paragraph": 14,
+      "glyphs": [
+        {
+          "text": "A",
+          "x": 72.02400207519531,
+          "y": 548.1099853515625,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "1",
+          "x": 498.3399963378906,
+          "y": 548.1099853515625,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "2",
+          "x": 503.87774658203125,
+          "y": 548.1099853515625,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": ",",
+          "x": 509.37567138671875,
+          "y": 548.1099853515625,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "3",
+          "x": 512.14453125,
+          "y": 548.1099853515625,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "4",
+          "x": 517.7620239257812,
+          "y": 548.1099853515625,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        }
+      ]
+    },
+    {
+      "position": 450,
+      "alignment": 3,
+      "text": "A\t12,34",
+      "paragraph": 15,
+      "glyphs": [
+        {
+          "text": "A",
+          "x": 72.02400207519531,
+          "y": 568.1499938964844,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "1",
+          "x": 498.3399963378906,
+          "y": 568.1499938964844,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "2",
+          "x": 503.87774658203125,
+          "y": 568.1499938964844,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": ",",
+          "x": 509.37567138671875,
+          "y": 568.1499938964844,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "3",
+          "x": 512.14453125,
+          "y": 568.1499938964844,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "4",
+          "x": 517.7620239257812,
+          "y": 568.1499938964844,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        }
+      ]
+    },
+    {
+      "position": 451.3,
+      "alignment": 3,
+      "text": "A\t12,34",
+      "paragraph": 16,
+      "glyphs": [
+        {
+          "text": "A",
+          "x": 72.02400207519531,
+          "y": 588.0699768066406,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "1",
+          "x": 498.3399963378906,
+          "y": 588.0699768066406,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "2",
+          "x": 503.87774658203125,
+          "y": 588.0699768066406,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": ",",
+          "x": 509.37567138671875,
+          "y": 588.0699768066406,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "3",
+          "x": 512.14453125,
+          "y": 588.0699768066406,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "4",
+          "x": 517.7620239257812,
+          "y": 588.0699768066406,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        }
+      ]
+    },
+    {
+      "position": 453.6,
+      "alignment": 3,
+      "text": "A\t12,34",
+      "paragraph": 17,
+      "glyphs": [
+        {
+          "text": "A",
+          "x": 72.02400207519531,
+          "y": 608.1099853515625,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "1",
+          "x": 498.3399963378906,
+          "y": 608.1099853515625,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "2",
+          "x": 503.87774658203125,
+          "y": 608.1099853515625,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": ",",
+          "x": 509.37567138671875,
+          "y": 608.1099853515625,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "3",
+          "x": 512.14453125,
+          "y": 608.1099853515625,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "4",
+          "x": 517.7620239257812,
+          "y": 608.1099853515625,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        }
+      ]
+    },
+    {
+      "position": 480,
+      "alignment": 3,
+      "text": "A\t12,34",
+      "paragraph": 18,
+      "glyphs": [
+        {
+          "text": "A",
+          "x": 72.02400207519531,
+          "y": 628.1799774169922,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "1",
+          "x": 498.3399963378906,
+          "y": 628.1799774169922,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "2",
+          "x": 503.87774658203125,
+          "y": 628.1799774169922,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": ",",
+          "x": 509.37567138671875,
+          "y": 628.1799774169922,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "3",
+          "x": 512.14453125,
+          "y": 628.1799774169922,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "4",
+          "x": 517.7620239257812,
+          "y": 628.1799774169922,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        }
+      ]
+    },
+    {
+      "position": 550,
+      "alignment": 3,
+      "text": "A\t12,34",
+      "paragraph": 19,
+      "glyphs": [
+        {
+          "text": "A",
+          "x": 72.02400207519531,
+          "y": 648.0999755859375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "1",
+          "x": 498.3399963378906,
+          "y": 648.0999755859375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "2",
+          "x": 503.87774658203125,
+          "y": 648.0999755859375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": ",",
+          "x": 509.37567138671875,
+          "y": 648.0999755859375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "3",
+          "x": 512.14453125,
+          "y": 648.0999755859375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        },
+        {
+          "text": "4",
+          "x": 517.7620239257812,
+          "y": 648.0999755859375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "page": 0
+        }
+      ]
+    }
+  ],
+  "fixtureHash": "5d26a094ec595fe0069a76b8f0d5215a86cb2ae1e8a171827563df9807344f7e",
+  "nativeReceiptHash": "99bdddc7514e91f88ad5f49e50035a1960fae2bbd22121042b8f5f7e331fb27c",
+  "promotionScriptHash": "3f87f7b0b5de6cfc9e0e9868a5edf72882bd64499af17ec08e0a860895d3b9d4"
+}

@@ -1,0 +1,45 @@
+{
+  "rows": [
+    {
+      "name": "empty-arial-optional",
+      "path": "tests/fixtures/word-hyphen-empty-input/arial.docx",
+      "sourceHash": "afc04a057d1a8805d22d42db6d94a751781f384633102db6f090622faf10216f",
+      "family": "Arial",
+      "size": 10,
+      "kind": "optional"
+    },
+    {
+      "name": "empty-arial-literal",
+      "path": "tests/fixtures/word-hyphen-empty-input/arial.docx",
+      "sourceHash": "afc04a057d1a8805d22d42db6d94a751781f384633102db6f090622faf10216f",
+      "family": "Arial",
+      "size": 10,
+      "kind": "literal"
+    },
+    {
+      "name": "empty-calibri-optional",
+      "path": "tests/fixtures/word-hyphen-empty-input/calibri.docx",
+      "sourceHash": "eabe4f8ad8e5f93317f4b101382671cd7897385519c372a8971e6b0757b0acd1",
+      "family": "Calibri",
+      "size": 11,
+      "kind": "optional"
+    },
+    {
+      "name": "empty-calibri-literal",
+      "path": "tests/fixtures/word-hyphen-empty-input/calibri.docx",
+      "sourceHash": "eabe4f8ad8e5f93317f4b101382671cd7897385519c372a8971e6b0757b0acd1",
+      "family": "Calibri",
+      "size": 11,
+      "kind": "literal"
+    }
+  ],
+  "sourceTemplateHash": "4f4db26d3b86132790271b59aeb364b486b0289729bd39bb12c8f4f526e5fb20",
+  "scope": "Pure authored empty exact24 paragraph plus same-font sentinel; Arial10/Calibri11, black regular face. Native insertion and saved-reopen oracle captured in .local/word-hyphen-empty-input/native-v1; physical native keyboard acceptance remains open.",
+  "provenance": {
+    "kind": "Repository-authored synthetic fixture",
+    "license": "MIT",
+    "source": "Authored word-soft-hyphens regular-300-element source identified by sourceTemplateHash; empty first paragraph and same-font sentinel generated locally.",
+    "nativeOracle": ".local/word-hyphen-empty-input/native-v1",
+    "fontProgramsIncluded": false
+  }
+}

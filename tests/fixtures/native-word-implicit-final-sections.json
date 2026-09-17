@@ -1,0 +1,4705 @@
+{
+  "rows": [
+    {
+      "name": "1-sections-omitted",
+      "sections": 1,
+      "final": "omitted",
+      "fixture": "tests/fixtures/word-implicit-final-1-sections-omitted.docx",
+      "sourceHash": "fc85c4da8e3f8e3b586394b4d2b01f1b15b02dd6eb105d47489c8ee68c12c564",
+      "states": [
+        {
+          "stage": "source",
+          "sourceSnapshot": {
+            "pages": 1,
+            "sections": [
+              {
+                "start": 0,
+                "end": 53,
+                "width": 595.2999877929688,
+                "height": 841.9000244140625,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 35.400001525878906,
+                "footer": 35.400001525878906,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 27,
+                "text": "Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 53,
+                "text": "Section 1 last paragraph.\r",
+                "start": 27
+              }
+            ],
+            "text": "Section 1 first paragraph.\rSection 1 last paragraph.\r"
+          },
+          "savedSnapshot": {
+            "pages": 1,
+            "sections": [
+              {
+                "start": 0,
+                "end": 53,
+                "width": 595.2999877929688,
+                "height": 841.9000244140625,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 35.400001525878906,
+                "footer": 35.400001525878906,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 27,
+                "text": "Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 53,
+                "text": "Section 1 last paragraph.\r",
+                "start": 27
+              }
+            ],
+            "text": "Section 1 first paragraph.\rSection 1 last paragraph.\r"
+          },
+          "nativePdf": ".local/word-implicit-final-sections/native-v1/1-sections-omitted/source-reopened.pdf",
+          "nativePdfHash": "e549e3cd3bf1de5c56daa73d7683e249a2df38c86383aa72365e4770df7753e7",
+          "nativeDocx": ".local/word-implicit-final-sections/native-v1/1-sections-omitted/source.docx",
+          "nativeDocxHash": "aede111d10e81f0cc2c85e149ada171773d2de7ab2aaccc06659b2ed6b517793"
+        },
+        {
+          "stage": "insert",
+          "sourceSnapshot": {
+            "pages": 1,
+            "sections": [
+              {
+                "start": 0,
+                "end": 60,
+                "width": 595.2999877929688,
+                "height": 841.9000244140625,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 35.400001525878906,
+                "footer": 35.400001525878906,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 34,
+                "text": "Edited Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 60,
+                "text": "Section 1 last paragraph.\r",
+                "start": 34
+              }
+            ],
+            "text": "Edited Section 1 first paragraph.\rSection 1 last paragraph.\r"
+          },
+          "savedSnapshot": {
+            "pages": 1,
+            "sections": [
+              {
+                "start": 0,
+                "end": 60,
+                "width": 595.2999877929688,
+                "height": 841.9000244140625,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 35.400001525878906,
+                "footer": 35.400001525878906,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 34,
+                "text": "Edited Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 60,
+                "text": "Section 1 last paragraph.\r",
+                "start": 34
+              }
+            ],
+            "text": "Edited Section 1 first paragraph.\rSection 1 last paragraph.\r"
+          },
+          "nativePdf": ".local/word-implicit-final-sections/native-v1/1-sections-omitted/insert-reopened.pdf",
+          "nativePdfHash": "72592671f46399e7772ed1c57c9182b82456840dd6977039d227974f52cdd63a",
+          "nativeDocx": ".local/word-implicit-final-sections/native-v1/1-sections-omitted/insert.docx",
+          "nativeDocxHash": "05c7dfa6d1ee312d8ef86af076c7fc22ba029b4ff5680e7bac9b6357a53195a5"
+        }
+      ]
+    },
+    {
+      "name": "1-sections-empty",
+      "sections": 1,
+      "final": "empty",
+      "fixture": "tests/fixtures/word-implicit-final-1-sections-empty.docx",
+      "sourceHash": "577e75171c7b8365c47ae49626fcdeb82dc86d782e54f3ea9592dc1a31d2496c",
+      "states": [
+        {
+          "stage": "source",
+          "sourceSnapshot": {
+            "pages": 1,
+            "sections": [
+              {
+                "start": 0,
+                "end": 53,
+                "width": 612,
+                "height": 792,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 27,
+                "text": "Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 53,
+                "text": "Section 1 last paragraph.\r",
+                "start": 27
+              }
+            ],
+            "text": "Section 1 first paragraph.\rSection 1 last paragraph.\r"
+          },
+          "savedSnapshot": {
+            "pages": 1,
+            "sections": [
+              {
+                "start": 0,
+                "end": 53,
+                "width": 612,
+                "height": 792,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 27,
+                "text": "Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 53,
+                "text": "Section 1 last paragraph.\r",
+                "start": 27
+              }
+            ],
+            "text": "Section 1 first paragraph.\rSection 1 last paragraph.\r"
+          },
+          "nativePdf": ".local/word-implicit-final-sections/native-v1/1-sections-empty/source-reopened.pdf",
+          "nativePdfHash": "f9d33d52b432b809ba6362c2b06b062828466300c4d22c0ff59bd09a0c867891",
+          "nativeDocx": ".local/word-implicit-final-sections/native-v1/1-sections-empty/source.docx",
+          "nativeDocxHash": "08f3506d7d003e2f6e0a75b41302afd4c899373153df91c14faf16f7d5a9217e"
+        },
+        {
+          "stage": "insert",
+          "sourceSnapshot": {
+            "pages": 1,
+            "sections": [
+              {
+                "start": 0,
+                "end": 60,
+                "width": 612,
+                "height": 792,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 34,
+                "text": "Edited Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 60,
+                "text": "Section 1 last paragraph.\r",
+                "start": 34
+              }
+            ],
+            "text": "Edited Section 1 first paragraph.\rSection 1 last paragraph.\r"
+          },
+          "savedSnapshot": {
+            "pages": 1,
+            "sections": [
+              {
+                "start": 0,
+                "end": 60,
+                "width": 612,
+                "height": 792,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 34,
+                "text": "Edited Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 60,
+                "text": "Section 1 last paragraph.\r",
+                "start": 34
+              }
+            ],
+            "text": "Edited Section 1 first paragraph.\rSection 1 last paragraph.\r"
+          },
+          "nativePdf": ".local/word-implicit-final-sections/native-v1/1-sections-empty/insert-reopened.pdf",
+          "nativePdfHash": "cb3d72b53025f448bce920708f757a8db0d744a4a729bcc679927b16ee31139b",
+          "nativeDocx": ".local/word-implicit-final-sections/native-v1/1-sections-empty/insert.docx",
+          "nativeDocxHash": "fa9f95f90385cb7183ada69fde97e7c1525a3ac0b8e996ccf89e2c45bbc535bd"
+        }
+      ]
+    },
+    {
+      "name": "2-sections-omitted",
+      "sections": 2,
+      "final": "omitted",
+      "fixture": "tests/fixtures/word-implicit-final-2-sections-omitted.docx",
+      "sourceHash": "a52651526665541c2c867c9c2f2f19ed82beb8b5829f5832429f6ce8e8926c8f",
+      "states": [
+        {
+          "stage": "source",
+          "sourceSnapshot": {
+            "pages": 2,
+            "sections": [
+              {
+                "start": 0,
+                "end": 53,
+                "width": 612,
+                "height": 792,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 53,
+                "end": 106,
+                "width": 595.2999877929688,
+                "height": 841.9000244140625,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 35.400001525878906,
+                "footer": 35.400001525878906,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 27,
+                "text": "Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 53,
+                "text": "Section 1 last paragraph.\f",
+                "start": 27
+              },
+              {
+                "end": 80,
+                "text": "Section 2 first paragraph.\r",
+                "start": 53
+              },
+              {
+                "end": 106,
+                "text": "Section 2 last paragraph.\r",
+                "start": 80
+              }
+            ],
+            "text": "Section 1 first paragraph.\rSection 1 last paragraph.\fSection 2 first paragraph.\rSection 2 last paragraph.\r"
+          },
+          "savedSnapshot": {
+            "pages": 2,
+            "sections": [
+              {
+                "start": 0,
+                "end": 53,
+                "width": 612,
+                "height": 792,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 53,
+                "end": 106,
+                "width": 595.2999877929688,
+                "height": 841.9000244140625,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 35.400001525878906,
+                "footer": 35.400001525878906,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 27,
+                "text": "Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 53,
+                "text": "Section 1 last paragraph.\f",
+                "start": 27
+              },
+              {
+                "end": 80,
+                "text": "Section 2 first paragraph.\r",
+                "start": 53
+              },
+              {
+                "end": 106,
+                "text": "Section 2 last paragraph.\r",
+                "start": 80
+              }
+            ],
+            "text": "Section 1 first paragraph.\rSection 1 last paragraph.\fSection 2 first paragraph.\rSection 2 last paragraph.\r"
+          },
+          "nativePdf": ".local/word-implicit-final-sections/native-v1/2-sections-omitted/source-reopened.pdf",
+          "nativePdfHash": "ba1f3e2d032febb387cf1adf123bca8f405a253c547fd3554860276f06fac4fd",
+          "nativeDocx": ".local/word-implicit-final-sections/native-v1/2-sections-omitted/source.docx",
+          "nativeDocxHash": "3e7e9ba466bd76c497ea99a0fd022883d86c2b4de6e98e5400a38eeedb232f18"
+        },
+        {
+          "stage": "insert",
+          "sourceSnapshot": {
+            "pages": 2,
+            "sections": [
+              {
+                "start": 0,
+                "end": 60,
+                "width": 612,
+                "height": 792,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 60,
+                "end": 113,
+                "width": 595.2999877929688,
+                "height": 841.9000244140625,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 35.400001525878906,
+                "footer": 35.400001525878906,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 34,
+                "text": "Edited Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 60,
+                "text": "Section 1 last paragraph.\f",
+                "start": 34
+              },
+              {
+                "end": 87,
+                "text": "Section 2 first paragraph.\r",
+                "start": 60
+              },
+              {
+                "end": 113,
+                "text": "Section 2 last paragraph.\r",
+                "start": 87
+              }
+            ],
+            "text": "Edited Section 1 first paragraph.\rSection 1 last paragraph.\fSection 2 first paragraph.\rSection 2 last paragraph.\r"
+          },
+          "savedSnapshot": {
+            "pages": 2,
+            "sections": [
+              {
+                "start": 0,
+                "end": 60,
+                "width": 612,
+                "height": 792,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 60,
+                "end": 113,
+                "width": 595.2999877929688,
+                "height": 841.9000244140625,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 35.400001525878906,
+                "footer": 35.400001525878906,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 34,
+                "text": "Edited Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 60,
+                "text": "Section 1 last paragraph.\f",
+                "start": 34
+              },
+              {
+                "end": 87,
+                "text": "Section 2 first paragraph.\r",
+                "start": 60
+              },
+              {
+                "end": 113,
+                "text": "Section 2 last paragraph.\r",
+                "start": 87
+              }
+            ],
+            "text": "Edited Section 1 first paragraph.\rSection 1 last paragraph.\fSection 2 first paragraph.\rSection 2 last paragraph.\r"
+          },
+          "nativePdf": ".local/word-implicit-final-sections/native-v1/2-sections-omitted/insert-reopened.pdf",
+          "nativePdfHash": "fba50d869b9216f3a9d383d2f6d75d96b2df81dd49e836e64ff172e25325a82f",
+          "nativeDocx": ".local/word-implicit-final-sections/native-v1/2-sections-omitted/insert.docx",
+          "nativeDocxHash": "2f6b64c98d3b2f93d07ecc213485165e00299c0d50af86fbe02b57125a92fdd9"
+        },
+        {
+          "stage": "delete-break",
+          "sourceSnapshot": {
+            "pages": 1,
+            "sections": [
+              {
+                "start": 0,
+                "end": 106,
+                "width": 595.2999877929688,
+                "height": 841.9000244140625,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 35.400001525878906,
+                "footer": 35.400001525878906,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 27,
+                "text": "Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 80,
+                "text": "Section 1 last paragraph. Section 2 first paragraph.\r",
+                "start": 27
+              },
+              {
+                "end": 106,
+                "text": "Section 2 last paragraph.\r",
+                "start": 80
+              }
+            ],
+            "text": "Section 1 first paragraph.\rSection 1 last paragraph. Section 2 first paragraph.\rSection 2 last paragraph.\r"
+          },
+          "savedSnapshot": {
+            "pages": 1,
+            "sections": [
+              {
+                "start": 0,
+                "end": 106,
+                "width": 595.2999877929688,
+                "height": 841.9000244140625,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 35.400001525878906,
+                "footer": 35.400001525878906,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 27,
+                "text": "Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 80,
+                "text": "Section 1 last paragraph. Section 2 first paragraph.\r",
+                "start": 27
+              },
+              {
+                "end": 106,
+                "text": "Section 2 last paragraph.\r",
+                "start": 80
+              }
+            ],
+            "text": "Section 1 first paragraph.\rSection 1 last paragraph. Section 2 first paragraph.\rSection 2 last paragraph.\r"
+          },
+          "nativePdf": ".local/word-implicit-final-sections/native-v1/2-sections-omitted/delete-break-reopened.pdf",
+          "nativePdfHash": "3340c1a98fc60561e6cad81d42506b0e70eb136e0f218de87a0d4d55bb564943",
+          "nativeDocx": ".local/word-implicit-final-sections/native-v1/2-sections-omitted/delete-break.docx",
+          "nativeDocxHash": "360b742cfa819db1b7b78eb3122567846096143859346b32ef9e45e3dd4f7a6b"
+        }
+      ]
+    },
+    {
+      "name": "2-sections-empty",
+      "sections": 2,
+      "final": "empty",
+      "fixture": "tests/fixtures/word-implicit-final-2-sections-empty.docx",
+      "sourceHash": "3edf91cc8d16c7173a3c67b4470deabf94f4d4e054da8e0be69c05f3e450f124",
+      "states": [
+        {
+          "stage": "source",
+          "sourceSnapshot": {
+            "pages": 2,
+            "sections": [
+              {
+                "start": 0,
+                "end": 53,
+                "width": 612,
+                "height": 792,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 53,
+                "end": 106,
+                "width": 612,
+                "height": 792,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 27,
+                "text": "Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 53,
+                "text": "Section 1 last paragraph.\f",
+                "start": 27
+              },
+              {
+                "end": 80,
+                "text": "Section 2 first paragraph.\r",
+                "start": 53
+              },
+              {
+                "end": 106,
+                "text": "Section 2 last paragraph.\r",
+                "start": 80
+              }
+            ],
+            "text": "Section 1 first paragraph.\rSection 1 last paragraph.\fSection 2 first paragraph.\rSection 2 last paragraph.\r"
+          },
+          "savedSnapshot": {
+            "pages": 2,
+            "sections": [
+              {
+                "start": 0,
+                "end": 53,
+                "width": 612,
+                "height": 792,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 53,
+                "end": 106,
+                "width": 612,
+                "height": 792,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 27,
+                "text": "Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 53,
+                "text": "Section 1 last paragraph.\f",
+                "start": 27
+              },
+              {
+                "end": 80,
+                "text": "Section 2 first paragraph.\r",
+                "start": 53
+              },
+              {
+                "end": 106,
+                "text": "Section 2 last paragraph.\r",
+                "start": 80
+              }
+            ],
+            "text": "Section 1 first paragraph.\rSection 1 last paragraph.\fSection 2 first paragraph.\rSection 2 last paragraph.\r"
+          },
+          "nativePdf": ".local/word-implicit-final-sections/native-v1/2-sections-empty/source-reopened.pdf",
+          "nativePdfHash": "8517df1f9807358c416273de24b2c24292a883099b987a1d5e78bb5cd2821b6b",
+          "nativeDocx": ".local/word-implicit-final-sections/native-v1/2-sections-empty/source.docx",
+          "nativeDocxHash": "20c4ea3642510e09b802f1926b31f1b1cf532da180dc26e59554952197ebd92e"
+        },
+        {
+          "stage": "insert",
+          "sourceSnapshot": {
+            "pages": 2,
+            "sections": [
+              {
+                "start": 0,
+                "end": 60,
+                "width": 612,
+                "height": 792,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 60,
+                "end": 113,
+                "width": 612,
+                "height": 792,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 34,
+                "text": "Edited Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 60,
+                "text": "Section 1 last paragraph.\f",
+                "start": 34
+              },
+              {
+                "end": 87,
+                "text": "Section 2 first paragraph.\r",
+                "start": 60
+              },
+              {
+                "end": 113,
+                "text": "Section 2 last paragraph.\r",
+                "start": 87
+              }
+            ],
+            "text": "Edited Section 1 first paragraph.\rSection 1 last paragraph.\fSection 2 first paragraph.\rSection 2 last paragraph.\r"
+          },
+          "savedSnapshot": {
+            "pages": 2,
+            "sections": [
+              {
+                "start": 0,
+                "end": 60,
+                "width": 612,
+                "height": 792,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 60,
+                "end": 113,
+                "width": 612,
+                "height": 792,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 34,
+                "text": "Edited Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 60,
+                "text": "Section 1 last paragraph.\f",
+                "start": 34
+              },
+              {
+                "end": 87,
+                "text": "Section 2 first paragraph.\r",
+                "start": 60
+              },
+              {
+                "end": 113,
+                "text": "Section 2 last paragraph.\r",
+                "start": 87
+              }
+            ],
+            "text": "Edited Section 1 first paragraph.\rSection 1 last paragraph.\fSection 2 first paragraph.\rSection 2 last paragraph.\r"
+          },
+          "nativePdf": ".local/word-implicit-final-sections/native-v1/2-sections-empty/insert-reopened.pdf",
+          "nativePdfHash": "5925e3cdd90965a7bc068f422095d4950f057eec63b9c358fde9456953a6fc34",
+          "nativeDocx": ".local/word-implicit-final-sections/native-v1/2-sections-empty/insert.docx",
+          "nativeDocxHash": "2ef5e401afc3ec35374c9e18a2d1de24bdfb07ff2c3c653b5ce22730a31544f8"
+        },
+        {
+          "stage": "delete-break",
+          "sourceSnapshot": {
+            "pages": 1,
+            "sections": [
+              {
+                "start": 0,
+                "end": 106,
+                "width": 612,
+                "height": 792,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 27,
+                "text": "Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 80,
+                "text": "Section 1 last paragraph. Section 2 first paragraph.\r",
+                "start": 27
+              },
+              {
+                "end": 106,
+                "text": "Section 2 last paragraph.\r",
+                "start": 80
+              }
+            ],
+            "text": "Section 1 first paragraph.\rSection 1 last paragraph. Section 2 first paragraph.\rSection 2 last paragraph.\r"
+          },
+          "savedSnapshot": {
+            "pages": 1,
+            "sections": [
+              {
+                "start": 0,
+                "end": 106,
+                "width": 612,
+                "height": 792,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": false,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 27,
+                "text": "Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 80,
+                "text": "Section 1 last paragraph. Section 2 first paragraph.\r",
+                "start": 27
+              },
+              {
+                "end": 106,
+                "text": "Section 2 last paragraph.\r",
+                "start": 80
+              }
+            ],
+            "text": "Section 1 first paragraph.\rSection 1 last paragraph. Section 2 first paragraph.\rSection 2 last paragraph.\r"
+          },
+          "nativePdf": ".local/word-implicit-final-sections/native-v1/2-sections-empty/delete-break-reopened.pdf",
+          "nativePdfHash": "078cc75f139df73be42a3e44ed62079316e5b25f8ead628cde2aab2783a4c2fd",
+          "nativeDocx": ".local/word-implicit-final-sections/native-v1/2-sections-empty/delete-break.docx",
+          "nativeDocxHash": "dd82794babe55e8de10e4e1f9b2d999d988e2856ff318fff0d482d2b3352bd20"
+        }
+      ]
+    },
+    {
+      "name": "3-sections-omitted",
+      "sections": 3,
+      "final": "omitted",
+      "fixture": "tests/fixtures/word-implicit-final-3-sections-omitted.docx",
+      "sourceHash": "65fae5a36390ccdb82785343fb9de17e6c3f40af1e08b5cd2d686648c5d57607",
+      "states": [
+        {
+          "stage": "source",
+          "sourceSnapshot": {
+            "pages": 3,
+            "sections": [
+              {
+                "start": 0,
+                "end": 53,
+                "width": 612,
+                "height": 792,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 53,
+                "end": 106,
+                "width": 841.9000244140625,
+                "height": 595.2999877929688,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 106,
+                "end": 159,
+                "width": 595.2999877929688,
+                "height": 841.9000244140625,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 35.400001525878906,
+                "footer": 35.400001525878906,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 27,
+                "text": "Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 53,
+                "text": "Section 1 last paragraph.\f",
+                "start": 27
+              },
+              {
+                "end": 80,
+                "text": "Section 2 first paragraph.\r",
+                "start": 53
+              },
+              {
+                "end": 106,
+                "text": "Section 2 last paragraph.\f",
+                "start": 80
+              },
+              {
+                "end": 133,
+                "text": "Section 3 first paragraph.\r",
+                "start": 106
+              },
+              {
+                "end": 159,
+                "text": "Section 3 last paragraph.\r",
+                "start": 133
+              }
+            ],
+            "text": "Section 1 first paragraph.\rSection 1 last paragraph.\fSection 2 first paragraph.\rSection 2 last paragraph.\fSection 3 first paragraph.\rSection 3 last paragraph.\r"
+          },
+          "savedSnapshot": {
+            "pages": 3,
+            "sections": [
+              {
+                "start": 0,
+                "end": 53,
+                "width": 612,
+                "height": 792,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 53,
+                "end": 106,
+                "width": 841.9000244140625,
+                "height": 595.2999877929688,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 106,
+                "end": 159,
+                "width": 595.2999877929688,
+                "height": 841.9000244140625,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 35.400001525878906,
+                "footer": 35.400001525878906,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 27,
+                "text": "Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 53,
+                "text": "Section 1 last paragraph.\f",
+                "start": 27
+              },
+              {
+                "end": 80,
+                "text": "Section 2 first paragraph.\r",
+                "start": 53
+              },
+              {
+                "end": 106,
+                "text": "Section 2 last paragraph.\f",
+                "start": 80
+              },
+              {
+                "end": 133,
+                "text": "Section 3 first paragraph.\r",
+                "start": 106
+              },
+              {
+                "end": 159,
+                "text": "Section 3 last paragraph.\r",
+                "start": 133
+              }
+            ],
+            "text": "Section 1 first paragraph.\rSection 1 last paragraph.\fSection 2 first paragraph.\rSection 2 last paragraph.\fSection 3 first paragraph.\rSection 3 last paragraph.\r"
+          },
+          "nativePdf": ".local/word-implicit-final-sections/native-v1/3-sections-omitted/source-reopened.pdf",
+          "nativePdfHash": "9ad19277aad0cbb5d1ac593d83ca2458d95786488473e87a939bff0460f4d0ce",
+          "nativeDocx": ".local/word-implicit-final-sections/native-v1/3-sections-omitted/source.docx",
+          "nativeDocxHash": "3c6577fc912acc9169e044dd075016ca085f95752612a045b905ae36fca247f5"
+        },
+        {
+          "stage": "insert",
+          "sourceSnapshot": {
+            "pages": 3,
+            "sections": [
+              {
+                "start": 0,
+                "end": 60,
+                "width": 612,
+                "height": 792,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 60,
+                "end": 113,
+                "width": 841.9000244140625,
+                "height": 595.2999877929688,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 113,
+                "end": 166,
+                "width": 595.2999877929688,
+                "height": 841.9000244140625,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 35.400001525878906,
+                "footer": 35.400001525878906,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 34,
+                "text": "Edited Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 60,
+                "text": "Section 1 last paragraph.\f",
+                "start": 34
+              },
+              {
+                "end": 87,
+                "text": "Section 2 first paragraph.\r",
+                "start": 60
+              },
+              {
+                "end": 113,
+                "text": "Section 2 last paragraph.\f",
+                "start": 87
+              },
+              {
+                "end": 140,
+                "text": "Section 3 first paragraph.\r",
+                "start": 113
+              },
+              {
+                "end": 166,
+                "text": "Section 3 last paragraph.\r",
+                "start": 140
+              }
+            ],
+            "text": "Edited Section 1 first paragraph.\rSection 1 last paragraph.\fSection 2 first paragraph.\rSection 2 last paragraph.\fSection 3 first paragraph.\rSection 3 last paragraph.\r"
+          },
+          "savedSnapshot": {
+            "pages": 3,
+            "sections": [
+              {
+                "start": 0,
+                "end": 60,
+                "width": 612,
+                "height": 792,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 60,
+                "end": 113,
+                "width": 841.9000244140625,
+                "height": 595.2999877929688,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 113,
+                "end": 166,
+                "width": 595.2999877929688,
+                "height": 841.9000244140625,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 35.400001525878906,
+                "footer": 35.400001525878906,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 34,
+                "text": "Edited Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 60,
+                "text": "Section 1 last paragraph.\f",
+                "start": 34
+              },
+              {
+                "end": 87,
+                "text": "Section 2 first paragraph.\r",
+                "start": 60
+              },
+              {
+                "end": 113,
+                "text": "Section 2 last paragraph.\f",
+                "start": 87
+              },
+              {
+                "end": 140,
+                "text": "Section 3 first paragraph.\r",
+                "start": 113
+              },
+              {
+                "end": 166,
+                "text": "Section 3 last paragraph.\r",
+                "start": 140
+              }
+            ],
+            "text": "Edited Section 1 first paragraph.\rSection 1 last paragraph.\fSection 2 first paragraph.\rSection 2 last paragraph.\fSection 3 first paragraph.\rSection 3 last paragraph.\r"
+          },
+          "nativePdf": ".local/word-implicit-final-sections/native-v1/3-sections-omitted/insert-reopened.pdf",
+          "nativePdfHash": "481cb251d41109021cf747ad3f5e7cc4913e43233faf9f4285615712d8caaa34",
+          "nativeDocx": ".local/word-implicit-final-sections/native-v1/3-sections-omitted/insert.docx",
+          "nativeDocxHash": "229b1113424d772fa9ae5442397ad1aaa643b697c89871e7a3094bb7be1c0070"
+        },
+        {
+          "stage": "delete-break",
+          "sourceSnapshot": {
+            "pages": 2,
+            "sections": [
+              {
+                "start": 0,
+                "end": 53,
+                "width": 612,
+                "height": 792,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 53,
+                "end": 159,
+                "width": 595.2999877929688,
+                "height": 841.9000244140625,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 35.400001525878906,
+                "footer": 35.400001525878906,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 27,
+                "text": "Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 53,
+                "text": "Section 1 last paragraph.\f",
+                "start": 27
+              },
+              {
+                "end": 80,
+                "text": "Section 2 first paragraph.\r",
+                "start": 53
+              },
+              {
+                "end": 133,
+                "text": "Section 2 last paragraph. Section 3 first paragraph.\r",
+                "start": 80
+              },
+              {
+                "end": 159,
+                "text": "Section 3 last paragraph.\r",
+                "start": 133
+              }
+            ],
+            "text": "Section 1 first paragraph.\rSection 1 last paragraph.\fSection 2 first paragraph.\rSection 2 last paragraph. Section 3 first paragraph.\rSection 3 last paragraph.\r"
+          },
+          "savedSnapshot": {
+            "pages": 2,
+            "sections": [
+              {
+                "start": 0,
+                "end": 53,
+                "width": 612,
+                "height": 792,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 53,
+                "end": 159,
+                "width": 595.2999877929688,
+                "height": 841.9000244140625,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 35.400001525878906,
+                "footer": 35.400001525878906,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 27,
+                "text": "Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 53,
+                "text": "Section 1 last paragraph.\f",
+                "start": 27
+              },
+              {
+                "end": 80,
+                "text": "Section 2 first paragraph.\r",
+                "start": 53
+              },
+              {
+                "end": 133,
+                "text": "Section 2 last paragraph. Section 3 first paragraph.\r",
+                "start": 80
+              },
+              {
+                "end": 159,
+                "text": "Section 3 last paragraph.\r",
+                "start": 133
+              }
+            ],
+            "text": "Section 1 first paragraph.\rSection 1 last paragraph.\fSection 2 first paragraph.\rSection 2 last paragraph. Section 3 first paragraph.\rSection 3 last paragraph.\r"
+          },
+          "nativePdf": ".local/word-implicit-final-sections/native-v1/3-sections-omitted/delete-break-reopened.pdf",
+          "nativePdfHash": "737b3c01f74e194ab438153f2647f80f87875b83ee80150e8f6caace7a97cd4a",
+          "nativeDocx": ".local/word-implicit-final-sections/native-v1/3-sections-omitted/delete-break.docx",
+          "nativeDocxHash": "caef351f6358c0700b43f637994e8d910aef9dd52070a3e1e05aade52b302aa6"
+        }
+      ]
+    },
+    {
+      "name": "3-sections-empty",
+      "sections": 3,
+      "final": "empty",
+      "fixture": "tests/fixtures/word-implicit-final-3-sections-empty.docx",
+      "sourceHash": "193f477b32f8c777cc76bf21cf2ef9beab8ee49512f3cd082e93452d8f2de3d8",
+      "states": [
+        {
+          "stage": "source",
+          "sourceSnapshot": {
+            "pages": 3,
+            "sections": [
+              {
+                "start": 0,
+                "end": 53,
+                "width": 612,
+                "height": 792,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 53,
+                "end": 106,
+                "width": 841.9000244140625,
+                "height": 595.2999877929688,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 106,
+                "end": 159,
+                "width": 612,
+                "height": 792,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 27,
+                "text": "Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 53,
+                "text": "Section 1 last paragraph.\f",
+                "start": 27
+              },
+              {
+                "end": 80,
+                "text": "Section 2 first paragraph.\r",
+                "start": 53
+              },
+              {
+                "end": 106,
+                "text": "Section 2 last paragraph.\f",
+                "start": 80
+              },
+              {
+                "end": 133,
+                "text": "Section 3 first paragraph.\r",
+                "start": 106
+              },
+              {
+                "end": 159,
+                "text": "Section 3 last paragraph.\r",
+                "start": 133
+              }
+            ],
+            "text": "Section 1 first paragraph.\rSection 1 last paragraph.\fSection 2 first paragraph.\rSection 2 last paragraph.\fSection 3 first paragraph.\rSection 3 last paragraph.\r"
+          },
+          "savedSnapshot": {
+            "pages": 3,
+            "sections": [
+              {
+                "start": 0,
+                "end": 53,
+                "width": 612,
+                "height": 792,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 53,
+                "end": 106,
+                "width": 841.9000244140625,
+                "height": 595.2999877929688,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 106,
+                "end": 159,
+                "width": 612,
+                "height": 792,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 27,
+                "text": "Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 53,
+                "text": "Section 1 last paragraph.\f",
+                "start": 27
+              },
+              {
+                "end": 80,
+                "text": "Section 2 first paragraph.\r",
+                "start": 53
+              },
+              {
+                "end": 106,
+                "text": "Section 2 last paragraph.\f",
+                "start": 80
+              },
+              {
+                "end": 133,
+                "text": "Section 3 first paragraph.\r",
+                "start": 106
+              },
+              {
+                "end": 159,
+                "text": "Section 3 last paragraph.\r",
+                "start": 133
+              }
+            ],
+            "text": "Section 1 first paragraph.\rSection 1 last paragraph.\fSection 2 first paragraph.\rSection 2 last paragraph.\fSection 3 first paragraph.\rSection 3 last paragraph.\r"
+          },
+          "nativePdf": ".local/word-implicit-final-sections/native-v1/3-sections-empty/source-reopened.pdf",
+          "nativePdfHash": "e0910fe75221dd3e35c0322f81540b3ed5f556106ca72f435d434462bd273bce",
+          "nativeDocx": ".local/word-implicit-final-sections/native-v1/3-sections-empty/source.docx",
+          "nativeDocxHash": "d2d6563fcfceb2ac6326b2381e1ec5dc87c887e69ae533f01b6d4ae81ca3b0da"
+        },
+        {
+          "stage": "insert",
+          "sourceSnapshot": {
+            "pages": 3,
+            "sections": [
+              {
+                "start": 0,
+                "end": 60,
+                "width": 612,
+                "height": 792,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 60,
+                "end": 113,
+                "width": 841.9000244140625,
+                "height": 595.2999877929688,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 113,
+                "end": 166,
+                "width": 612,
+                "height": 792,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 34,
+                "text": "Edited Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 60,
+                "text": "Section 1 last paragraph.\f",
+                "start": 34
+              },
+              {
+                "end": 87,
+                "text": "Section 2 first paragraph.\r",
+                "start": 60
+              },
+              {
+                "end": 113,
+                "text": "Section 2 last paragraph.\f",
+                "start": 87
+              },
+              {
+                "end": 140,
+                "text": "Section 3 first paragraph.\r",
+                "start": 113
+              },
+              {
+                "end": 166,
+                "text": "Section 3 last paragraph.\r",
+                "start": 140
+              }
+            ],
+            "text": "Edited Section 1 first paragraph.\rSection 1 last paragraph.\fSection 2 first paragraph.\rSection 2 last paragraph.\fSection 3 first paragraph.\rSection 3 last paragraph.\r"
+          },
+          "savedSnapshot": {
+            "pages": 3,
+            "sections": [
+              {
+                "start": 0,
+                "end": 60,
+                "width": 612,
+                "height": 792,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 60,
+                "end": 113,
+                "width": 841.9000244140625,
+                "height": 595.2999877929688,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 113,
+                "end": 166,
+                "width": 612,
+                "height": 792,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 34,
+                "text": "Edited Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 60,
+                "text": "Section 1 last paragraph.\f",
+                "start": 34
+              },
+              {
+                "end": 87,
+                "text": "Section 2 first paragraph.\r",
+                "start": 60
+              },
+              {
+                "end": 113,
+                "text": "Section 2 last paragraph.\f",
+                "start": 87
+              },
+              {
+                "end": 140,
+                "text": "Section 3 first paragraph.\r",
+                "start": 113
+              },
+              {
+                "end": 166,
+                "text": "Section 3 last paragraph.\r",
+                "start": 140
+              }
+            ],
+            "text": "Edited Section 1 first paragraph.\rSection 1 last paragraph.\fSection 2 first paragraph.\rSection 2 last paragraph.\fSection 3 first paragraph.\rSection 3 last paragraph.\r"
+          },
+          "nativePdf": ".local/word-implicit-final-sections/native-v1/3-sections-empty/insert-reopened.pdf",
+          "nativePdfHash": "43a964f4fb3ce60d64785f0f0058abeaaa44111f8a52ce860c04314d967936e0",
+          "nativeDocx": ".local/word-implicit-final-sections/native-v1/3-sections-empty/insert.docx",
+          "nativeDocxHash": "9fcc0e9a0b39651a2b6f8cdffa63cfafef97c3f51ce92b883546f78d64769530"
+        },
+        {
+          "stage": "delete-break",
+          "sourceSnapshot": {
+            "pages": 2,
+            "sections": [
+              {
+                "start": 0,
+                "end": 53,
+                "width": 612,
+                "height": 792,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 53,
+                "end": 159,
+                "width": 612,
+                "height": 792,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 27,
+                "text": "Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 53,
+                "text": "Section 1 last paragraph.\f",
+                "start": 27
+              },
+              {
+                "end": 80,
+                "text": "Section 2 first paragraph.\r",
+                "start": 53
+              },
+              {
+                "end": 133,
+                "text": "Section 2 last paragraph. Section 3 first paragraph.\r",
+                "start": 80
+              },
+              {
+                "end": 159,
+                "text": "Section 3 last paragraph.\r",
+                "start": 133
+              }
+            ],
+            "text": "Section 1 first paragraph.\rSection 1 last paragraph.\fSection 2 first paragraph.\rSection 2 last paragraph. Section 3 first paragraph.\rSection 3 last paragraph.\r"
+          },
+          "savedSnapshot": {
+            "pages": 2,
+            "sections": [
+              {
+                "start": 0,
+                "end": 53,
+                "width": 612,
+                "height": 792,
+                "left": 72,
+                "right": 72,
+                "top": 72,
+                "bottom": 72,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": -1,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer first retained.\r",
+                    "slot": 2,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": false,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              },
+              {
+                "start": 53,
+                "end": 159,
+                "width": 612,
+                "height": 792,
+                "left": 70.8499984741211,
+                "right": 70.8499984741211,
+                "top": 70.8499984741211,
+                "bottom": 56.70000076293945,
+                "header": 36,
+                "footer": 36,
+                "sectionStart": 2,
+                "first": 0,
+                "even": -1,
+                "columns": 1,
+                "stories": [
+                  {
+                    "text": "header default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "header even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "header"
+                  },
+                  {
+                    "text": "footer default retained.\r",
+                    "slot": 1,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": null,
+                    "slot": 2,
+                    "linked": true,
+                    "exists": false,
+                    "kind": "footer"
+                  },
+                  {
+                    "text": "footer even retained.\r",
+                    "slot": 3,
+                    "linked": true,
+                    "exists": true,
+                    "kind": "footer"
+                  }
+                ]
+              }
+            ],
+            "mode": 15,
+            "paragraphs": [
+              {
+                "end": 27,
+                "text": "Section 1 first paragraph.\r",
+                "start": 0
+              },
+              {
+                "end": 53,
+                "text": "Section 1 last paragraph.\f",
+                "start": 27
+              },
+              {
+                "end": 80,
+                "text": "Section 2 first paragraph.\r",
+                "start": 53
+              },
+              {
+                "end": 133,
+                "text": "Section 2 last paragraph. Section 3 first paragraph.\r",
+                "start": 80
+              },
+              {
+                "end": 159,
+                "text": "Section 3 last paragraph.\r",
+                "start": 133
+              }
+            ],
+            "text": "Section 1 first paragraph.\rSection 1 last paragraph.\fSection 2 first paragraph.\rSection 2 last paragraph. Section 3 first paragraph.\rSection 3 last paragraph.\r"
+          },
+          "nativePdf": ".local/word-implicit-final-sections/native-v1/3-sections-empty/delete-break-reopened.pdf",
+          "nativePdfHash": "d2a9eee323dc32fd5e3e50fae924b85b4c76dc57916d4f7cdee4d244b4ed6b6e",
+          "nativeDocx": ".local/word-implicit-final-sections/native-v1/3-sections-empty/delete-break.docx",
+          "nativeDocxHash": "27006be3271d2c5dd698d53cbaf38728535ba47d567f9a7c897415b7c711894c"
+        }
+      ]
+    }
+  ],
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "nativeReceiptHash": "1ee06c1ddbce324bcb0116ea143580de22e7a4c6bdea800d7315e0d3e5e03e47",
+  "materializationComparisonHash": "57ec8729a879158e1d2af27ab729780c363b15ab0a8319d48e8e47fbb4660068",
+  "normalTemplateHash": "5cdb67b5db063137c29165f568b7dcf8c4bc7d632d7e4b9977dc083bff871dee",
+  "culture": "de-DE",
+  "producerHash": "a1b30449a0f6e6221eb5e1f5f7dcedc32f635cb986fbc0c6fc765412d2eee06c",
+  "scope": "MIT-authored synthetic omitted/empty final section fixtures. Native source/edit/delete/save/reopen references and11 exact materialization control pages. Original geometry/source-save differences retained; browser implementation not yet verified, no native UI or full-pagination claim."
+}

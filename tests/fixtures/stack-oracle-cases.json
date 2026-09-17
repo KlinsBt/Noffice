@@ -1,0 +1,3866 @@
+[
+  {
+    "name": "1-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "1-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "1-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "1-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "1-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "1-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "1-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "1-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "2-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "2-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "2-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "2-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "2-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "2-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "2-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "2-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "3-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "3-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "3-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "3-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "3-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "A"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "3-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "A"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "3-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "A"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "3-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "A"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "4-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "4-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "4-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "4-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "4-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "4-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "4-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "4-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "5-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "C"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "5-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "C"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "5-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "C"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "5-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "C"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "5-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "A"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "5-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "A"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "5-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "A"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "5-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "A"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "6-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "C"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "6-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "C"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "6-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "C"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "6-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "C"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "6-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "B"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "6-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "B"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "6-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "B"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "6-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "B"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "7-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "C"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "7-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "C"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "7-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "C"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "7-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "C"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "7-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "B",
+      "A"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "7-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "B",
+      "A"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "7-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "B",
+      "A"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "7-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "B",
+      "A"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "8-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "8-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "8-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "8-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "8-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "8-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "8-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "8-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "9-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "D"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "9-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "D"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "9-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "D"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "9-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "D"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "9-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "A"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "9-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "A"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "9-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "A"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "9-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "A"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "10-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "D"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "10-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "D"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "10-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "D"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "10-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "D"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "10-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "B"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "10-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "B"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "10-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "B"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "10-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "B"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "11-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "D"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "11-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "D"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "11-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "D"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "11-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "D"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "11-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "B",
+      "A"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "11-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "B",
+      "A"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "11-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "B",
+      "A"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "11-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "B",
+      "A"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "12-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "D"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "12-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "D"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "12-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "D"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "12-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "D"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "12-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "C"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "12-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "C"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "12-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "C"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "12-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "C"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "13-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "C",
+      "D"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "13-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "C",
+      "D"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "13-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "C",
+      "D"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "13-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "C",
+      "D"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "13-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "C",
+      "A"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "13-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "C",
+      "A"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "13-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "C",
+      "A"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "13-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "C",
+      "A"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "14-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "C",
+      "D"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "14-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "C",
+      "D"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "14-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "C",
+      "D"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "14-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "C",
+      "D"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "14-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "C",
+      "B"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "14-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "C",
+      "B"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "14-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "C",
+      "B"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "14-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "C",
+      "B"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "15-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "15-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "15-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "15-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "15-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "15-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "15-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "15-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "16-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "16-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "16-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "16-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "16-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "16-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "16-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "16-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "17-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "E"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "17-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "E"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "17-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "E"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "17-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "E"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "17-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "A"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "17-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "A"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "17-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "A"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "17-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "A"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "18-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "E"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "18-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "E"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "18-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "E"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "18-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "E"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "18-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "B"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "18-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "B"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "18-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "B"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "18-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "B"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "19-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "E"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "19-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "E"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "19-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "E"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "19-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "E"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "19-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "B",
+      "A"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "19-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "B",
+      "A"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "19-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "B",
+      "A"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "19-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "B",
+      "A"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "20-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "E"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "20-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "E"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "20-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "E"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "20-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "E"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "20-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "C"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "20-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "C"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "20-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "C"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "20-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "C"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "21-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "C",
+      "E"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "21-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "C",
+      "E"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "21-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "C",
+      "E"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "21-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "C",
+      "E"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "21-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "C",
+      "A"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "21-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "C",
+      "A"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "21-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "C",
+      "A"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "21-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "C",
+      "A"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "22-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "C",
+      "E"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "22-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "C",
+      "E"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "22-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "C",
+      "E"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "22-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "C",
+      "E"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "22-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "C",
+      "B"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "22-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "C",
+      "B"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "22-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "C",
+      "B"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "22-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "C",
+      "B"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "23-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "23-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "23-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "23-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "23-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "C",
+      "B",
+      "A"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "23-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "C",
+      "B",
+      "A"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "23-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "C",
+      "B",
+      "A"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "23-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "C",
+      "B",
+      "A"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "24-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "E"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "24-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "E"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "24-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "E"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "24-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "D",
+      "E"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "24-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "24-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "24-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "24-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "25-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "D",
+      "E"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "25-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "D",
+      "E"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "25-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "D",
+      "E"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "25-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "D",
+      "E"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "25-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "A"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "25-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "A"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "25-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "A"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "25-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "A"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "26-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "D",
+      "E"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "26-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "D",
+      "E"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "26-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "D",
+      "E"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "26-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "D",
+      "E"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "26-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "B"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "26-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "B"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "26-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "B"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "26-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "B"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "27-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "27-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "27-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "27-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "27-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "B",
+      "A"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "27-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "B",
+      "A"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "27-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "B",
+      "A"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "27-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "B",
+      "A"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "28-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "D",
+      "E"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "28-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "D",
+      "E"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "28-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "D",
+      "E"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "28-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "C",
+      "D",
+      "E"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "28-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "C"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "28-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "C"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "28-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "C"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "28-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "C"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "29-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "29-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "29-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "29-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "29-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "C",
+      "A"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "29-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "C",
+      "A"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "29-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "C",
+      "A"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "29-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "C",
+      "A"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "30-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "30-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "30-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "30-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "30-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "C",
+      "B"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "30-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "C",
+      "B"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "30-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "C",
+      "B"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "30-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "C",
+      "B"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "31-normal-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "31-normal-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "31-normal-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "31-normal-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "command": "backward"
+  },
+  {
+    "name": "31-reverse-front",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "command": "front"
+  },
+  {
+    "name": "31-reverse-back",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "command": "back"
+  },
+  {
+    "name": "31-reverse-forward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "command": "forward"
+  },
+  {
+    "name": "31-reverse-backward",
+    "order": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "selected": [
+      "E",
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "command": "backward"
+  }
+]

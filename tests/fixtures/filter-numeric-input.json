@@ -1,0 +1,7 @@
+{
+  "sheet": "Data Set",
+  "cells": {"A1":"Amount","A2":2,"A3":"4","A4":6,"A5":8,"A6":"text","A8":"=NA()","A9":true,"B1":"Group","B2":"keep","B3":"KEEP","B4":"drop","B5":"keeper","B6":"other","B7":"keep","B8":"keep","B9":"keep"},
+  "names": {}, "hiddenRows": [], "hiddenColumns": [],
+  "filters": [{"ref":"A1:B9","field":1,"criteria":">=4"}],
+  "cases": [{"ref":"D12","formula":"=SUBTOTAL(9,A2:A5)"},{"ref":"D13","formula":"=SUBTOTAL(2,A2:A9)"},{"ref":"D14","formula":"=SUBTOTAL(3,A2:A9)"}]
+}

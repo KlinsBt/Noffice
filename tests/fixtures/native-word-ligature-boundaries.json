@@ -1,0 +1,173 @@
+{
+  "rows": [
+    {
+      "flags": 1,
+      "name": "single",
+      "text": "ti\tB",
+      "characters": [
+        {
+          "color": 0,
+          "flags": 1,
+          "text": "t",
+          "kerning": 0
+        },
+        {
+          "color": 0,
+          "flags": 1,
+          "text": "i",
+          "kerning": 0
+        },
+        {
+          "color": 0,
+          "flags": 1,
+          "text": "\t",
+          "kerning": 0
+        },
+        {
+          "color": 0,
+          "flags": 1,
+          "text": "B",
+          "kerning": 0
+        }
+      ],
+      "pdfHash": "abcc6e69454a08851b4ad308983474a6f86a988f230046620816c651963daac8",
+      "docxHash": "8cf5cda673b3f32c2ca2a2502a65d4157cd1f30bc5500761a9bca068d30cd88c"
+    },
+    {
+      "flags": 1,
+      "name": "split",
+      "text": "ti\tB",
+      "characters": [
+        {
+          "color": 0,
+          "flags": 1,
+          "text": "t",
+          "kerning": 0
+        },
+        {
+          "color": 0,
+          "flags": 1,
+          "text": "i",
+          "kerning": 0
+        },
+        {
+          "color": 0,
+          "flags": 1,
+          "text": "\t",
+          "kerning": 0
+        },
+        {
+          "color": 0,
+          "flags": 1,
+          "text": "B",
+          "kerning": 0
+        }
+      ],
+      "pdfHash": "9e9fd4598db8d50657f58518529d2f82ab9dfe7b284598e501b5e74df12b1411",
+      "docxHash": "181e7ba190e0e2895fd98e779c8e07997dded8827d7193028759f6aa208d02fa"
+    },
+    {
+      "flags": 1,
+      "name": "sessions",
+      "text": "ti\tB",
+      "characters": [
+        {
+          "color": 0,
+          "flags": 1,
+          "text": "t",
+          "kerning": 0
+        },
+        {
+          "color": 0,
+          "flags": 1,
+          "text": "i",
+          "kerning": 0
+        },
+        {
+          "color": 0,
+          "flags": 1,
+          "text": "\t",
+          "kerning": 0
+        },
+        {
+          "color": 0,
+          "flags": 1,
+          "text": "B",
+          "kerning": 0
+        }
+      ],
+      "pdfHash": "00f261171c6ce1efd9d207fea1347caa4eb985a406621b36f537a7daa1bce267",
+      "docxHash": "0c2eed001cea33a9ce543268a3636fedc127c9e20a647e80a84c3329c2b50b10"
+    },
+    {
+      "flags": 1,
+      "name": "color",
+      "text": "ti\tB",
+      "characters": [
+        {
+          "color": 255,
+          "flags": 1,
+          "text": "t",
+          "kerning": 0
+        },
+        {
+          "color": 0,
+          "flags": 1,
+          "text": "i",
+          "kerning": 0
+        },
+        {
+          "color": 0,
+          "flags": 1,
+          "text": "\t",
+          "kerning": 0
+        },
+        {
+          "color": 0,
+          "flags": 1,
+          "text": "B",
+          "kerning": 0
+        }
+      ],
+      "pdfHash": "5e036fbdfdb35d4be0fda84c58efef1e4ad484b209575a238684ecd721f76a4a",
+      "docxHash": "296c214f315509a935398ea6d93d5071d2abb0b89a70e1bfe17006d01f95fe71"
+    },
+    {
+      "flags": 9999999,
+      "name": "disabled-second",
+      "text": "ti\tB",
+      "characters": [
+        {
+          "color": 0,
+          "flags": 1,
+          "text": "t",
+          "kerning": 0
+        },
+        {
+          "color": 0,
+          "flags": 0,
+          "text": "i",
+          "kerning": 0
+        },
+        {
+          "color": 0,
+          "flags": 1,
+          "text": "\t",
+          "kerning": 0
+        },
+        {
+          "color": 0,
+          "flags": 1,
+          "text": "B",
+          "kerning": 0
+        }
+      ],
+      "pdfHash": "01730036043227e41873c9403c582014a39df7e181f7505fd42bfef7a9cfea40",
+      "docxHash": "0bef95498b6a6c2714a92f4ea4dc060ad258f4bcffa08b31c08f90fd497b6743"
+    }
+  ],
+  "nativeReportHash": "1127229202e26c608c8e982ac17d488a0eaeefa096d076001c1c2fd7bcff8184",
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "producerHash": "5b872894311e9e4406543983c45c7b2d8a819e081b2b5c7e291048a87bef1bb0",
+  "scope": "Project-authored Calibri ti boundary fixtures, MIT; font binaries excluded. Native run properties and actual PDF cluster origins retained locally. Full shaping acceptance remains open."
+}

@@ -1,0 +1,369 @@
+{
+  "rows": [
+    {
+      "name": "A-72.9",
+      "left": 72.9000015258789,
+      "advance": 14.44921875,
+      "width": 105.5390625,
+      "pitch": 3.36,
+      "first": 87.38400268554688,
+      "count": 31,
+      "docxHash": "1c2641c152235378c9c2d2a521fa46ce06a7407d26fae19c6f5b8a4ec9982d19",
+      "pdfHash": "7a1cac294144b8192d5319aa8056608f7378ae4104a70a95280e10cf25fab9e6"
+    },
+    {
+      "name": "A-72.95",
+      "left": 72.94999694824219,
+      "advance": 14.44921875,
+      "width": 105.5390625,
+      "pitch": 3.36,
+      "first": 87.38400268554688,
+      "count": 31,
+      "docxHash": "32d0326bb19d88529a98e55966f1c7c91999ed7bc1e3961d7a8d43137f29bcf8",
+      "pdfHash": "d40aab2bca97531ab409ab976c4dd03a12aebc0a6a3dc8ed487e1cea050f46c9"
+    },
+    {
+      "name": "A-73",
+      "left": 73,
+      "advance": 14.44921875,
+      "width": 105.5390625,
+      "pitch": 3.36,
+      "first": 87.38400268554688,
+      "count": 31,
+      "docxHash": "8172767a13bc027d7e2f4fd6902abb290a70fb05ce0b10c2a96e60a9e95200e7",
+      "pdfHash": "11a345533066c0543751eb75b9be522edf76b244f76f079fe5a5d40a1b979494"
+    },
+    {
+      "name": "A-73.05",
+      "left": 73.05000305175781,
+      "advance": 14.44921875,
+      "width": 105.5390625,
+      "pitch": 3.36,
+      "first": 90.74400329589844,
+      "count": 30,
+      "docxHash": "857d7868cc5f1c3595c5f779ccf5707fc6e50486a8a3b90230085b3e3f697d40",
+      "pdfHash": "9f9930a522047f8513db89f380ee6694b2aa1b1ebe9650011ecee6a72af283bc"
+    },
+    {
+      "name": "I-72.9",
+      "left": 72.9000015258789,
+      "advance": 6.66796875,
+      "width": 113.3203125,
+      "pitch": 3.36,
+      "first": 80.66400146484375,
+      "count": 33,
+      "docxHash": "44cb6878e6ab431b63983235ee73fafc278428e52728db2073cdc41d77daf6dd",
+      "pdfHash": "634d749b59db4506d011e1bc709c7485594d3e6e7a5435fb08c944bd4fdbb095"
+    },
+    {
+      "name": "I-72.95",
+      "left": 72.94999694824219,
+      "advance": 6.66796875,
+      "width": 113.3203125,
+      "pitch": 3.36,
+      "first": 80.66400146484375,
+      "count": 33,
+      "docxHash": "124524bd778f73d026d8093361dabec6de49b280c6fb4f0227cbd6d5c8b83c00",
+      "pdfHash": "411a36df553f723c03b0c3db6645351bd430b81612d6d3bc9089b4266bee5134"
+    },
+    {
+      "name": "I-73",
+      "left": 73,
+      "advance": 6.66796875,
+      "width": 113.3203125,
+      "pitch": 3.36,
+      "first": 80.66400146484375,
+      "count": 33,
+      "docxHash": "334f8139012714a0ce61c33b3cc828458b446680b455ca857dbf3ebdec6bdbc7",
+      "pdfHash": "7afb23eac41d07013ae1991ee34b057e971fc617d8e197013c3649f697e31723"
+    },
+    {
+      "name": "I-73.05",
+      "left": 73.05000305175781,
+      "advance": 6.66796875,
+      "width": 113.3203125,
+      "pitch": 3.36,
+      "first": 80.66400146484375,
+      "count": 33,
+      "docxHash": "3d9c489b644377711bff50313559b7bbd134b674eba1fef18643feb43c6413e0",
+      "pdfHash": "25827b916ae9768232b3bfa266feac1a169888ae6b971f92d26625a060e5df6f"
+    },
+    {
+      "name": "M-72.9",
+      "left": 72.9000015258789,
+      "advance": 17.7890625,
+      "width": 102.19921875,
+      "pitch": 3.36,
+      "first": 90.74400329589844,
+      "count": 30,
+      "docxHash": "1473f50e7bbfac3654bd220a36f6413cd50d0ea1a2c154930728638e2e2e3e33",
+      "pdfHash": "af7d9ae35a0d8e18b718d93d2f6db8f7fc3be7ab67f7085d2b32cea7e3177134"
+    },
+    {
+      "name": "M-72.95",
+      "left": 72.94999694824219,
+      "advance": 17.7890625,
+      "width": 102.19921875,
+      "pitch": 3.36,
+      "first": 90.74400329589844,
+      "count": 30,
+      "docxHash": "81673734b3e1834ef941957caf72acebe3dcc5cea973ba5357904e78b95a2632",
+      "pdfHash": "68577f139a96c3b780cbb7cbe4dcdee1d124421954763068945ace9e41cfa7e1"
+    },
+    {
+      "name": "M-73",
+      "left": 73,
+      "advance": 17.7890625,
+      "width": 102.19921875,
+      "pitch": 3.36,
+      "first": 90.74400329589844,
+      "count": 30,
+      "docxHash": "3973ced4a283315e4817ef72f53175226b38605ec88fcfd9323f077e328adcad",
+      "pdfHash": "ace4f95c3f1ef6159a89cce78267642cd5fa05610179ebb44abc3f54bf4a26c9"
+    },
+    {
+      "name": "M-73.05",
+      "left": 73.05000305175781,
+      "advance": 17.7890625,
+      "width": 102.19921875,
+      "pitch": 3.36,
+      "first": 94.10399627685547,
+      "count": 29,
+      "docxHash": "6c0d99f8191bb5c439c452140b4b7bbfd193504bdaa95b5aa572ef22489fa463",
+      "pdfHash": "52bf8b48bc6e43a016baeea92b5dc30641e6c47405b298ebc9f5b14c5855970a"
+    },
+    {
+      "name": "W-72.9",
+      "left": 72.9000015258789,
+      "advance": 18.87890625,
+      "width": 101.109375,
+      "pitch": 3.36,
+      "first": 94.10399627685547,
+      "count": 29,
+      "docxHash": "d71bc2b46a25f0117c9d9886c301e41d11f6dd91f762b6d5a1319da1d16edef1",
+      "pdfHash": "83fd3e06bdad6166bb233814a778a44602454c2efc6b622a22e4b05961003e41"
+    },
+    {
+      "name": "W-72.95",
+      "left": 72.94999694824219,
+      "advance": 18.87890625,
+      "width": 101.109375,
+      "pitch": 3.36,
+      "first": 94.10399627685547,
+      "count": 29,
+      "docxHash": "18e87379011fe9c6b388d84b9fabad94ed7f06602b59bb0df8cbe8d336bccf78",
+      "pdfHash": "4f8857f956e68070bd7a2b2a803e39364243776bf3169a481e5efd6524204e6a"
+    },
+    {
+      "name": "W-73",
+      "left": 73,
+      "advance": 18.87890625,
+      "width": 101.109375,
+      "pitch": 3.36,
+      "first": 94.10399627685547,
+      "count": 29,
+      "docxHash": "ac26b1caa6a0185e4240b8e282193219949867a5e956e3e89d7384ce74dc6122",
+      "pdfHash": "c5fe072ab8dca68a670bf7e9f677b082f54f796855e706b280810555c19af2ca"
+    },
+    {
+      "name": "W-73.05",
+      "left": 73.05000305175781,
+      "advance": 18.87890625,
+      "width": 101.109375,
+      "pitch": 3.36,
+      "first": 94.10399627685547,
+      "count": 29,
+      "docxHash": "69cefa595f74c40de79478abb38c16861a1fc062f0f2e017be915596f3592230",
+      "pdfHash": "01662784478b954566726b361be0d54b1436dc952409d9bb93b170275aa01c29"
+    },
+    {
+      "name": "AA-72.9",
+      "left": 72.9000015258789,
+      "advance": 28.88671875,
+      "width": 91.1015625,
+      "pitch": 3.36,
+      "first": 104.18000030517578,
+      "count": 26,
+      "docxHash": "dfb3800d1e5bc93a39ff4584bc28e1eb3d6e48ba30d157a4f724d44103e58edf",
+      "pdfHash": "3d759c1826581e4726bf4d8c62ba287e2abe14135ae536338c4acc46cf172919"
+    },
+    {
+      "name": "AA-72.95",
+      "left": 72.94999694824219,
+      "advance": 28.88671875,
+      "width": 91.1015625,
+      "pitch": 3.36,
+      "first": 104.18000030517578,
+      "count": 26,
+      "docxHash": "5f4c9973b1215fb906df9966634a888e35bc4add51692fd26f8f1b233c6d25a3",
+      "pdfHash": "79c438920b323af8b00b081a4ba807e1fbd144b9905109f697105a68ff646d5f"
+    },
+    {
+      "name": "AA-73",
+      "left": 73,
+      "advance": 28.88671875,
+      "width": 91.1015625,
+      "pitch": 3.36,
+      "first": 104.18000030517578,
+      "count": 26,
+      "docxHash": "d4300bac8841287043240200fb5c5626df46d5cc6e1e72032b857df5d4eda26a",
+      "pdfHash": "af23704ded432ae1eae7931fdb4e02af35294317564411ae450cf5b20ab5e30e"
+    },
+    {
+      "name": "AA-73.05",
+      "left": 73.05000305175781,
+      "advance": 28.88671875,
+      "width": 91.1015625,
+      "pitch": 3.36,
+      "first": 104.18000030517578,
+      "count": 26,
+      "docxHash": "b7ca7037ed31ed2f8a8ca0a747522a2581f410550efb6d151c68968c43163433",
+      "pdfHash": "15351d2776acfdb30d46ee1c1db5aa1a0f3e1b05195d7b687715b06d70624d8e"
+    },
+    {
+      "name": "AM-72.9",
+      "left": 72.9000015258789,
+      "advance": 32.2265625,
+      "width": 87.76171875,
+      "pitch": 3.36,
+      "first": 107.54000091552734,
+      "count": 25,
+      "docxHash": "0147bcda31e88bf096c649c21923ec2c2f7b39f801b325d62dfc84e64ca43f62",
+      "pdfHash": "0a1f55a0d56a13cbd6178f407c2ea2ac68acbcf45cf9f7a8d1002f26bd57ce6b"
+    },
+    {
+      "name": "AM-72.95",
+      "left": 72.94999694824219,
+      "advance": 32.2265625,
+      "width": 87.76171875,
+      "pitch": 3.36,
+      "first": 107.54000091552734,
+      "count": 25,
+      "docxHash": "78a54c0387e2a856c53f27b73c4a69776c541ecbad1967f3ca2e827c614ca95a",
+      "pdfHash": "03a9723c32ae09885410930a87dde62efad8bb0521c7add13777139e61cf3357"
+    },
+    {
+      "name": "AM-73",
+      "left": 73,
+      "advance": 32.2265625,
+      "width": 87.76171875,
+      "pitch": 3.36,
+      "first": 107.54000091552734,
+      "count": 25,
+      "docxHash": "b3602b92cb650bf43d251ca9a8f3a948563bb95e6c175a8a9a236e830346a479",
+      "pdfHash": "acc26c71d941dc4df5bed24674deaf6bc410739fd83e5ac0c00dbbccbcc130fe"
+    },
+    {
+      "name": "AM-73.05",
+      "left": 73.05000305175781,
+      "advance": 32.2265625,
+      "width": 87.76171875,
+      "pitch": 3.36,
+      "first": 107.54000091552734,
+      "count": 25,
+      "docxHash": "39f976ae0f6c76d8aabfa35f82b640ff859c7ad3ab20195ac8f798d5435f7472",
+      "pdfHash": "844c3540f60b586f968d1ddd67d2c795e1da09bb517d327919bea219cb3f524a"
+    },
+    {
+      "name": "AV-72.9",
+      "left": 72.9000015258789,
+      "advance": 28.88671875,
+      "width": 91.1015625,
+      "pitch": 3.36,
+      "first": 104.18000030517578,
+      "count": 26,
+      "docxHash": "7229d570372ba66ebcd3bd9e279b0af4596817157deb4a80e0866b58ff01cfee",
+      "pdfHash": "93f87e92a4e9c35c7e590cd91bee2dc5353be77363cf453337a26053fcb9c427"
+    },
+    {
+      "name": "AV-72.95",
+      "left": 72.94999694824219,
+      "advance": 28.88671875,
+      "width": 91.1015625,
+      "pitch": 3.36,
+      "first": 104.18000030517578,
+      "count": 26,
+      "docxHash": "2ed4a728f618f8ed3af376eabb5c68d88cb0dc250aa6356ebced0d383740bbe5",
+      "pdfHash": "82893f76e20fa5111574b7bedc1a9e35fa04223fd34178a5d45776c11cb53c61"
+    },
+    {
+      "name": "AV-73",
+      "left": 73,
+      "advance": 28.88671875,
+      "width": 91.1015625,
+      "pitch": 3.36,
+      "first": 104.18000030517578,
+      "count": 26,
+      "docxHash": "28a873419c0b37412786bdc0d5c8c902cd15ec6085c4442ccec7378fd02af202",
+      "pdfHash": "bc312808a5132c17803e61877e0f984a177844b8f1b54f780914c65a8b62ca72"
+    },
+    {
+      "name": "AV-73.05",
+      "left": 73.05000305175781,
+      "advance": 28.88671875,
+      "width": 91.1015625,
+      "pitch": 3.36,
+      "first": 104.18000030517578,
+      "count": 26,
+      "docxHash": "529603bdef5cd497cf880c1f050d3cecc8ce3052572787194a8a01c08880d0cc",
+      "pdfHash": "e5e613c47e8ece53f1f94f30b890004ea9491a012fd37926cdef215a0190756a"
+    },
+    {
+      "name": "Wi-72.9",
+      "left": 72.9000015258789,
+      "advance": 24.43359375,
+      "width": 95.56640625,
+      "pitch": 3.36,
+      "first": 97.46399688720703,
+      "count": 28,
+      "docxHash": "c0ad937f5ddeeb66f14178200bbc89617307114546a82976b70ac99e7ce902ac",
+      "pdfHash": "b0f498ea9f3418a6220363e680fdcb70ba4c5ae1241ad3b51276da01487f5835"
+    },
+    {
+      "name": "Wi-72.95",
+      "left": 72.94999694824219,
+      "advance": 24.43359375,
+      "width": 95.56640625,
+      "pitch": 3.36,
+      "first": 97.46399688720703,
+      "count": 28,
+      "docxHash": "0b03e701ae10249ca3269ed99df524832933baebe9b1c1bad0d476bae05e30a5",
+      "pdfHash": "4767cff83788a0980f23ce8446c4598ee463d5900f1870576bdaf038109f911f"
+    },
+    {
+      "name": "Wi-73",
+      "left": 73,
+      "advance": 24.43359375,
+      "width": 95.54296875,
+      "pitch": 3.36,
+      "first": 97.46399688720703,
+      "count": 28,
+      "docxHash": "e771ef1008563428661a944cd50b0a74cc649532f8f5b314caddb0f87bb88d31",
+      "pdfHash": "6fc9519f5099127397efb1c5bfff4fe46f061f02ed7b4ee8f546be9232da0df3"
+    },
+    {
+      "name": "Wi-73.05",
+      "left": 73.05000305175781,
+      "advance": 24.43359375,
+      "width": 95.56640625,
+      "pitch": 3.36,
+      "first": 100.81999969482422,
+      "count": 27,
+      "docxHash": "1d28f9d8c291b27d2915c13f31b5823996120846e7480858cdf4ec7bfc59006c",
+      "pdfHash": "21784ce3b646318c0eb71b8a7efa3d4ec893c4dbc0acff76f9df96b53c63d9e2"
+    }
+  ],
+  "receipts": [
+    {
+      "run": "leader-boundary-v2",
+      "nativeHash": "31d5a0c123ef11b4b10d66f85211fda85dff5ae91717a75344b2fd0c240462d9",
+      "browserHash": "7c5f5cf560209887493eb8bbc8fbe9036da27bb095b6d033330ec61adf704f2f"
+    },
+    {
+      "run": "leader-boundary-v3",
+      "nativeHash": "1925fcde9139dd3d015ac8e2d96feb06835cc7fcd917387aeb48b41032c3c707",
+      "browserHash": "2bfe3f394387defac7664948481e5a8f1d4e440606533c0984f66275e1aa8363"
+    }
+  ],
+  "scope": "32 project-authored Times20 prefix/Arial10 hyphen leader cases at four native page margins. Native PDF first glyph and count are independent expectations; advance/width are measured browser inputs. No glyph position tolerance changed."
+}

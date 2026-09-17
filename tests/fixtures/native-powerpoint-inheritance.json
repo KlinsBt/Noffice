@@ -1,0 +1,609 @@
+{
+    "application":  "PowerPoint",
+    "version":  "16.0.4266.1001",
+    "sourceSha256":  "56b578f4683c556b53cebb0b81e3e5397855029a19f9ef408f7f203c4faf1a4a",
+    "width":  720,
+    "height":  405,
+    "slides":  [
+                   {
+                       "design":  "Noffice Master One",
+                       "layout":  "Noffice Layout 1",
+                       "shapes":  [
+                                      {
+                                          "id":  2,
+                                          "name":  "Inherited title 1",
+                                          "type":  14,
+                                          "x":  60,
+                                          "y":  30,
+                                          "w":  560,
+                                          "h":  85,
+                                          "text":  "Master 1 title",
+                                          "characters":  [
+                                                             {
+                                                                 "text":  "M",
+                                                                 "size":  38,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "a",
+                                                                 "size":  38,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "s",
+                                                                 "size":  38,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "t",
+                                                                 "size":  38,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "e",
+                                                                 "size":  38,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "r",
+                                                                 "size":  38,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  " ",
+                                                                 "size":  38,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "1",
+                                                                 "size":  38,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  " ",
+                                                                 "size":  38,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "t",
+                                                                 "size":  38,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "i",
+                                                                 "size":  38,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "t",
+                                                                 "size":  38,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "l",
+                                                                 "size":  38,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "e",
+                                                                 "size":  38,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             }
+                                                         ]
+                                      },
+                                      {
+                                          "id":  3,
+                                          "name":  "Rich subtitle 1",
+                                          "type":  14,
+                                          "x":  90,
+                                          "y":  212.71873474121094,
+                                          "w":  540,
+                                          "h":  97.781257629394531,
+                                          "text":  "Plain BOLD tail",
+                                          "characters":  [
+                                                             {
+                                                                 "text":  "P",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  false,
+                                                                 "underline":  true,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "l",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  false,
+                                                                 "underline":  true,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "a",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  false,
+                                                                 "underline":  true,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "i",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  false,
+                                                                 "underline":  true,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "n",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  false,
+                                                                 "underline":  true,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  " ",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  false,
+                                                                 "underline":  true,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "B",
+                                                                 "size":  28,
+                                                                 "font":  "Arial",
+                                                                 "bold":  true,
+                                                                 "italic":  false,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "O",
+                                                                 "size":  28,
+                                                                 "font":  "Arial",
+                                                                 "bold":  true,
+                                                                 "italic":  false,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "L",
+                                                                 "size":  28,
+                                                                 "font":  "Arial",
+                                                                 "bold":  true,
+                                                                 "italic":  false,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "D",
+                                                                 "size":  28,
+                                                                 "font":  "Arial",
+                                                                 "bold":  true,
+                                                                 "italic":  false,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  " ",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  3351057
+                                                             },
+                                                             {
+                                                                 "text":  "t",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  3351057
+                                                             },
+                                                             {
+                                                                 "text":  "a",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  3351057
+                                                             },
+                                                             {
+                                                                 "text":  "i",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  3351057
+                                                             },
+                                                             {
+                                                                 "text":  "l",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  3351057
+                                                             }
+                                                         ]
+                                      },
+                                      {
+                                          "id":  8,
+                                          "name":  "Outer group",
+                                          "type":  6,
+                                          "x":  80,
+                                          "y":  280,
+                                          "w":  170,
+                                          "h":  30
+                                      }
+                                  ]
+                   },
+                   {
+                       "design":  "Noffice Master Two",
+                       "layout":  "Noffice Layout 2",
+                       "shapes":  [
+                                      {
+                                          "id":  2,
+                                          "name":  "Inherited title 2",
+                                          "type":  14,
+                                          "x":  72,
+                                          "y":  30,
+                                          "w":  560,
+                                          "h":  85,
+                                          "text":  "Master 2 title",
+                                          "characters":  [
+                                                             {
+                                                                 "text":  "M",
+                                                                 "size":  40,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "a",
+                                                                 "size":  40,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "s",
+                                                                 "size":  40,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "t",
+                                                                 "size":  40,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "e",
+                                                                 "size":  40,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "r",
+                                                                 "size":  40,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  " ",
+                                                                 "size":  40,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "2",
+                                                                 "size":  40,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  " ",
+                                                                 "size":  40,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "t",
+                                                                 "size":  40,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "i",
+                                                                 "size":  40,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "t",
+                                                                 "size":  40,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "l",
+                                                                 "size":  40,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "e",
+                                                                 "size":  40,
+                                                                 "font":  "Calibri Light",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             }
+                                                         ]
+                                      },
+                                      {
+                                          "id":  3,
+                                          "name":  "Rich subtitle 2",
+                                          "type":  14,
+                                          "x":  90,
+                                          "y":  212.71873474121094,
+                                          "w":  540,
+                                          "h":  97.781257629394531,
+                                          "text":  "Plain BOLD tail",
+                                          "characters":  [
+                                                             {
+                                                                 "text":  "P",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  false,
+                                                                 "underline":  true,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "l",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  false,
+                                                                 "underline":  true,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "a",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  false,
+                                                                 "underline":  true,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "i",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  false,
+                                                                 "underline":  true,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "n",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  false,
+                                                                 "underline":  true,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  " ",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  false,
+                                                                 "underline":  true,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "B",
+                                                                 "size":  28,
+                                                                 "font":  "Arial",
+                                                                 "bold":  true,
+                                                                 "italic":  false,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "O",
+                                                                 "size":  28,
+                                                                 "font":  "Arial",
+                                                                 "bold":  true,
+                                                                 "italic":  false,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "L",
+                                                                 "size":  28,
+                                                                 "font":  "Arial",
+                                                                 "bold":  true,
+                                                                 "italic":  false,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  "D",
+                                                                 "size":  28,
+                                                                 "font":  "Arial",
+                                                                 "bold":  true,
+                                                                 "italic":  false,
+                                                                 "underline":  false,
+                                                                 "rgb":  0
+                                                             },
+                                                             {
+                                                                 "text":  " ",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  3351057
+                                                             },
+                                                             {
+                                                                 "text":  "t",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  3351057
+                                                             },
+                                                             {
+                                                                 "text":  "a",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  3351057
+                                                             },
+                                                             {
+                                                                 "text":  "i",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  3351057
+                                                             },
+                                                             {
+                                                                 "text":  "l",
+                                                                 "size":  20,
+                                                                 "font":  "Arial",
+                                                                 "bold":  false,
+                                                                 "italic":  true,
+                                                                 "underline":  false,
+                                                                 "rgb":  3351057
+                                                             }
+                                                         ]
+                                      },
+                                      {
+                                          "id":  8,
+                                          "name":  "Outer group",
+                                          "type":  6,
+                                          "x":  80,
+                                          "y":  280,
+                                          "w":  170,
+                                          "h":  30
+                                      }
+                                  ]
+                   }
+               ]
+}

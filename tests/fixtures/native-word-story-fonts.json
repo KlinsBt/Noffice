@@ -1,0 +1,148 @@
+{
+  "rows": [
+    {
+      "sourceHash": "461d7770364e804a85b4f19f058443136d086cd822261f31339e7f56eeee0742",
+      "name": "Headers-arial20",
+      "paragraphs": [
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "Edited\tB\r"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "A\tB\r"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "A\tB\r"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "A\tB\r"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "A\tB\r"
+        }
+      ],
+      "pdfHash": "ea6ef5772bf1a143435aa9a474842659ffc6dadb6254102d4b4236ea6df15b7b",
+      "docxHash": "56bb6edfa4060b4a2483c53302852e033cde7368b870aad10ce62552a816c656",
+      "kind": "header",
+      "mode": "arial20"
+    },
+    {
+      "sourceHash": "461d7770364e804a85b4f19f058443136d086cd822261f31339e7f56eeee0742",
+      "name": "Headers-times10",
+      "paragraphs": [
+        {
+          "size": 10,
+          "family": "Times New Roman",
+          "text": "Edited\tB\r"
+        },
+        {
+          "size": 10,
+          "family": "Times New Roman",
+          "text": "A\tB\r"
+        },
+        {
+          "size": 10,
+          "family": "Times New Roman",
+          "text": "A\tB\r"
+        },
+        {
+          "size": 10,
+          "family": "Times New Roman",
+          "text": "A\tB\r"
+        },
+        {
+          "size": 10,
+          "family": "Times New Roman",
+          "text": "A\tB\r"
+        }
+      ],
+      "pdfHash": "8905a42052f47be1da3c4f06f9652fa8840af8dbaa5c167776635a4dc34def49",
+      "docxHash": "b3c86f8466225e72a702c738861b3ff8de239a3ec072efa2fb4ac7d9364969ce",
+      "kind": "header",
+      "mode": "times10"
+    },
+    {
+      "sourceHash": "461d7770364e804a85b4f19f058443136d086cd822261f31339e7f56eeee0742",
+      "name": "Footers-arial20",
+      "paragraphs": [
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "Edited\tB\r"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "A\tB\r"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "A\tB\r"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "A\tB\r"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "A\tB\r"
+        }
+      ],
+      "pdfHash": "24c6be7a891b2be47a859e2507f3b1328dd33ac34b36cfa3499fbab25c7b2142",
+      "docxHash": "d9eb2818391f106275abc7d46b50649dd6884815647ef6f67a46c7f6d074379a",
+      "kind": "footer",
+      "mode": "arial20"
+    },
+    {
+      "sourceHash": "461d7770364e804a85b4f19f058443136d086cd822261f31339e7f56eeee0742",
+      "name": "Footers-times10",
+      "paragraphs": [
+        {
+          "size": 10,
+          "family": "Times New Roman",
+          "text": "Edited\tB\r"
+        },
+        {
+          "size": 10,
+          "family": "Times New Roman",
+          "text": "A\tB\r"
+        },
+        {
+          "size": 10,
+          "family": "Times New Roman",
+          "text": "A\tB\r"
+        },
+        {
+          "size": 10,
+          "family": "Times New Roman",
+          "text": "A\tB\r"
+        },
+        {
+          "size": 10,
+          "family": "Times New Roman",
+          "text": "A\tB\r"
+        }
+      ],
+      "pdfHash": "45582bd7d71d84773a9a6383babcbd65399ef18e17a6e8a5a0bd7c9d6c8e050d",
+      "docxHash": "7be29ae66dde0cb63318f69a2695127b21e6579f2eb61ba012965a1ac69e072e",
+      "kind": "footer",
+      "mode": "times10"
+    }
+  ],
+  "nativeReportHash": "1046561f7d17cf4214d247141a124942d357a7d78a103cbe5787ca26c54b5d3b",
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "producerHash": "1cb3ecd6b2fa4bb832c68541d1f0e4fbd36985d666e33aa3f4fd5c25f4a47535",
+  "scope": "Four independent font/typing edits of the existing synthetic MIT Arial10 story fixture; no fonts distributed. Native expected DOCX/PDF and complete receipts remain local."
+}

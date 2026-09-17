@@ -1,0 +1,3538 @@
+{
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "nativeUiVerified": false,
+  "scriptHash": "01c07233dd1f472981b120712c78aba5f76c2f66346e8d51916fbf66ab8d8aaf",
+  "rows": [
+    {
+      "input": 0,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-0",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "b2198d309923ba9105ed79a66488f0731a1bbd1551ab4e85a510785237008fb2",
+      "context": "body",
+      "nativeFloat": 0,
+      "savedTwips": 0
+    },
+    {
+      "input": 0.025,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0.05000000074505806,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-1",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "d95f40e5775e65b30d628435f08298e063d0ae10b39da97c385bf61fbc59b5a5",
+      "context": "body",
+      "nativeFloat": 0.02500000037252903,
+      "savedTwips": 1
+    },
+    {
+      "input": 0.075,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0.10000000149011612,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-2",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "fdf150760e79623a001c784f9097f1de86fbfadfe175d612680bdb96f77360ff",
+      "context": "body",
+      "nativeFloat": 0.07500000298023224,
+      "savedTwips": 2
+    },
+    {
+      "input": 0.625,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0.6499999761581421,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-3",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "ad81b71a8c3b8c94cd678dc9f0c2f3c2e01f145ecc3dcda71d683efcfbb42d93",
+      "context": "body",
+      "nativeFloat": 0.625,
+      "savedTwips": 13
+    },
+    {
+      "input": 0.67499999,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0.699999988079071,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-4",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "ca9f13dae610e966f97224d75e7d784f32821ffeecbcc7eed8e72b8fc8308b7d",
+      "context": "body",
+      "nativeFloat": 0.675000011920929,
+      "savedTwips": 14
+    },
+    {
+      "input": 0.725,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0.75,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-5",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "58289743ef57cb2ef8f39805500006e687cd8198d3d652cc3ffe1866d03a8ad3",
+      "context": "body",
+      "nativeFloat": 0.7250000238418579,
+      "savedTwips": 15
+    },
+    {
+      "input": 0.775,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0.75,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-6",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "30721c9bf777ccd4ef19613b09fbe313eb086da51797e3518bd13be52332ce15",
+      "context": "body",
+      "nativeFloat": 0.7749999761581421,
+      "savedTwips": 15
+    },
+    {
+      "input": -0.025,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": -0.05000000074505806,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-7",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "65bb7873df7d68f2201857fbcff3517a1738a356eba5a417f1b3a0b2d37e16d8",
+      "context": "body",
+      "nativeFloat": -0.02500000037252903,
+      "savedTwips": -1
+    },
+    {
+      "input": -0.075,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": -0.10000000149011612,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-8",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "a78c9b34c1e2bffec70cda15e5340948df6b78893036a2965e81586724fb6164",
+      "context": "body",
+      "nativeFloat": -0.07500000298023224,
+      "savedTwips": -2
+    },
+    {
+      "input": -0.625,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": -0.6499999761581421,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-9",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "cba785b52085ee4f01a6620d46d157340dfa2053b6f768f83483eabd6a27917c",
+      "context": "body",
+      "nativeFloat": -0.625,
+      "savedTwips": -13
+    },
+    {
+      "input": -0.67499999,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": -0.699999988079071,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-10",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "2d41aa10059ecfdf7f227a8efc6b2d7153ffdadb260a920c05033708216bf237",
+      "context": "body",
+      "nativeFloat": -0.675000011920929,
+      "savedTwips": -14
+    },
+    {
+      "input": -0.725,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": -0.75,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-11",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "82b6327f6909317e9a464565b3d7738e9286814e528fa953c775f5822d6bf223",
+      "context": "body",
+      "nativeFloat": -0.7250000238418579,
+      "savedTwips": -15
+    },
+    {
+      "input": -0.775,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": -0.75,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-12",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "b864c6dc3ce06758fb4ea8fb9b333c444c90bc763ac885518fc53eaccdaa7a1c",
+      "context": "body",
+      "nativeFloat": -0.7749999761581421,
+      "savedTwips": -15
+    },
+    {
+      "input": 36,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 36,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-13",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "22f7e651f8435a8f7f8b5d34756e3cbde060e6cf317aabed25786d3d98beb923",
+      "context": "body",
+      "nativeFloat": 36,
+      "savedTwips": 720
+    },
+    {
+      "input": 720,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 720,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-14",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "89486a7a7ab4c0568e7c4ef121a34a33e21307ece1b5fe9a86efe18e65fa589b",
+      "context": "body",
+      "nativeFloat": 720,
+      "savedTwips": 14400
+    },
+    {
+      "input": 720.00001,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 720,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-15",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "ca287fae078e7437edab436c618cce98970eda7153e8f847b75d306bf3816d85",
+      "context": "body",
+      "nativeFloat": 720,
+      "savedTwips": 14400
+    },
+    {
+      "input": 720.025,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 720.0499877929688,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-16",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "b46fc80a70139c75347d481a52fbaec5f42466d23e56e98e090d7c6f3a2906c1",
+      "context": "body",
+      "nativeFloat": 720.0250244140625,
+      "savedTwips": 14401
+    },
+    {
+      "input": 721,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 721,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-17",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "54b8ac2bf18a89fb14c6f9428340c5aa1404a598f519fa285723f545b06c09a4",
+      "context": "body",
+      "nativeFloat": 721,
+      "savedTwips": 14420
+    },
+    {
+      "input": 1584,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 1584,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-18",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "1e4865622d074f8ab73f1eeeba09e143726102e5b8d6d94ecc9aa729fbcd3cca",
+      "context": "body",
+      "nativeFloat": 1584,
+      "savedTwips": 31680
+    },
+    {
+      "input": 1584.00001,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 1584,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-19",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "28106088f8c33d2239603df5b478799e2c686cb97da528eb75f124e28dc83051",
+      "context": "body",
+      "nativeFloat": 1584,
+      "savedTwips": 31680
+    },
+    {
+      "input": 1584.025,
+      "accepted": false,
+      "property": "LeftIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-20",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "cef949ae0f9544b49fb7fdf58ea6a48e098ca288e75d44f53ae247fbfcab7d5f",
+      "context": "body",
+      "nativeFloat": 1584.0250244140625,
+      "savedTwips": 0
+    },
+    {
+      "input": 1585,
+      "accepted": false,
+      "property": "LeftIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-21",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "8da74b72a4fbcbea9e8533d0dd895cc913eb21c091347d89322f67140c50f1bd",
+      "context": "body",
+      "nativeFloat": 1585,
+      "savedTwips": 0
+    },
+    {
+      "input": -720,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": -720,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-22",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "9e01f329aa93a6691641d812e3a3fd92e66ec10bae9207742730402783e851a4",
+      "context": "body",
+      "nativeFloat": -720,
+      "savedTwips": -14400
+    },
+    {
+      "input": -721,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": -721,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-23",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "26d445c5bd957c97603e8dbaaee812b2cb6afb656505aba36360b4d3c4c25b07",
+      "context": "body",
+      "nativeFloat": -721,
+      "savedTwips": -14420
+    },
+    {
+      "input": -1584,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": -1584,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-24",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "db556551b4f7993a9808175c601297fa348b50758ec77dd5e152b0727d4ad6c2",
+      "context": "body",
+      "nativeFloat": -1584,
+      "savedTwips": -31680
+    },
+    {
+      "input": -1584.025,
+      "accepted": false,
+      "property": "LeftIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-25",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "57a0d7ad650af443c8d655119b033ecc3ea132712fd9a4f634a3d522473c728a",
+      "context": "body",
+      "nativeFloat": -1584.0250244140625,
+      "savedTwips": 0
+    },
+    {
+      "input": -1585,
+      "accepted": false,
+      "property": "LeftIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-26",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "cd281180e5878c839a4007b42868a11fcc6c1c76e59f8e10248895762b9e185a",
+      "context": "body",
+      "nativeFloat": -1585,
+      "savedTwips": 0
+    },
+    {
+      "input": 100000,
+      "accepted": false,
+      "property": "LeftIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-LeftIndent-27",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "1b30855e9eb72e67f448140ccc22467712415b2c18985fb5c5f7b47214b60555",
+      "context": "body",
+      "nativeFloat": 100000,
+      "savedTwips": 0
+    },
+    {
+      "input": 0,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-RightIndent-0",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "2f170dcde5089da5fc57f9351154268ddfc9d894196832ad6c759641bfb5c0ea",
+      "context": "body",
+      "nativeFloat": 0,
+      "savedTwips": 0
+    },
+    {
+      "input": 0.025,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0.05000000074505806
+      },
+      "name": "body-RightIndent-1",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "ba5758db9cbe04c06182ead6f85381033f8993d0825b5fe18346d2031591ed32",
+      "context": "body",
+      "nativeFloat": 0.02500000037252903,
+      "savedTwips": 1
+    },
+    {
+      "input": 0.075,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0.10000000149011612
+      },
+      "name": "body-RightIndent-2",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "040f45b723327cbfbe973848cec6818c0cbdeac2e9d64d99f354dc313078d3dc",
+      "context": "body",
+      "nativeFloat": 0.07500000298023224,
+      "savedTwips": 2
+    },
+    {
+      "input": 0.625,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0.6499999761581421
+      },
+      "name": "body-RightIndent-3",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "51f0809995f03bad1adc55432368b5ec2b57f97ce1fffefe143b44894ea9f9eb",
+      "context": "body",
+      "nativeFloat": 0.625,
+      "savedTwips": 13
+    },
+    {
+      "input": 0.67499999,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0.699999988079071
+      },
+      "name": "body-RightIndent-4",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "b5e43098b0505d4116bd0961622363f37b3fcc28d647f2fbbe1bb2a146d67cbb",
+      "context": "body",
+      "nativeFloat": 0.675000011920929,
+      "savedTwips": 14
+    },
+    {
+      "input": 0.725,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0.75
+      },
+      "name": "body-RightIndent-5",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "d761c220256cd6617ddb6706e64ed8a8208699c473c803a11fa171203c12fa9b",
+      "context": "body",
+      "nativeFloat": 0.7250000238418579,
+      "savedTwips": 15
+    },
+    {
+      "input": 0.775,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0.75
+      },
+      "name": "body-RightIndent-6",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "b7c7dac0652df70f358aebe89812d0180fbd0e2b72c9063a892608c828fdf5ef",
+      "context": "body",
+      "nativeFloat": 0.7749999761581421,
+      "savedTwips": 15
+    },
+    {
+      "input": -0.025,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": -0.05000000074505806
+      },
+      "name": "body-RightIndent-7",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "55e56266adb5f39fbdb2d1e87e8e18cf75cfe798e3a1d75511f1dd25cf671d6e",
+      "context": "body",
+      "nativeFloat": -0.02500000037252903,
+      "savedTwips": -1
+    },
+    {
+      "input": -0.075,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": -0.10000000149011612
+      },
+      "name": "body-RightIndent-8",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "4191c333f93a06156fc41b62d8d4ab83549f77fcb73e0d0f368052d8fa2679ee",
+      "context": "body",
+      "nativeFloat": -0.07500000298023224,
+      "savedTwips": -2
+    },
+    {
+      "input": -0.625,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": -0.6499999761581421
+      },
+      "name": "body-RightIndent-9",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "b917cf5476e4e52b0943e5497ba3984b9190e1436adc6babe429c2151048e618",
+      "context": "body",
+      "nativeFloat": -0.625,
+      "savedTwips": -13
+    },
+    {
+      "input": -0.67499999,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": -0.699999988079071
+      },
+      "name": "body-RightIndent-10",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "99dea2c3661214bfe1cb7c71f8cb220c5f4342011e2446a040cbf5467c7124a8",
+      "context": "body",
+      "nativeFloat": -0.675000011920929,
+      "savedTwips": -14
+    },
+    {
+      "input": -0.725,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": -0.75
+      },
+      "name": "body-RightIndent-11",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "8e30c67b9cc9b747b71bce3c6e4b68432e9adcf547e2b29d8bb2d187b04d31a4",
+      "context": "body",
+      "nativeFloat": -0.7250000238418579,
+      "savedTwips": -15
+    },
+    {
+      "input": -0.775,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": -0.75
+      },
+      "name": "body-RightIndent-12",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "0eb9ca4b28dd50a1544c49b0098058e7da8f0753a7fd9a09af8e0b4b70466b7d",
+      "context": "body",
+      "nativeFloat": -0.7749999761581421,
+      "savedTwips": -15
+    },
+    {
+      "input": 36,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 36
+      },
+      "name": "body-RightIndent-13",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "3f5de1bd8fa1e631f7ee1e63011835e98fa90dc50a7daa6ed1445a90f82053cb",
+      "context": "body",
+      "nativeFloat": 36,
+      "savedTwips": 720
+    },
+    {
+      "input": 720,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 720
+      },
+      "name": "body-RightIndent-14",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "21d456ce6561591dcde931d2de31583ebe763ce35d2756d4c7294bb3d980ad69",
+      "context": "body",
+      "nativeFloat": 720,
+      "savedTwips": 14400
+    },
+    {
+      "input": 720.00001,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 720
+      },
+      "name": "body-RightIndent-15",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "0ee885520a1c2419d5dd0b87b02545135cf69ee23fc97f8d8a7163d63c4117cc",
+      "context": "body",
+      "nativeFloat": 720,
+      "savedTwips": 14400
+    },
+    {
+      "input": 720.025,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 720.0499877929688
+      },
+      "name": "body-RightIndent-16",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "5beef0cda095e598e9f7144cbe867112700995b6c6fe0630997fa9238bc739bf",
+      "context": "body",
+      "nativeFloat": 720.0250244140625,
+      "savedTwips": 14401
+    },
+    {
+      "input": 721,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 721
+      },
+      "name": "body-RightIndent-17",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "0cfea522ba9f4c881cc3b0f60ae912e2a6a92bfd30e1c3220870ce05aaec05ee",
+      "context": "body",
+      "nativeFloat": 721,
+      "savedTwips": 14420
+    },
+    {
+      "input": 1584,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 1584
+      },
+      "name": "body-RightIndent-18",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "6a9a714345ef4c8e745b53f0bdf9092b7b10bd35a391a5fd07418136f9109ff5",
+      "context": "body",
+      "nativeFloat": 1584,
+      "savedTwips": 31680
+    },
+    {
+      "input": 1584.00001,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 1584
+      },
+      "name": "body-RightIndent-19",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "b7d2fbe4fc7b6c2ef40e3c989bed97abc2fd8b5aefbeb65628b415e03340727a",
+      "context": "body",
+      "nativeFloat": 1584,
+      "savedTwips": 31680
+    },
+    {
+      "input": 1584.025,
+      "accepted": false,
+      "property": "RightIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-RightIndent-20",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "0e5686fdd59458a77500bd560ca0d3f5823624443c6c6a39e445bed5623dbc26",
+      "context": "body",
+      "nativeFloat": 1584.0250244140625,
+      "savedTwips": 0
+    },
+    {
+      "input": 1585,
+      "accepted": false,
+      "property": "RightIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-RightIndent-21",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "f3e831433268e2550c136db8fc437399457b14ae3b423786cb0c690a2c4abb19",
+      "context": "body",
+      "nativeFloat": 1585,
+      "savedTwips": 0
+    },
+    {
+      "input": -720,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": -720
+      },
+      "name": "body-RightIndent-22",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "ee65fc31d633f58cdd22159b7102dd6210278349922b60a7d3b6e9ea940bcc5e",
+      "context": "body",
+      "nativeFloat": -720,
+      "savedTwips": -14400
+    },
+    {
+      "input": -721,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": -721
+      },
+      "name": "body-RightIndent-23",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "a6e7155e8812c15014754d871610eed48bbe245d16f26cdeb83f840162f60984",
+      "context": "body",
+      "nativeFloat": -721,
+      "savedTwips": -14420
+    },
+    {
+      "input": -1584,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": -1584
+      },
+      "name": "body-RightIndent-24",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "d1823bc85c4bd3f10d634503ffa72c3d2acd5167dbcf7b8a9bc35439287f04e8",
+      "context": "body",
+      "nativeFloat": -1584,
+      "savedTwips": -31680
+    },
+    {
+      "input": -1584.025,
+      "accepted": false,
+      "property": "RightIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-RightIndent-25",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "59f47b232b12fa96c25512838ab47956ac30bda9d280be4ceba0744b4f15d80f",
+      "context": "body",
+      "nativeFloat": -1584.0250244140625,
+      "savedTwips": 0
+    },
+    {
+      "input": -1585,
+      "accepted": false,
+      "property": "RightIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-RightIndent-26",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "d1fb22f624be1d5fbdc9f283e59c8949fdf0dc9a9be2645adaa4443d2c2f3e01",
+      "context": "body",
+      "nativeFloat": -1585,
+      "savedTwips": 0
+    },
+    {
+      "input": 100000,
+      "accepted": false,
+      "property": "RightIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-RightIndent-27",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "03befa8be8142b1fdad2f0e3f6ca85541150b64dd1284163123cca9e920b54bc",
+      "context": "body",
+      "nativeFloat": 100000,
+      "savedTwips": 0
+    },
+    {
+      "input": 0,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-0",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "8e041e8ddaeb95eb4477932d64e367dde543781ee0657cd4489ee94943007873",
+      "context": "body",
+      "nativeFloat": 0,
+      "savedTwips": 0
+    },
+    {
+      "input": 0.025,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0.05000000074505806,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-1",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "0f56691b4d8db89f5726c21b611cafc745c818f97b1dbaa6bcb035ae11feaff0",
+      "context": "body",
+      "nativeFloat": 0.02500000037252903,
+      "savedTwips": 1
+    },
+    {
+      "input": 0.075,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0.10000000149011612,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-2",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "5c4cd0a5db4f904a82203305ba370bf4510216f6e7cda70f611f0fcb10c6feb0",
+      "context": "body",
+      "nativeFloat": 0.07500000298023224,
+      "savedTwips": 2
+    },
+    {
+      "input": 0.625,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0.6499999761581421,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-3",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "24fcfa8fb22bde4db723098392d980a5ad2eb11ec4314bd089c49ca4d3c2a4b2",
+      "context": "body",
+      "nativeFloat": 0.625,
+      "savedTwips": 13
+    },
+    {
+      "input": 0.67499999,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0.699999988079071,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-4",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "b54ae66d350b77581c6b42a7c5831c95dedaf12a0ecb1cb097a3687eeb2345ea",
+      "context": "body",
+      "nativeFloat": 0.675000011920929,
+      "savedTwips": 14
+    },
+    {
+      "input": 0.725,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0.75,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-5",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "943e9959cef31cbb0b332593f61e0fbde712bc52f6c57c4eac76c8eec044bcef",
+      "context": "body",
+      "nativeFloat": 0.7250000238418579,
+      "savedTwips": 15
+    },
+    {
+      "input": 0.775,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0.75,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-6",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "7b7070ef0e4d1772f8c25950cd1a68a84b2456628d1ecc76a7cee6422af3c1b5",
+      "context": "body",
+      "nativeFloat": 0.7749999761581421,
+      "savedTwips": 15
+    },
+    {
+      "input": -0.025,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": -0.05000000074505806,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-7",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "0aedc941154e704969fa2531e5482042b3040557d3ee5117164ebb74105e65fd",
+      "context": "body",
+      "nativeFloat": -0.02500000037252903,
+      "savedTwips": -1
+    },
+    {
+      "input": -0.075,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": -0.10000000149011612,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-8",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "381c357351cf877a458a4f393d33ab950972568a6ca321677ff047b51a1f5b61",
+      "context": "body",
+      "nativeFloat": -0.07500000298023224,
+      "savedTwips": -2
+    },
+    {
+      "input": -0.625,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": -0.6499999761581421,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-9",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "090d43af13f09caaba1408f4c1f4b5854453d51ddb2d53393fd2484efc7b8710",
+      "context": "body",
+      "nativeFloat": -0.625,
+      "savedTwips": -13
+    },
+    {
+      "input": -0.67499999,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": -0.699999988079071,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-10",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "bd75133204ea8f39c49a7515ff0e5ab2620c41fbdc08c8e23c8cbb2c166f78db",
+      "context": "body",
+      "nativeFloat": -0.675000011920929,
+      "savedTwips": -14
+    },
+    {
+      "input": -0.725,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": -0.75,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-11",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "18a14d7c0a2b6ff227ffcaab679b505a5b1389b1ab83e5c722f5466c5b57020d",
+      "context": "body",
+      "nativeFloat": -0.7250000238418579,
+      "savedTwips": -15
+    },
+    {
+      "input": -0.775,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": -0.75,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-12",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "abd0c39313f7e1d30c33f3466d1a2a0a11e9066abaee852a6fa79bb707584941",
+      "context": "body",
+      "nativeFloat": -0.7749999761581421,
+      "savedTwips": -15
+    },
+    {
+      "input": 36,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 36,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-13",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "1361249d53b060ff59d870cc40acfc15495541fe3db98b203a28cdbe65029240",
+      "context": "body",
+      "nativeFloat": 36,
+      "savedTwips": 720
+    },
+    {
+      "input": 720,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 720,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-14",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "1767a46a0e34e9bf1dcb5230b37f251bd4046548d5a4ddfc64aaabae7f002dd5",
+      "context": "body",
+      "nativeFloat": 720,
+      "savedTwips": 14400
+    },
+    {
+      "input": 720.00001,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 720,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-15",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "387d3da745bc721d8a7a26356dad44cf369c3a2d74643fbc37109f51e9a1dd9f",
+      "context": "body",
+      "nativeFloat": 720,
+      "savedTwips": 14400
+    },
+    {
+      "input": 720.025,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 720.0499877929688,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-16",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "142897cf471946161f1d71b4db9b127f3b62659e102d45e31525877fb8bdd486",
+      "context": "body",
+      "nativeFloat": 720.0250244140625,
+      "savedTwips": 14401
+    },
+    {
+      "input": 721,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 721,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-17",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "5f9d249a0d942c14c4657fe11b96045174c872ae70875714d7998349051373ee",
+      "context": "body",
+      "nativeFloat": 721,
+      "savedTwips": 14420
+    },
+    {
+      "input": 1584,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 1584,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-18",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "2e8db06fe9b2f560a67e25d507905d3c6b0d7c2d4a214e8af790095758ab38d8",
+      "context": "body",
+      "nativeFloat": 1584,
+      "savedTwips": 31680
+    },
+    {
+      "input": 1584.00001,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 1584,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-19",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "7ffe5a981af97da5e8307df000365144fed0cbf4e0032240286fa75966055853",
+      "context": "body",
+      "nativeFloat": 1584,
+      "savedTwips": 31680
+    },
+    {
+      "input": 1584.025,
+      "accepted": false,
+      "property": "FirstLineIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-20",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "362a86072d8eb231f22d31aaf3053c18fc988cb6f6dc59d594883362200849cf",
+      "context": "body",
+      "nativeFloat": 1584.0250244140625,
+      "savedTwips": 0
+    },
+    {
+      "input": 1585,
+      "accepted": false,
+      "property": "FirstLineIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-21",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "4253e568a2a286052a0fc9afe4189a969b48639a4271cc4c31fd1c2f75850a74",
+      "context": "body",
+      "nativeFloat": 1585,
+      "savedTwips": 0
+    },
+    {
+      "input": -720,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": -720,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-22",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "47dd783abe9a9e655d50487441b00cb7c1e08173cfd9c60ac14a2e6075c9d710",
+      "context": "body",
+      "nativeFloat": -720,
+      "savedTwips": -14400
+    },
+    {
+      "input": -721,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": -721,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-23",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "26a0b23be04bd78d75f4f87fe6857d4633b82e74c6db070b0b8a22d33357f29b",
+      "context": "body",
+      "nativeFloat": -721,
+      "savedTwips": -14420
+    },
+    {
+      "input": -1584,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": -1584,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-24",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "2963488b55af34db0a1fb9f58e524d8f39180e13b31cb46f340419ee0d6dac3b",
+      "context": "body",
+      "nativeFloat": -1584,
+      "savedTwips": -31680
+    },
+    {
+      "input": -1584.025,
+      "accepted": false,
+      "property": "FirstLineIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-25",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "2a918233e99de393e73475dc62a22673eca40cb45999d3a476645ed518169a9c",
+      "context": "body",
+      "nativeFloat": -1584.0250244140625,
+      "savedTwips": 0
+    },
+    {
+      "input": -1585,
+      "accepted": false,
+      "property": "FirstLineIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-26",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "0cbbf12facaac2427e69623c9caadc9602bcf03eed6223862bca6a7a2bdef70f",
+      "context": "body",
+      "nativeFloat": -1585,
+      "savedTwips": 0
+    },
+    {
+      "input": 100000,
+      "accepted": false,
+      "property": "FirstLineIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "body-FirstLineIndent-27",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "b9e27f821f12b86d4ef427627876c95f7e8369f4237f4d6fde1e0eea744fd83e",
+      "context": "body",
+      "nativeFloat": 100000,
+      "savedTwips": 0
+    },
+    {
+      "input": 0,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-0",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "e2486e75e9cd63263188fccf8b366e0acd94306fd8b81060238556b874637a02",
+      "context": "header",
+      "nativeFloat": 0,
+      "savedTwips": 0
+    },
+    {
+      "input": 0.025,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0.05000000074505806,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-1",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "333a64a1c87e35b1fb966351666b69f3ce6b73f6574f91283b4ebff7e48ea332",
+      "context": "header",
+      "nativeFloat": 0.02500000037252903,
+      "savedTwips": 1
+    },
+    {
+      "input": 0.075,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0.10000000149011612,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-2",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "8c4f3275960a888720605d446a74fca79669f49e8f697764661d89058eea462e",
+      "context": "header",
+      "nativeFloat": 0.07500000298023224,
+      "savedTwips": 2
+    },
+    {
+      "input": 0.625,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0.6499999761581421,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-3",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "a7bea9c948fc6b3a82fda462bfec0251c8befc5105bcfb6e707018c2ed276038",
+      "context": "header",
+      "nativeFloat": 0.625,
+      "savedTwips": 13
+    },
+    {
+      "input": 0.67499999,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0.699999988079071,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-4",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "a157fc7f9d0cbdfc8522f7aadbd730428e3a9271b28236ea3ce3fc74f501d37b",
+      "context": "header",
+      "nativeFloat": 0.675000011920929,
+      "savedTwips": 14
+    },
+    {
+      "input": 0.725,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0.75,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-5",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "be7730cc2748e139a92231b0af7e17e944862aa11d6525ffb0d53315f3266a78",
+      "context": "header",
+      "nativeFloat": 0.7250000238418579,
+      "savedTwips": 15
+    },
+    {
+      "input": 0.775,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0.75,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-6",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "a69d364747157429d16da5a8c6c69f89f4888873541bc536b2a40836e5f431d8",
+      "context": "header",
+      "nativeFloat": 0.7749999761581421,
+      "savedTwips": 15
+    },
+    {
+      "input": -0.025,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": -0.05000000074505806,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-7",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "08213b153fa129e95b50053c127b91314aa6132a4270747958edd90efb257f78",
+      "context": "header",
+      "nativeFloat": -0.02500000037252903,
+      "savedTwips": -1
+    },
+    {
+      "input": -0.075,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": -0.10000000149011612,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-8",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "56af1a814db2fc406437544c59b6cb84a792004b20ce384173315ce9870f7f3a",
+      "context": "header",
+      "nativeFloat": -0.07500000298023224,
+      "savedTwips": -2
+    },
+    {
+      "input": -0.625,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": -0.6499999761581421,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-9",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "606bad979a2a1e4c8eb62a8ad32364ac4fd3214e86afe21784e8363a16525c3f",
+      "context": "header",
+      "nativeFloat": -0.625,
+      "savedTwips": -13
+    },
+    {
+      "input": -0.67499999,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": -0.699999988079071,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-10",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "145d0996e46fc068ef40bb89b965bca52819e9431dfe01471fded4776e2aa60c",
+      "context": "header",
+      "nativeFloat": -0.675000011920929,
+      "savedTwips": -14
+    },
+    {
+      "input": -0.725,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": -0.75,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-11",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "3cadb165f3bff14e7cb5fcf64952b50614728edb69483c6dcbb7aaa915f25fdc",
+      "context": "header",
+      "nativeFloat": -0.7250000238418579,
+      "savedTwips": -15
+    },
+    {
+      "input": -0.775,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": -0.75,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-12",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "c9b2caf1f4ab8262a36d15209bc2623628f456c1f84b0ae4b768b86a09cf28dd",
+      "context": "header",
+      "nativeFloat": -0.7749999761581421,
+      "savedTwips": -15
+    },
+    {
+      "input": 36,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 36,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-13",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "4e806b021ff4ddefcb77f52ebdc3e635a12cde5cf0e83ecc90259dd77ac9fbe7",
+      "context": "header",
+      "nativeFloat": 36,
+      "savedTwips": 720
+    },
+    {
+      "input": 720,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 720,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-14",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "2b285b5061e07b4483f55dd3688cc3feb6b0953ee6286562959667475a01cf8b",
+      "context": "header",
+      "nativeFloat": 720,
+      "savedTwips": 14400
+    },
+    {
+      "input": 720.00001,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 720,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-15",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "9dc8625267ce636b78e30539f53e921236f5436e0639a9af7c9553ef88eaa5e2",
+      "context": "header",
+      "nativeFloat": 720,
+      "savedTwips": 14400
+    },
+    {
+      "input": 720.025,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 720.0499877929688,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-16",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "f215567995b53e16d86ab8ded04b89e2b5d357649193207e82e11e0510a7b39f",
+      "context": "header",
+      "nativeFloat": 720.0250244140625,
+      "savedTwips": 14401
+    },
+    {
+      "input": 721,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 721,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-17",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "85a19db3e63a4956fdc9e601531d087c6e5965cc959976f5c50b3f47e2dc3283",
+      "context": "header",
+      "nativeFloat": 721,
+      "savedTwips": 14420
+    },
+    {
+      "input": 1584,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 1584,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-18",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "5105d3f1eb7ce1be80e5f04488adfda144af1e03a9bf369c915ec482ebda4bcc",
+      "context": "header",
+      "nativeFloat": 1584,
+      "savedTwips": 31680
+    },
+    {
+      "input": 1584.00001,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": 1584,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-19",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "500f05fd907793de3d45c6e4b185cdb51f76ea20010dba705f260206bac35beb",
+      "context": "header",
+      "nativeFloat": 1584,
+      "savedTwips": 31680
+    },
+    {
+      "input": 1584.025,
+      "accepted": false,
+      "property": "LeftIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-20",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "f8e112d6bdfb44a19377fc746cda61e3000c5a616667ea8dee667645c39aef1d",
+      "context": "header",
+      "nativeFloat": 1584.0250244140625,
+      "savedTwips": 0
+    },
+    {
+      "input": 1585,
+      "accepted": false,
+      "property": "LeftIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-21",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "4e33568fc6a79ca9efa9d0efe5f438f5e40561bb61a72b90e7519cf04ac41c19",
+      "context": "header",
+      "nativeFloat": 1585,
+      "savedTwips": 0
+    },
+    {
+      "input": -720,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": -720,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-22",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "935156372bd04367fe6378c5bb0e7aca278d4f2d0d1c7428057f1a3362ec0739",
+      "context": "header",
+      "nativeFloat": -720,
+      "savedTwips": -14400
+    },
+    {
+      "input": -721,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": -721,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-23",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "c7ee378ddbce90e8a5ce735028781b1f4e0b4a56f30b952682c60a1eb10c9c7d",
+      "context": "header",
+      "nativeFloat": -721,
+      "savedTwips": -14420
+    },
+    {
+      "input": -1584,
+      "accepted": true,
+      "property": "LeftIndent",
+      "error": null,
+      "after": {
+        "indentStart": -1584,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-24",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "e96f1d71d7f64272d1ad8b41eaa5fe13da16165ae8c00f0db6ca5f84a32518f9",
+      "context": "header",
+      "nativeFloat": -1584,
+      "savedTwips": -31680
+    },
+    {
+      "input": -1584.025,
+      "accepted": false,
+      "property": "LeftIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-25",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "d696e22434e50663ee31d03787e12f6014e5f995cb921e5cf2cf64856818ff27",
+      "context": "header",
+      "nativeFloat": -1584.0250244140625,
+      "savedTwips": 0
+    },
+    {
+      "input": -1585,
+      "accepted": false,
+      "property": "LeftIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-26",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "1aab65e9248f91bda83e7b93a4c21b519c914a93ab67e2998ffac7eb584c379b",
+      "context": "header",
+      "nativeFloat": -1585,
+      "savedTwips": 0
+    },
+    {
+      "input": 100000,
+      "accepted": false,
+      "property": "LeftIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-LeftIndent-27",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "bdf6af96a21387dc138f2c4cc993cd3c963a5e620e818fca544cac970e74269b",
+      "context": "header",
+      "nativeFloat": 100000,
+      "savedTwips": 0
+    },
+    {
+      "input": 0,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-RightIndent-0",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "98a0352684f3a5e78fc5bcfb87c298fc9b464c5b347d19bdda796d6abd1a7fd6",
+      "context": "header",
+      "nativeFloat": 0,
+      "savedTwips": 0
+    },
+    {
+      "input": 0.025,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0.05000000074505806
+      },
+      "name": "header-RightIndent-1",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "78ccf53c3a42f4fa32e18f70ef94fcbc06adfb3ceec92df05ea0963f14b7fb8a",
+      "context": "header",
+      "nativeFloat": 0.02500000037252903,
+      "savedTwips": 1
+    },
+    {
+      "input": 0.075,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0.10000000149011612
+      },
+      "name": "header-RightIndent-2",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "c050c3ef86e8dcc7a1eba1baa7d84e8c8a1e750b137cabcd6d8f9c0f5bc3eb4d",
+      "context": "header",
+      "nativeFloat": 0.07500000298023224,
+      "savedTwips": 2
+    },
+    {
+      "input": 0.625,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0.6499999761581421
+      },
+      "name": "header-RightIndent-3",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "83fc701788e4f95e7fdc6aa8a515a899f69c998a3c1129f434b7491c62b5efb3",
+      "context": "header",
+      "nativeFloat": 0.625,
+      "savedTwips": 13
+    },
+    {
+      "input": 0.67499999,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0.699999988079071
+      },
+      "name": "header-RightIndent-4",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "86867d3e117b622aacc24add65e2ff7cefc9b86feae7809888c26a1087c27469",
+      "context": "header",
+      "nativeFloat": 0.675000011920929,
+      "savedTwips": 14
+    },
+    {
+      "input": 0.725,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0.75
+      },
+      "name": "header-RightIndent-5",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "fdf4317ceb87130667e7bc4a75ddb22e76ec6640529addcb284261fb9bc968fe",
+      "context": "header",
+      "nativeFloat": 0.7250000238418579,
+      "savedTwips": 15
+    },
+    {
+      "input": 0.775,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0.75
+      },
+      "name": "header-RightIndent-6",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "d639aa01c55cbbbe6b12fa34ec8d4ccf4c0042225d74fc5c8c2ee7d8c6917a62",
+      "context": "header",
+      "nativeFloat": 0.7749999761581421,
+      "savedTwips": 15
+    },
+    {
+      "input": -0.025,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": -0.05000000074505806
+      },
+      "name": "header-RightIndent-7",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "5559b0ed25d3d36ace7c64844eb6e126fb6905b12e1e435e45abdbc6165a4078",
+      "context": "header",
+      "nativeFloat": -0.02500000037252903,
+      "savedTwips": -1
+    },
+    {
+      "input": -0.075,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": -0.10000000149011612
+      },
+      "name": "header-RightIndent-8",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "2990ad1f4efc87b7cec7acb3960563301d73327b3d5e570eab4cc41635c573a6",
+      "context": "header",
+      "nativeFloat": -0.07500000298023224,
+      "savedTwips": -2
+    },
+    {
+      "input": -0.625,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": -0.6499999761581421
+      },
+      "name": "header-RightIndent-9",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "5ce54c413d8e69c71ceed55eb73c4027daae3cbee910c15734373c59ca90a76c",
+      "context": "header",
+      "nativeFloat": -0.625,
+      "savedTwips": -13
+    },
+    {
+      "input": -0.67499999,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": -0.699999988079071
+      },
+      "name": "header-RightIndent-10",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "d32dfb8f221bc1b9d2b935d22a38d1b7ade7f9bef39b9a8402fe0498ac9ac8b6",
+      "context": "header",
+      "nativeFloat": -0.675000011920929,
+      "savedTwips": -14
+    },
+    {
+      "input": -0.725,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": -0.75
+      },
+      "name": "header-RightIndent-11",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "eff0e6324337ddc7c6e1b7a7e127cc5d57b7d222a730f1ea40e07f5ef7d3dfa8",
+      "context": "header",
+      "nativeFloat": -0.7250000238418579,
+      "savedTwips": -15
+    },
+    {
+      "input": -0.775,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": -0.75
+      },
+      "name": "header-RightIndent-12",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "6731810c53b0cbfb107823673c7658fa4b61655c11a178a69b794098174b1f4e",
+      "context": "header",
+      "nativeFloat": -0.7749999761581421,
+      "savedTwips": -15
+    },
+    {
+      "input": 36,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 36
+      },
+      "name": "header-RightIndent-13",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "100290bfd4beacf11e1de4afc900ff6b5d6fe0e9e04e53192bd115a6c9905a59",
+      "context": "header",
+      "nativeFloat": 36,
+      "savedTwips": 720
+    },
+    {
+      "input": 720,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 720
+      },
+      "name": "header-RightIndent-14",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "d1c071229318684ee19aa9dfe5a8b761aed1b6410b8e7953ab3e053b37b93590",
+      "context": "header",
+      "nativeFloat": 720,
+      "savedTwips": 14400
+    },
+    {
+      "input": 720.00001,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 720
+      },
+      "name": "header-RightIndent-15",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "adf1311fd0488938986f0f8271e77b0de9b559ec79c25e4cff548bc41fa60f73",
+      "context": "header",
+      "nativeFloat": 720,
+      "savedTwips": 14400
+    },
+    {
+      "input": 720.025,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 720.0499877929688
+      },
+      "name": "header-RightIndent-16",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "bf77a5c3e5e419e30950a77a9ad43380a71f7de7f627a1e1b81a8c1272c1f9b0",
+      "context": "header",
+      "nativeFloat": 720.0250244140625,
+      "savedTwips": 14401
+    },
+    {
+      "input": 721,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 721
+      },
+      "name": "header-RightIndent-17",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "48b7cdf372ffbe3db21f1dd71784a24e98f8e559fd25533426a53eb655eb9e12",
+      "context": "header",
+      "nativeFloat": 721,
+      "savedTwips": 14420
+    },
+    {
+      "input": 1584,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 1584
+      },
+      "name": "header-RightIndent-18",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "cb018464aaaa446f52c52b9cbd5da704500a02e8f4cbbf6a9d12a72c6fe7c683",
+      "context": "header",
+      "nativeFloat": 1584,
+      "savedTwips": 31680
+    },
+    {
+      "input": 1584.00001,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 1584
+      },
+      "name": "header-RightIndent-19",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "ccd9f31321441e775a46a8b42d83a0a98e1116591fd737d5a0f16d05ff181c71",
+      "context": "header",
+      "nativeFloat": 1584,
+      "savedTwips": 31680
+    },
+    {
+      "input": 1584.025,
+      "accepted": false,
+      "property": "RightIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-RightIndent-20",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "451c010cbab71c494bdf75d90eee614bbeaf77ba02a3d5e74fcccba396be5701",
+      "context": "header",
+      "nativeFloat": 1584.0250244140625,
+      "savedTwips": 0
+    },
+    {
+      "input": 1585,
+      "accepted": false,
+      "property": "RightIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-RightIndent-21",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "6008d678c563f339c33309b16c9d73347e16017bac79ee3508beb76737f1fc19",
+      "context": "header",
+      "nativeFloat": 1585,
+      "savedTwips": 0
+    },
+    {
+      "input": -720,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": -720
+      },
+      "name": "header-RightIndent-22",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "bb0638840761cc79e887e626237a3479182e13c5ab1159ba3e3115d7ea7a6df7",
+      "context": "header",
+      "nativeFloat": -720,
+      "savedTwips": -14400
+    },
+    {
+      "input": -721,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": -721
+      },
+      "name": "header-RightIndent-23",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "6948e2042d4e813e9c750de4d9a1ea99fc071abccceb83eda1067ab4d6f66bd5",
+      "context": "header",
+      "nativeFloat": -721,
+      "savedTwips": -14420
+    },
+    {
+      "input": -1584,
+      "accepted": true,
+      "property": "RightIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": -1584
+      },
+      "name": "header-RightIndent-24",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "9331df34dd275b08e0352cc9e832d4717e8fa3f8dfc1206719b60ac6cda0f285",
+      "context": "header",
+      "nativeFloat": -1584,
+      "savedTwips": -31680
+    },
+    {
+      "input": -1584.025,
+      "accepted": false,
+      "property": "RightIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-RightIndent-25",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "804c7e13a447e9b69c56e4ef8206c155ca0c7a85284a916ad2caf67695f8d13c",
+      "context": "header",
+      "nativeFloat": -1584.0250244140625,
+      "savedTwips": 0
+    },
+    {
+      "input": -1585,
+      "accepted": false,
+      "property": "RightIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-RightIndent-26",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "57990a25ae59a05aa90771a2dc1020e86460605947a98ad91c2ac48f130048e5",
+      "context": "header",
+      "nativeFloat": -1585,
+      "savedTwips": 0
+    },
+    {
+      "input": 100000,
+      "accepted": false,
+      "property": "RightIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-RightIndent-27",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "a6325914475f590789737ddc4b4479592db3fc92b17a142486dcdbbd3d919ae6",
+      "context": "header",
+      "nativeFloat": 100000,
+      "savedTwips": 0
+    },
+    {
+      "input": 0,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-0",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "5d135088170110e18cc05f0287cfb7c016b773dedf0f068f419cdf302b4f7937",
+      "context": "header",
+      "nativeFloat": 0,
+      "savedTwips": 0
+    },
+    {
+      "input": 0.025,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0.05000000074505806,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-1",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "e1fe9f44a576ca229240c7e5b635cfe04d8b20fb1c439cadb0e4960460ec2096",
+      "context": "header",
+      "nativeFloat": 0.02500000037252903,
+      "savedTwips": 1
+    },
+    {
+      "input": 0.075,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0.10000000149011612,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-2",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "a5eed1a43a89577e2d801a0d3e0057a76f64e31ee95132a0c000c0eae4d3d43c",
+      "context": "header",
+      "nativeFloat": 0.07500000298023224,
+      "savedTwips": 2
+    },
+    {
+      "input": 0.625,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0.6499999761581421,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-3",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "be99635feededb12083e80b94fda420c5f61cfd83baa8883d1d6b7047e65acab",
+      "context": "header",
+      "nativeFloat": 0.625,
+      "savedTwips": 13
+    },
+    {
+      "input": 0.67499999,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0.699999988079071,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-4",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "6776c23861c7f78c903084889595789f0f277398069974825c2cd2ffbe0bf569",
+      "context": "header",
+      "nativeFloat": 0.675000011920929,
+      "savedTwips": 14
+    },
+    {
+      "input": 0.725,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0.75,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-5",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "23bd1c2ed43302a149a107fa93491c8065c1eae437b6d7e5627b1e62cc733500",
+      "context": "header",
+      "nativeFloat": 0.7250000238418579,
+      "savedTwips": 15
+    },
+    {
+      "input": 0.775,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0.75,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-6",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "5e414118818fdaa7c960e0c47571edb5cbf4e6ca4f67bb40b06c8378946e333b",
+      "context": "header",
+      "nativeFloat": 0.7749999761581421,
+      "savedTwips": 15
+    },
+    {
+      "input": -0.025,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": -0.05000000074505806,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-7",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "8e188e76246e41fabc9d9fdb45a9d816ed9d72226d7fd4581fc34e539ff85bd8",
+      "context": "header",
+      "nativeFloat": -0.02500000037252903,
+      "savedTwips": -1
+    },
+    {
+      "input": -0.075,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": -0.10000000149011612,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-8",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "70b994cccb872602eaf00fa9456b8fc79cb059f1ce63bbe933a9becec0598899",
+      "context": "header",
+      "nativeFloat": -0.07500000298023224,
+      "savedTwips": -2
+    },
+    {
+      "input": -0.625,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": -0.6499999761581421,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-9",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "217776870920320f4159a78f1bae0c7208b14cf55c992ee8832479722e5e8b20",
+      "context": "header",
+      "nativeFloat": -0.625,
+      "savedTwips": -13
+    },
+    {
+      "input": -0.67499999,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": -0.699999988079071,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-10",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "4a121eeb5379cd82f6558668d9e01174e35fed32b401e664709ff2358cd94475",
+      "context": "header",
+      "nativeFloat": -0.675000011920929,
+      "savedTwips": -14
+    },
+    {
+      "input": -0.725,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": -0.75,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-11",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "7e83a0485c849467d66e038a54edbac16aee69caf025385ef47bed361ee6852b",
+      "context": "header",
+      "nativeFloat": -0.7250000238418579,
+      "savedTwips": -15
+    },
+    {
+      "input": -0.775,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": -0.75,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-12",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "770c5f5627012eafbf0909ffba6ffebc64acf26d351a5711fad98523fffb2809",
+      "context": "header",
+      "nativeFloat": -0.7749999761581421,
+      "savedTwips": -15
+    },
+    {
+      "input": 36,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 36,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-13",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "2e0f7271a44accf160d6d36e563b8907a9ff94429a2177b390a7b26b75d15f76",
+      "context": "header",
+      "nativeFloat": 36,
+      "savedTwips": 720
+    },
+    {
+      "input": 720,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 720,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-14",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "c876f16c36905815fdcf51dbdac3ee67a3522322165d54aeb8806bab04554875",
+      "context": "header",
+      "nativeFloat": 720,
+      "savedTwips": 14400
+    },
+    {
+      "input": 720.00001,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 720,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-15",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "76fdc3051171b71e5b9e27e8bec38a609f479d8dda86c711cac6f5c3c6a8f87f",
+      "context": "header",
+      "nativeFloat": 720,
+      "savedTwips": 14400
+    },
+    {
+      "input": 720.025,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 720.0499877929688,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-16",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "d1f4a92c150a27482af74d4acecc6fea19ffe13a978c10c8867e064c596bb0e5",
+      "context": "header",
+      "nativeFloat": 720.0250244140625,
+      "savedTwips": 14401
+    },
+    {
+      "input": 721,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 721,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-17",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "2511b21c2ec4cb3bb77313a06f12d0e42b144faa8e7b9f0baf71d55c42ace6eb",
+      "context": "header",
+      "nativeFloat": 721,
+      "savedTwips": 14420
+    },
+    {
+      "input": 1584,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 1584,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-18",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "36aa78ae4b841cacccb6571235e37f5bf06185141ca9841e2a8f0901f0f22d9b",
+      "context": "header",
+      "nativeFloat": 1584,
+      "savedTwips": 31680
+    },
+    {
+      "input": 1584.00001,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 1584,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-19",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "09ebc3938337be1e568f21574ed3bdbc7478a65c9af901fa1228a6da001debc9",
+      "context": "header",
+      "nativeFloat": 1584,
+      "savedTwips": 31680
+    },
+    {
+      "input": 1584.025,
+      "accepted": false,
+      "property": "FirstLineIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-20",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "34887354727de76db15f95782a1c4c47c09faf9473b7a0fefa956cb4ddfe49ab",
+      "context": "header",
+      "nativeFloat": 1584.0250244140625,
+      "savedTwips": 0
+    },
+    {
+      "input": 1585,
+      "accepted": false,
+      "property": "FirstLineIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-21",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "e7c02b68076e6f1fc693a7414ffcd234518f5217727f21effb722d1434ab0d36",
+      "context": "header",
+      "nativeFloat": 1585,
+      "savedTwips": 0
+    },
+    {
+      "input": -720,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": -720,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-22",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "ef2d1cce46e268e20b7fe7e3f8916aefdc233eaf46b97a6e6a58eebd6bb7c8e7",
+      "context": "header",
+      "nativeFloat": -720,
+      "savedTwips": -14400
+    },
+    {
+      "input": -721,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": -721,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-23",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "01542dd14c4bcc233b0714707837c9e40e1242322770bb2a5d3fc6ec43c3e40f",
+      "context": "header",
+      "nativeFloat": -721,
+      "savedTwips": -14420
+    },
+    {
+      "input": -1584,
+      "accepted": true,
+      "property": "FirstLineIndent",
+      "error": null,
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": -1584,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-24",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "92b0e78f4ae84de70618f7feedbf1046fb833bfda482f2167bd6f3b4e6550d17",
+      "context": "header",
+      "nativeFloat": -1584,
+      "savedTwips": -31680
+    },
+    {
+      "input": -1584.025,
+      "accepted": false,
+      "property": "FirstLineIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-25",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "99f61b9fadca9d8886c303c6eaf02fd41097095dc5b7cb7e31c76dbbe2f8ad6c",
+      "context": "header",
+      "nativeFloat": -1584.0250244140625,
+      "savedTwips": 0
+    },
+    {
+      "input": -1585,
+      "accepted": false,
+      "property": "FirstLineIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-26",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "f4887d5d5457e5596360a0f400cba136a135fc91ef8f27bcd16b8eb15536b1bd",
+      "context": "header",
+      "nativeFloat": -1585,
+      "savedTwips": 0
+    },
+    {
+      "input": 100000,
+      "accepted": false,
+      "property": "FirstLineIndent",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen -1584 Pt. und 1584 Pt. liegen.",
+      "after": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "name": "header-FirstLineIndent-27",
+      "before": {
+        "indentStart": 0,
+        "firstLineIndent": 0,
+        "indentEnd": 0
+      },
+      "docxHash": "fb7fa1e2ae86d64d26c5cddd48a9f130de3ce163546f21e1003442dc658fcf6d",
+      "context": "header",
+      "nativeFloat": 100000,
+      "savedTwips": 0
+    }
+  ],
+  "originalHash": "abccded4713e73f450d33bfbbfc8cb93389dfd7bbfcb03dd645723e0095c9e4a",
+  "nativeReportHash": "d79091defdcc53ee4a82d274ec6ddbca173ca8cc22aec789eddaeee82a511a0e",
+  "provenance": "168 independent native body/header physical-indent setters; read-only authored source, original preserved. Saved OOXML and COM properties cross-check twips; rejection leaves all three indents unchanged. No native dialog or broad layout-boundary certification."
+}

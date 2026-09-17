@@ -1,0 +1,1010 @@
+{
+  "rows": [
+    {
+      "rule": "auto",
+      "amount": 0,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 5,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "auto",
+      "amount": 0.004166666666666667,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 5,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "auto",
+      "amount": 0.008333333333333333,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 5,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "auto",
+      "amount": 0.01,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 5,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "auto",
+      "amount": 0.025,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 5,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "auto",
+      "amount": 0.05,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 5,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "auto",
+      "amount": 0.075,
+      "accepted": true,
+      "expected": {
+        "rule": "auto",
+        "line": 18
+      },
+      "nativePoints": 0.8999999761581421,
+      "nativeRule": 5,
+      "nativeFileHash": "304ae3b3dcca72844f988a573915ef40ada215029b387b75c143e1d04934c6af",
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "auto",
+      "amount": 0.1,
+      "accepted": true,
+      "expected": {
+        "rule": "auto",
+        "line": 24
+      },
+      "nativePoints": 1.2000000476837158,
+      "nativeRule": 5,
+      "nativeFileHash": "2a4cf04af570d5734fb37a0ff404f5e9293b0ae47e697a7254a009f763a875b2",
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "auto",
+      "amount": 1.15,
+      "accepted": true,
+      "expected": {
+        "rule": "auto",
+        "line": 276
+      },
+      "nativePoints": 13.800000190734863,
+      "nativeRule": 5,
+      "nativeFileHash": "aa6ec43d23444b61e100f99bfb149a13eaf6c863909c722cb51798d876fc6fb8",
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "auto",
+      "amount": 131.999,
+      "accepted": true,
+      "expected": {
+        "rule": "auto",
+        "line": 31680
+      },
+      "nativePoints": 1584,
+      "nativeRule": 5,
+      "nativeFileHash": "bf2fb329e37cf22258a86433511b3524c99bcf966ed406f91d9e0ea1888644a2",
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "auto",
+      "amount": 132,
+      "accepted": true,
+      "expected": {
+        "rule": "auto",
+        "line": 31680
+      },
+      "nativePoints": 1584,
+      "nativeRule": 5,
+      "nativeFileHash": "08df8c0b5eebe6fa1165670357f799ecf3ef771679d10055419cca9369819b73",
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "auto",
+      "amount": 132.01,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 5,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "auto",
+      "amount": 1584,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 5,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "auto",
+      "amount": 1584.05,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 5,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "exact",
+      "amount": 0,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 4,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "exact",
+      "amount": 0.004166666666666667,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 4,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "exact",
+      "amount": 0.008333333333333333,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 4,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "exact",
+      "amount": 0.01,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 4,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "exact",
+      "amount": 0.025,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 4,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "exact",
+      "amount": 0.05,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 4,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "exact",
+      "amount": 0.075,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 4,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "exact",
+      "amount": 0.1,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 4,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "exact",
+      "amount": 1.15,
+      "accepted": true,
+      "expected": {
+        "rule": "exact",
+        "line": 23
+      },
+      "nativePoints": 1.149999976158142,
+      "nativeRule": 4,
+      "nativeFileHash": "92df052d5100e750805ea9c29ea4cf0b8015800d5dded8de96da34381d429b3b",
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "exact",
+      "amount": 131.999,
+      "accepted": true,
+      "expected": {
+        "rule": "exact",
+        "line": 2640
+      },
+      "nativePoints": 132,
+      "nativeRule": 4,
+      "nativeFileHash": "400eb5628860edf02eb5230b30ff95dcd85734af8e8599969a8e8d65651aa7c3",
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "exact",
+      "amount": 132,
+      "accepted": true,
+      "expected": {
+        "rule": "exact",
+        "line": 2640
+      },
+      "nativePoints": 132,
+      "nativeRule": 4,
+      "nativeFileHash": "05b1224f2937df7f897c57d411a0a13e7a8dfe0a6ac9e715c7ca36e2e1ba0530",
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "exact",
+      "amount": 132.01,
+      "accepted": true,
+      "expected": {
+        "rule": "exact",
+        "line": 2640
+      },
+      "nativePoints": 132,
+      "nativeRule": 4,
+      "nativeFileHash": "edef4cc1d5e5100cee33be76412954b3c2811d226799ab3354a2b5aafc5de703",
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "exact",
+      "amount": 1584,
+      "accepted": true,
+      "expected": {
+        "rule": "exact",
+        "line": 31680
+      },
+      "nativePoints": 1584,
+      "nativeRule": 4,
+      "nativeFileHash": "77180b7d8dc058f9024e06929be8fc52a62ea42693e1dd9ed388bf0cb3cfa9a5",
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "exact",
+      "amount": 1584.05,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 4,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 0,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 3,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 0.004166666666666667,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 3,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 0.008333333333333333,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 3,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 0.01,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 3,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 0.025,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 3,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 0.05,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 3,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 0.075,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 3,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 0.1,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 3,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 1.15,
+      "accepted": true,
+      "expected": {
+        "rule": "atLeast",
+        "line": 23
+      },
+      "nativePoints": 1.149999976158142,
+      "nativeRule": 3,
+      "nativeFileHash": "d6d58d0f3226735c2f4a5d8a0379019658b436ea6e187c0b78122177105187ea",
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 131.999,
+      "accepted": true,
+      "expected": {
+        "rule": "atLeast",
+        "line": 2640
+      },
+      "nativePoints": 132,
+      "nativeRule": 3,
+      "nativeFileHash": "752e13fc28cf3e520a9229ce72b71ac85a20c0542dab7aa6a3b1e6ead2614ecb",
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 132,
+      "accepted": true,
+      "expected": {
+        "rule": "atLeast",
+        "line": 2640
+      },
+      "nativePoints": 132,
+      "nativeRule": 3,
+      "nativeFileHash": "f34a424ce35dc9355bf0d8312e14163f16ea11c2da6b2ccf88b229598b073b35",
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 132.01,
+      "accepted": true,
+      "expected": {
+        "rule": "atLeast",
+        "line": 2640
+      },
+      "nativePoints": 132,
+      "nativeRule": 3,
+      "nativeFileHash": "f8b80687231c502422054d28f9a589d2044f891cb1fdb28bab83b35ed42e87c7",
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 1584,
+      "accepted": true,
+      "expected": {
+        "rule": "atLeast",
+        "line": 31680
+      },
+      "nativePoints": 1584,
+      "nativeRule": 3,
+      "nativeFileHash": "4e382c3ec68cb12edafba8d95d4a46ff32c5ddca1b2fd33f9d163497f004da0b",
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 1584.05,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 3,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v4"
+    },
+    {
+      "rule": "auto",
+      "amount": 0.05624999,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 5,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "auto",
+      "amount": 0.05625,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 5,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "auto",
+      "amount": 0.058,
+      "accepted": true,
+      "expected": {
+        "rule": "auto",
+        "line": 14
+      },
+      "nativePoints": 0.699999988079071,
+      "nativeRule": 5,
+      "nativeFileHash": "b33b542051a55d992d47c7bf73f9a775ccffec48b17cf03137275739b54792f7",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "auto",
+      "amount": 0.0583333,
+      "accepted": true,
+      "expected": {
+        "rule": "auto",
+        "line": 14
+      },
+      "nativePoints": 0.699999988079071,
+      "nativeRule": 5,
+      "nativeFileHash": "dcb3f1f5a5c9e7b5681a70ffc6181ec3bcd0652a0b50bb6470658dc27128dbf1",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "auto",
+      "amount": 0.058333333333333334,
+      "accepted": true,
+      "expected": {
+        "rule": "auto",
+        "line": 14
+      },
+      "nativePoints": 0.699999988079071,
+      "nativeRule": 5,
+      "nativeFileHash": "0da958e8123c336930e64acfc514410bb9538a7fafcf71b9bd986cb12da2d22d",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "auto",
+      "amount": 0.0583334,
+      "accepted": true,
+      "expected": {
+        "rule": "auto",
+        "line": 14
+      },
+      "nativePoints": 0.699999988079071,
+      "nativeRule": 5,
+      "nativeFileHash": "ed601f1d2372c673038f3a18f1d4dae671b248e8ecc50a8873cfed0b7b16b24d",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "auto",
+      "amount": 0.06,
+      "accepted": true,
+      "expected": {
+        "rule": "auto",
+        "line": 14
+      },
+      "nativePoints": 0.699999988079071,
+      "nativeRule": 5,
+      "nativeFileHash": "cbeb5e3c9733c06611ace6a5887a3f76dd2b6facc95853c7ac940f3863784546",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "auto",
+      "amount": 1.0020833333333332,
+      "accepted": true,
+      "expected": {
+        "rule": "auto",
+        "line": 240
+      },
+      "nativePoints": 12,
+      "nativeRule": 0,
+      "nativeFileHash": "c0c581d16f81747d837f717ca091c5cec149500606f7dc91ba210978cb46e9c0",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "auto",
+      "amount": 1.00625,
+      "accepted": true,
+      "expected": {
+        "rule": "auto",
+        "line": 242
+      },
+      "nativePoints": 12.100000381469727,
+      "nativeRule": 5,
+      "nativeFileHash": "0c8a07e72b1d7420efc0e07875e348bebfd2484dd0d3f27961c4e666b2065b3d",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "auto",
+      "amount": 1.0104166666666667,
+      "accepted": true,
+      "expected": {
+        "rule": "auto",
+        "line": 243
+      },
+      "nativePoints": 12.149999618530273,
+      "nativeRule": 5,
+      "nativeFileHash": "f387abd4927aef901216cc5ad1500df6b221ca360ab0cec2ee77f34fa05fb558",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "auto",
+      "amount": 132.00001,
+      "accepted": true,
+      "expected": {
+        "rule": "auto",
+        "line": 31680
+      },
+      "nativePoints": 1584,
+      "nativeRule": 5,
+      "nativeFileHash": "44d215bfdeca01f1bd27ebfdc319518113e8c74735723abb6bbcd9ee7812e281",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "exact",
+      "amount": 0.65,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 4,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "exact",
+      "amount": 0.67499999,
+      "accepted": true,
+      "expected": {
+        "rule": "exact",
+        "line": 14
+      },
+      "nativePoints": 0.699999988079071,
+      "nativeRule": 4,
+      "nativeFileHash": "cde4b056f827fea99845fc4c01f1d7ff1c03450cc661492884a30167c67d6a07",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "exact",
+      "amount": 0.675,
+      "accepted": true,
+      "expected": {
+        "rule": "exact",
+        "line": 14
+      },
+      "nativePoints": 0.699999988079071,
+      "nativeRule": 4,
+      "nativeFileHash": "0a3980f363dcd1426685a36d689cd4da99de199724669cf80799d94b7a0b8231",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "exact",
+      "amount": 0.699,
+      "accepted": true,
+      "expected": {
+        "rule": "exact",
+        "line": 14
+      },
+      "nativePoints": 0.699999988079071,
+      "nativeRule": 4,
+      "nativeFileHash": "6acfd6111f76af84d6d592d774da1213be9adf275fb75e2d575b2bace5584c0b",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "exact",
+      "amount": 0.69999999,
+      "accepted": true,
+      "expected": {
+        "rule": "exact",
+        "line": 14
+      },
+      "nativePoints": 0.699999988079071,
+      "nativeRule": 4,
+      "nativeFileHash": "f51fc850843aacfc9fa1d354beb6687ae2a081d6dc4b932c2f3a41364ccf4cd0",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "exact",
+      "amount": 0.7,
+      "accepted": true,
+      "expected": {
+        "rule": "exact",
+        "line": 14
+      },
+      "nativePoints": 0.699999988079071,
+      "nativeRule": 4,
+      "nativeFileHash": "ff1c9daa549627bf14877e21b3da7dec2b0b454740aef53cf0360dd6ad773203",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "exact",
+      "amount": 0.72499999,
+      "accepted": true,
+      "expected": {
+        "rule": "exact",
+        "line": 14
+      },
+      "nativePoints": 0.699999988079071,
+      "nativeRule": 4,
+      "nativeFileHash": "abe9c1d90392001e94f51d1cf88313d7c7a58767428ed012f2d6d14e672a51c6",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "exact",
+      "amount": 0.725,
+      "accepted": true,
+      "expected": {
+        "rule": "exact",
+        "line": 15
+      },
+      "nativePoints": 0.75,
+      "nativeRule": 4,
+      "nativeFileHash": "b1405638c66ef56f23b68dcfb9e3124e0b8896ebb42cb35d3f8bd962d874b541",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "exact",
+      "amount": 0.74999999,
+      "accepted": true,
+      "expected": {
+        "rule": "exact",
+        "line": 15
+      },
+      "nativePoints": 0.75,
+      "nativeRule": 4,
+      "nativeFileHash": "9eec7f169a725cf6323c2086cada4126a411e1b34081afe19b9d8b354845c55a",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "exact",
+      "amount": 0.75,
+      "accepted": true,
+      "expected": {
+        "rule": "exact",
+        "line": 15
+      },
+      "nativePoints": 0.75,
+      "nativeRule": 4,
+      "nativeFileHash": "21b0b48c5afce448c5e69b25d7af8eb8dabe1e4e6802072bd79d8a1334545c29",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "exact",
+      "amount": 0.775,
+      "accepted": true,
+      "expected": {
+        "rule": "exact",
+        "line": 15
+      },
+      "nativePoints": 0.75,
+      "nativeRule": 4,
+      "nativeFileHash": "03c53871be919eeaeb7bf6c74d5d4946bcfd4a9b283113b4c7b6d40254229d01",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "exact",
+      "amount": 1584.00001,
+      "accepted": true,
+      "expected": {
+        "rule": "exact",
+        "line": 31680
+      },
+      "nativePoints": 1584,
+      "nativeRule": 4,
+      "nativeFileHash": "77a523f9a3885c3286c5255ffed6d0fda0cbda9db8646af635783f451d66cacb",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 0.65,
+      "accepted": false,
+      "expected": null,
+      "nativePoints": 40,
+      "nativeRule": 3,
+      "nativeFileHash": null,
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 0.67499999,
+      "accepted": true,
+      "expected": {
+        "rule": "atLeast",
+        "line": 14
+      },
+      "nativePoints": 0.699999988079071,
+      "nativeRule": 3,
+      "nativeFileHash": "22f9f415760ab2efff2dea338a0cd84e7bdc6580670d147064c50295480f1e13",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 0.675,
+      "accepted": true,
+      "expected": {
+        "rule": "atLeast",
+        "line": 14
+      },
+      "nativePoints": 0.699999988079071,
+      "nativeRule": 3,
+      "nativeFileHash": "39174413ac5449d071e15c0c67300614c3123407354992047e563d78507912f3",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 0.699,
+      "accepted": true,
+      "expected": {
+        "rule": "atLeast",
+        "line": 14
+      },
+      "nativePoints": 0.699999988079071,
+      "nativeRule": 3,
+      "nativeFileHash": "dd205bc987d0ad3a39f96d978a5b5bc861e07700491d276d0908ef6862593496",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 0.69999999,
+      "accepted": true,
+      "expected": {
+        "rule": "atLeast",
+        "line": 14
+      },
+      "nativePoints": 0.699999988079071,
+      "nativeRule": 3,
+      "nativeFileHash": "b85f1d31a1ee67e25302824449e7b896c9e0c737afacd4251ff47da8bc494d4c",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 0.7,
+      "accepted": true,
+      "expected": {
+        "rule": "atLeast",
+        "line": 14
+      },
+      "nativePoints": 0.699999988079071,
+      "nativeRule": 3,
+      "nativeFileHash": "294c677cc48d889c5c5014b1e779f6e4458f50655fd91e7d8bd2bdcdb4c3abf3",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 0.72499999,
+      "accepted": true,
+      "expected": {
+        "rule": "atLeast",
+        "line": 14
+      },
+      "nativePoints": 0.699999988079071,
+      "nativeRule": 3,
+      "nativeFileHash": "65f9d50a2be9950bfaddff446df174339623785e8f5236383102788e5067afe6",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 0.725,
+      "accepted": true,
+      "expected": {
+        "rule": "atLeast",
+        "line": 15
+      },
+      "nativePoints": 0.75,
+      "nativeRule": 3,
+      "nativeFileHash": "fdec1680ea4d22320e66605a43ef4dfd879a9ed7e81064534b57dc9a1ea4e8b5",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 0.74999999,
+      "accepted": true,
+      "expected": {
+        "rule": "atLeast",
+        "line": 15
+      },
+      "nativePoints": 0.75,
+      "nativeRule": 3,
+      "nativeFileHash": "0b8bf79e2df458c85c3a037b8bea6ef8b6d34baf08b7a41b59ffea84bcdef74e",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 0.75,
+      "accepted": true,
+      "expected": {
+        "rule": "atLeast",
+        "line": 15
+      },
+      "nativePoints": 0.75,
+      "nativeRule": 3,
+      "nativeFileHash": "d83461b7ec30db11004910948e3c2b79c818ea291f0a3d5eb829cccc24ce7554",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 0.775,
+      "accepted": true,
+      "expected": {
+        "rule": "atLeast",
+        "line": 15
+      },
+      "nativePoints": 0.75,
+      "nativeRule": 3,
+      "nativeFileHash": "2293d70bdf843bf1bd43e8a23f891900098155a5b64b09d9edd94c79cd1e3bbc",
+      "receipt": "boundaries-native-v6"
+    },
+    {
+      "rule": "atLeast",
+      "amount": 1584.00001,
+      "accepted": true,
+      "expected": {
+        "rule": "atLeast",
+        "line": 31680
+      },
+      "nativePoints": 1584,
+      "nativeRule": 3,
+      "nativeFileHash": "5359b5680e2579d3e3b130c160e508bb811344fe110fe09fe6e68b268fb6eaa5",
+      "receipt": "boundaries-native-v6"
+    }
+  ],
+  "imports": [
+    {
+      "reapplyAccepted": false,
+      "savedFile": "import-auto-1.docx",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen 0,7 Pt. und 1584 Pt. liegen.",
+      "sample": {
+        "file": ".local/word-story-line-authoring/tiny-import-sources-v2/auto-1.docx",
+        "rule": "auto",
+        "line": 1,
+        "sha256": "bb2929cd4e634e813806a038df6d73657df55ba105b8ac1dd3ef49299a7b3a83"
+      },
+      "final": {
+        "rule": 5,
+        "points": 0.05000000074505806
+      },
+      "initial": {
+        "rule": 5,
+        "points": 0.05000000074505806
+      },
+      "savedHash": "f707a551c26c54627e1f9e93d4167928fdc99575111d0b6c935531537d9f27fa"
+    },
+    {
+      "reapplyAccepted": false,
+      "savedFile": "import-auto-2.docx",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen 0,7 Pt. und 1584 Pt. liegen.",
+      "sample": {
+        "file": ".local/word-story-line-authoring/tiny-import-sources-v2/auto-2.docx",
+        "rule": "auto",
+        "line": 2,
+        "sha256": "9b6980c312b3df193f22e60b660a44ff9c35da89e6d40c36c15f1be22b592321"
+      },
+      "final": {
+        "rule": 5,
+        "points": 0.10000000149011612
+      },
+      "initial": {
+        "rule": 5,
+        "points": 0.10000000149011612
+      },
+      "savedHash": "8e3fa3e6bb31dd4b113ac235349a178424d50ba1c04499ee40f4765d96cbfab5"
+    },
+    {
+      "reapplyAccepted": false,
+      "savedFile": "import-exact-1.docx",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen 0,7 Pt. und 1584 Pt. liegen.",
+      "sample": {
+        "file": ".local/word-story-line-authoring/tiny-import-sources-v2/exact-1.docx",
+        "rule": "exact",
+        "line": 1,
+        "sha256": "541ed4710c63c6d5c887fe481d0b65a3ff8ec03283f1387503609fd36836fd50"
+      },
+      "final": {
+        "rule": 4,
+        "points": 0.05000000074505806
+      },
+      "initial": {
+        "rule": 4,
+        "points": 0.05000000074505806
+      },
+      "savedHash": "bc29a6f39384118d6e0671d2d0d9880888b3ccf607c677a3b5951b84774186a8"
+    },
+    {
+      "reapplyAccepted": false,
+      "savedFile": "import-exact-13.docx",
+      "error": "Der Wert f\u00fcr das Ma\u00df muss zwischen 0,7 Pt. und 1584 Pt. liegen.",
+      "sample": {
+        "file": ".local/word-story-line-authoring/tiny-import-sources-v2/exact-13.docx",
+        "rule": "exact",
+        "line": 13,
+        "sha256": "3dc87059c388a56ba99e64b5bd2829897141e9321072ae9a42f1bf9deef62cfd"
+      },
+      "final": {
+        "rule": 4,
+        "points": 0.6499999761581421
+      },
+      "initial": {
+        "rule": 4,
+        "points": 0.6499999761581421
+      },
+      "savedHash": "a9e3688b8dc5c3b6d10b3139d15cbe763586021a2340ed3005bf2d79b843fc7f"
+    }
+  ],
+  "receipts": [
+    {
+      "path": ".local/word-story-line-authoring/boundaries-native-v4/native-report.json",
+      "sha256": "eaa1fd1f5e4893c117b921a38568a023610b730e3df2fea23d85a8ae58909423",
+      "scriptHash": "5ac3f7c1fc91760fc1b7c8323a7a653ec875a3cc041bdccdeabadc09171e866f",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "path": ".local/word-story-line-authoring/boundaries-native-v6/native-report.json",
+      "sha256": "a5d6fa79f0898cf358156d79d1b916c4a50507e7f91f6213d30bc532bf195261",
+      "scriptHash": "2c9b75002e34f5ec8f8a53c26691784f6e9c80fe2ae1b0773ba4aaaa473d68e2",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    }
+  ],
+  "producerHash": "1cf1715bc27878418c0d817bde209d99524fa1e6adbfc63bd8575182ba7b7fe1",
+  "provenance": "Synthetic MIT fixture; independently measured pinned Word COM setters and actual saved OOXML. Below-minimum imported values survive save, but native numeric reapplication rejects. Native dialog interaction and tiny-line glyph rendering are not certified."
+}

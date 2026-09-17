@@ -1,0 +1,108 @@
+{
+  "application": "Microsoft Excel",
+  "version": "16.0",
+  "build": 4627,
+  "locale": 1031,
+  "inputSha256": "61abc07aca35307768bbf1d281d103b2c4ac9f5cb0aca1af324e5ebfc9b0c283",
+  "cases": [
+    {
+      "code": ".00",
+      "input": 1.5,
+      "date1904": false,
+      "nativeCode": ".00",
+      "nativeValue": 1.5,
+      "value": "1.50",
+      "kind": "value"
+    },
+    {
+      "code": ".00",
+      "input": 0,
+      "date1904": false,
+      "nativeCode": ".00",
+      "nativeValue": 0,
+      "value": ".00",
+      "kind": "value"
+    },
+    {
+      "code": "0.00",
+      "input": -0.0001,
+      "date1904": false,
+      "nativeCode": "0.00",
+      "nativeValue": -0.0001,
+      "value": "0.00",
+      "kind": "value"
+    },
+    {
+      "code": "[\u003e100]0.00;0.00",
+      "input": -2.5,
+      "date1904": false,
+      "nativeCode": "[\u003e100]0.00;0.00",
+      "nativeValue": -2.5,
+      "value": "-2.50",
+      "kind": "value"
+    },
+    {
+      "code": "[\u003c0]0.00;0.00",
+      "input": -2.5,
+      "date1904": false,
+      "nativeCode": "[\u003c0]0.00;0.00",
+      "nativeValue": -2.5,
+      "value": "2.50",
+      "kind": "value"
+    },
+    {
+      "code": "[\u003e100]0.00;[\u003c0]0.00;0.00",
+      "input": -2.5,
+      "date1904": false,
+      "nativeCode": "[\u003e100]0.00;[\u003c0]0.00;0.00",
+      "nativeValue": -2.5,
+      "value": "2.50",
+      "kind": "value"
+    },
+    {
+      "code": "0.00",
+      "input": 999999999999999,
+      "date1904": false,
+      "nativeCode": "0.00",
+      "nativeValue": 999999999999999,
+      "value": "999999999999999.00",
+      "kind": "value"
+    },
+    {
+      "code": "[\u003c10]0.00;0.00",
+      "input": -2.5,
+      "date1904": false,
+      "nativeCode": "[\u003c10]0.00;0.00",
+      "nativeValue": -2.5,
+      "value": "-2.50",
+      "kind": "value"
+    },
+    {
+      "code": "[\u003e-10]0.00;0.00",
+      "input": -2.5,
+      "date1904": false,
+      "nativeCode": "[\u003e-10]0.00;0.00",
+      "nativeValue": -2.5,
+      "value": "-2.50",
+      "kind": "value"
+    },
+    {
+      "code": "[\u003c-10]0.00;[\u003e10]0.00;0.00",
+      "input": -2.5,
+      "date1904": false,
+      "nativeCode": "[\u003c-10]0.00;[\u003e10]0.00;0.00",
+      "nativeValue": -2.5,
+      "value": "-2.50",
+      "kind": "value"
+    },
+    {
+      "code": "0.00;[\u003c0]0.00",
+      "input": -2.5,
+      "date1904": false,
+      "nativeCode": "0.00;[\u003c0]0.00",
+      "nativeValue": -2.5,
+      "value": "2.50",
+      "kind": "value"
+    }
+  ]
+}

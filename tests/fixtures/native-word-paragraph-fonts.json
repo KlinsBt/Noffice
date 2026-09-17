@@ -1,0 +1,1876 @@
+{
+  "cases": [
+    {
+      "selection": {
+        "font": "Courier New",
+        "end": 0,
+        "size": 20,
+        "start": 0
+      },
+      "before": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 20,
+              "font": "Courier New"
+            },
+            "characters": [],
+            "text": "\r"
+          }
+        ]
+      },
+      "name": "empty",
+      "after": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 20,
+              "font": "Courier New"
+            },
+            "characters": [],
+            "text": "\r"
+          }
+        ]
+      }
+    },
+    {
+      "selection": {
+        "font": "Courier New",
+        "end": 11,
+        "size": 20,
+        "start": 0
+      },
+      "before": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 20,
+              "font": "Courier New"
+            },
+            "characters": [
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "A"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "l"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "p"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "h"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 20,
+              "font": "Courier New"
+            },
+            "characters": [
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "B"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "e"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "t"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      },
+      "name": "whole-document",
+      "after": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 20,
+              "font": "Courier New"
+            },
+            "characters": [
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "A"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "l"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "p"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "h"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 20,
+              "font": "Courier New"
+            },
+            "characters": [
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "B"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "e"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "t"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      }
+    },
+    {
+      "selection": {
+        "font": "Courier New",
+        "end": 5,
+        "size": 20,
+        "start": 0
+      },
+      "before": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 20,
+              "font": "Courier New"
+            },
+            "characters": [
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "A"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "l"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "p"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "h"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      },
+      "name": "first-text-only",
+      "after": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 20,
+              "font": "Courier New"
+            },
+            "characters": [
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "A"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "l"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "p"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "h"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      }
+    },
+    {
+      "selection": {
+        "font": "Courier New",
+        "end": 6,
+        "size": 20,
+        "start": 0
+      },
+      "before": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 20,
+              "font": "Courier New"
+            },
+            "characters": [
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "A"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "l"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "p"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "h"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      },
+      "name": "first-mark-included",
+      "after": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 20,
+              "font": "Courier New"
+            },
+            "characters": [
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "A"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "l"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "p"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "h"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      }
+    },
+    {
+      "selection": {
+        "font": "Courier New",
+        "end": 5,
+        "size": 20,
+        "start": 2
+      },
+      "before": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "A"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "l"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "p"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "h"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      },
+      "name": "last-text-part",
+      "after": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "A"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "l"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "p"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "h"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      }
+    },
+    {
+      "selection": {
+        "font": "Courier New",
+        "end": 1,
+        "size": 20,
+        "start": 0
+      },
+      "before": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "A"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "l"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "p"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "h"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      },
+      "name": "first-character",
+      "after": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "A"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "l"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "p"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "h"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      }
+    },
+    {
+      "selection": {
+        "font": "Courier New",
+        "end": 4,
+        "size": 20,
+        "start": 1
+      },
+      "before": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "A"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "l"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "p"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "h"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      },
+      "name": "middle-text",
+      "after": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "A"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "l"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "p"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "h"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      }
+    },
+    {
+      "selection": {
+        "font": "Courier New",
+        "end": 0,
+        "size": 20,
+        "start": 0
+      },
+      "before": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "A"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "l"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "p"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "h"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      },
+      "name": "caret-at-start",
+      "after": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "A"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "l"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "p"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "h"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      }
+    },
+    {
+      "selection": {
+        "font": "Courier New",
+        "end": 2,
+        "size": 20,
+        "start": 2
+      },
+      "before": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "A"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "l"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "p"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "h"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      },
+      "name": "caret-inside",
+      "after": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "A"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "l"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "p"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "h"
+              },
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      }
+    },
+    {
+      "selection": {
+        "font": "Courier New",
+        "end": 6,
+        "size": 20,
+        "start": 5
+      },
+      "before": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 20,
+              "font": "Courier New"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "A"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "l"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "p"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "h"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      },
+      "name": "mark-only",
+      "after": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 20,
+              "font": "Courier New"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "A"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "l"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "p"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "h"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      }
+    },
+    {
+      "selection": {
+        "font": "Courier New",
+        "end": 5,
+        "size": 20,
+        "start": 5
+      },
+      "before": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 20,
+              "font": "Courier New"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "A"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "l"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "p"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "h"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      },
+      "name": "caret-at-end",
+      "after": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 20,
+              "font": "Courier New"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "A"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "l"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "p"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "h"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      }
+    },
+    {
+      "selection": {
+        "font": "Courier New",
+        "end": 6,
+        "size": 20,
+        "start": 6
+      },
+      "before": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "A"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "l"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "p"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "h"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 20,
+              "font": "Courier New"
+            },
+            "characters": [],
+            "text": "\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      },
+      "name": "empty-middle",
+      "after": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "A"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "l"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "p"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "h"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 20,
+              "font": "Courier New"
+            },
+            "characters": [],
+            "text": "\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      }
+    }
+  ],
+  "hashes": [
+    {
+      "sha256": "e9eab1632cbd1fca2b6f0a4bf9908a7429b81bcbd1cebc160647df87fffd8971",
+      "path": "empty.docx"
+    },
+    {
+      "sha256": "85e7f42382b6ec4a8f7fe20d40fe27f3e81be527738349aae2fbe48df18679c9",
+      "path": "whole-document.docx"
+    },
+    {
+      "sha256": "aec1254a21a00993b06456381e92b21b0dce17426aefc6583f12436de4c4a2c3",
+      "path": "first-text-only.docx"
+    },
+    {
+      "sha256": "ce9fc304eee4fe408f4be976fc21d879c75330998557ac1ae7f0cba4bcb0585e",
+      "path": "first-mark-included.docx"
+    },
+    {
+      "sha256": "d88cf441261dc05f3f8cf40a753e565a14c00a849796f1190944ecb17ef33d77",
+      "path": "last-text-part.docx"
+    },
+    {
+      "sha256": "dea278bc44206f0aa7a1e9bb3c14140e5f083e3dbd29a3d22168213df8904ebd",
+      "path": "first-character.docx"
+    },
+    {
+      "sha256": "fb0b469cbcbce0055b4b3db608be75f6782866eb81a92c9afa8874409a58ce14",
+      "path": "middle-text.docx"
+    },
+    {
+      "sha256": "537b2c297bdae61e4f5132a667e06397d7fa62cb20de544d59ca55aa2b29b62d",
+      "path": "caret-at-start.docx"
+    },
+    {
+      "sha256": "26b9879c94340991d489b19ee1c015aa9525dac8a2c4edbd98a7a29bfc579d0a",
+      "path": "caret-inside.docx"
+    },
+    {
+      "sha256": "7caaee90038a85a70cec2c141286fa6b9e2545cc0af723ed938f530f193df5a1",
+      "path": "mark-only.docx"
+    },
+    {
+      "sha256": "47f748e08c921945515c90a376ad034806c5bcccf061fec52facedb828a43640",
+      "path": "caret-at-end.docx"
+    },
+    {
+      "sha256": "c91b25a551cf83549f50b5f9a0f4118ca8e767740322b9da24736c2f0238cc5e",
+      "path": "empty-middle.docx"
+    }
+  ],
+  "scriptHash": "0c8733bcc7fd87dfc429ea4a33f8e0f7b5a1e9cb40d7bef4a46784bb25755675",
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "typingCases": [
+    {
+      "sourceHash": "6f6888981b0cfc65c86e2da409a615ac0159889813d8b226707596e6bbba85a1",
+      "name": "empty",
+      "caretFont": {
+        "name": "Courier New",
+        "size": 20
+      },
+      "after": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 20,
+              "font": "Courier New"
+            },
+            "characters": [
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "!"
+              }
+            ],
+            "text": "!\r"
+          }
+        ]
+      }
+    },
+    {
+      "sourceHash": "0fe19b5dbab115ea085bc082b3c673fb004ed3712c4690fc8c798bb6251e050f",
+      "name": "caret-at-end",
+      "caretFont": {
+        "name": "Arial",
+        "size": 12
+      },
+      "after": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 20,
+              "font": "Courier New"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "A"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "l"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "p"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "h"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "!"
+              }
+            ],
+            "text": "Alpha!\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      }
+    },
+    {
+      "sourceHash": "7892a20609d44e0cff37db45fcfde7baa7ed78222eb3fa7fa9fb4f302c5d1307",
+      "name": "empty-middle",
+      "caretFont": {
+        "name": "Courier New",
+        "size": 20
+      },
+      "after": {
+        "paragraphs": [
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "A"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "l"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "p"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "h"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Alpha\r"
+          },
+          {
+            "mark": {
+              "size": 20,
+              "font": "Courier New"
+            },
+            "characters": [
+              {
+                "font": "Courier New",
+                "size": 20,
+                "text": "!"
+              }
+            ],
+            "text": "!\r"
+          },
+          {
+            "mark": {
+              "size": 12,
+              "font": "Arial"
+            },
+            "characters": [
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "B"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "e"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "t"
+              },
+              {
+                "font": "Arial",
+                "size": 12,
+                "text": "a"
+              }
+            ],
+            "text": "Beta\r"
+          }
+        ]
+      }
+    }
+  ],
+  "typingScriptHash": "a89381885d7a1ed085ea0a260351e45e7b4ea310543f320b3817beb7f548f5a7"
+}

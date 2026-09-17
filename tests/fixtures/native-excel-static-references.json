@@ -1,0 +1,810 @@
+﻿{
+    "passed":  true,
+    "stages":  [
+                   {
+                       "cells":  [
+                                     {
+                                         "sheet":  "Data",
+                                         "address":  "A1",
+                                         "formula":  "5",
+                                         "value":  5,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Data",
+                                         "address":  "A2",
+                                         "formula":  "4",
+                                         "value":  4,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Data",
+                                         "address":  "B1",
+                                         "formula":  "3",
+                                         "value":  3,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Data",
+                                         "address":  "B2",
+                                         "formula":  "5",
+                                         "value":  5,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Data",
+                                         "address":  "D1",
+                                         "formula":  "=IF(A1\u003e0,A2,B2)",
+                                         "value":  4,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "A1",
+                                         "formula":  "7",
+                                         "value":  7,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A1",
+                                         "formula":  "=Data!$A$1",
+                                         "value":  5,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A2",
+                                         "formula":  "=Data!$A1+Data!A$2",
+                                         "value":  9,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A3",
+                                         "formula":  "=\u0027Cost data\u0027!$A$1",
+                                         "value":  7,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A4",
+                                         "formula":  "=SUM(Data!$A1:B$2)",
+                                         "value":  17,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A5",
+                                         "formula":  "=IF(Data!A1\u003e0,Data!A2,Data!B2)",
+                                         "value":  4,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A6",
+                                         "formula":  "=IF(Data!A1\u003e0,Data!A1,1/0)",
+                                         "value":  5,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A7",
+                                         "formula":  "=SUM(Data!A:A)",
+                                         "value":  9,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A8",
+                                         "formula":  "=SUM(Data!1:2)",
+                                         "value":  21,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A9",
+                                         "formula":  "=IF(FALSE,Data!B2,42)",
+                                         "value":  42,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A10",
+                                         "formula":  "=A1+A4",
+                                         "value":  22,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A11",
+                                         "formula":  "=SUM(Data!$1:$2)",
+                                         "value":  21,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A12",
+                                         "formula":  "=IF(TRUE,Data!C1,1)",
+                                         "value":  0,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A13",
+                                         "formula":  "=ISBLANK(Data!$C$1)",
+                                         "value":  true,
+                                         "valueType":  "System.Boolean"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A14",
+                                         "formula":  "=COUNTBLANK(Data!$C$1)",
+                                         "value":  1,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A15",
+                                         "formula":  "=IF(TRUE,\"\",Data!A1)",
+                                         "value":  "",
+                                         "valueType":  "System.String"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A16",
+                                         "formula":  "=IF(TRUE,Summary!A15,1)",
+                                         "value":  "",
+                                         "valueType":  "System.String"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "B1",
+                                         "formula":  "=ISNUMBER(Data!C1)",
+                                         "value":  false,
+                                         "valueType":  "System.Boolean"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "B2",
+                                         "formula":  "=ISTEXT(Data!C1)",
+                                         "value":  false,
+                                         "valueType":  "System.Boolean"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "B3",
+                                         "formula":  "=PRODUCT(Data!C1,2)",
+                                         "value":  2,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "B4",
+                                         "formula":  "=ISBLANK(A15)",
+                                         "value":  false,
+                                         "valueType":  "System.Boolean"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "B5",
+                                         "formula":  "=COUNTBLANK(A15)",
+                                         "value":  1,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "B6",
+                                         "formula":  "=ISNUMBER(Data!A1)",
+                                         "value":  true,
+                                         "valueType":  "System.Boolean"
+                                     }
+                                 ],
+                       "stage":  "edit"
+                   },
+                   {
+                       "cells":  [
+                                     {
+                                         "sheet":  "Data",
+                                         "address":  "A1",
+                                         "formula":  "",
+                                         "value":  null,
+                                         "valueType":  "blank"
+                                     },
+                                     {
+                                         "sheet":  "Data",
+                                         "address":  "A2",
+                                         "formula":  "4",
+                                         "value":  4,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Data",
+                                         "address":  "B1",
+                                         "formula":  "3",
+                                         "value":  3,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Data",
+                                         "address":  "B2",
+                                         "formula":  "5",
+                                         "value":  5,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Data",
+                                         "address":  "D1",
+                                         "formula":  "=IF(A1\u003e0,A2,B2)",
+                                         "value":  5,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "A1",
+                                         "formula":  "7",
+                                         "value":  7,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A1",
+                                         "formula":  "=Data!$A$1",
+                                         "value":  0,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A2",
+                                         "formula":  "=Data!$A1+Data!A$2",
+                                         "value":  4,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A3",
+                                         "formula":  "=\u0027Cost data\u0027!$A$1",
+                                         "value":  7,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A4",
+                                         "formula":  "=SUM(Data!$A1:B$2)",
+                                         "value":  12,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A5",
+                                         "formula":  "=IF(Data!A1\u003e0,Data!A2,Data!B2)",
+                                         "value":  5,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A6",
+                                         "formula":  "=IF(Data!A1\u003e0,Data!A1,1/0)",
+                                         "value":  -2146826281,
+                                         "valueType":  "System.Int32"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A7",
+                                         "formula":  "=SUM(Data!A:A)",
+                                         "value":  4,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A8",
+                                         "formula":  "=SUM(Data!1:2)",
+                                         "value":  17,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A9",
+                                         "formula":  "=IF(FALSE,Data!B2,42)",
+                                         "value":  42,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A10",
+                                         "formula":  "=A1+A4",
+                                         "value":  12,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A11",
+                                         "formula":  "=SUM(Data!$1:$2)",
+                                         "value":  17,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A12",
+                                         "formula":  "=IF(TRUE,Data!C1,1)",
+                                         "value":  0,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A13",
+                                         "formula":  "=ISBLANK(Data!$C$1)",
+                                         "value":  true,
+                                         "valueType":  "System.Boolean"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A14",
+                                         "formula":  "=COUNTBLANK(Data!$C$1)",
+                                         "value":  1,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A15",
+                                         "formula":  "=IF(TRUE,\"\",Data!A1)",
+                                         "value":  "",
+                                         "valueType":  "System.String"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A16",
+                                         "formula":  "=IF(TRUE,Summary!A15,1)",
+                                         "value":  "",
+                                         "valueType":  "System.String"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "B1",
+                                         "formula":  "=ISNUMBER(Data!C1)",
+                                         "value":  false,
+                                         "valueType":  "System.Boolean"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "B2",
+                                         "formula":  "=ISTEXT(Data!C1)",
+                                         "value":  false,
+                                         "valueType":  "System.Boolean"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "B3",
+                                         "formula":  "=PRODUCT(Data!C1,2)",
+                                         "value":  2,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "B4",
+                                         "formula":  "=ISBLANK(A15)",
+                                         "value":  false,
+                                         "valueType":  "System.Boolean"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "B5",
+                                         "formula":  "=COUNTBLANK(A15)",
+                                         "value":  1,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "B6",
+                                         "formula":  "=ISNUMBER(Data!A1)",
+                                         "value":  false,
+                                         "valueType":  "System.Boolean"
+                                     }
+                                 ],
+                       "stage":  "delete"
+                   },
+                   {
+                       "cells":  [
+                                     {
+                                         "sheet":  "Data",
+                                         "address":  "A1",
+                                         "formula":  "2",
+                                         "value":  2,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Data",
+                                         "address":  "A2",
+                                         "formula":  "4",
+                                         "value":  4,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Data",
+                                         "address":  "B1",
+                                         "formula":  "3",
+                                         "value":  3,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Data",
+                                         "address":  "B2",
+                                         "formula":  "9",
+                                         "value":  9,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Data",
+                                         "address":  "D1",
+                                         "formula":  "=IF(A1\u003e0,A2,B2)",
+                                         "value":  4,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "A1",
+                                         "formula":  "7",
+                                         "value":  7,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A1",
+                                         "formula":  "=Data!$A$1",
+                                         "value":  2,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A2",
+                                         "formula":  "=Data!$A1+Data!A$2",
+                                         "value":  6,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A3",
+                                         "formula":  "=\u0027Cost data\u0027!$A$1",
+                                         "value":  7,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A4",
+                                         "formula":  "=SUM(Data!$A1:B$2)",
+                                         "value":  18,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A5",
+                                         "formula":  "=IF(Data!A1\u003e0,Data!A2,Data!B2)",
+                                         "value":  4,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A6",
+                                         "formula":  "=IF(Data!A1\u003e0,Data!A1,1/0)",
+                                         "value":  2,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A7",
+                                         "formula":  "=SUM(Data!A:A)",
+                                         "value":  6,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A8",
+                                         "formula":  "=SUM(Data!1:2)",
+                                         "value":  22,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A9",
+                                         "formula":  "=IF(FALSE,Data!B2,42)",
+                                         "value":  42,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A10",
+                                         "formula":  "=A1+A4",
+                                         "value":  20,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A11",
+                                         "formula":  "=SUM(Data!$1:$2)",
+                                         "value":  22,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A12",
+                                         "formula":  "=IF(TRUE,Data!C1,1)",
+                                         "value":  0,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A13",
+                                         "formula":  "=ISBLANK(Data!$C$1)",
+                                         "value":  true,
+                                         "valueType":  "System.Boolean"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A14",
+                                         "formula":  "=COUNTBLANK(Data!$C$1)",
+                                         "value":  1,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A15",
+                                         "formula":  "=IF(TRUE,\"\",Data!A1)",
+                                         "value":  "",
+                                         "valueType":  "System.String"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "A16",
+                                         "formula":  "=IF(TRUE,Summary!A15,1)",
+                                         "value":  "",
+                                         "valueType":  "System.String"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "B1",
+                                         "formula":  "=ISNUMBER(Data!C1)",
+                                         "value":  false,
+                                         "valueType":  "System.Boolean"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "B2",
+                                         "formula":  "=ISTEXT(Data!C1)",
+                                         "value":  false,
+                                         "valueType":  "System.Boolean"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "B3",
+                                         "formula":  "=PRODUCT(Data!C1,2)",
+                                         "value":  2,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "B4",
+                                         "formula":  "=ISBLANK(A15)",
+                                         "value":  false,
+                                         "valueType":  "System.Boolean"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "B5",
+                                         "formula":  "=COUNTBLANK(A15)",
+                                         "value":  1,
+                                         "valueType":  "System.Double"
+                                     },
+                                     {
+                                         "sheet":  "Summary",
+                                         "address":  "B6",
+                                         "formula":  "=ISNUMBER(Data!A1)",
+                                         "value":  true,
+                                         "valueType":  "System.Boolean"
+                                     }
+                                 ],
+                       "stage":  "branch"
+                   }
+               ],
+    "conditionalPrecedents":  "A1,A2:B2",
+    "executableHash":  "34f17e922e344705a958b52e2472e6667b1d32a887f28a18b7b97e0e7ab167a9",
+    "scriptHash":  "a7ea5b627a73fefd6d6fe82a5bda1090edc8f1c86f742ce304cb13674a38eda9",
+    "initial":  [
+                    {
+                        "sheet":  "Data",
+                        "address":  "A1",
+                        "formula":  "2",
+                        "value":  2,
+                        "valueType":  "System.Double"
+                    },
+                    {
+                        "sheet":  "Data",
+                        "address":  "A2",
+                        "formula":  "4",
+                        "value":  4,
+                        "valueType":  "System.Double"
+                    },
+                    {
+                        "sheet":  "Data",
+                        "address":  "B1",
+                        "formula":  "3",
+                        "value":  3,
+                        "valueType":  "System.Double"
+                    },
+                    {
+                        "sheet":  "Data",
+                        "address":  "B2",
+                        "formula":  "5",
+                        "value":  5,
+                        "valueType":  "System.Double"
+                    },
+                    {
+                        "sheet":  "Data",
+                        "address":  "D1",
+                        "formula":  "=IF(A1\u003e0,A2,B2)",
+                        "value":  4,
+                        "valueType":  "System.Double"
+                    },
+                    {
+                        "sheet":  "Cost data",
+                        "address":  "A1",
+                        "formula":  "7",
+                        "value":  7,
+                        "valueType":  "System.Double"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "A1",
+                        "formula":  "=Data!$A$1",
+                        "value":  2,
+                        "valueType":  "System.Double"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "A2",
+                        "formula":  "=Data!$A1+Data!A$2",
+                        "value":  6,
+                        "valueType":  "System.Double"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "A3",
+                        "formula":  "=\u0027Cost data\u0027!$A$1",
+                        "value":  7,
+                        "valueType":  "System.Double"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "A4",
+                        "formula":  "=SUM(Data!$A1:B$2)",
+                        "value":  14,
+                        "valueType":  "System.Double"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "A5",
+                        "formula":  "=IF(Data!A1\u003e0,Data!A2,Data!B2)",
+                        "value":  4,
+                        "valueType":  "System.Double"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "A6",
+                        "formula":  "=IF(Data!A1\u003e0,Data!A1,1/0)",
+                        "value":  2,
+                        "valueType":  "System.Double"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "A7",
+                        "formula":  "=SUM(Data!A:A)",
+                        "value":  6,
+                        "valueType":  "System.Double"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "A8",
+                        "formula":  "=SUM(Data!1:2)",
+                        "value":  18,
+                        "valueType":  "System.Double"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "A9",
+                        "formula":  "=IF(FALSE,Data!B2,42)",
+                        "value":  42,
+                        "valueType":  "System.Double"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "A10",
+                        "formula":  "=A1+A4",
+                        "value":  16,
+                        "valueType":  "System.Double"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "A11",
+                        "formula":  "=SUM(Data!$1:$2)",
+                        "value":  18,
+                        "valueType":  "System.Double"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "A12",
+                        "formula":  "=IF(TRUE,Data!C1,1)",
+                        "value":  0,
+                        "valueType":  "System.Double"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "A13",
+                        "formula":  "=ISBLANK(Data!$C$1)",
+                        "value":  true,
+                        "valueType":  "System.Boolean"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "A14",
+                        "formula":  "=COUNTBLANK(Data!$C$1)",
+                        "value":  1,
+                        "valueType":  "System.Double"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "A15",
+                        "formula":  "=IF(TRUE,\"\",Data!A1)",
+                        "value":  "",
+                        "valueType":  "System.String"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "A16",
+                        "formula":  "=IF(TRUE,Summary!A15,1)",
+                        "value":  "",
+                        "valueType":  "System.String"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "B1",
+                        "formula":  "=ISNUMBER(Data!C1)",
+                        "value":  false,
+                        "valueType":  "System.Boolean"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "B2",
+                        "formula":  "=ISTEXT(Data!C1)",
+                        "value":  false,
+                        "valueType":  "System.Boolean"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "B3",
+                        "formula":  "=PRODUCT(Data!C1,2)",
+                        "value":  2,
+                        "valueType":  "System.Double"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "B4",
+                        "formula":  "=ISBLANK(A15)",
+                        "value":  false,
+                        "valueType":  "System.Boolean"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "B5",
+                        "formula":  "=COUNTBLANK(A15)",
+                        "value":  1,
+                        "valueType":  "System.Double"
+                    },
+                    {
+                        "sheet":  "Summary",
+                        "address":  "B6",
+                        "formula":  "=ISNUMBER(Data!A1)",
+                        "value":  true,
+                        "valueType":  "System.Boolean"
+                    }
+                ],
+    "sourceHash":  "0617fa8649f283daf32b3fc2136ebef854596496585e2615614afdc4f9bf7f65"
+}

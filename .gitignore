@@ -1,0 +1,31 @@
+# Dependencies and generated application output
+node_modules/
+dist/
+build/
+.svelte-kit/
+
+# Local evidence, caches, reports, and logs
+.local/
+test-results/
+playwright-report/
+*.log
+*.tsbuildinfo
+__pycache__/
+*.py[cod]
+~$*
+
+# Separately licensed architectural reference
+reference_repo/
+
+# Local credentials and environment overrides
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini

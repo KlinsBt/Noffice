@@ -1,0 +1,2433 @@
+{
+  "version": 1,
+  "scope": "Measured Arial10 regular/bold mode15 line identities only. Other fonts/sizes, glyph paint, interaction and full pagination remain open. New112-case raw-width experiment has six Arial9/Calibri11 failures, retained in its receipt; the56 Arial10 cases pass.",
+  "fonts": [
+    {
+      "face": "regular",
+      "sha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+      "advances": {
+        "0": 5.5615234375,
+        "1": 5.5615234375,
+        "2": 5.5615234375,
+        "3": 5.5615234375,
+        "4": 5.5615234375,
+        "5": 5.5615234375,
+        "6": 5.5615234375,
+        "7": 5.5615234375,
+        "8": 5.5615234375,
+        "9": 5.5615234375,
+        " ": 2.7783203125,
+        "!": 2.7783203125,
+        "\"": 3.5498046875,
+        "#": 5.5615234375,
+        "$": 5.5615234375,
+        "%": 8.8916015625,
+        "&": 6.669921875,
+        "'": 1.9091796875,
+        "(": 3.330078125,
+        ")": 3.330078125,
+        "*": 3.8916015625,
+        "+": 5.83984375,
+        ",": 2.7783203125,
+        "-": 3.330078125,
+        ".": 2.7783203125,
+        "/": 2.7783203125,
+        ":": 2.7783203125,
+        ";": 2.7783203125,
+        "<": 5.83984375,
+        "=": 5.83984375,
+        ">": 5.83984375,
+        "?": 5.5615234375,
+        "@": 10.1513671875,
+        "A": 6.669921875,
+        "B": 6.669921875,
+        "C": 7.2216796875,
+        "D": 7.2216796875,
+        "E": 6.669921875,
+        "F": 6.1083984375,
+        "G": 7.7783203125,
+        "H": 7.2216796875,
+        "I": 2.7783203125,
+        "J": 5,
+        "K": 6.669921875,
+        "L": 5.5615234375,
+        "M": 8.330078125,
+        "N": 7.2216796875,
+        "O": 7.7783203125,
+        "P": 6.669921875,
+        "Q": 7.7783203125,
+        "R": 7.2216796875,
+        "S": 6.669921875,
+        "T": 6.1083984375,
+        "U": 7.2216796875,
+        "V": 6.669921875,
+        "W": 9.4384765625,
+        "X": 6.669921875,
+        "Y": 6.669921875,
+        "Z": 6.1083984375,
+        "[": 2.7783203125,
+        "\\": 2.7783203125,
+        "]": 2.7783203125,
+        "^": 4.6923828125,
+        "_": 5.5615234375,
+        "`": 3.330078125,
+        "a": 5.5615234375,
+        "b": 5.5615234375,
+        "c": 5,
+        "d": 5.5615234375,
+        "e": 5.5615234375,
+        "f": 2.7783203125,
+        "g": 5.5615234375,
+        "h": 5.5615234375,
+        "i": 2.2216796875,
+        "j": 2.2216796875,
+        "k": 5,
+        "l": 2.2216796875,
+        "m": 8.330078125,
+        "n": 5.5615234375,
+        "o": 5.5615234375,
+        "p": 5.5615234375,
+        "q": 5.5615234375,
+        "r": 3.330078125,
+        "s": 5,
+        "t": 2.7783203125,
+        "u": 5.5615234375,
+        "v": 5,
+        "w": 7.2216796875,
+        "x": 5,
+        "y": 5,
+        "z": 5,
+        "{": 3.33984375,
+        "|": 2.59765625,
+        "}": 3.33984375,
+        "~": 5.83984375
+      }
+    },
+    {
+      "face": "bold",
+      "sha256": "e8f4e3baf6cc35fed6fcce3a540e8b39e8f6cda1d22a28f2ec8f526fef7a43f5",
+      "advances": {
+        "0": 5.5615234375,
+        "1": 5.5615234375,
+        "2": 5.5615234375,
+        "3": 5.5615234375,
+        "4": 5.5615234375,
+        "5": 5.5615234375,
+        "6": 5.5615234375,
+        "7": 5.5615234375,
+        "8": 5.5615234375,
+        "9": 5.5615234375,
+        " ": 2.7783203125,
+        "!": 3.330078125,
+        "\"": 4.7412109375,
+        "#": 5.5615234375,
+        "$": 5.5615234375,
+        "%": 8.8916015625,
+        "&": 7.2216796875,
+        "'": 2.3779296875,
+        "(": 3.330078125,
+        ")": 3.330078125,
+        "*": 3.8916015625,
+        "+": 5.83984375,
+        ",": 2.7783203125,
+        "-": 3.330078125,
+        ".": 2.7783203125,
+        "/": 2.7783203125,
+        ":": 3.330078125,
+        ";": 3.330078125,
+        "<": 5.83984375,
+        "=": 5.83984375,
+        ">": 5.83984375,
+        "?": 6.1083984375,
+        "@": 9.7509765625,
+        "A": 7.2216796875,
+        "B": 7.2216796875,
+        "C": 7.2216796875,
+        "D": 7.2216796875,
+        "E": 6.669921875,
+        "F": 6.1083984375,
+        "G": 7.7783203125,
+        "H": 7.2216796875,
+        "I": 2.7783203125,
+        "J": 5.5615234375,
+        "K": 7.2216796875,
+        "L": 6.1083984375,
+        "M": 8.330078125,
+        "N": 7.2216796875,
+        "O": 7.7783203125,
+        "P": 6.669921875,
+        "Q": 7.7783203125,
+        "R": 7.2216796875,
+        "S": 6.669921875,
+        "T": 6.1083984375,
+        "U": 7.2216796875,
+        "V": 6.669921875,
+        "W": 9.4384765625,
+        "X": 6.669921875,
+        "Y": 6.669921875,
+        "Z": 6.1083984375,
+        "[": 3.330078125,
+        "\\": 2.7783203125,
+        "]": 3.330078125,
+        "^": 5.83984375,
+        "_": 5.5615234375,
+        "`": 3.330078125,
+        "a": 5.5615234375,
+        "b": 6.1083984375,
+        "c": 5.5615234375,
+        "d": 6.1083984375,
+        "e": 5.5615234375,
+        "f": 3.330078125,
+        "g": 6.1083984375,
+        "h": 6.1083984375,
+        "i": 2.7783203125,
+        "j": 2.7783203125,
+        "k": 5.5615234375,
+        "l": 2.7783203125,
+        "m": 8.8916015625,
+        "n": 6.1083984375,
+        "o": 6.1083984375,
+        "p": 6.1083984375,
+        "q": 6.1083984375,
+        "r": 3.8916015625,
+        "s": 5.5615234375,
+        "t": 3.330078125,
+        "u": 6.1083984375,
+        "v": 5.5615234375,
+        "w": 7.7783203125,
+        "x": 5.5615234375,
+        "y": 5.5615234375,
+        "z": 5,
+        "{": 3.8916015625,
+        "|": 2.7978515625,
+        "}": 3.8916015625,
+        "~": 5.83984375
+      }
+    }
+  ],
+  "receipts": [
+    {
+      "path": ".local/word-story-paragraph-layout/justification-heldout-native-v1/native-report.json",
+      "sha256": "f3028ff2ae246176393a5350fdb405919de14072cca09011be5e03879bc858c5",
+      "producerHash": "bce32d928579d5a35f628f58080d0026f684b5d8b38ce50c46cded4f2f1f0da4",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "path": ".local/word-story-paragraph-layout/justification-boundary-native-v1/native-report.json",
+      "sha256": "0558acc183ddfa9d25f7659d5a1a9c5cea876998258668d8216c6c31a94d1c59",
+      "producerHash": "e4d102301b73f5fa43cf36f69662e1478f4383a2f0754f3963d08a08b81bf7a6",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "path": ".local/word-story-paragraph-layout/justification-raw-heldout-native-v1/native-report.json",
+      "sha256": "f191a88b19077842f83c14c34b6de79906e449c5a8fb51ebd67a344d06a33ad1",
+      "producerHash": "af44aea942d39ecaa6b1ffa265ea1bb89d6def38e71334bc77f1272007666ba3",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    }
+  ],
+  "cases": [
+    {
+      "name": "justification-heldout-native-v1/header-font0-text0-width160",
+      "text": "Quiet mornings bring clear light through the window. Several readers compare their notes before the meeting begins, then arrange the pages in a useful order.",
+      "width": 160,
+      "face": "regular",
+      "ends": [
+        32,
+        60,
+        95,
+        132,
+        157
+      ],
+      "docxHash": "54c0b273fcb3b6a7ea36363e2794ac50c5cfeb1191916d60854c7118830f0aec",
+      "pdfHash": "7f65df1c3405139a0f41535b064b733388380e7965871e0b69ac2a69459ee0b9"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text0-width180",
+      "text": "Quiet mornings bring clear light through the window. Several readers compare their notes before the meeting begins, then arrange the pages in a useful order.",
+      "width": 180,
+      "face": "regular",
+      "ends": [
+        40,
+        76,
+        115,
+        157
+      ],
+      "docxHash": "69ce31794efa32ba8ad1c4a1b1c0ad42e7d398ac5f5494c080e3a454b8ecbc84",
+      "pdfHash": "1f1754d08f81bd07513eaf0c262352bf84b7e51ce1fe146f4dc3515b4bf33387"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text0-width220",
+      "text": "Quiet mornings bring clear light through the window. Several readers compare their notes before the meeting begins, then arrange the pages in a useful order.",
+      "width": 219.99998474121094,
+      "face": "regular",
+      "ends": [
+        44,
+        88,
+        138,
+        157
+      ],
+      "docxHash": "1e7879a6afd3d199bc1ae8570b64c9c9d9711f1166cc80d55d9be40268a8e22c",
+      "pdfHash": "0bd3f13bbb57dbeeb85869134b1218b7fea4264ead4063e43c2db485477a3cce"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text0-width310",
+      "text": "Quiet mornings bring clear light through the window. Several readers compare their notes before the meeting begins, then arrange the pages in a useful order.",
+      "width": 309.99998474121094,
+      "face": "regular",
+      "ends": [
+        68,
+        138,
+        157
+      ],
+      "docxHash": "69110e248b5f879abaa730e96e7d3cc3bacfce8a4c3e1255f2d979882b1af6db",
+      "pdfHash": "1a3a2855595f7f0a01c4dbebecbac0d7f3a59484f9cdffc059a6c7c7e6ee4c95"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text0-width440",
+      "text": "Quiet mornings bring clear light through the window. Several readers compare their notes before the meeting begins, then arrange the pages in a useful order.",
+      "width": 439.9999876022339,
+      "face": "regular",
+      "ends": [
+        99,
+        157
+      ],
+      "docxHash": "aead1c6e2f0b11dfeedbb324b5d4e6d41569fe27b28685ab186ef80c8113ab1e",
+      "pdfHash": "a598ded259514e086e1a4a63aa7ff4b2460f3c5fc4f91658f56365779dc941c4"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text0-width520",
+      "text": "Quiet mornings bring clear light through the window. Several readers compare their notes before the meeting begins, then arrange the pages in a useful order.",
+      "width": 519.9999847412109,
+      "face": "regular",
+      "ends": [
+        115,
+        157
+      ],
+      "docxHash": "575356d33303a4ec8116dd24f1737a0a34638e939ae2dc28654a64d60ee8e349",
+      "pdfHash": "4860f5da17f041b328320e2351d26a8873ae982ea2196dd3ca2656858d5f4f35"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text1-width160",
+      "text": "Numbers 12345 and 67890 appear beside ordinary words, commas and full stops. Consistent paragraph spacing should survive changes in width and printed output.",
+      "width": 160,
+      "face": "regular",
+      "ends": [
+        30,
+        64,
+        97,
+        131,
+        157
+      ],
+      "docxHash": "28b59c0c1f849475a582b284964aec9acc0c7ed1618128e353d43498bc3d0758",
+      "pdfHash": "604c20faf451561d6468c1c814f5ffe7e00e834c317559583a18ac3a6a92718f"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text1-width180",
+      "text": "Numbers 12345 and 67890 appear beside ordinary words, commas and full stops. Consistent paragraph spacing should survive changes in width and printed output.",
+      "width": 180,
+      "face": "regular",
+      "ends": [
+        30,
+        69,
+        105,
+        141,
+        157
+      ],
+      "docxHash": "48221199c3b649f4ed25054b0fb1532d0bdcf087f82cc13d64808e1d3928ac9f",
+      "pdfHash": "e048d66f4c60a79bb421c2b95a25e9981ef3df32d05c58ee26dd75b73e3bc1de"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text1-width220",
+      "text": "Numbers 12345 and 67890 appear beside ordinary words, commas and full stops. Consistent paragraph spacing should survive changes in width and printed output.",
+      "width": 219.99998474121094,
+      "face": "regular",
+      "ends": [
+        37,
+        87,
+        131,
+        157
+      ],
+      "docxHash": "a50263be8d50f9463619c84c916ce6153e03521c9cfc0c1a16d5b8bedd1320bb",
+      "pdfHash": "9360b1cd1f373d90da8113415d66eb0a9635a1304d8b67b1f9557c6ffa4fa15b"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text1-width310",
+      "text": "Numbers 12345 and 67890 appear beside ordinary words, commas and full stops. Consistent paragraph spacing should survive changes in width and printed output.",
+      "width": 309.99998474121094,
+      "face": "regular",
+      "ends": [
+        60,
+        128,
+        157
+      ],
+      "docxHash": "247b44f8067ff7270dbb3a55eff56dcc8ff5961d9995973b6d8a79fe753c4c70",
+      "pdfHash": "dcfe12c7bef95b1d2536c131dbc09af34247c38fbf03f44db36a323ca5918321"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text1-width440",
+      "text": "Numbers 12345 and 67890 appear beside ordinary words, commas and full stops. Consistent paragraph spacing should survive changes in width and printed output.",
+      "width": 439.9999876022339,
+      "face": "regular",
+      "ends": [
+        87,
+        157
+      ],
+      "docxHash": "c6b27aab4af2a86d08a599af034d2094a976093169818861cb4189c4cedd65f3",
+      "pdfHash": "18211896cbbe33861779cb8a96942a2e6c356890518b08466b796a3ced9c8e70"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text1-width520",
+      "text": "Numbers 12345 and 67890 appear beside ordinary words, commas and full stops. Consistent paragraph spacing should survive changes in width and printed output.",
+      "width": 519.9999847412109,
+      "face": "regular",
+      "ends": [
+        105,
+        157
+      ],
+      "docxHash": "a7d2c63447953cb3d57e35ba60c1fe6e2dc1b066b1370fdc0cd809538f8586d6",
+      "pdfHash": "1f83cfbcea08b1eb4c4871a3710774b1424d35554c15636406d1a05a4e053019"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text2-width160",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 160,
+      "face": "regular",
+      "ends": [
+        34,
+        68,
+        103,
+        142,
+        153
+      ],
+      "docxHash": "579e4e10db6652c54c9745b37123c78946b8c577d364b570601c8818c4e8ccbe",
+      "pdfHash": "792f5cc2997160c29da25aa3eedbf2b5ffaeb020f6bfccadc878f479653f6822"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text2-width180",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 180,
+      "face": "regular",
+      "ends": [
+        41,
+        84,
+        127,
+        153
+      ],
+      "docxHash": "47ea748e54ea5a7d910d539de4b64a5e9843492a3dd0c82b0c51e90e9459ef45",
+      "pdfHash": "a517a8817d0d99f6d1b5a42ecb52c9dc43d23091ee0fd0cf5319e49437b6e3e6"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text2-width220",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 219.99998474121094,
+      "face": "regular",
+      "ends": [
+        49,
+        100,
+        153
+      ],
+      "docxHash": "c2503c6b65d81342f018e1a791465c288f39fd5460c6c6e0cb652face6836f25",
+      "pdfHash": "01f4352dd06974dd0b5563ead43306d943ef5694948b2b9afbfe10d5bc38373c"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text2-width310",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 309.99998474121094,
+      "face": "regular",
+      "ends": [
+        68,
+        137,
+        153
+      ],
+      "docxHash": "80a2701a3a6e59cd19a5c7ff039e5b403049e05aeb35fcc54db68cfa0bd8fb55",
+      "pdfHash": "00a47446f25cc0bf0aad850d96ebd73ef41b2b3a929a511816c27cae19a31769"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text2-width440",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 439.9999876022339,
+      "face": "regular",
+      "ends": [
+        100,
+        153
+      ],
+      "docxHash": "5768bca807a320246bb72decdfc98febc4b0a4d804ac77f6c645fe242574b2c2",
+      "pdfHash": "f0e663ef5301297afb1cd295dc593cfaedfd151caa41cc662e1ccce9b0361827"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text2-width520",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 519.9999847412109,
+      "face": "regular",
+      "ends": [
+        117,
+        153
+      ],
+      "docxHash": "4ea54413bda162c74a82709f465c800dede3ae4538da665f3451e0a041e1a76b",
+      "pdfHash": "ac939b171e9e12180141a98c5499a0250721b9614892daa832d921f9c5805405"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text3-width160",
+      "text": "Wide words in one short final sentence.",
+      "width": 160,
+      "face": "regular",
+      "ends": [
+        29,
+        39
+      ],
+      "docxHash": "d8a60e83525c2547b68481754702fa6e88b18bdbbe7270a3676b1be4cc53d276",
+      "pdfHash": "8d0e2bae353fc701409423fb3edb76585b9eb61f50ce53e7a264a2d9d94eb4d8"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text3-width180",
+      "text": "Wide words in one short final sentence.",
+      "width": 180,
+      "face": "regular",
+      "ends": [
+        39
+      ],
+      "docxHash": "47387b7329c9241a9ec91624558209dbc4da5b1460c06117882c96c0a9747d13",
+      "pdfHash": "b72570146f0cd8d6e4225ad9587eeb0d5cb7f6e2f24586baffcac859b7fedd53"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text3-width220",
+      "text": "Wide words in one short final sentence.",
+      "width": 219.99998474121094,
+      "face": "regular",
+      "ends": [
+        39
+      ],
+      "docxHash": "67d7a38c2d491dd16f555ea34c976e188027852418082e7b95a33d01e50502d8",
+      "pdfHash": "193fc3ba21d3fcb30677018bf114679be02c688ff60518bee1b788a786034ae1"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text3-width310",
+      "text": "Wide words in one short final sentence.",
+      "width": 309.99998474121094,
+      "face": "regular",
+      "ends": [
+        39
+      ],
+      "docxHash": "2c58991ae8e421d76c71d6b8678a0247488b820757b61287b9c10e5671be9b78",
+      "pdfHash": "0f939ed2a4464e5120115e4db816d4cc529694c0b945f06d77ead2a7093a98f9"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text3-width440",
+      "text": "Wide words in one short final sentence.",
+      "width": 439.9999876022339,
+      "face": "regular",
+      "ends": [
+        39
+      ],
+      "docxHash": "dd7ca529ff7afc5772be58038e134808c5ead6244a465b3440be96fe74e79327",
+      "pdfHash": "06bdbfd03b27d88c77ce75e073ed17b5a14ac4a511a84e8e87c524e7cc91fe80"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text3-width520",
+      "text": "Wide words in one short final sentence.",
+      "width": 519.9999847412109,
+      "face": "regular",
+      "ends": [
+        39
+      ],
+      "docxHash": "beb642a7c59e34689f1559609717132a63c1a9b365672300c30a50dbe135f211",
+      "pdfHash": "d8681151f4aa1849f9b3522656883bd1938e3ca928f58922c9a2bcac3dd18e14"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text4-width160",
+      "text": "Proportional lettering places thin iii beside broad WWW and MMM. Different character shapes require careful measurement when the available line becomes narrow.",
+      "width": 160,
+      "face": "regular",
+      "ends": [
+        38,
+        64,
+        99,
+        128,
+        159
+      ],
+      "docxHash": "87cd6f2f6218b9c64e796559b4779ed544ea501fa42048e572f7f6dfc5b267d8",
+      "pdfHash": "bee32610513b01c9e89640e211f64b45930c4fa4077874c4a414a6d6598b3dc9"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text4-width180",
+      "text": "Proportional lettering places thin iii beside broad WWW and MMM. Different character shapes require careful measurement when the available line becomes narrow.",
+      "width": 180,
+      "face": "regular",
+      "ends": [
+        38,
+        74,
+        107,
+        143,
+        159
+      ],
+      "docxHash": "a34213b5b66fe0aa3997e94cc636c6ef06a65c301979d4d647b4245a56074828",
+      "pdfHash": "42f57046d82021b0a440f61c7874a22da641b3683c2ef438d4a5a18312760e02"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text4-width220",
+      "text": "Proportional lettering places thin iii beside broad WWW and MMM. Different character shapes require careful measurement when the available line becomes narrow.",
+      "width": 219.99998474121094,
+      "face": "regular",
+      "ends": [
+        51,
+        91,
+        138,
+        159
+      ],
+      "docxHash": "7c831f02fd6f2fb2b487cbecc470982cf978d6e8d7b70897f5345c0ea41791ba",
+      "pdfHash": "e5a3c5b54b855665876836d63340dd6401f1b50e8b69857057d86ffd92c7a0a3"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text4-width310",
+      "text": "Proportional lettering places thin iii beside broad WWW and MMM. Different character shapes require careful measurement when the available line becomes narrow.",
+      "width": 309.99998474121094,
+      "face": "regular",
+      "ends": [
+        64,
+        128,
+        159
+      ],
+      "docxHash": "578f8e238b5003e21d3abf919b812d6bb009d65bcab5a0a12fbcab2fdcec76f6",
+      "pdfHash": "1461bed9d8e0f56a14750d0ac7bc7c66dd9274c26fa0d41148100fe8202c3524"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text4-width440",
+      "text": "Proportional lettering places thin iii beside broad WWW and MMM. Different character shapes require careful measurement when the available line becomes narrow.",
+      "width": 439.9999876022339,
+      "face": "regular",
+      "ends": [
+        99,
+        159
+      ],
+      "docxHash": "070afba8ff60d2d5cd243baf64c1e4022daf6e617463eb64cfe3101955562d01",
+      "pdfHash": "754b042422c7f645634e80d99beacaba03918a35ad737c5931473295ba8f9a2a"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text4-width520",
+      "text": "Proportional lettering places thin iii beside broad WWW and MMM. Different character shapes require careful measurement when the available line becomes narrow.",
+      "width": 519.9999847412109,
+      "face": "regular",
+      "ends": [
+        107,
+        159
+      ],
+      "docxHash": "8d110de66049e2043e1f08b65677b425ff5efedff8c4a5c3027b7f593ed30b93",
+      "pdfHash": "7e9ec63df46acfaf0e6c9dd80ab5b3c9e5e3850f29d7df8bb1389b3d4d1130a2"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text5-width160",
+      "text": "Folders contain several versions of the same report. The final copy includes small corrections, new figures and a clear explanation of the results for every reader.",
+      "width": 160,
+      "face": "regular",
+      "ends": [
+        35,
+        67,
+        99,
+        138,
+        164
+      ],
+      "docxHash": "84ba07a8839ce19248080334786146148b1ac43fafca8fec2c0981ae92f69a1a",
+      "pdfHash": "54145b977d9f68d9228d08c45c43277d57c26851315cddf8255d53790297e604"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text5-width180",
+      "text": "Folders contain several versions of the same report. The final copy includes small corrections, new figures and a clear explanation of the results for every reader.",
+      "width": 180,
+      "face": "regular",
+      "ends": [
+        39,
+        76,
+        119,
+        156,
+        164
+      ],
+      "docxHash": "73feaed5c77c86bb3eadbfe734debfe92e9677d8403af26617920000aa1cae18",
+      "pdfHash": "6452d13368beb04701c0151babc674642c921a264b6c1738e8a4344c06926961"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text5-width220",
+      "text": "Folders contain several versions of the same report. The final copy includes small corrections, new figures and a clear explanation of the results for every reader.",
+      "width": 219.99998474121094,
+      "face": "regular",
+      "ends": [
+        44,
+        95,
+        146,
+        164
+      ],
+      "docxHash": "6a74b7ed296b27f78071a6fc01544ce0426293cde3522ccc68a13cc608f6a42d",
+      "pdfHash": "34098de60426e8e1482647b19f76889c9fea89378f622a308840dad3aa84b707"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text5-width310",
+      "text": "Folders contain several versions of the same report. The final copy includes small corrections, new figures and a clear explanation of the results for every reader.",
+      "width": 309.99998474121094,
+      "face": "regular",
+      "ends": [
+        67,
+        138,
+        164
+      ],
+      "docxHash": "24923e234ac310a0b5edb52cc6e1727ad7f11353e2f23d1f6151f7f6208cd9ae",
+      "pdfHash": "4f30c8390310dffbea8c17a87f66261eb1a105ae43ba61d450298e56e6362eea"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text5-width440",
+      "text": "Folders contain several versions of the same report. The final copy includes small corrections, new figures and a clear explanation of the results for every reader.",
+      "width": 439.9999876022339,
+      "face": "regular",
+      "ends": [
+        99,
+        164
+      ],
+      "docxHash": "7e6e64df72475e42becfefa89d59a668c33ab1d11d16acb5c1b143ef8e76bca8",
+      "pdfHash": "fa26bb36405fae581adee418813455e6f318a752f38e4b211ca1148a2679ce62"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font0-text5-width520",
+      "text": "Folders contain several versions of the same report. The final copy includes small corrections, new figures and a clear explanation of the results for every reader.",
+      "width": 519.9999847412109,
+      "face": "regular",
+      "ends": [
+        119,
+        164
+      ],
+      "docxHash": "b847dc606874e604a82167445de7d71204174abf9b56d000164b64fc0b8f0c78",
+      "pdfHash": "cf588c474467925250f53f37d1bb9c02a0f6b9431a1512b75cb5bf8e055ce2bc"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text0-width160",
+      "text": "Quiet mornings bring clear light through the window. Several readers compare their notes before the meeting begins, then arrange the pages in a useful order.",
+      "width": 160,
+      "face": "bold",
+      "ends": [
+        32,
+        60,
+        88,
+        120,
+        150,
+        157
+      ],
+      "docxHash": "b67784abdcd9acfe398b5ac17004628c64f2bbed6ca33e491d3b1af8aefc42e0",
+      "pdfHash": "442d830d7a2cacc171a395c88fbe57e026656e5c10359143f1e2aa1297e352e8"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text0-width180",
+      "text": "Quiet mornings bring clear light through the window. Several readers compare their notes before the meeting begins, then arrange the pages in a useful order.",
+      "width": 180,
+      "face": "bold",
+      "ends": [
+        32,
+        68,
+        99,
+        132,
+        157
+      ],
+      "docxHash": "1ca8d65c909dbf559f92a570d85e64228cf5c0b250e58c4bcf8b07f1998d0259",
+      "pdfHash": "1c9dc0ee46fefbe8ef4a0da0bb4ebc18aa43a1776351f3e21efcbc805f4a4631"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text0-width220",
+      "text": "Quiet mornings bring clear light through the window. Several readers compare their notes before the meeting begins, then arrange the pages in a useful order.",
+      "width": 219.99998474121094,
+      "face": "bold",
+      "ends": [
+        44,
+        88,
+        132,
+        157
+      ],
+      "docxHash": "05bea4726e211c83a40d089a0b848514a181242d001a8f88e64d79ca83e65040",
+      "pdfHash": "d33961c8d7805d52ab2f26f4e84b3cdd7b349eaee05660e4c879d1191e2bad67"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text0-width310",
+      "text": "Quiet mornings bring clear light through the window. Several readers compare their notes before the meeting begins, then arrange the pages in a useful order.",
+      "width": 309.99998474121094,
+      "face": "bold",
+      "ends": [
+        60,
+        120,
+        157
+      ],
+      "docxHash": "c2dac5f8bf77e86e99463273f23a041f7c6be970a18bca327b4870e9e3555d46",
+      "pdfHash": "667981a85b1db068004ec2ea4485e29d7920c742dac5bafe34f6f2bd6c15790f"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text0-width440",
+      "text": "Quiet mornings bring clear light through the window. Several readers compare their notes before the meeting begins, then arrange the pages in a useful order.",
+      "width": 439.9999876022339,
+      "face": "bold",
+      "ends": [
+        88,
+        157
+      ],
+      "docxHash": "f0eb4fb66983d0625eb2d9076033721898c48226153c4f53cd990060f5195774",
+      "pdfHash": "b96aefcbad8b21fcc632e2ee21df8bf664ed1582c6bc9a51873da3399907819a"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text0-width520",
+      "text": "Quiet mornings bring clear light through the window. Several readers compare their notes before the meeting begins, then arrange the pages in a useful order.",
+      "width": 519.9999847412109,
+      "face": "bold",
+      "ends": [
+        107,
+        157
+      ],
+      "docxHash": "e92aece0a8b2d63a3834bd2a8fa486889ae53f752b7b7eb926c79eff670a05dc",
+      "pdfHash": "6ea8a4f86d1f8c05e9de9c19bb7407a9bffb9f514835243d2308cfed56b826a2"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text1-width160",
+      "text": "Numbers 12345 and 67890 appear beside ordinary words, commas and full stops. Consistent paragraph spacing should survive changes in width and printed output.",
+      "width": 160,
+      "face": "bold",
+      "ends": [
+        30,
+        60,
+        87,
+        112,
+        141,
+        157
+      ],
+      "docxHash": "ad3d62ebdcf1b573de9d1b1b22750999570575bcbac173a5d2461779e7b95a87",
+      "pdfHash": "3835be1e9ce9dded097508b3a0c4186f37abd4921e6df74b14284cac06097630"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text1-width180",
+      "text": "Numbers 12345 and 67890 appear beside ordinary words, commas and full stops. Consistent paragraph spacing should survive changes in width and printed output.",
+      "width": 180,
+      "face": "bold",
+      "ends": [
+        30,
+        64,
+        97,
+        131,
+        157
+      ],
+      "docxHash": "5a1da5ec2ad6554f8d6da6763699f15af8883ce7e66b87add35e69265a82b6c3",
+      "pdfHash": "32327fc83726af80c7546ea9a88ebceff43a18dd7814a006372e1618653bdaca"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text1-width220",
+      "text": "Numbers 12345 and 67890 appear beside ordinary words, commas and full stops. Consistent paragraph spacing should survive changes in width and printed output.",
+      "width": 219.99998474121094,
+      "face": "bold",
+      "ends": [
+        37,
+        76,
+        120,
+        157
+      ],
+      "docxHash": "0be949c3d8ff44417a28e107b41ca1668580c41ef7d54e1ea3407b8e0f0ab1f7",
+      "pdfHash": "0045a021ae5e81c16da6d7fc2ca21d983aa9b3afd34ee11d0ab038a6701ce604"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text1-width310",
+      "text": "Numbers 12345 and 67890 appear beside ordinary words, commas and full stops. Consistent paragraph spacing should survive changes in width and printed output.",
+      "width": 309.99998474121094,
+      "face": "bold",
+      "ends": [
+        53,
+        112,
+        157
+      ],
+      "docxHash": "4f95ace5795057f3530b129a3dffaf0c28676cf38903866a54ffe98412d8f164",
+      "pdfHash": "56b1d1042337dbdd13f671aa9504094fc86a4707d27c1738655ee5a4f40de393"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text1-width440",
+      "text": "Numbers 12345 and 67890 appear beside ordinary words, commas and full stops. Consistent paragraph spacing should survive changes in width and printed output.",
+      "width": 439.9999876022339,
+      "face": "bold",
+      "ends": [
+        87,
+        157
+      ],
+      "docxHash": "c5b66464ca81d61f6d2818ec6dac193f7ac6b9b81161432d91b59bb8818b6689",
+      "pdfHash": "2c7779f9109aae49bfbe4261927de240bdf7281cd354ba15910c4e1619b79f2a"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text1-width520",
+      "text": "Numbers 12345 and 67890 appear beside ordinary words, commas and full stops. Consistent paragraph spacing should survive changes in width and printed output.",
+      "width": 519.9999847412109,
+      "face": "bold",
+      "ends": [
+        97,
+        157
+      ],
+      "docxHash": "4a05b72930059a193eb13a427521756a00bf55d0efe05197a704b17ba3f34ef3",
+      "pdfHash": "df1297b8b7106e7be01d4882e56f8d1eb1575494fd3003000e88d4577afddc8d"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text2-width160",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 160,
+      "face": "bold",
+      "ends": [
+        34,
+        68,
+        100,
+        132,
+        153
+      ],
+      "docxHash": "eec1af91bf785a8a98e3f0c2fb65d0fc781cd81dab45e60a983ce2f0421b0c70",
+      "pdfHash": "a7eb47d955c1aeb20998b6aaaff3af8218b6509dcad3c2aed895d31ecb6de814"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text2-width180",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 180,
+      "face": "bold",
+      "ends": [
+        38,
+        77,
+        113,
+        153
+      ],
+      "docxHash": "0535b0ed9e9aaf912082437b4ed978d0e9a7acf81cf971c33d4f816a05650984",
+      "pdfHash": "efde0d7318213ef241c7c01775ac36f0b5ec3153573e469b5edf90191f7c8db9"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text2-width220",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 219.99998474121094,
+      "face": "bold",
+      "ends": [
+        45,
+        91,
+        137,
+        153
+      ],
+      "docxHash": "15784ff9f7246d75379990ae9362e7c4b09d61283b578ead64aba976c2febf3e",
+      "pdfHash": "dcc77b8c500c9ce1df163243b2b82f3739cef8a763d6368901b031353e019010"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text2-width310",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 309.99998474121094,
+      "face": "bold",
+      "ends": [
+        68,
+        132,
+        153
+      ],
+      "docxHash": "0e80cb83fca93cd99da24211bfc926869aa01821dab2b28807953a515b786729",
+      "pdfHash": "3c12b7f0deb248d1445d5d51bf579c0d17c4b1307bd844496f08c2345e9c40f0"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text2-width440",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 439.9999876022339,
+      "face": "bold",
+      "ends": [
+        94,
+        153
+      ],
+      "docxHash": "6553a66f33b300cd37ef59924557559cd9a04bb9cd8b82a35ca27124bd9c5137",
+      "pdfHash": "434f9a9ec87c8c97259af4d1018a9a945b5961f725995d0261b2cf119efd9492"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text2-width520",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 519.9999847412109,
+      "face": "bold",
+      "ends": [
+        109,
+        153
+      ],
+      "docxHash": "caf621eabb95706e9f0726e3b13de62c0be1bbce7ebbf5199bb95fd4215a91f2",
+      "pdfHash": "a3c9071ed266a4570c578b33d5763535d9f377cedfef9964ba2c592157bd4f63"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text3-width160",
+      "text": "Wide words in one short final sentence.",
+      "width": 160,
+      "face": "bold",
+      "ends": [
+        29,
+        39
+      ],
+      "docxHash": "8024b24b8c2d8e366fcec5bf223d7e31639880258d4ab4dada998a906809a50b",
+      "pdfHash": "aa70e517ed94c9b3ce5b263ee3d14a39850e6d9cfbb15d58ffe31458b40047cb"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text3-width180",
+      "text": "Wide words in one short final sentence.",
+      "width": 180,
+      "face": "bold",
+      "ends": [
+        29,
+        39
+      ],
+      "docxHash": "2ab8b98c46df0ff7284794ce95eba6b50fe59727e6e788a6a8d1a5a1ba89cd18",
+      "pdfHash": "f6f79049378c2b6215a74a0f0ffe1b2814a0763f10fd7e682f346660b3b294ab"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text3-width220",
+      "text": "Wide words in one short final sentence.",
+      "width": 219.99998474121094,
+      "face": "bold",
+      "ends": [
+        39
+      ],
+      "docxHash": "6de9451e50721afd7a5871be04ee04b0978f197cfaeede6cbef351fb8093cb30",
+      "pdfHash": "5f4dccefcb71aaf3b16a79322af3d57f39397c1dc346d097529de96361d10791"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text3-width310",
+      "text": "Wide words in one short final sentence.",
+      "width": 309.99998474121094,
+      "face": "bold",
+      "ends": [
+        39
+      ],
+      "docxHash": "64543a5a6b596d99de1200c549dae7e4502ae4d44dcbe3010a3890aa3375e72c",
+      "pdfHash": "3b137c9015a3d1c9e5a92c061af9cf76aa52d481642bda0b6cf960949f03969d"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text3-width440",
+      "text": "Wide words in one short final sentence.",
+      "width": 439.9999876022339,
+      "face": "bold",
+      "ends": [
+        39
+      ],
+      "docxHash": "e9379422a2bd16d3ecf23e853d1a11f9cf8b8b32f95ac5608c3bc0100afd5cbf",
+      "pdfHash": "adf181dd1eb0afe8321c991757c924c1265bc89816ca7fba7f245aa200a16500"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text3-width520",
+      "text": "Wide words in one short final sentence.",
+      "width": 519.9999847412109,
+      "face": "bold",
+      "ends": [
+        39
+      ],
+      "docxHash": "bb5b13f7797bf5f9f50a9a97afd3fa297e4e234133cd7180da781861b7369079",
+      "pdfHash": "0e2fa5224ac6cd98e4d6b61cf000d495f7f415688adc809bd3d7764979894ffb"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text4-width160",
+      "text": "Proportional lettering places thin iii beside broad WWW and MMM. Different character shapes require careful measurement when the available line becomes narrow.",
+      "width": 160,
+      "face": "bold",
+      "ends": [
+        34,
+        64,
+        91,
+        119,
+        151,
+        159
+      ],
+      "docxHash": "2196b5a70d6a3592711fff0e972946525bbcfcd24eff34bbef02bc61a927b318",
+      "pdfHash": "0b5c6a73546619f8cd44ea1cefceea991b99c6709c379b62075926f7129ba926"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text4-width180",
+      "text": "Proportional lettering places thin iii beside broad WWW and MMM. Different character shapes require careful measurement when the available line becomes narrow.",
+      "width": 180,
+      "face": "bold",
+      "ends": [
+        38,
+        64,
+        99,
+        128,
+        159
+      ],
+      "docxHash": "0f30de7815f4107d83bc7ed4cf41b772003fdfec9b9351c1c9feff43a1f0b475",
+      "pdfHash": "a4ad2afe93d27a54e94b881f8cc4bac269908de2003fa757e1c17bb806bc5981"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text4-width220",
+      "text": "Proportional lettering places thin iii beside broad WWW and MMM. Different character shapes require careful measurement when the available line becomes narrow.",
+      "width": 219.99998474121094,
+      "face": "bold",
+      "ends": [
+        45,
+        84,
+        128,
+        159
+      ],
+      "docxHash": "dd94193b34069eefd488e01e7c3868d6242aaab4222949ce47386ece245693db",
+      "pdfHash": "ebd28bf162132872280d1fcddc24831de2edb2dda34a7356e5577fe004627c4f"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text4-width310",
+      "text": "Proportional lettering places thin iii beside broad WWW and MMM. Different character shapes require careful measurement when the available line becomes narrow.",
+      "width": 309.99998474121094,
+      "face": "bold",
+      "ends": [
+        64,
+        128,
+        159
+      ],
+      "docxHash": "b0081ebe784a27270fce560ecde858957e5e0155a55575f1ea087d3310113183",
+      "pdfHash": "fc7de355d99196d8d868ff55380488b6b86459055515089652d875ddae7a913f"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text4-width440",
+      "text": "Proportional lettering places thin iii beside broad WWW and MMM. Different character shapes require careful measurement when the available line becomes narrow.",
+      "width": 439.9999876022339,
+      "face": "bold",
+      "ends": [
+        91,
+        159
+      ],
+      "docxHash": "7de4e8591528ecd0370dfb9557e6e2e8bbcc046b2385504c600a85492f0d79e6",
+      "pdfHash": "f071704123df8f331fed10c55f85340d628e532933048fa88456bab6717c3707"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text4-width520",
+      "text": "Proportional lettering places thin iii beside broad WWW and MMM. Different character shapes require careful measurement when the available line becomes narrow.",
+      "width": 519.9999847412109,
+      "face": "bold",
+      "ends": [
+        107,
+        159
+      ],
+      "docxHash": "30b41e93e8a250979de61a5c7b195918d960db5176c139ee30a655d4d0ea12de",
+      "pdfHash": "0ea3fcdaba7e95a216dba6bcfc6646be318996471088757c7909eaca603d840c"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text5-width160",
+      "text": "Folders contain several versions of the same report. The final copy includes small corrections, new figures and a clear explanation of the results for every reader.",
+      "width": 160,
+      "face": "bold",
+      "ends": [
+        32,
+        67,
+        99,
+        134,
+        164
+      ],
+      "docxHash": "d79772199b6987858244d018be8b46cf373ee0890dff2b0a7f556f670781ef8a",
+      "pdfHash": "ff6d4fb36b260d23306fbd49c7058029b400b390c4a7687cf13f64de659eaa4e"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text5-width180",
+      "text": "Folders contain several versions of the same report. The final copy includes small corrections, new figures and a clear explanation of the results for every reader.",
+      "width": 180,
+      "face": "bold",
+      "ends": [
+        35,
+        67,
+        99,
+        138,
+        164
+      ],
+      "docxHash": "a553bb473d0d71405035d6e3459728364b93aff2ee9df3e02f10b3d2fac731fb",
+      "pdfHash": "3eefb6c1305623d98ba72093f16c10941ff2566b373dbadaf491840cac907a5b"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text5-width220",
+      "text": "Folders contain several versions of the same report. The final copy includes small corrections, new figures and a clear explanation of the results for every reader.",
+      "width": 219.99998474121094,
+      "face": "bold",
+      "ends": [
+        44,
+        82,
+        119,
+        164
+      ],
+      "docxHash": "a6b44c82f808a071a2891cf41983a6e2c310c996246917b7a98e61212fed1b41",
+      "pdfHash": "fa3a33f04b5033b5eecafb679e0f7edb7dbed6e3d11d5d98d6249356015bda06"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text5-width310",
+      "text": "Folders contain several versions of the same report. The final copy includes small corrections, new figures and a clear explanation of the results for every reader.",
+      "width": 309.99998474121094,
+      "face": "bold",
+      "ends": [
+        62,
+        119,
+        164
+      ],
+      "docxHash": "d52739b0dbe3abb478c4bfa7a14ec38015f50beef38729854b4cb743c4ce714e",
+      "pdfHash": "f8d44ee3c2f1671262d51108af3e65a15cc17bf91f5ae3140e0f516344998d25"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text5-width440",
+      "text": "Folders contain several versions of the same report. The final copy includes small corrections, new figures and a clear explanation of the results for every reader.",
+      "width": 439.9999876022339,
+      "face": "bold",
+      "ends": [
+        82,
+        164
+      ],
+      "docxHash": "20759e2020c98a36e12fe389deaa76f996d445010a708a6362933c7d9aac275e",
+      "pdfHash": "4e4b8f4bc1713fb3626001dd51cfe7d3722fd030056bb48fc5b54abf31e88fef"
+    },
+    {
+      "name": "justification-heldout-native-v1/header-font3-text5-width520",
+      "text": "Folders contain several versions of the same report. The final copy includes small corrections, new figures and a clear explanation of the results for every reader.",
+      "width": 519.9999847412109,
+      "face": "bold",
+      "ends": [
+        107,
+        164
+      ],
+      "docxHash": "245830ce793a0996ee1fcfe30762dba4b9f2b80a44f1c0903d83635b068b26e6",
+      "pdfHash": "8cc60b68f2d8f9f3178dda5b4827d24cac0508c922a96c09ee1ffe097a88ca44"
+    },
+    {
+      "name": "justification-heldout-native-v1/body-font0-text0-width180",
+      "text": "Quiet mornings bring clear light through the window. Several readers compare their notes before the meeting begins, then arrange the pages in a useful order.",
+      "width": 180,
+      "face": "regular",
+      "ends": [
+        40,
+        76,
+        115,
+        157
+      ],
+      "docxHash": "6ab0357ec49749e4771f91f4775ef5619f322e4d5c48eed61195b30055880da2",
+      "pdfHash": "8b8522d03c48fd010948ec9a08226cc0387252dab6a6ba980c158a6f1996d30e"
+    },
+    {
+      "name": "justification-heldout-native-v1/body-font0-text0-width440",
+      "text": "Quiet mornings bring clear light through the window. Several readers compare their notes before the meeting begins, then arrange the pages in a useful order.",
+      "width": 439.9999876022339,
+      "face": "regular",
+      "ends": [
+        99,
+        157
+      ],
+      "docxHash": "29c2bf37be14c378a2c38f63066ed834547eb2759a434386f718a8d651ed3503",
+      "pdfHash": "32444838db47a94a0d866158d8990b5cd495f4c67e9748f29d97b7dc93b78dc3"
+    },
+    {
+      "name": "justification-heldout-native-v1/body-font0-text3-width180",
+      "text": "Wide words in one short final sentence.",
+      "width": 180,
+      "face": "regular",
+      "ends": [
+        39
+      ],
+      "docxHash": "e84a0cc0fc2d1a871b948b552a45491aea6f70164d9ef9815587895489236016",
+      "pdfHash": "2db379914e74e243b337373a591cc9be4b9811a758419f497b164c23a9923641"
+    },
+    {
+      "name": "justification-heldout-native-v1/body-font0-text3-width440",
+      "text": "Wide words in one short final sentence.",
+      "width": 439.9999876022339,
+      "face": "regular",
+      "ends": [
+        39
+      ],
+      "docxHash": "0a2635fa8a176da6dfbe7de2a1abacd593be8cc82b0e2e2242f4f611ea30e1ac",
+      "pdfHash": "44eda5c912daea33669f6506acb8dc3ff416a276b9ea494be372f8d766e8feb5"
+    },
+    {
+      "name": "justification-heldout-native-v1/footer-font0-text0-width180",
+      "text": "Quiet mornings bring clear light through the window. Several readers compare their notes before the meeting begins, then arrange the pages in a useful order.",
+      "width": 180,
+      "face": "regular",
+      "ends": [
+        40,
+        76,
+        115,
+        157
+      ],
+      "docxHash": "d8706a53baca82e7542ca510429d2e83af74b8f2ec6557d84a8dbb39a8257916",
+      "pdfHash": "829b1fdb8837aee0d4b57fc3ad133e627d7da4a0f1b70db85f8815ec9e4e8f33"
+    },
+    {
+      "name": "justification-heldout-native-v1/footer-font0-text0-width440",
+      "text": "Quiet mornings bring clear light through the window. Several readers compare their notes before the meeting begins, then arrange the pages in a useful order.",
+      "width": 439.9999876022339,
+      "face": "regular",
+      "ends": [
+        99,
+        157
+      ],
+      "docxHash": "848b9dadb88fbcdd9cfd5879c3f220f44e513c1ae4b1022a909824acb3039228",
+      "pdfHash": "9ff40fceea50701586b3921af097409f133233200f01530e1935d328458f9e9b"
+    },
+    {
+      "name": "justification-heldout-native-v1/footer-font0-text3-width180",
+      "text": "Wide words in one short final sentence.",
+      "width": 180,
+      "face": "regular",
+      "ends": [
+        39
+      ],
+      "docxHash": "ccef9e764b3874ae2c74febb391ddfb04b234038fb0f1206e009f72f54051e71",
+      "pdfHash": "62e7ddd89f31ec26d9ac635ee2a6eb4818445c207a1ed9f98e2cbabbdf9e31c9"
+    },
+    {
+      "name": "justification-heldout-native-v1/footer-font0-text3-width440",
+      "text": "Wide words in one short final sentence.",
+      "width": 439.9999876022339,
+      "face": "regular",
+      "ends": [
+        39
+      ],
+      "docxHash": "73b8c390120d8b3c3efca4501e8760f53c3cbb36cf1f4994a77931b4878d3bb0",
+      "pdfHash": "c11866188778fde781544b2ab5fd279bb10bebd3dfa99cfb2dfa191b2768110f"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text0-width159.5",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 159.5,
+      "face": "bold",
+      "ends": [
+        34,
+        68,
+        100,
+        132,
+        153
+      ],
+      "docxHash": "19bd3a03d5b047c541c002f74db8149beb5a662150dc8fa7a490e837bb039f15",
+      "pdfHash": "dfb48f4320c9aa0b44db5aacdfe0f02a3af568148545a9264c2a5aa6ac58004c"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text0-width159.75",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 159.75,
+      "face": "bold",
+      "ends": [
+        34,
+        68,
+        100,
+        132,
+        153
+      ],
+      "docxHash": "5ef99120d1b9b621d449c2111ddea8137924fbb6f6af6b6753e9de7571eb87f5",
+      "pdfHash": "7cdd4ac4102fed0d778434b648adf6c49ecf4d68ee7e2a771f11760b211c3c63"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text0-width159.9",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 159.89999389648438,
+      "face": "bold",
+      "ends": [
+        34,
+        68,
+        100,
+        132,
+        153
+      ],
+      "docxHash": "3ed4ea50511a79214102d1c1d6bfadd7333c84be5c55c0d5fd8624339835a33c",
+      "pdfHash": "78fca8441e5e2fda32af6d92200752bf67117d5a13ccc13ab6c7d85a9341c1e1"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text0-width159.95",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 159.94998168945312,
+      "face": "bold",
+      "ends": [
+        34,
+        68,
+        100,
+        132,
+        153
+      ],
+      "docxHash": "09c32ef3407146645f633c8aca2d65dc684cddae29b73d3d1a127d92307f61ec",
+      "pdfHash": "31a6694002d8666205cd3a8bdf411f366e461bb2f4ae014e0499fac64bcb63bd"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text0-width160",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 160,
+      "face": "bold",
+      "ends": [
+        34,
+        68,
+        100,
+        132,
+        153
+      ],
+      "docxHash": "7421e57d6521381bbbe24ab7da876ff6b3c3f6b8e8f4eee3747caad66c396e21",
+      "pdfHash": "5c61c64c49e1d9198bd06d21b9148f5ab2b2e9b447a6c212d77c4b5eca9d3274"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text0-width160.05",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 160.04998779296875,
+      "face": "bold",
+      "ends": [
+        34,
+        68,
+        100,
+        137,
+        153
+      ],
+      "docxHash": "b0116661e53efbfe377ce631d9e18f8a78a8cdd392e5d0a558ec1019aefc98c0",
+      "pdfHash": "d59d26ad745172013c29a7a5e7c2c26ed7cf662f85879ca1a2fc810b321b59c6"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text0-width160.1",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 160.0999755859375,
+      "face": "bold",
+      "ends": [
+        34,
+        68,
+        100,
+        137,
+        153
+      ],
+      "docxHash": "a6f4b574b8cf96ed6ab98decf3a6adae3ca18ea81fdfbd624818ac4955c4f45f",
+      "pdfHash": "cf7154914ddd0ba8c3d92cbd8c05d72af502a4653f8ea8482e32b5d149960662"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text0-width160.15",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 160.14999389648438,
+      "face": "bold",
+      "ends": [
+        34,
+        68,
+        100,
+        137,
+        153
+      ],
+      "docxHash": "c42e8ceba2b27a75e52548c091122bbcb4c5de55e6346d593cb34e8ba8a218ba",
+      "pdfHash": "5cc3b28df60e97c96923bfa917f48e54c230f74051eb27e1739999177ab5df0e"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text0-width160.2",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 160.19998168945312,
+      "face": "bold",
+      "ends": [
+        34,
+        68,
+        100,
+        137,
+        153
+      ],
+      "docxHash": "ad5b7d2a672c7dd3073158394f6ead70a02f455400b6d7b450ab0ed218da6e60",
+      "pdfHash": "965a46aeda2b47463690e71a7de23ac5a6c157026e0cbc523f3fff766d6d5921"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text0-width160.25",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 160.25,
+      "face": "bold",
+      "ends": [
+        34,
+        68,
+        100,
+        137,
+        153
+      ],
+      "docxHash": "e41b68c1985778d17cdbfd798a898b4bd643837235be43e1f3f0471b54e81b50",
+      "pdfHash": "006b4999c104df0eb744c4ef122b359ade7e162227521b3d2da9da15595b3ed4"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text0-width160.3",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 160.29998779296875,
+      "face": "bold",
+      "ends": [
+        34,
+        68,
+        100,
+        137,
+        153
+      ],
+      "docxHash": "213079705a42ee4fd11645476a958ad90462e94ec15f2970f1ab54fc55e6e089",
+      "pdfHash": "a0adae70510d522b3e8f54d9b78e7e53fa2ab2a2800c0092983b5e8f1b87be1d"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text0-width160.5",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 160.5,
+      "face": "bold",
+      "ends": [
+        34,
+        68,
+        100,
+        137,
+        153
+      ],
+      "docxHash": "0a4919fc9373e23f14a3150203b47c236d7366a2f8ac32db0ebc3e2de5bc3d3a",
+      "pdfHash": "63adb2b818c05f4e129eb1294f2f56e4d83f83e20fa9d4cae3af00fa2a819397"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text0-width161",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 161,
+      "face": "bold",
+      "ends": [
+        34,
+        68,
+        100,
+        137,
+        153
+      ],
+      "docxHash": "da8506bb210af37761412835eed2609d5baf65a7bbf64497b8527c8dd5302b89",
+      "pdfHash": "ba454be874823eb3a09fb8e6b34c5fddfb9fc280d3e0e8dd0225c3bef74256be"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text0-width162",
+      "text": "We can do a bit of work at a time, and we can see if it is as we had hoped. A few of us may go on to do more, but all of us can read this line with care.",
+      "width": 162,
+      "face": "bold",
+      "ends": [
+        34,
+        68,
+        100,
+        137,
+        153
+      ],
+      "docxHash": "1c278e2f8b364d62f8f8eff884c8fc0bdfa6db8bb09fd09793f5991664d73c59",
+      "pdfHash": "0d4edab550f70c5e6e959e4d8d012f474b2a2abc776f5d2ae75c4951d5047d40"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text1-width159.5",
+      "text": "do more, but all of us can read this line with care.",
+      "width": 159.5,
+      "face": "bold",
+      "ends": [
+        31,
+        52
+      ],
+      "docxHash": "41ec539fa830a2295f4fbbe3a4616e9f8142fbafd4487631719d2e79927a2977",
+      "pdfHash": "e8af70faaca156308e37012d6ea9ba51a291afa60f124ae657626bb30ec5c679"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text1-width159.75",
+      "text": "do more, but all of us can read this line with care.",
+      "width": 159.75,
+      "face": "bold",
+      "ends": [
+        31,
+        52
+      ],
+      "docxHash": "4571f68aa22883aa510012c63e2f801e419860dfde6a2bea19ed2c3a4c60fc30",
+      "pdfHash": "09097099a756c5effaed42c77e27dc3c4bc20c979cb2d937a53ffdd8f8c4d17e"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text1-width159.9",
+      "text": "do more, but all of us can read this line with care.",
+      "width": 159.89999389648438,
+      "face": "bold",
+      "ends": [
+        31,
+        52
+      ],
+      "docxHash": "7aee52efa674577ee81071773cfdbf072d662e42d83bb2588f727b40e60bb5d7",
+      "pdfHash": "d019a15936adb4fbb884590e8c31516b6c343e12141e5ea346b8b1075ca10d49"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text1-width159.95",
+      "text": "do more, but all of us can read this line with care.",
+      "width": 159.94998168945312,
+      "face": "bold",
+      "ends": [
+        31,
+        52
+      ],
+      "docxHash": "52f1d24e57f5a110618b986269b1baa5a4959640ed2dd518663bbe97667914bc",
+      "pdfHash": "f594724cab92cfa88d3e0b75f3e33d5a8a51419fbb6392136190e44211ca250e"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text1-width160",
+      "text": "do more, but all of us can read this line with care.",
+      "width": 160,
+      "face": "bold",
+      "ends": [
+        31,
+        52
+      ],
+      "docxHash": "8a38af3ed5a2b6a8318ca60c5185f1c808b44fd824fa7bbcd51bf122396bcb19",
+      "pdfHash": "a91b30c2df124c7f172ec680a42b74a0bf4c14eed96d51cf992f618b5ffa9e3e"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text1-width160.05",
+      "text": "do more, but all of us can read this line with care.",
+      "width": 160.04998779296875,
+      "face": "bold",
+      "ends": [
+        36,
+        52
+      ],
+      "docxHash": "b80ba51e951c682c6b1e029ef5bb19baacec5e5f27453d20f2bc8546836dc282",
+      "pdfHash": "ae986732f1c6e7e5720f545e1c8bf019e67acab714ee076c5ebfb407e23af47a"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text1-width160.1",
+      "text": "do more, but all of us can read this line with care.",
+      "width": 160.0999755859375,
+      "face": "bold",
+      "ends": [
+        36,
+        52
+      ],
+      "docxHash": "2a9c1af977a511a7835fc1297020c64d010bfb5f8a9fea9657c5a3bceb6cef84",
+      "pdfHash": "4ff23a4c10f31d28e23aca4d58418ab59e96efa2798531f11ed9ccf56a03e995"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text1-width160.15",
+      "text": "do more, but all of us can read this line with care.",
+      "width": 160.14999389648438,
+      "face": "bold",
+      "ends": [
+        36,
+        52
+      ],
+      "docxHash": "1b02fbcd52fb5328291524076be5bcaa7dce46bcb860154ea78f5ecab00f90ba",
+      "pdfHash": "c4bb8543629955aa6fe1e84e3e868ae566cf448e73a7974f87cfc2bb31eb6fc6"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text1-width160.2",
+      "text": "do more, but all of us can read this line with care.",
+      "width": 160.19998168945312,
+      "face": "bold",
+      "ends": [
+        36,
+        52
+      ],
+      "docxHash": "ead7904a927da4421e18986cac5f5eb5078016c9b77763c8b4040a36a5f0f982",
+      "pdfHash": "5898857ec6af4a04ba75906434d0e8d2995ba99c41ce573593acd81adbf0fb78"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text1-width160.25",
+      "text": "do more, but all of us can read this line with care.",
+      "width": 160.25,
+      "face": "bold",
+      "ends": [
+        36,
+        52
+      ],
+      "docxHash": "8cb1a6734eaa5085938e91c3233cde3788ed06cb6aa1c0565ac91be289752070",
+      "pdfHash": "8faf0e9e223c47c7746610acea63e07918a0af9beccde84e93f3b21754473aeb"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text1-width160.3",
+      "text": "do more, but all of us can read this line with care.",
+      "width": 160.29998779296875,
+      "face": "bold",
+      "ends": [
+        36,
+        52
+      ],
+      "docxHash": "2e9f4a3f101b72af119f92be55cf79527ef167db54904a44332fbc6b54e216cc",
+      "pdfHash": "06e5c2cd142da00a0aa8f95e119b90eb1ea6aef3a9f61d2209f567c4891fed8f"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text1-width160.5",
+      "text": "do more, but all of us can read this line with care.",
+      "width": 160.5,
+      "face": "bold",
+      "ends": [
+        36,
+        52
+      ],
+      "docxHash": "93efe91bd0dfcada15fc8dfd4291b57ab0fc4ed231bd1b2a0f3bf5a74b8e9b48",
+      "pdfHash": "16cc8ca400b3c104f29e67d439553c65493b4b5df91addf9232dfc1a082ec42f"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text1-width161",
+      "text": "do more, but all of us can read this line with care.",
+      "width": 161,
+      "face": "bold",
+      "ends": [
+        36,
+        52
+      ],
+      "docxHash": "ec2251f12c7ccebc6d7aa83e94579f50072d40113b8dd7e529b084a31c44303c",
+      "pdfHash": "d5378974c09ea3109378f03a8e483d2fd1147986f917af2142ca1f9f2848f95d"
+    },
+    {
+      "name": "justification-boundary-native-v1/header-font0-text1-width162",
+      "text": "do more, but all of us can read this line with care.",
+      "width": 162,
+      "face": "bold",
+      "ends": [
+        36,
+        52
+      ],
+      "docxHash": "8bfb030a9d0e7220092507490a5a5da40c8c87b5d80e529ddaf3b8a9be8a9427",
+      "pdfHash": "612b980b7ffd29ef62a95a640ec8fa2152bc29f39097fba7b0d278ad7b074deb"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font0-text0-width154.85",
+      "text": "A careful editor keeps each revision beside its source, checks the short notes, and returns to the opening paragraph after lunch. The last page contains a concise reply.",
+      "width": 154.8499755859375,
+      "face": "regular",
+      "ends": [
+        27,
+        62,
+        98,
+        133,
+        169
+      ],
+      "docxHash": "b95067dcc13309c235bc5712c12400d7e10b3d70a10d51b929e78aa198fe9ad3",
+      "pdfHash": "6634085ccccf9bf74acb87173d149d9f6d26d4c6c6bac28c7e7801a3c4c4bb60"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font0-text0-width154.9",
+      "text": "A careful editor keeps each revision beside its source, checks the short notes, and returns to the opening paragraph after lunch. The last page contains a concise reply.",
+      "width": 154.89999389648438,
+      "face": "regular",
+      "ends": [
+        27,
+        62,
+        98,
+        133,
+        169
+      ],
+      "docxHash": "d76dcf5098c7493309033532ef012a3ed66936378f395f21716e5982fe59df61",
+      "pdfHash": "7b25636309dc4a8f7066a2bbfa679b037dbb4ee66600fdfb382c5a87dc65d53f"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font0-text0-width154.95",
+      "text": "A careful editor keeps each revision beside its source, checks the short notes, and returns to the opening paragraph after lunch. The last page contains a concise reply.",
+      "width": 154.94998168945312,
+      "face": "regular",
+      "ends": [
+        36,
+        72,
+        106,
+        138,
+        169
+      ],
+      "docxHash": "793c457f0a2c21688637ce6d646d8ef0715a99828c4c9c22c49ff541b9a4ea05",
+      "pdfHash": "cd3035f9ef08f86cb66df538db2e81b8148bd95c0cad99f3738d087b414334d5"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font0-text0-width251",
+      "text": "A careful editor keeps each revision beside its source, checks the short notes, and returns to the opening paragraph after lunch. The last page contains a concise reply.",
+      "width": 250.99998474121094,
+      "face": "regular",
+      "ends": [
+        55,
+        106,
+        162,
+        169
+      ],
+      "docxHash": "35ac93962b7597e76376010f7bc1bb9adf41efb68bedacc4263a0962784f4469",
+      "pdfHash": "91e4538c380c175ae88bc8007cb2b3dc7e0a696a13c1172d3f9888f8da5b5e7a"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font0-text0-width266.6",
+      "text": "A careful editor keeps each revision beside its source, checks the short notes, and returns to the opening paragraph after lunch. The last page contains a concise reply.",
+      "width": 266.59999084472656,
+      "face": "regular",
+      "ends": [
+        55,
+        116,
+        169
+      ],
+      "docxHash": "9d82a98f8b9cc157ffbdf05dfea259364f0a71c9b8d7fa036b383c0ef12467ce",
+      "pdfHash": "76ff5b828e23fab8c9ffcf53af408de0212fa3efde9fde24424a2ff1b5a4f453"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font0-text0-width266.65",
+      "text": "A careful editor keeps each revision beside its source, checks the short notes, and returns to the opening paragraph after lunch. The last page contains a concise reply.",
+      "width": 266.6499938964844,
+      "face": "regular",
+      "ends": [
+        55,
+        116,
+        169
+      ],
+      "docxHash": "45356a4d69b0879878e3a74081f205c593ba13cbd7106dcb314295f4b3a67cda",
+      "pdfHash": "a8df0bff023c77fc1f75941cb6d00b060cd576cab3a2a6312670bacbff95abbd"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font0-text0-width266.7",
+      "text": "A careful editor keeps each revision beside its source, checks the short notes, and returns to the opening paragraph after lunch. The last page contains a concise reply.",
+      "width": 266.6999816894531,
+      "face": "regular",
+      "ends": [
+        62,
+        122,
+        169
+      ],
+      "docxHash": "b5507b5bcafd83e7e760f2a2a27f494784dbc0c889c5cec3d9f10c449123f71c",
+      "pdfHash": "645cbd4f1c6c1dd9f8e79301eafb6f0549443b7d51732b4c446051fdda1ba094"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/body-font0-text1-width172.65",
+      "text": "Seven amber lamps illuminate the room while two visitors study a detailed map. Small labels identify the north gate, the river crossing, and three familiar streets.",
+      "width": 172.64999389648438,
+      "face": "regular",
+      "ends": [
+        32,
+        73,
+        110,
+        146,
+        164
+      ],
+      "docxHash": "3cde1b3fc5688027480ee0a5283a9cde101ac9abec3293fb3c865cb19a7f5576",
+      "pdfHash": "019ee495a292b61d0643d282e78ce23d3b9f9a4cb49f677b176ab921e53a13cf"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/body-font0-text1-width172.7",
+      "text": "Seven amber lamps illuminate the room while two visitors study a detailed map. Small labels identify the north gate, the river crossing, and three familiar streets.",
+      "width": 172.69998168945312,
+      "face": "regular",
+      "ends": [
+        32,
+        73,
+        110,
+        146,
+        164
+      ],
+      "docxHash": "f4c597fcf2df55fbf9dc526ed5829f3dd6b68dc522ed406c6ac9995a33c0e417",
+      "pdfHash": "2993f92c6a6becb76289a3e5e4118e78d44120a64357dffc00e661ee734dedd2"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/body-font0-text1-width172.75",
+      "text": "Seven amber lamps illuminate the room while two visitors study a detailed map. Small labels identify the north gate, the river crossing, and three familiar streets.",
+      "width": 172.75,
+      "face": "regular",
+      "ends": [
+        37,
+        78,
+        120,
+        155,
+        164
+      ],
+      "docxHash": "1ad0173767a697f464b98f5e47597b82256a0fcccb612f6bba15006eb4fedaaf",
+      "pdfHash": "ecdc8dff7e860da2fd5fc90d5ac2059fddc59934168e8cae4d1f121cd888154a"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/body-font0-text1-width251",
+      "text": "Seven amber lamps illuminate the room while two visitors study a detailed map. Small labels identify the north gate, the river crossing, and three familiar streets.",
+      "width": 250.99998474121094,
+      "face": "regular",
+      "ends": [
+        56,
+        116,
+        164
+      ],
+      "docxHash": "d7ce2259d5714915ed33daa246952063c7027a61994e62717d8911c09c8e533f",
+      "pdfHash": "c3aecf92e4eccdd1be5f68362b18bebdf3262b5218e2dd44b12250728b311f9e"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/body-font0-text1-width274.35",
+      "text": "Seven amber lamps illuminate the room while two visitors study a detailed map. Small labels identify the north gate, the river crossing, and three familiar streets.",
+      "width": 274.34999084472656,
+      "face": "regular",
+      "ends": [
+        56,
+        120,
+        164
+      ],
+      "docxHash": "95de199dedb2e8cf0954cd26278719b3f8f0f226f06b19488daa06984cecea3a",
+      "pdfHash": "91f17a2947b1c90dbb3857ddcbb1ee588307c70eeaca39caaf2b524a8e11d6fc"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/body-font0-text1-width274.4",
+      "text": "Seven amber lamps illuminate the room while two visitors study a detailed map. Small labels identify the north gate, the river crossing, and three familiar streets.",
+      "width": 274.3999938964844,
+      "face": "regular",
+      "ends": [
+        56,
+        120,
+        164
+      ],
+      "docxHash": "70eeb92a736dd764c70fe7cd60cccec1062c9b0a13a2061b25fc6c2c5525799f",
+      "pdfHash": "07566b97146834d1344246d7a0672e410754646887385f3a0e41169d06b7dd2c"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/body-font0-text1-width274.45",
+      "text": "Seven amber lamps illuminate the room while two visitors study a detailed map. Small labels identify the north gate, the river crossing, and three familiar streets.",
+      "width": 274.4499816894531,
+      "face": "regular",
+      "ends": [
+        62,
+        126,
+        164
+      ],
+      "docxHash": "e4eb6cdf2e7a2105be3ac3ee5a119fbcbe19f0416ad5abe81762603f75da1ecf",
+      "pdfHash": "a1b8cb6dc5ecbf263e258285b189d886d6edc8187b84aa67851053c8d49fadba"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/footer-font0-text2-width152.1",
+      "text": "Please compare item 204 with item 719, then write a brief account of the differences. Broad capitals such as W and M sit beside narrow letters in this printed sample.",
+      "width": 152.0999755859375,
+      "face": "regular",
+      "ends": [
+        28,
+        65,
+        100,
+        134,
+        166
+      ],
+      "docxHash": "0a366df043de480abe04110d462f4b49899e7827ca126799608c0513ff7a8cdc",
+      "pdfHash": "af453517c1c05eff1561b75d616a7aef27e9578aa55a69853e7adffc20a30618"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/footer-font0-text2-width152.15",
+      "text": "Please compare item 204 with item 719, then write a brief account of the differences. Broad capitals such as W and M sit beside narrow letters in this printed sample.",
+      "width": 152.14999389648438,
+      "face": "regular",
+      "ends": [
+        28,
+        65,
+        100,
+        134,
+        166
+      ],
+      "docxHash": "92343c36014a406538b05bb4d4a2aa1e81ca30d7a1d04a1345d5eab64754dcb1",
+      "pdfHash": "04b054936fe48c85945e6634f0213e29f818605bcb7f07311496fa84f8f5e49f"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/footer-font0-text2-width152.2",
+      "text": "Please compare item 204 with item 719, then write a brief account of the differences. Broad capitals such as W and M sit beside narrow letters in this printed sample.",
+      "width": 152.19998168945312,
+      "face": "regular",
+      "ends": [
+        33,
+        68,
+        100,
+        134,
+        166
+      ],
+      "docxHash": "51fc17a4ca65ef4186eabb1cd72e8a5944e583d0a184665b0bebac30848f4447",
+      "pdfHash": "1ae7946cb904fe5db366d2d350ff97d7a8182eaec47b8fd813e2460ecb6c96bc"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/footer-font0-text2-width229.25",
+      "text": "Please compare item 204 with item 719, then write a brief account of the differences. Broad capitals such as W and M sit beside narrow letters in this printed sample.",
+      "width": 229.24998474121094,
+      "face": "regular",
+      "ends": [
+        49,
+        100,
+        150,
+        166
+      ],
+      "docxHash": "676445c9ebe9c9cc1880ec6b06e209ae7d7fce34e236910d432ef46a4349532b",
+      "pdfHash": "18e17314cb4f27fe4ff65e20b84604daa96aaa73d4db3fb0bedc3f3e4fcf48f4"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/footer-font0-text2-width229.3",
+      "text": "Please compare item 204 with item 719, then write a brief account of the differences. Broad capitals such as W and M sit beside narrow letters in this printed sample.",
+      "width": 229.29998779296875,
+      "face": "regular",
+      "ends": [
+        49,
+        100,
+        150,
+        166
+      ],
+      "docxHash": "4f035cc8861a8119b599fb52f8a20497cc6d51a4c507a1d704bc0b37e4aeb488",
+      "pdfHash": "220c0b7469a8f230e9e5063f53eb840d1ef8aefe486aa0f0f7148c6e29c8c2a1"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/footer-font0-text2-width229.35",
+      "text": "Please compare item 204 with item 719, then write a brief account of the differences. Broad capitals such as W and M sit beside narrow letters in this printed sample.",
+      "width": 229.34999084472656,
+      "face": "regular",
+      "ends": [
+        51,
+        105,
+        158,
+        166
+      ],
+      "docxHash": "3ef3276eaaed7fbb44ecedf1fcd045ee7a74e73df4bf13680b34cb8c2835f037",
+      "pdfHash": "e0699ea7ccde61da30d9cf8ce0aa60d4aa53216451dab3bb500e397083c48a6b"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/footer-font0-text2-width251",
+      "text": "Please compare item 204 with item 719, then write a brief account of the differences. Broad capitals such as W and M sit beside narrow letters in this printed sample.",
+      "width": 250.99998474121094,
+      "face": "regular",
+      "ends": [
+        57,
+        114,
+        166
+      ],
+      "docxHash": "ea7a20aee0acd83c331673500015907384110e7c88cb2c3a20a6f01f33ed5f7a",
+      "pdfHash": "b2375c96004c1c37357a0b36daaeb7aca39d9afd16354dbe7951b44856c298bb"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font0-text3-width217.35",
+      "text": "Today's draft uses ordinary punctuation: commas, periods, and a question? The writer can review each complete sentence before making another change to the final copy.",
+      "width": 217.34999084472656,
+      "face": "regular",
+      "ends": [
+        40,
+        88,
+        132,
+        166
+      ],
+      "docxHash": "47064bb981acf9638e5f916565f74de516e48d2dc3eeb561d8bc15d4a700d049",
+      "pdfHash": "a3c24941a2c84e1c26d7c3e445ae0bc032088e13ff3a0b3928a861f54189de16"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font0-text3-width217.4",
+      "text": "Today's draft uses ordinary punctuation: commas, periods, and a question? The writer can review each complete sentence before making another change to the final copy.",
+      "width": 217.39999389648438,
+      "face": "regular",
+      "ends": [
+        40,
+        88,
+        132,
+        166
+      ],
+      "docxHash": "13a53571153f0fad06b2c8c6fca04371c21751f92f5b6c71af095b4efc1f9536",
+      "pdfHash": "2fc34e759148d51b3bea80fc8e6f569358b3471704bdd7ee704536b002f52a24"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font0-text3-width217.45",
+      "text": "Today's draft uses ordinary punctuation: commas, periods, and a question? The writer can review each complete sentence before making another change to the final copy.",
+      "width": 217.44998168945312,
+      "face": "regular",
+      "ends": [
+        48,
+        95,
+        140,
+        166
+      ],
+      "docxHash": "3b32580f4244bf50348895266e26704414a0dae9b33feaf0c1cf77967de9af16",
+      "pdfHash": "b84c1e05721c655928321c97957cd3dfbd443bee68e3331133cb09b9f411b2cb"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font0-text3-width251",
+      "text": "Today's draft uses ordinary punctuation: commas, periods, and a question? The writer can review each complete sentence before making another change to the final copy.",
+      "width": 250.99998474121094,
+      "face": "regular",
+      "ends": [
+        48,
+        100,
+        154,
+        166
+      ],
+      "docxHash": "d5be5233714d704cd2103ce557dcc46b0544e41a1d14072666ff30dbe85ae4ab",
+      "pdfHash": "75cf1a6d093212ebb394b61dc637e0e475b3e679a4365486992f0e3e4a08d44d"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font0-text3-width326.9",
+      "text": "Today's draft uses ordinary punctuation: commas, periods, and a question? The writer can review each complete sentence before making another change to the final copy.",
+      "width": 326.89998626708984,
+      "face": "regular",
+      "ends": [
+        63,
+        132,
+        166
+      ],
+      "docxHash": "39e82d1f140637b79bec26655f1b09cd0d261528e48346e82448d5ba9eaaebb5",
+      "pdfHash": "cf6df10fbafd0fb5435672a51106f9280d763f2f4cf8422d86265bc5b860a20b"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font0-text3-width326.95",
+      "text": "Today's draft uses ordinary punctuation: commas, periods, and a question? The writer can review each complete sentence before making another change to the final copy.",
+      "width": 326.94998931884766,
+      "face": "regular",
+      "ends": [
+        63,
+        132,
+        166
+      ],
+      "docxHash": "f315bd97e376e3542df8e2a2dee6c02d4775a5ace421d0e2bf38f4164d9ac611",
+      "pdfHash": "8c686b5620ddf8fe3838fc4724ca2f8718ac6106c1b11a5b104dc9182150d25c"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font0-text3-width327",
+      "text": "Today's draft uses ordinary punctuation: commas, periods, and a question? The writer can review each complete sentence before making another change to the final copy.",
+      "width": 326.99998474121094,
+      "face": "regular",
+      "ends": [
+        73,
+        140,
+        166
+      ],
+      "docxHash": "c7a36c6395a711fef60a6fed3eaeb7378d0cf78e78d7237f802d1610745d8b3c",
+      "pdfHash": "6841d76c25fa20374491317fd3dc29cce2f1846f33d787c150294aff7c6588fb"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font3-text0-width167.65",
+      "text": "A careful editor keeps each revision beside its source, checks the short notes, and returns to the opening paragraph after lunch. The last page contains a concise reply.",
+      "width": 167.64999389648438,
+      "face": "bold",
+      "ends": [
+        27,
+        62,
+        98,
+        133,
+        169
+      ],
+      "docxHash": "3628d81e863bbdbbba44030f95125f7494077cedd3261be962645c71f6eaaf1c",
+      "pdfHash": "1777a62bce651c46382e0c78c761dd7e6382b459ee9fda58d44fafc3b43f8d13"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font3-text0-width167.7",
+      "text": "A careful editor keeps each revision beside its source, checks the short notes, and returns to the opening paragraph after lunch. The last page contains a concise reply.",
+      "width": 167.69998168945312,
+      "face": "bold",
+      "ends": [
+        27,
+        62,
+        98,
+        133,
+        169
+      ],
+      "docxHash": "76f1522b3030209abe259c36f02f0ec23fdbbd316b956b385c3532845f73bed1",
+      "pdfHash": "0a420c9dc7d5309fc075609ebd258318b32d8e201eca5c25a851d101a7bbd5d6"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font3-text0-width167.75",
+      "text": "A careful editor keeps each revision beside its source, checks the short notes, and returns to the opening paragraph after lunch. The last page contains a concise reply.",
+      "width": 167.75,
+      "face": "bold",
+      "ends": [
+        36,
+        72,
+        106,
+        138,
+        169
+      ],
+      "docxHash": "f52c7e61a45c3d27c2972ac571539812cabc1bc819dc60fa44ae526af015cfc3",
+      "pdfHash": "30c26f28dcbff86375f122579a09106ded67bfb55a20fb625ad83611d2b1820d"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font3-text0-width251",
+      "text": "A careful editor keeps each revision beside its source, checks the short notes, and returns to the opening paragraph after lunch. The last page contains a concise reply.",
+      "width": 250.99998474121094,
+      "face": "bold",
+      "ends": [
+        47,
+        98,
+        143,
+        169
+      ],
+      "docxHash": "f49fc608f433849e9fe0000940a7f62edb103e17f701f95ab91516b4e6f5da82",
+      "pdfHash": "4bc7e11ebbc3b36ec6d81f47535a1f8f4988405d1919eee68d96ca701545ebef"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font3-text0-width288.8",
+      "text": "A careful editor keeps each revision beside its source, checks the short notes, and returns to the opening paragraph after lunch. The last page contains a concise reply.",
+      "width": 288.79998779296875,
+      "face": "bold",
+      "ends": [
+        55,
+        116,
+        169
+      ],
+      "docxHash": "e49ad476ce5ace72817c09d7d5700b7314f1374bddda3ff351713e05e5825021",
+      "pdfHash": "20aee6660df1f2109caac39defe812bf3ec95c29d45ec6d28fdc214d61c8d810"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font3-text0-width288.85",
+      "text": "A careful editor keeps each revision beside its source, checks the short notes, and returns to the opening paragraph after lunch. The last page contains a concise reply.",
+      "width": 288.84999084472656,
+      "face": "bold",
+      "ends": [
+        55,
+        116,
+        169
+      ],
+      "docxHash": "a1d8ef3e5e2178cdd0a16a549701eb2667aae7518f3b25cf0ae6655e9c85b0cf",
+      "pdfHash": "04dd9355559b82f445d0eb8ba0a6c7358a52d37cddef21d22211f120ed444daf"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font3-text0-width288.9",
+      "text": "A careful editor keeps each revision beside its source, checks the short notes, and returns to the opening paragraph after lunch. The last page contains a concise reply.",
+      "width": 288.8999938964844,
+      "face": "bold",
+      "ends": [
+        62,
+        122,
+        169
+      ],
+      "docxHash": "39d537d645f6115af5221c5c804f5d77b84058ea91ce916d5551664e4fe0ffe5",
+      "pdfHash": "8af4db276c7cf9b47705be55821c53406e0c583af99b67f4f165b209897469d9"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/body-font3-text1-width185.4",
+      "text": "Seven amber lamps illuminate the room while two visitors study a detailed map. Small labels identify the north gate, the river crossing, and three familiar streets.",
+      "width": 185.39999389648438,
+      "face": "bold",
+      "ends": [
+        32,
+        73,
+        110,
+        146,
+        164
+      ],
+      "docxHash": "1a0a125fe147c5523cbeee40fab123b3e44ffc2acccc37e306b43a8efa6f6e5b",
+      "pdfHash": "630825dde2b83e79e726b9ac63868a2c031193cafe391c8466098193171e3a53"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/body-font3-text1-width185.45",
+      "text": "Seven amber lamps illuminate the room while two visitors study a detailed map. Small labels identify the north gate, the river crossing, and three familiar streets.",
+      "width": 185.44998168945312,
+      "face": "bold",
+      "ends": [
+        32,
+        73,
+        110,
+        146,
+        164
+      ],
+      "docxHash": "a3f05737fe216508279a2bac523a774bdfbaa7a7058da73f132dad810c3fdc90",
+      "pdfHash": "4e7c201b3515b2b5e227f825bd013e775ab75706a785a75f24435883ea820cbe"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/body-font3-text1-width185.5",
+      "text": "Seven amber lamps illuminate the room while two visitors study a detailed map. Small labels identify the north gate, the river crossing, and three familiar streets.",
+      "width": 185.5,
+      "face": "bold",
+      "ends": [
+        37,
+        78,
+        120,
+        155,
+        164
+      ],
+      "docxHash": "4bf9d1206fb4a50f9e6ab697a033c74fb46c93a947d1459ba2a145d6cd0014b7",
+      "pdfHash": "3de9a4f0d6366c343b06444d2e48ec963cd2e87daed57a80ce8bd2fcd392dca0"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/body-font3-text1-width251",
+      "text": "Seven amber lamps illuminate the room while two visitors study a detailed map. Small labels identify the north gate, the river crossing, and three familiar streets.",
+      "width": 250.99998474121094,
+      "face": "bold",
+      "ends": [
+        47,
+        100,
+        155,
+        164
+      ],
+      "docxHash": "a26aa1d0568194ab317ccd6e964a5e2f90916fa6cff3ef4d2fa9f0bcf76709f6",
+      "pdfHash": "5f63f2eb69010010d5acc717e1c492af012171b94d24eddbb28f6761912c28b6"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/body-font3-text1-width298.2",
+      "text": "Seven amber lamps illuminate the room while two visitors study a detailed map. Small labels identify the north gate, the river crossing, and three familiar streets.",
+      "width": 298.1999816894531,
+      "face": "bold",
+      "ends": [
+        56,
+        120,
+        164
+      ],
+      "docxHash": "ba5c6ee5dac3684d95415abfe0a9f8fb083c95dd80a8279239141f21a4d7d46a",
+      "pdfHash": "298a42de7e5d8b8f99e7ceee44ad2bfa9f8eaaf441f67bf7521a7432a0fa99d6"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/body-font3-text1-width298.25",
+      "text": "Seven amber lamps illuminate the room while two visitors study a detailed map. Small labels identify the north gate, the river crossing, and three familiar streets.",
+      "width": 298.24998474121094,
+      "face": "bold",
+      "ends": [
+        56,
+        120,
+        164
+      ],
+      "docxHash": "d6aa599842eb9e27e8cc90973cca194696caaeeff16ffab3af7e7ca0cf618cbf",
+      "pdfHash": "77ab9541b01dbbf60506997b051d8155fd67f97b2542afd60d692ce2878ee979"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/body-font3-text1-width298.3",
+      "text": "Seven amber lamps illuminate the room while two visitors study a detailed map. Small labels identify the north gate, the river crossing, and three familiar streets.",
+      "width": 298.29998779296875,
+      "face": "bold",
+      "ends": [
+        62,
+        126,
+        164
+      ],
+      "docxHash": "e2bf81e81f9c9a4c5a6bfd8049eebc8f9a80cd800517d222dd5d5e6ae286ec1f",
+      "pdfHash": "586f76a71d55ca7e8aead0d8979f97cc681f4a05719cad9750fe3a4b72c2d9cf"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/footer-font3-text2-width161.55",
+      "text": "Please compare item 204 with item 719, then write a brief account of the differences. Broad capitals such as W and M sit beside narrow letters in this printed sample.",
+      "width": 161.54998779296875,
+      "face": "bold",
+      "ends": [
+        28,
+        57,
+        91,
+        120,
+        150,
+        166
+      ],
+      "docxHash": "e14e8284a8c51c6dcebe2f50fc3f9445202b4c03a66d2665ee79f2dcf18d08c1",
+      "pdfHash": "763729d59093b4c89b21f0186d7b9aaa794b094fcd698fdeab3ea6f340d1409c"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/footer-font3-text2-width161.6",
+      "text": "Please compare item 204 with item 719, then write a brief account of the differences. Broad capitals such as W and M sit beside narrow letters in this printed sample.",
+      "width": 161.5999755859375,
+      "face": "bold",
+      "ends": [
+        28,
+        57,
+        91,
+        120,
+        150,
+        166
+      ],
+      "docxHash": "657b74290250bb312c1e27f4776170b3fa207a7cf6cc5298955d22d3a572d83f",
+      "pdfHash": "b43d0af687b02bf3a48d5e9c5527f73602ddb56e968a0930c5c38e90fb6d45dd"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/footer-font3-text2-width161.65",
+      "text": "Please compare item 204 with item 719, then write a brief account of the differences. Broad capitals such as W and M sit beside narrow letters in this printed sample.",
+      "width": 161.64999389648438,
+      "face": "bold",
+      "ends": [
+        33,
+        68,
+        100,
+        134,
+        166
+      ],
+      "docxHash": "19318dabba840f26df1e7cd3becf4f6fa590bfc9fcd0ec0b3988f76c3206cf2b",
+      "pdfHash": "d330b6cd875868a7238eef136ca7da89da7093d462bb0d600c0681a993fe80cc"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/footer-font3-text2-width242.6",
+      "text": "Please compare item 204 with item 719, then write a brief account of the differences. Broad capitals such as W and M sit beside narrow letters in this printed sample.",
+      "width": 242.59999084472656,
+      "face": "bold",
+      "ends": [
+        49,
+        100,
+        150,
+        166
+      ],
+      "docxHash": "10bfdd9916088533ba07c63cf28b469b45202e5c7ef12346d0dee16cf1de156c",
+      "pdfHash": "0257733ec85cf6cb629bc2949c5e816bfa3a9c3d2aa372606eb6c1cf70b39a1f"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/footer-font3-text2-width242.65",
+      "text": "Please compare item 204 with item 719, then write a brief account of the differences. Broad capitals such as W and M sit beside narrow letters in this printed sample.",
+      "width": 242.64999389648438,
+      "face": "bold",
+      "ends": [
+        49,
+        100,
+        150,
+        166
+      ],
+      "docxHash": "e5b77e4cd2028fcc91bcb2fe9cc46271fb6f563ea04e21c8598d87671c541e6c",
+      "pdfHash": "b680658eee878c6c56ce81faf73bac8a2782ed43f42d99ce18db1d9b86f07df8"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/footer-font3-text2-width242.7",
+      "text": "Please compare item 204 with item 719, then write a brief account of the differences. Broad capitals such as W and M sit beside narrow letters in this printed sample.",
+      "width": 242.69998168945312,
+      "face": "bold",
+      "ends": [
+        51,
+        100,
+        150,
+        166
+      ],
+      "docxHash": "6b17565070578c313abb7259c4567ac02b020bc91ea013fd3d05b276b8ef3693",
+      "pdfHash": "971afaa411e0fee0accdfa6dc0bd75d558181be8a05f9fb031e1c7030074d2be"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/footer-font3-text2-width251",
+      "text": "Please compare item 204 with item 719, then write a brief account of the differences. Broad capitals such as W and M sit beside narrow letters in this printed sample.",
+      "width": 250.99998474121094,
+      "face": "bold",
+      "ends": [
+        51,
+        105,
+        158,
+        166
+      ],
+      "docxHash": "8f9283b2d49af654180d72542434aeee1ee8c4c94cfacbb795233de9fbd92b31",
+      "pdfHash": "3d942fda06ea980b8127a0877651f3a89df25a5d36b2d674274b8388962101ff"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font3-text3-width236.65",
+      "text": "Today's draft uses ordinary punctuation: commas, periods, and a question? The writer can review each complete sentence before making another change to the final copy.",
+      "width": 236.64999389648438,
+      "face": "bold",
+      "ends": [
+        40,
+        88,
+        132,
+        166
+      ],
+      "docxHash": "14d1a7a3c33a6f937d5a451f887594060a5fe87e9419437e4cd331ec63a6e02b",
+      "pdfHash": "ad31148c40c469fd8398e2f14984137a49239c862ca936dcf7117e27fcaa9aa8"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font3-text3-width236.7",
+      "text": "Today's draft uses ordinary punctuation: commas, periods, and a question? The writer can review each complete sentence before making another change to the final copy.",
+      "width": 236.69998168945312,
+      "face": "bold",
+      "ends": [
+        40,
+        88,
+        132,
+        166
+      ],
+      "docxHash": "d4ae410558bb6f552d546cbb421499e87deea26e696235f32b9276cb77a942d6",
+      "pdfHash": "dd429673d4069dc81bfb19d7e3b161bbc18e6166fe7230fd3e5051f40716d8e2"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font3-text3-width236.75",
+      "text": "Today's draft uses ordinary punctuation: commas, periods, and a question? The writer can review each complete sentence before making another change to the final copy.",
+      "width": 236.74998474121094,
+      "face": "bold",
+      "ends": [
+        48,
+        95,
+        140,
+        166
+      ],
+      "docxHash": "bac5bf9a8be150517d327fd29d56ae6b9e9d75b4825fb86d92e302abb1c119eb",
+      "pdfHash": "8da5839992e8625bbcf6df464926d52b4cdeee8a4b3602937431007c15584ae1"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font3-text3-width251",
+      "text": "Today's draft uses ordinary punctuation: commas, periods, and a question? The writer can review each complete sentence before making another change to the final copy.",
+      "width": 250.99998474121094,
+      "face": "bold",
+      "ends": [
+        48,
+        100,
+        150,
+        166
+      ],
+      "docxHash": "6928f7b33231f680a561c89c4c0a34dc6a8752d7767ee5954f075f7cfa918824",
+      "pdfHash": "3af18b9e8f9abbcbeabe15ad0628d9d6e2a927298da63fc34de4dff9f67e5674"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font3-text3-width355",
+      "text": "Today's draft uses ordinary punctuation: commas, periods, and a question? The writer can review each complete sentence before making another change to the final copy.",
+      "width": 354.99998474121094,
+      "face": "bold",
+      "ends": [
+        63,
+        132,
+        166
+      ],
+      "docxHash": "2be8fc7f60a5dbdb8ef09f3bc33cef5ad1b6264ca78eb45cb2c6f7b55cf64c46",
+      "pdfHash": "4979830a39825755c95dc49de0b8f1badf180884ed45fc99a0bcdfcdd3a7d56d"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font3-text3-width355.05",
+      "text": "Today's draft uses ordinary punctuation: commas, periods, and a question? The writer can review each complete sentence before making another change to the final copy.",
+      "width": 355.04998779296875,
+      "face": "bold",
+      "ends": [
+        63,
+        132,
+        166
+      ],
+      "docxHash": "0d87d12a4a9811748f414f15fac52563e27196f5638d4777f1bdfaa41db156e3",
+      "pdfHash": "c3a8593e11b0e3f0508c18b4f102a91733d197eeedb88eda51cf95dfe304d42d"
+    },
+    {
+      "name": "justification-raw-heldout-native-v1/header-font3-text3-width355.1",
+      "text": "Today's draft uses ordinary punctuation: commas, periods, and a question? The writer can review each complete sentence before making another change to the final copy.",
+      "width": 355.09999084472656,
+      "face": "bold",
+      "ends": [
+        73,
+        140,
+        166
+      ],
+      "docxHash": "263f76f69753dcf6ea7aa6de8da89b098578567acafb620c5449818b62da498b",
+      "pdfHash": "9c10ea80d5498912d85c62b9b28e8634dcca4adf86281f3a24e466ea08a59275"
+    }
+  ],
+  "producerHash": "383b1b570bbadb0d3b31a888e2e3fabfd00c729868752a49832b3b5892a4305e"
+}

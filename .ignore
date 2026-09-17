@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+.svelte-kit/
+test-results/
+playwright-report/
+*.log
+*.tsbuildinfo
+.local/
+# Separately licensed architectural reference, retained outside application searches.
+reference_repo/

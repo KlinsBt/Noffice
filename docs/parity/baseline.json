@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "inspectedAt": "2026-09-10T03:41:37.3382056Z",
+  "method": "Executable file metadata, PE machine type and SHA-256; no Office documents opened",
+  "culture": "de-DE",
+  "uiCulture": "de-DE",
+  "osBuild": "26200.9168",
+  "applications": [
+    {
+      "executable": "WINWORD.EXE",
+      "path": "C:\\Program Files\\Microsoft Office\\Office16\\WINWORD.EXE",
+      "product": "Microsoft Office 2016",
+      "version": "16.0.4627.1000",
+      "architecture": "x64",
+      "sha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "executable": "EXCEL.EXE",
+      "path": "C:\\Program Files\\Microsoft Office\\Office16\\EXCEL.EXE",
+      "product": "Microsoft Office 2016",
+      "version": "16.0.4627.1001",
+      "architecture": "x64",
+      "sha256": "34f17e922e344705a958b52e2472e6667b1d32a887f28a18b7b97e0e7ab167a9"
+    },
+    {
+      "executable": "POWERPNT.EXE",
+      "path": "C:\\Program Files\\Microsoft Office\\Office16\\POWERPNT.EXE",
+      "product": "Microsoft Office 2016",
+      "version": "16.0.4266.1001",
+      "architecture": "x64",
+      "sha256": "a57633850b4f82f842144b3758d1fc2d2dd71fb15036bac642aa81bd32004a55"
+    }
+  ]
+}

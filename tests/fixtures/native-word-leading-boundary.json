@@ -1,0 +1,1061 @@
+{
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "scriptHash": "de87e1473edba90c3dcb58a9db4140488bf2579a3d35e44a98bcb770743ac67b",
+  "cases": [
+    {
+      "pdfHash": "04d4765c77ece3625dcf08bbf78ffaecf251bd789e34c506f97107c4a23260eb",
+      "sourceHash": "c1e320e1ddbe3ea41a9f2d76d6397d2c65fbc5128de978fba9489a5b07ad9ffc",
+      "characters": [
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "1",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "2",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "3",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "4",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "5",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "6",
+          "page": 1
+        }
+      ],
+      "name": "plain-six",
+      "pages": 1,
+      "starts": [
+        {
+          "page": 1,
+          "text": "item01"
+        },
+        {
+          "page": 1,
+          "text": "item02"
+        },
+        {
+          "page": 1,
+          "text": "item03"
+        },
+        {
+          "page": 1,
+          "text": "item04"
+        },
+        {
+          "page": 1,
+          "text": "item05"
+        },
+        {
+          "page": 1,
+          "text": "item06"
+        }
+      ]
+    },
+    {
+      "pdfHash": "ea3aeedfca46710710667cb682c45f9170c93c1ac2c3ae31fc05a78fd01ce08f",
+      "sourceHash": "06558d0d010b0bcb1b39512a6945a013f34997382465f9801aa8bb243a4b4fb1",
+      "characters": [
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "1",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "2",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "3",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "4",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "5",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "6",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 2
+        },
+        {
+          "text": "t",
+          "page": 2
+        },
+        {
+          "text": "e",
+          "page": 2
+        },
+        {
+          "text": "m",
+          "page": 2
+        },
+        {
+          "text": "0",
+          "page": 2
+        },
+        {
+          "text": "7",
+          "page": 2
+        }
+      ],
+      "name": "widow-off",
+      "pages": 2,
+      "starts": [
+        {
+          "page": 1,
+          "text": "item01"
+        },
+        {
+          "page": 1,
+          "text": "item02"
+        },
+        {
+          "page": 1,
+          "text": "item03"
+        },
+        {
+          "page": 1,
+          "text": "item04"
+        },
+        {
+          "page": 1,
+          "text": "item05"
+        },
+        {
+          "page": 1,
+          "text": "item06"
+        },
+        {
+          "page": 2,
+          "text": "item07"
+        }
+      ]
+    },
+    {
+      "pdfHash": "a11c089077cb3089481228a8b34150d706d1eba8ae6e389dfa8b011184bf7267",
+      "sourceHash": "4631f19eb2f771bdb4f0b8d5d951026d2d35c68aa7db3941b7508ac6b45805b8",
+      "characters": [
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "1",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "2",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "3",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "4",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "5",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 2
+        },
+        {
+          "text": "t",
+          "page": 2
+        },
+        {
+          "text": "e",
+          "page": 2
+        },
+        {
+          "text": "m",
+          "page": 2
+        },
+        {
+          "text": "0",
+          "page": 2
+        },
+        {
+          "text": "6",
+          "page": 2
+        },
+        {
+          "text": "\u000b",
+          "page": 2
+        },
+        {
+          "text": "i",
+          "page": 2
+        },
+        {
+          "text": "t",
+          "page": 2
+        },
+        {
+          "text": "e",
+          "page": 2
+        },
+        {
+          "text": "m",
+          "page": 2
+        },
+        {
+          "text": "0",
+          "page": 2
+        },
+        {
+          "text": "7",
+          "page": 2
+        }
+      ],
+      "name": "widow-on",
+      "pages": 2,
+      "starts": [
+        {
+          "page": 1,
+          "text": "item01"
+        },
+        {
+          "page": 1,
+          "text": "item02"
+        },
+        {
+          "page": 1,
+          "text": "item03"
+        },
+        {
+          "page": 1,
+          "text": "item04"
+        },
+        {
+          "page": 1,
+          "text": "item05"
+        },
+        {
+          "page": 2,
+          "text": "item06"
+        },
+        {
+          "page": 2,
+          "text": "item07"
+        }
+      ]
+    },
+    {
+      "pdfHash": "dfe6d65b99f13040e5faa91c1402158d351579641885be119e7d63f34019739e",
+      "sourceHash": "dd5bf3a13f9028908cde99fc0193aa9e48c6799025a952aeaddc533068598e0f",
+      "characters": [
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "1",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "2",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "3",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "4",
+          "page": 1
+        },
+        {
+          "text": "\r",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "5",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "6",
+          "page": 1
+        }
+      ],
+      "name": "keep-paragraph",
+      "pages": 1,
+      "starts": [
+        {
+          "page": 1,
+          "text": "item01"
+        },
+        {
+          "page": 1,
+          "text": "item02"
+        },
+        {
+          "page": 1,
+          "text": "item03"
+        },
+        {
+          "page": 1,
+          "text": "item04"
+        },
+        {
+          "page": 1,
+          "text": "item05"
+        },
+        {
+          "page": 1,
+          "text": "item06"
+        }
+      ]
+    },
+    {
+      "pdfHash": "ebf8bf047ea6459ff9fdbf79fbe39c9b3adf7e7f5ec4334622f410d1c1715d39",
+      "sourceHash": "5342f5af8ef4d6e2f718e0eebbfe6a7f83565beafc9b89ae7da95b967e2d667d",
+      "characters": [
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "1",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "2",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "3",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "4",
+          "page": 1
+        },
+        {
+          "text": "\u000b",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "5",
+          "page": 1
+        },
+        {
+          "text": "\r",
+          "page": 1
+        },
+        {
+          "text": "i",
+          "page": 1
+        },
+        {
+          "text": "t",
+          "page": 1
+        },
+        {
+          "text": "e",
+          "page": 1
+        },
+        {
+          "text": "m",
+          "page": 1
+        },
+        {
+          "text": "0",
+          "page": 1
+        },
+        {
+          "text": "6",
+          "page": 1
+        }
+      ],
+      "name": "keep-next",
+      "pages": 1,
+      "starts": [
+        {
+          "page": 1,
+          "text": "item01"
+        },
+        {
+          "page": 1,
+          "text": "item02"
+        },
+        {
+          "page": 1,
+          "text": "item03"
+        },
+        {
+          "page": 1,
+          "text": "item04"
+        },
+        {
+          "page": 1,
+          "text": "item05"
+        },
+        {
+          "page": 1,
+          "text": "item06"
+        }
+      ]
+    }
+  ],
+  "fontHash": "cd37c6ad767f6a6a05a9831dcb413e4729b73aac15bcd81b329c23a74ba35869"
+}

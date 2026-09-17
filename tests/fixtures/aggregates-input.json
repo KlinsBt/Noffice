@@ -1,0 +1,532 @@
+{
+  "sheet": "Data Set",
+  "cells": {
+    "A1": 2,
+    "A2": 4,
+    "A3": "6",
+    "A4": true,
+    "A5": false,
+    "A7": "=\"\"",
+    "A8": "=NA()",
+    "B2": 8
+  },
+  "names": {
+    "Amounts": "'Data Set'!$A$1:$A$8",
+    "Flag": "TRUE",
+    "Empty": "'Data Set'!$A$6"
+  },
+  "cases": [
+    {
+      "ref": "E1",
+      "formula": "=SUM(A1:A8)"
+    },
+    {
+      "ref": "E2",
+      "formula": "=SUM(A1:A5)"
+    },
+    {
+      "ref": "E3",
+      "formula": "=SUM(A7)"
+    },
+    {
+      "ref": "E4",
+      "formula": "=SUM(A6)"
+    },
+    {
+      "ref": "E5",
+      "formula": "=SUM(A8)"
+    },
+    {
+      "ref": "E6",
+      "formula": "=SUM(A9)"
+    },
+    {
+      "ref": "E7",
+      "formula": "=SUM(TRUE,FALSE,\"3\",2)"
+    },
+    {
+      "ref": "E8",
+      "formula": "=SUM(\"bad\",2)"
+    },
+    {
+      "ref": "E9",
+      "formula": "=SUM(\"\",2)"
+    },
+    {
+      "ref": "E10",
+      "formula": "=SUM(NA(),2)"
+    },
+    {
+      "ref": "E11",
+      "formula": "=SUM(A1,A2,A3,A4,A5,A6,A7,A8)"
+    },
+    {
+      "ref": "E12",
+      "formula": "=SUM(Amounts)"
+    },
+    {
+      "ref": "E13",
+      "formula": "=SUM(Flag,2)"
+    },
+    {
+      "ref": "E14",
+      "formula": "=SUM(INDIRECT(\"A1:A8\"))"
+    },
+    {
+      "ref": "E15",
+      "formula": "=SUM(INDEX(A1:A8,6))"
+    },
+    {
+      "ref": "E16",
+      "formula": "=SUM(INDEX(A1:A8,7))"
+    },
+    {
+      "ref": "E17",
+      "formula": "=SUM(INDEX(A1:B8,0,1))"
+    },
+    {
+      "ref": "E18",
+      "formula": "=SUM(INDEX(A1:B8,2,0))"
+    },
+    {
+      "ref": "E19",
+      "formula": "=SUM(A:A)"
+    },
+    {
+      "ref": "E20",
+      "formula": "=SUM(1,)"
+    },
+    {
+      "ref": "E21",
+      "formula": "=SUM(Empty)"
+    },
+    {
+      "ref": "E22",
+      "formula": "=AVERAGE(A1:A8)"
+    },
+    {
+      "ref": "E23",
+      "formula": "=AVERAGE(A1:A5)"
+    },
+    {
+      "ref": "E24",
+      "formula": "=AVERAGE(A7)"
+    },
+    {
+      "ref": "E25",
+      "formula": "=AVERAGE(A6)"
+    },
+    {
+      "ref": "E26",
+      "formula": "=AVERAGE(A8)"
+    },
+    {
+      "ref": "E27",
+      "formula": "=AVERAGE(A9)"
+    },
+    {
+      "ref": "E28",
+      "formula": "=AVERAGE(TRUE,FALSE,\"3\",2)"
+    },
+    {
+      "ref": "E29",
+      "formula": "=AVERAGE(\"bad\",2)"
+    },
+    {
+      "ref": "E30",
+      "formula": "=AVERAGE(\"\",2)"
+    },
+    {
+      "ref": "E31",
+      "formula": "=AVERAGE(NA(),2)"
+    },
+    {
+      "ref": "E32",
+      "formula": "=AVERAGE(A1,A2,A3,A4,A5,A6,A7,A8)"
+    },
+    {
+      "ref": "E33",
+      "formula": "=AVERAGE(Amounts)"
+    },
+    {
+      "ref": "E34",
+      "formula": "=AVERAGE(Flag,2)"
+    },
+    {
+      "ref": "E35",
+      "formula": "=AVERAGE(INDIRECT(\"A1:A8\"))"
+    },
+    {
+      "ref": "E36",
+      "formula": "=AVERAGE(INDEX(A1:A8,6))"
+    },
+    {
+      "ref": "E37",
+      "formula": "=AVERAGE(INDEX(A1:A8,7))"
+    },
+    {
+      "ref": "E38",
+      "formula": "=AVERAGE(INDEX(A1:B8,0,1))"
+    },
+    {
+      "ref": "E39",
+      "formula": "=AVERAGE(INDEX(A1:B8,2,0))"
+    },
+    {
+      "ref": "E40",
+      "formula": "=AVERAGE(A:A)"
+    },
+    {
+      "ref": "E41",
+      "formula": "=AVERAGE(1,)"
+    },
+    {
+      "ref": "E42",
+      "formula": "=AVERAGE(Empty)"
+    },
+    {
+      "ref": "E43",
+      "formula": "=MIN(A1:A8)"
+    },
+    {
+      "ref": "E44",
+      "formula": "=MIN(A1:A5)"
+    },
+    {
+      "ref": "E45",
+      "formula": "=MIN(A7)"
+    },
+    {
+      "ref": "E46",
+      "formula": "=MIN(A6)"
+    },
+    {
+      "ref": "E47",
+      "formula": "=MIN(A8)"
+    },
+    {
+      "ref": "E48",
+      "formula": "=MIN(A9)"
+    },
+    {
+      "ref": "E49",
+      "formula": "=MIN(TRUE,FALSE,\"3\",2)"
+    },
+    {
+      "ref": "E50",
+      "formula": "=MIN(\"bad\",2)"
+    },
+    {
+      "ref": "E51",
+      "formula": "=MIN(\"\",2)"
+    },
+    {
+      "ref": "E52",
+      "formula": "=MIN(NA(),2)"
+    },
+    {
+      "ref": "E53",
+      "formula": "=MIN(A1,A2,A3,A4,A5,A6,A7,A8)"
+    },
+    {
+      "ref": "E54",
+      "formula": "=MIN(Amounts)"
+    },
+    {
+      "ref": "E55",
+      "formula": "=MIN(Flag,2)"
+    },
+    {
+      "ref": "E56",
+      "formula": "=MIN(INDIRECT(\"A1:A8\"))"
+    },
+    {
+      "ref": "E57",
+      "formula": "=MIN(INDEX(A1:A8,6))"
+    },
+    {
+      "ref": "E58",
+      "formula": "=MIN(INDEX(A1:A8,7))"
+    },
+    {
+      "ref": "E59",
+      "formula": "=MIN(INDEX(A1:B8,0,1))"
+    },
+    {
+      "ref": "E60",
+      "formula": "=MIN(INDEX(A1:B8,2,0))"
+    },
+    {
+      "ref": "E61",
+      "formula": "=MIN(A:A)"
+    },
+    {
+      "ref": "E62",
+      "formula": "=MIN(1,)"
+    },
+    {
+      "ref": "E63",
+      "formula": "=MIN(Empty)"
+    },
+    {
+      "ref": "E64",
+      "formula": "=MAX(A1:A8)"
+    },
+    {
+      "ref": "E65",
+      "formula": "=MAX(A1:A5)"
+    },
+    {
+      "ref": "E66",
+      "formula": "=MAX(A7)"
+    },
+    {
+      "ref": "E67",
+      "formula": "=MAX(A6)"
+    },
+    {
+      "ref": "E68",
+      "formula": "=MAX(A8)"
+    },
+    {
+      "ref": "E69",
+      "formula": "=MAX(A9)"
+    },
+    {
+      "ref": "E70",
+      "formula": "=MAX(TRUE,FALSE,\"3\",2)"
+    },
+    {
+      "ref": "E71",
+      "formula": "=MAX(\"bad\",2)"
+    },
+    {
+      "ref": "E72",
+      "formula": "=MAX(\"\",2)"
+    },
+    {
+      "ref": "E73",
+      "formula": "=MAX(NA(),2)"
+    },
+    {
+      "ref": "E74",
+      "formula": "=MAX(A1,A2,A3,A4,A5,A6,A7,A8)"
+    },
+    {
+      "ref": "E75",
+      "formula": "=MAX(Amounts)"
+    },
+    {
+      "ref": "E76",
+      "formula": "=MAX(Flag,2)"
+    },
+    {
+      "ref": "E77",
+      "formula": "=MAX(INDIRECT(\"A1:A8\"))"
+    },
+    {
+      "ref": "E78",
+      "formula": "=MAX(INDEX(A1:A8,6))"
+    },
+    {
+      "ref": "E79",
+      "formula": "=MAX(INDEX(A1:A8,7))"
+    },
+    {
+      "ref": "E80",
+      "formula": "=MAX(INDEX(A1:B8,0,1))"
+    },
+    {
+      "ref": "E81",
+      "formula": "=MAX(INDEX(A1:B8,2,0))"
+    },
+    {
+      "ref": "E82",
+      "formula": "=MAX(A:A)"
+    },
+    {
+      "ref": "E83",
+      "formula": "=MAX(1,)"
+    },
+    {
+      "ref": "E84",
+      "formula": "=MAX(Empty)"
+    },
+    {
+      "ref": "E85",
+      "formula": "=COUNT(A1:A8)"
+    },
+    {
+      "ref": "E86",
+      "formula": "=COUNT(A1:A5)"
+    },
+    {
+      "ref": "E87",
+      "formula": "=COUNT(A7)"
+    },
+    {
+      "ref": "E88",
+      "formula": "=COUNT(A6)"
+    },
+    {
+      "ref": "E89",
+      "formula": "=COUNT(A8)"
+    },
+    {
+      "ref": "E90",
+      "formula": "=COUNT(A9)"
+    },
+    {
+      "ref": "E91",
+      "formula": "=COUNT(TRUE,FALSE,\"3\",2)"
+    },
+    {
+      "ref": "E92",
+      "formula": "=COUNT(\"bad\",2)"
+    },
+    {
+      "ref": "E93",
+      "formula": "=COUNT(\"\",2)"
+    },
+    {
+      "ref": "E94",
+      "formula": "=COUNT(NA(),2)"
+    },
+    {
+      "ref": "E95",
+      "formula": "=COUNT(A1,A2,A3,A4,A5,A6,A7,A8)"
+    },
+    {
+      "ref": "E96",
+      "formula": "=COUNT(Amounts)"
+    },
+    {
+      "ref": "E97",
+      "formula": "=COUNT(Flag,2)"
+    },
+    {
+      "ref": "E98",
+      "formula": "=COUNT(INDIRECT(\"A1:A8\"))"
+    },
+    {
+      "ref": "E99",
+      "formula": "=COUNT(INDEX(A1:A8,6))"
+    },
+    {
+      "ref": "E100",
+      "formula": "=COUNT(INDEX(A1:A8,7))"
+    },
+    {
+      "ref": "E101",
+      "formula": "=COUNT(INDEX(A1:B8,0,1))"
+    },
+    {
+      "ref": "E102",
+      "formula": "=COUNT(INDEX(A1:B8,2,0))"
+    },
+    {
+      "ref": "E103",
+      "formula": "=COUNT(A:A)"
+    },
+    {
+      "ref": "E104",
+      "formula": "=COUNT(1,)"
+    },
+    {
+      "ref": "E105",
+      "formula": "=COUNT(Empty)"
+    },
+    {
+      "ref": "E106",
+      "formula": "=COUNTA(A1:A8)"
+    },
+    {
+      "ref": "E107",
+      "formula": "=COUNTA(A1:A5)"
+    },
+    {
+      "ref": "E108",
+      "formula": "=COUNTA(A7)"
+    },
+    {
+      "ref": "E109",
+      "formula": "=COUNTA(A6)"
+    },
+    {
+      "ref": "E110",
+      "formula": "=COUNTA(A8)"
+    },
+    {
+      "ref": "E111",
+      "formula": "=COUNTA(A9)"
+    },
+    {
+      "ref": "E112",
+      "formula": "=COUNTA(TRUE,FALSE,\"3\",2)"
+    },
+    {
+      "ref": "E113",
+      "formula": "=COUNTA(\"bad\",2)"
+    },
+    {
+      "ref": "E114",
+      "formula": "=COUNTA(\"\",2)"
+    },
+    {
+      "ref": "E115",
+      "formula": "=COUNTA(NA(),2)"
+    },
+    {
+      "ref": "E116",
+      "formula": "=COUNTA(A1,A2,A3,A4,A5,A6,A7,A8)"
+    },
+    {
+      "ref": "E117",
+      "formula": "=COUNTA(Amounts)"
+    },
+    {
+      "ref": "E118",
+      "formula": "=COUNTA(Flag,2)"
+    },
+    {
+      "ref": "E119",
+      "formula": "=COUNTA(INDIRECT(\"A1:A8\"))"
+    },
+    {
+      "ref": "E120",
+      "formula": "=COUNTA(INDEX(A1:A8,6))"
+    },
+    {
+      "ref": "E121",
+      "formula": "=COUNTA(INDEX(A1:A8,7))"
+    },
+    {
+      "ref": "E122",
+      "formula": "=COUNTA(INDEX(A1:B8,0,1))"
+    },
+    {
+      "ref": "E123",
+      "formula": "=COUNTA(INDEX(A1:B8,2,0))"
+    },
+    {
+      "ref": "E124",
+      "formula": "=COUNTA(A:A)"
+    },
+    {
+      "ref": "E125",
+      "formula": "=COUNTA(1,)"
+    },
+    {
+      "ref": "E126",
+      "formula": "=COUNTA(Empty)"
+    },
+    {
+      "ref": "E127",
+      "formula": "=COUNTA(1,\"a\",\"\")"
+    },
+    {
+      "ref": "E128",
+      "formula": "=AVERAGE(\"a\")"
+    }
+  ]
+}

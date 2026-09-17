@@ -1,0 +1,344 @@
+/* Shared editor ribbon. Keep document and inspector styling outside this layer. */
+.editing-workspace .app-switcher {
+  background: #f3f5f8;
+  border-bottom-color: #dfe4ec;
+}
+.editing-workspace .app-switcher > button {
+  font-size: 12px;
+  color: #526071;
+  min-height: 32px;
+}
+.editing-workspace .app-switcher > button.selected {
+  color: #28364a;
+  box-shadow: 0 1px 3px #24354a12;
+}
+.editor-body {
+  --ribbon-accent: #315f9c;
+  --ribbon-active: #e9f0fb;
+}
+.sheet-editor {
+  --ribbon-accent: #286447;
+  --ribbon-active: #e8f3ec;
+}
+.slide-editor {
+  --ribbon-accent: #a44c31;
+  --ribbon-active: #fbede7;
+}
+
+.editor-body .ribbon-tabs {
+  height: auto;
+  min-height: 42px;
+  padding: 0 16px;
+  gap: 4px;
+  flex-wrap: wrap;
+  border-bottom: 1px solid #dfe4ec;
+  background: #fff;
+}
+.editor-body .ribbon-tabs > button {
+  min-height: 42px;
+  padding: 10px 14px;
+  font-size: 13px;
+  line-height: 20px;
+  color: #526071;
+  border-radius: 4px 4px 0 0;
+  white-space: nowrap;
+  gap: 6px;
+}
+.editor-body .ribbon-tabs > button.selected {
+  color: var(--ribbon-accent);
+  font-weight: 650;
+  background: var(--ribbon-active);
+}
+.editor-body .ribbon-tabs > button.selected::after {
+  background: var(--ribbon-accent);
+  height: 3px;
+  left: 12px;
+  right: 12px;
+}
+.editor-body .ribbon-tabs > button svg {
+  width: 16px;
+  height: 16px;
+}
+.editor-body .ribbon-tabs > .ribbon-tab-action {
+  min-height: 30px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 12px;
+}
+.editor-body .grouped-ribbon {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  align-content: flex-start;
+  gap: 8px 0;
+  padding: 10px 12px 6px;
+  min-height: 76px;
+  max-height: min(42vh, 340px);
+  overflow-x: hidden;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  background: #fafbfd;
+  border-bottom: 1px solid #dce2ea;
+  box-shadow: 0 2px 4px #1d304008;
+  flex-shrink: 0;
+}
+.ribbon-group {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 min-content;
+  min-width: min-content;
+  max-width: max-content;
+  padding: 0 12px;
+  border-right: 1px solid #dfe4ec;
+}
+.ribbon-group:last-child {
+  border-right: 0;
+}
+.ribbon-group-content {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: center;
+  gap: 6px;
+  min-height: 30px;
+  flex: 1;
+}
+.ribbon-group-caption {
+  margin-top: 6px;
+  color: #657184;
+  font-size: 11px;
+  line-height: 16px;
+  text-align: center;
+  white-space: nowrap;
+}
+/* Spreadsheet commands share one ribbon. Keep compact, readable gutters as the
+   command set grows so wide windows can use horizontal group contents. */
+.sheet-editor .ribbon-group {
+  padding-inline: 6px;
+}
+.sheet-editor .ribbon-group-content {
+  gap: 4px;
+}
+.ribbon-row {
+  display: contents;
+}
+.grouped-ribbon .tool,
+.grouped-ribbon .color-tool {
+  flex: 0 0 30px;
+  width: 30px;
+  min-width: 30px;
+  height: 30px;
+  padding: 5px;
+  border-radius: 4px;
+  color: #38485b;
+}
+.grouped-ribbon .tool svg {
+  width: 18px;
+  height: 18px;
+}
+.grouped-ribbon button:hover:not(:disabled),
+.editor-body .ribbon-tabs button:hover:not(:disabled) {
+  background: #eaf0f6;
+}
+.grouped-ribbon .tool.active,
+.grouped-ribbon [aria-pressed='true'] {
+  color: var(--ribbon-accent);
+  background: var(--ribbon-active);
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--ribbon-accent) 25%, transparent);
+}
+.grouped-ribbon button:disabled {
+  opacity: 0.4;
+}
+.grouped-ribbon :is(button, select, input):focus-visible,
+.editor-body .ribbon-tabs button:focus-visible {
+  outline: 2px solid var(--ribbon-accent);
+  outline-offset: 2px;
+}
+.grouped-ribbon :is(select, input[type='number']) {
+  height: 30px;
+  min-width: 64px;
+  max-width: none;
+  margin: 0;
+  padding: 4px 7px;
+  border: 1px solid #cbd3df;
+  border-radius: 4px;
+  background: #fff;
+  color: #28364a;
+  font-size: 12px;
+  line-height: 20px;
+}
+.grouped-ribbon .font-size-input {
+  width: 64px;
+  flex: 0 0 64px;
+}
+.grouped-ribbon .font-picker {
+  flex: 0 0 174px;
+  width: 174px;
+}
+.grouped-ribbon .font-picker select {
+  width: 142px;
+  min-width: 0;
+  max-width: 142px;
+}
+.grouped-ribbon .font-add {
+  height: 30px;
+  width: 28px;
+  padding: 0;
+  color: #526071;
+}
+.grouped-ribbon .ribbon-action,
+.grouped-ribbon .text-tool,
+.grouped-ribbon .table-tools button {
+  min-height: 30px;
+  padding: 5px 8px;
+  font-size: 12px;
+  line-height: 20px;
+  gap: 7px;
+  border-radius: 4px;
+  white-space: nowrap;
+  color: #38485b;
+}
+.grouped-ribbon .field {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin: 0;
+}
+.grouped-ribbon .field > span {
+  color: #526071;
+  font-size: 12px;
+  line-height: 20px;
+}
+.grouped-ribbon .field input {
+  width: 66px;
+  flex: none;
+}
+.grouped-ribbon .ribbon-check {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  color: #38485b;
+  font-size: 12px;
+  line-height: 20px;
+  min-height: 30px;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.ribbon-check input[type='checkbox'] {
+  appearance: auto;
+  width: 15px;
+  height: 15px;
+  min-width: 15px;
+  margin: 0;
+  padding: 0;
+  accent-color: var(--ribbon-accent);
+}
+
+/* Size groups from their controls, not fixed group widths or forced row wrappers.
+   Flex starts at each group's minimum usable width and shares spare space up to
+   its natural single-row width. Controls wrap only within the space available. */
+.ribbon-group-content > :is(button, select, label),
+.ribbon-group-content > .ribbon-row > :is(button, select, label) {
+  flex-shrink: 0;
+}
+.ribbon-group.paragraph select {
+  width: 136px;
+}
+.ribbon-group.styles select {
+  width: 142px;
+}
+.ribbon-group.page-setup select,
+.ribbon-group.direction select {
+  width: 140px;
+}
+.ribbon-group.page-setup .field > span {
+  min-width: 68px;
+}
+.ribbon-group.spacing .field > span {
+  min-width: 64px;
+}
+/* Let the shared paragraph fields use the ribbon's available row width. The
+   story dialog retains the component's compact two-column grid. */
+.word-editor .grouped-ribbon .paragraph-spacing {
+  display: contents;
+}
+.word-editor .grouped-ribbon .paragraph-spacing > :is(label, select) {
+  flex-shrink: 0;
+}
+.word-editor .grouped-ribbon .paragraph-spacing .contextual {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  max-width: min(21rem, 100%);
+  min-height: 30px;
+  line-height: 20px;
+}
+.ribbon-group.indentation .field > span {
+  min-width: 88px;
+}
+.ribbon-group.direction .field {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+}
+.ribbon-group.cell-number select {
+  width: 144px;
+}
+.ribbon-group.slides select {
+  width: 180px;
+}
+.ribbon-group.insert button,
+.ribbon-group.slide-insert button {
+  justify-content: flex-start;
+}
+.ribbon-zoom {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  color: #526071;
+}
+.ribbon-group.slideshow .primary {
+  background: var(--ribbon-accent);
+  min-height: 32px;
+  font-size: 12px;
+  padding: 6px 12px;
+}
+@media (min-width: 2500px) {
+  /* Wide layouts wrap whole groups before compressing their controls into
+     extra rows. Smaller windows keep the existing compact group wrapping. */
+  .word-editor .grouped-ribbon .ribbon-group {
+    flex-basis: max-content;
+  }
+  .word-editor .grouped-ribbon .paragraph-spacing .contextual {
+    max-width: none;
+    white-space: nowrap;
+  }
+}
+@media (max-width: 700px) {
+  .editor-body .ribbon-tabs {
+    padding: 0 6px;
+    gap: 0;
+  }
+  .editor-body .ribbon-tabs > button {
+    padding: 8px 10px;
+    min-height: 38px;
+  }
+  .editor-body .grouped-ribbon {
+    padding: 8px 4px 6px;
+    max-height: 34vh;
+    scrollbar-color: #8c9aaf #eef1f6;
+    scrollbar-gutter: stable;
+  }
+  .ribbon-group {
+    padding: 0 8px;
+  }
+}
+@media print {
+  .editor-body .grouped-ribbon,
+  .editor-body .ribbon-tabs {
+    display: none !important;
+  }
+}

@@ -1,0 +1,650 @@
+{
+  "rows": [
+    {
+      "name": "header-single",
+      "page": 0,
+      "paragraph": 0,
+      "origin": 48.0,
+      "baseline": 32.05,
+      "expected": 68.03997802734375
+    },
+    {
+      "name": "header-single",
+      "page": 0,
+      "paragraph": 1,
+      "origin": 101.33330000000001,
+      "baseline": 32.05,
+      "expected": 108.01995849609375
+    },
+    {
+      "name": "header-single",
+      "page": 0,
+      "paragraph": 2,
+      "origin": 154.66660000000002,
+      "baseline": 9.35,
+      "expected": 125.29998779296875
+    },
+    {
+      "name": "header-single",
+      "page": 0,
+      "paragraph": 3,
+      "origin": 169.9947,
+      "baseline": 32.05,
+      "expected": 159.5
+    },
+    {
+      "name": "header-single",
+      "page": 0,
+      "paragraph": 4,
+      "origin": 223.328,
+      "baseline": 32.05,
+      "expected": 199.5799560546875
+    },
+    {
+      "name": "header-single",
+      "page": 1,
+      "paragraph": 0,
+      "origin": 48.0,
+      "baseline": 32.05,
+      "expected": 68.03997802734375
+    },
+    {
+      "name": "header-single",
+      "page": 1,
+      "paragraph": 1,
+      "origin": 101.33330000000001,
+      "baseline": 32.05,
+      "expected": 108.01995849609375
+    },
+    {
+      "name": "header-single",
+      "page": 1,
+      "paragraph": 2,
+      "origin": 154.66660000000002,
+      "baseline": 9.35,
+      "expected": 125.29998779296875
+    },
+    {
+      "name": "header-single",
+      "page": 1,
+      "paragraph": 3,
+      "origin": 169.9947,
+      "baseline": 32.05,
+      "expected": 159.5
+    },
+    {
+      "name": "header-single",
+      "page": 1,
+      "paragraph": 4,
+      "origin": 223.328,
+      "baseline": 32.05,
+      "expected": 199.5799560546875
+    },
+    {
+      "name": "header-double",
+      "page": 0,
+      "paragraph": 0,
+      "origin": 48.0,
+      "baseline": 32.05,
+      "expected": 68.03997802734375
+    },
+    {
+      "name": "header-double",
+      "page": 0,
+      "paragraph": 1,
+      "origin": 101.33330000000001,
+      "baseline": 32.05,
+      "expected": 108.01995849609375
+    },
+    {
+      "name": "header-double",
+      "page": 0,
+      "paragraph": 2,
+      "origin": 154.66660000000002,
+      "baseline": 9.35,
+      "expected": 125.41998291015625
+    },
+    {
+      "name": "header-double",
+      "page": 0,
+      "paragraph": 3,
+      "origin": 185.3228,
+      "baseline": 32.05,
+      "expected": 171.01995849609375
+    },
+    {
+      "name": "header-double",
+      "page": 0,
+      "paragraph": 4,
+      "origin": 238.6561,
+      "baseline": 32.05,
+      "expected": 211.0999755859375
+    },
+    {
+      "name": "header-double",
+      "page": 1,
+      "paragraph": 0,
+      "origin": 48.0,
+      "baseline": 32.05,
+      "expected": 68.03997802734375
+    },
+    {
+      "name": "header-double",
+      "page": 1,
+      "paragraph": 1,
+      "origin": 101.33330000000001,
+      "baseline": 32.05,
+      "expected": 108.01995849609375
+    },
+    {
+      "name": "header-double",
+      "page": 1,
+      "paragraph": 2,
+      "origin": 154.66660000000002,
+      "baseline": 9.35,
+      "expected": 125.41998291015625
+    },
+    {
+      "name": "header-double",
+      "page": 1,
+      "paragraph": 3,
+      "origin": 185.3228,
+      "baseline": 32.05,
+      "expected": 171.01995849609375
+    },
+    {
+      "name": "header-double",
+      "page": 1,
+      "paragraph": 4,
+      "origin": 238.6561,
+      "baseline": 32.05,
+      "expected": 211.0999755859375
+    },
+    {
+      "name": "header-exact20",
+      "page": 0,
+      "paragraph": 0,
+      "origin": 48.0,
+      "baseline": 32.05,
+      "expected": 68.03997802734375
+    },
+    {
+      "name": "header-exact20",
+      "page": 0,
+      "paragraph": 1,
+      "origin": 101.33330000000001,
+      "baseline": 32.05,
+      "expected": 108.01995849609375
+    },
+    {
+      "name": "header-exact20",
+      "page": 0,
+      "paragraph": 2,
+      "origin": 154.66660000000002,
+      "baseline": 16.05,
+      "expected": 132.01995849609375
+    },
+    {
+      "name": "header-exact20",
+      "page": 0,
+      "paragraph": 3,
+      "origin": 181.3333,
+      "baseline": 32.05,
+      "expected": 168.01995849609375
+    },
+    {
+      "name": "header-exact20",
+      "page": 0,
+      "paragraph": 4,
+      "origin": 234.66660000000002,
+      "baseline": 32.05,
+      "expected": 208.0999755859375
+    },
+    {
+      "name": "header-exact20",
+      "page": 1,
+      "paragraph": 0,
+      "origin": 48.0,
+      "baseline": 32.05,
+      "expected": 68.03997802734375
+    },
+    {
+      "name": "header-exact20",
+      "page": 1,
+      "paragraph": 1,
+      "origin": 101.33330000000001,
+      "baseline": 32.05,
+      "expected": 108.01995849609375
+    },
+    {
+      "name": "header-exact20",
+      "page": 1,
+      "paragraph": 2,
+      "origin": 154.66660000000002,
+      "baseline": 16.05,
+      "expected": 132.01995849609375
+    },
+    {
+      "name": "header-exact20",
+      "page": 1,
+      "paragraph": 3,
+      "origin": 181.3333,
+      "baseline": 32.05,
+      "expected": 168.01995849609375
+    },
+    {
+      "name": "header-exact20",
+      "page": 1,
+      "paragraph": 4,
+      "origin": 234.66660000000002,
+      "baseline": 32.05,
+      "expected": 208.0999755859375
+    },
+    {
+      "name": "header-minimum50",
+      "page": 0,
+      "paragraph": 0,
+      "origin": 48.0,
+      "baseline": 32.05,
+      "expected": 68.03997802734375
+    },
+    {
+      "name": "header-minimum50",
+      "page": 0,
+      "paragraph": 1,
+      "origin": 101.33330000000001,
+      "baseline": 32.05,
+      "expected": 108.01995849609375
+    },
+    {
+      "name": "header-minimum50",
+      "page": 0,
+      "paragraph": 2,
+      "origin": 154.66660000000002,
+      "baseline": 47.9,
+      "expected": 163.82000732421875
+    },
+    {
+      "name": "header-minimum50",
+      "page": 0,
+      "paragraph": 3,
+      "origin": 221.3228,
+      "baseline": 32.05,
+      "expected": 198.01995849609375
+    },
+    {
+      "name": "header-minimum50",
+      "page": 0,
+      "paragraph": 4,
+      "origin": 274.65610000000004,
+      "baseline": 32.05,
+      "expected": 238.0999755859375
+    },
+    {
+      "name": "header-minimum50",
+      "page": 1,
+      "paragraph": 0,
+      "origin": 48.0,
+      "baseline": 32.05,
+      "expected": 68.03997802734375
+    },
+    {
+      "name": "header-minimum50",
+      "page": 1,
+      "paragraph": 1,
+      "origin": 101.33330000000001,
+      "baseline": 32.05,
+      "expected": 108.01995849609375
+    },
+    {
+      "name": "header-minimum50",
+      "page": 1,
+      "paragraph": 2,
+      "origin": 154.66660000000002,
+      "baseline": 47.9,
+      "expected": 163.82000732421875
+    },
+    {
+      "name": "header-minimum50",
+      "page": 1,
+      "paragraph": 3,
+      "origin": 221.3228,
+      "baseline": 32.05,
+      "expected": 198.01995849609375
+    },
+    {
+      "name": "header-minimum50",
+      "page": 1,
+      "paragraph": 4,
+      "origin": 274.65610000000004,
+      "baseline": 32.05,
+      "expected": 238.0999755859375
+    },
+    {
+      "name": "footer-single",
+      "page": 0,
+      "paragraph": 0,
+      "origin": 845.872,
+      "baseline": 32.05,
+      "expected": 666.5799865722656
+    },
+    {
+      "name": "footer-single",
+      "page": 0,
+      "paragraph": 1,
+      "origin": 899.2053,
+      "baseline": 32.05,
+      "expected": 706.5399780273438
+    },
+    {
+      "name": "footer-single",
+      "page": 0,
+      "paragraph": 2,
+      "origin": 952.5386,
+      "baseline": 9.35,
+      "expected": 723.8199844360352
+    },
+    {
+      "name": "footer-single",
+      "page": 0,
+      "paragraph": 3,
+      "origin": 967.8666999999999,
+      "baseline": 32.05,
+      "expected": 758.015983581543
+    },
+    {
+      "name": "footer-single",
+      "page": 0,
+      "paragraph": 4,
+      "origin": 1021.1999999999999,
+      "baseline": 32.05,
+      "expected": 797.9999847412109
+    },
+    {
+      "name": "footer-single",
+      "page": 1,
+      "paragraph": 0,
+      "origin": 845.872,
+      "baseline": 32.05,
+      "expected": 666.5799865722656
+    },
+    {
+      "name": "footer-single",
+      "page": 1,
+      "paragraph": 1,
+      "origin": 899.2053,
+      "baseline": 32.05,
+      "expected": 706.5399780273438
+    },
+    {
+      "name": "footer-single",
+      "page": 1,
+      "paragraph": 2,
+      "origin": 952.5386,
+      "baseline": 9.35,
+      "expected": 723.8199844360352
+    },
+    {
+      "name": "footer-single",
+      "page": 1,
+      "paragraph": 3,
+      "origin": 967.8666999999999,
+      "baseline": 32.05,
+      "expected": 758.015983581543
+    },
+    {
+      "name": "footer-single",
+      "page": 1,
+      "paragraph": 4,
+      "origin": 1021.1999999999999,
+      "baseline": 32.05,
+      "expected": 797.9999847412109
+    },
+    {
+      "name": "footer-double",
+      "page": 0,
+      "paragraph": 0,
+      "origin": 830.544,
+      "baseline": 32.05,
+      "expected": 655.0599822998047
+    },
+    {
+      "name": "footer-double",
+      "page": 0,
+      "paragraph": 1,
+      "origin": 883.8773,
+      "baseline": 32.05,
+      "expected": 695.0199890136719
+    },
+    {
+      "name": "footer-double",
+      "page": 0,
+      "paragraph": 2,
+      "origin": 937.2106,
+      "baseline": 9.35,
+      "expected": 712.4199829101562
+    },
+    {
+      "name": "footer-double",
+      "page": 0,
+      "paragraph": 3,
+      "origin": 967.8668,
+      "baseline": 32.05,
+      "expected": 758.015983581543
+    },
+    {
+      "name": "footer-double",
+      "page": 0,
+      "paragraph": 4,
+      "origin": 1021.2001,
+      "baseline": 32.05,
+      "expected": 797.9999847412109
+    },
+    {
+      "name": "footer-double",
+      "page": 1,
+      "paragraph": 0,
+      "origin": 830.544,
+      "baseline": 32.05,
+      "expected": 655.0599822998047
+    },
+    {
+      "name": "footer-double",
+      "page": 1,
+      "paragraph": 1,
+      "origin": 883.8773,
+      "baseline": 32.05,
+      "expected": 695.0199890136719
+    },
+    {
+      "name": "footer-double",
+      "page": 1,
+      "paragraph": 2,
+      "origin": 937.2106,
+      "baseline": 9.35,
+      "expected": 712.4199829101562
+    },
+    {
+      "name": "footer-double",
+      "page": 1,
+      "paragraph": 3,
+      "origin": 967.8668,
+      "baseline": 32.05,
+      "expected": 758.015983581543
+    },
+    {
+      "name": "footer-double",
+      "page": 1,
+      "paragraph": 4,
+      "origin": 1021.2001,
+      "baseline": 32.05,
+      "expected": 797.9999847412109
+    },
+    {
+      "name": "footer-exact20",
+      "page": 0,
+      "paragraph": 0,
+      "origin": 834.533,
+      "baseline": 32.05,
+      "expected": 658.0599822998047
+    },
+    {
+      "name": "footer-exact20",
+      "page": 0,
+      "paragraph": 1,
+      "origin": 887.8663,
+      "baseline": 32.05,
+      "expected": 698.0199890136719
+    },
+    {
+      "name": "footer-exact20",
+      "page": 0,
+      "paragraph": 2,
+      "origin": 941.1996,
+      "baseline": 16.05,
+      "expected": 722.0199813842773
+    },
+    {
+      "name": "footer-exact20",
+      "page": 0,
+      "paragraph": 3,
+      "origin": 967.8663,
+      "baseline": 32.05,
+      "expected": 758.015983581543
+    },
+    {
+      "name": "footer-exact20",
+      "page": 0,
+      "paragraph": 4,
+      "origin": 1021.1996,
+      "baseline": 32.05,
+      "expected": 797.9999847412109
+    },
+    {
+      "name": "footer-exact20",
+      "page": 1,
+      "paragraph": 0,
+      "origin": 834.533,
+      "baseline": 32.05,
+      "expected": 658.0599822998047
+    },
+    {
+      "name": "footer-exact20",
+      "page": 1,
+      "paragraph": 1,
+      "origin": 887.8663,
+      "baseline": 32.05,
+      "expected": 698.0199890136719
+    },
+    {
+      "name": "footer-exact20",
+      "page": 1,
+      "paragraph": 2,
+      "origin": 941.1996,
+      "baseline": 16.05,
+      "expected": 722.0199813842773
+    },
+    {
+      "name": "footer-exact20",
+      "page": 1,
+      "paragraph": 3,
+      "origin": 967.8663,
+      "baseline": 32.05,
+      "expected": 758.015983581543
+    },
+    {
+      "name": "footer-exact20",
+      "page": 1,
+      "paragraph": 4,
+      "origin": 1021.1996,
+      "baseline": 32.05,
+      "expected": 797.9999847412109
+    },
+    {
+      "name": "footer-minimum50",
+      "page": 0,
+      "paragraph": 0,
+      "origin": 794.544,
+      "baseline": 32.05,
+      "expected": 628.0599822998047
+    },
+    {
+      "name": "footer-minimum50",
+      "page": 0,
+      "paragraph": 1,
+      "origin": 847.8773,
+      "baseline": 32.05,
+      "expected": 668.0199890136719
+    },
+    {
+      "name": "footer-minimum50",
+      "page": 0,
+      "paragraph": 2,
+      "origin": 901.2106,
+      "baseline": 47.9,
+      "expected": 723.8199844360352
+    },
+    {
+      "name": "footer-minimum50",
+      "page": 0,
+      "paragraph": 3,
+      "origin": 967.8668,
+      "baseline": 32.05,
+      "expected": 758.015983581543
+    },
+    {
+      "name": "footer-minimum50",
+      "page": 0,
+      "paragraph": 4,
+      "origin": 1021.2001,
+      "baseline": 32.05,
+      "expected": 797.9999847412109
+    },
+    {
+      "name": "footer-minimum50",
+      "page": 1,
+      "paragraph": 0,
+      "origin": 794.544,
+      "baseline": 32.05,
+      "expected": 628.0599822998047
+    },
+    {
+      "name": "footer-minimum50",
+      "page": 1,
+      "paragraph": 1,
+      "origin": 847.8773,
+      "baseline": 32.05,
+      "expected": 668.0199890136719
+    },
+    {
+      "name": "footer-minimum50",
+      "page": 1,
+      "paragraph": 2,
+      "origin": 901.2106,
+      "baseline": 47.9,
+      "expected": 723.8199844360352
+    },
+    {
+      "name": "footer-minimum50",
+      "page": 1,
+      "paragraph": 3,
+      "origin": 967.8668,
+      "baseline": 32.05,
+      "expected": 758.015983581543
+    },
+    {
+      "name": "footer-minimum50",
+      "page": 1,
+      "paragraph": 4,
+      "origin": 1021.2001,
+      "baseline": 32.05,
+      "expected": 797.9999847412109
+    }
+  ],
+  "provenance": "Synthetic MIT cases. Browser-v1 semantic paragraph origins/profile baselines are inputs; pinned native Word PDF glyphs provide independent expected positions. Source/shaded PDF glyph equality and page EMFs separately establish the 600dpi grid.",
+  "browserBuildHash": "34d323e62b79cffced5d12dc0893a31e07d0c2387d3e6620151ad74fab3d65f7",
+  "browserDiagnosticHash": "6ca893b0c2a0a128292fce1ad8241ff71edbd55f05aa0a8c25d16c225dd96add",
+  "nativeGeometryHash": "77f2f88a3ea1947c52528f03f80edc744ac1e7ad3918610ed41ed9c8529148df",
+  "nativeGridGeometryHash": "2d932261d8d7e143a6030e6a8aef34656bd99234a239e726a19545752aa24eba",
+  "producerHash": "91560828040166c9d898473845b97663a09f4519028333d81183d1d1bb7ee42e"
+}

@@ -1,0 +1,27 @@
+reference_repo/
+node_modules/
+.svelte-kit/
+build/
+dist/
+.local/
+test-results/
+package-lock.json
+# Native Office receipts bind these authored inputs to their exact byte hashes.
+tests/fixtures/excel-formulas-input.json
+tests/fixtures/number-formats-input.json
+tests/fixtures/number-format-edges-input.json
+tests/fixtures/subtotal-manual-input.json
+tests/fixtures/subtotal-filtered-input.json
+tests/fixtures/subtotal-table-input.json
+tests/fixtures/filter-numeric-input.json
+tests/fixtures/filter-wildcard-input.json
+tests/fixtures/statistics-input.json
+tests/fixtures/aggregates-input.json
+tests/fixtures/financial-input.json
+tests/fixtures/search-oracle-cases.json
+tests/fixtures/arrange-oracle-cases.json
+# Deterministically generated from the pinned Microsoft catalog.
+docs/ribbon/*_COMMANDS.md
+
+# Deterministic command coverage ledger.
+docs/parity/COMMAND_COVERAGE.md

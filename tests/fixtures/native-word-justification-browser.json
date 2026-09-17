@@ -1,0 +1,236 @@
+{
+  "rows": [
+    {
+      "name": "regular-header-below",
+      "kind": "header",
+      "fixture": "tests/fixtures/word-justification-regular-header-below.docx",
+      "nativeName": "header-font0-text0-width154.85",
+      "sourceHash": "b95067dcc13309c235bc5712c12400d7e10b3d70a10d51b929e78aa198fe9ad3",
+      "nativePdf": ".local/word-story-paragraph-layout/justification-raw-heldout-native-v1/header-font0-text0-width154.85.pdf",
+      "nativePdfHash": "6634085ccccf9bf74acb87173d149d9f6d26d4c6c6bac28c7e7801a3c4c4bb60",
+      "text": "A careful editor keeps each revision beside its source, checks the short notes, and returns to the opening paragraph after lunch. The last page contains a concise reply.",
+      "pages": 2,
+      "width": 154.8499755859375,
+      "ends": [
+        27,
+        62,
+        98,
+        133,
+        169
+      ]
+    },
+    {
+      "name": "regular-header-above",
+      "kind": "header",
+      "fixture": "tests/fixtures/word-justification-regular-header-above.docx",
+      "nativeName": "header-font0-text0-width154.95",
+      "sourceHash": "793c457f0a2c21688637ce6d646d8ef0715a99828c4c9c22c49ff541b9a4ea05",
+      "nativePdf": ".local/word-story-paragraph-layout/justification-raw-heldout-native-v1/header-font0-text0-width154.95.pdf",
+      "nativePdfHash": "cd3035f9ef08f86cb66df538db2e81b8148bd95c0cad99f3738d087b414334d5",
+      "text": "A careful editor keeps each revision beside its source, checks the short notes, and returns to the opening paragraph after lunch. The last page contains a concise reply.",
+      "pages": 2,
+      "width": 154.94998168945312,
+      "ends": [
+        36,
+        72,
+        106,
+        138,
+        169
+      ]
+    },
+    {
+      "name": "regular-body-below",
+      "kind": "body",
+      "fixture": "tests/fixtures/word-justification-regular-body-below.docx",
+      "nativeName": "body-font0-text1-width172.65",
+      "sourceHash": "3cde1b3fc5688027480ee0a5283a9cde101ac9abec3293fb3c865cb19a7f5576",
+      "nativePdf": ".local/word-story-paragraph-layout/justification-raw-heldout-native-v1/body-font0-text1-width172.65.pdf",
+      "nativePdfHash": "019ee495a292b61d0643d282e78ce23d3b9f9a4cb49f677b176ab921e53a13cf",
+      "text": "Seven amber lamps illuminate the room while two visitors study a detailed map. Small labels identify the north gate, the river crossing, and three familiar streets.",
+      "pages": 2,
+      "width": 172.64999389648438,
+      "ends": [
+        32,
+        73,
+        110,
+        146,
+        164
+      ]
+    },
+    {
+      "name": "regular-body-above",
+      "kind": "body",
+      "fixture": "tests/fixtures/word-justification-regular-body-above.docx",
+      "nativeName": "body-font0-text1-width172.75",
+      "sourceHash": "1ad0173767a697f464b98f5e47597b82256a0fcccb612f6bba15006eb4fedaaf",
+      "nativePdf": ".local/word-story-paragraph-layout/justification-raw-heldout-native-v1/body-font0-text1-width172.75.pdf",
+      "nativePdfHash": "ecdc8dff7e860da2fd5fc90d5ac2059fddc59934168e8cae4d1f121cd888154a",
+      "text": "Seven amber lamps illuminate the room while two visitors study a detailed map. Small labels identify the north gate, the river crossing, and three familiar streets.",
+      "pages": 2,
+      "width": 172.75,
+      "ends": [
+        37,
+        78,
+        120,
+        155,
+        164
+      ]
+    },
+    {
+      "name": "regular-footer-below",
+      "kind": "footer",
+      "fixture": "tests/fixtures/word-justification-regular-footer-below.docx",
+      "nativeName": "footer-font0-text2-width152.1",
+      "sourceHash": "0a366df043de480abe04110d462f4b49899e7827ca126799608c0513ff7a8cdc",
+      "nativePdf": ".local/word-story-paragraph-layout/justification-raw-heldout-native-v1/footer-font0-text2-width152.1.pdf",
+      "nativePdfHash": "af453517c1c05eff1561b75d616a7aef27e9578aa55a69853e7adffc20a30618",
+      "text": "Please compare item 204 with item 719, then write a brief account of the differences. Broad capitals such as W and M sit beside narrow letters in this printed sample.",
+      "pages": 2,
+      "width": 152.0999755859375,
+      "ends": [
+        28,
+        65,
+        100,
+        134,
+        166
+      ]
+    },
+    {
+      "name": "regular-footer-above",
+      "kind": "footer",
+      "fixture": "tests/fixtures/word-justification-regular-footer-above.docx",
+      "nativeName": "footer-font0-text2-width152.2",
+      "sourceHash": "51fc17a4ca65ef4186eabb1cd72e8a5944e583d0a184665b0bebac30848f4447",
+      "nativePdf": ".local/word-story-paragraph-layout/justification-raw-heldout-native-v1/footer-font0-text2-width152.2.pdf",
+      "nativePdfHash": "1ae7946cb904fe5db366d2d350ff97d7a8182eaec47b8fd813e2460ecb6c96bc",
+      "text": "Please compare item 204 with item 719, then write a brief account of the differences. Broad capitals such as W and M sit beside narrow letters in this printed sample.",
+      "pages": 2,
+      "width": 152.19998168945312,
+      "ends": [
+        33,
+        68,
+        100,
+        134,
+        166
+      ]
+    },
+    {
+      "name": "bold-header-below",
+      "kind": "header",
+      "fixture": "tests/fixtures/word-justification-bold-header-below.docx",
+      "nativeName": "header-font3-text0-width167.65",
+      "sourceHash": "3628d81e863bbdbbba44030f95125f7494077cedd3261be962645c71f6eaaf1c",
+      "nativePdf": ".local/word-story-paragraph-layout/justification-raw-heldout-native-v1/header-font3-text0-width167.65.pdf",
+      "nativePdfHash": "1777a62bce651c46382e0c78c761dd7e6382b459ee9fda58d44fafc3b43f8d13",
+      "text": "A careful editor keeps each revision beside its source, checks the short notes, and returns to the opening paragraph after lunch. The last page contains a concise reply.",
+      "pages": 2,
+      "width": 167.64999389648438,
+      "ends": [
+        27,
+        62,
+        98,
+        133,
+        169
+      ]
+    },
+    {
+      "name": "bold-header-above",
+      "kind": "header",
+      "fixture": "tests/fixtures/word-justification-bold-header-above.docx",
+      "nativeName": "header-font3-text0-width167.75",
+      "sourceHash": "f52c7e61a45c3d27c2972ac571539812cabc1bc819dc60fa44ae526af015cfc3",
+      "nativePdf": ".local/word-story-paragraph-layout/justification-raw-heldout-native-v1/header-font3-text0-width167.75.pdf",
+      "nativePdfHash": "30c26f28dcbff86375f122579a09106ded67bfb55a20fb625ad83611d2b1820d",
+      "text": "A careful editor keeps each revision beside its source, checks the short notes, and returns to the opening paragraph after lunch. The last page contains a concise reply.",
+      "pages": 2,
+      "width": 167.75,
+      "ends": [
+        36,
+        72,
+        106,
+        138,
+        169
+      ]
+    },
+    {
+      "name": "bold-body-below",
+      "kind": "body",
+      "fixture": "tests/fixtures/word-justification-bold-body-below.docx",
+      "nativeName": "body-font3-text1-width185.4",
+      "sourceHash": "1a0a125fe147c5523cbeee40fab123b3e44ffc2acccc37e306b43a8efa6f6e5b",
+      "nativePdf": ".local/word-story-paragraph-layout/justification-raw-heldout-native-v1/body-font3-text1-width185.4.pdf",
+      "nativePdfHash": "630825dde2b83e79e726b9ac63868a2c031193cafe391c8466098193171e3a53",
+      "text": "Seven amber lamps illuminate the room while two visitors study a detailed map. Small labels identify the north gate, the river crossing, and three familiar streets.",
+      "pages": 2,
+      "width": 185.39999389648438,
+      "ends": [
+        32,
+        73,
+        110,
+        146,
+        164
+      ]
+    },
+    {
+      "name": "bold-body-above",
+      "kind": "body",
+      "fixture": "tests/fixtures/word-justification-bold-body-above.docx",
+      "nativeName": "body-font3-text1-width185.5",
+      "sourceHash": "4bf9d1206fb4a50f9e6ab697a033c74fb46c93a947d1459ba2a145d6cd0014b7",
+      "nativePdf": ".local/word-story-paragraph-layout/justification-raw-heldout-native-v1/body-font3-text1-width185.5.pdf",
+      "nativePdfHash": "3de9a4f0d6366c343b06444d2e48ec963cd2e87daed57a80ce8bd2fcd392dca0",
+      "text": "Seven amber lamps illuminate the room while two visitors study a detailed map. Small labels identify the north gate, the river crossing, and three familiar streets.",
+      "pages": 2,
+      "width": 185.5,
+      "ends": [
+        37,
+        78,
+        120,
+        155,
+        164
+      ]
+    },
+    {
+      "name": "bold-footer-below",
+      "kind": "footer",
+      "fixture": "tests/fixtures/word-justification-bold-footer-below.docx",
+      "nativeName": "footer-font3-text2-width161.55",
+      "sourceHash": "e14e8284a8c51c6dcebe2f50fc3f9445202b4c03a66d2665ee79f2dcf18d08c1",
+      "nativePdf": ".local/word-story-paragraph-layout/justification-raw-heldout-native-v1/footer-font3-text2-width161.55.pdf",
+      "nativePdfHash": "763729d59093b4c89b21f0186d7b9aaa794b094fcd698fdeab3ea6f340d1409c",
+      "text": "Please compare item 204 with item 719, then write a brief account of the differences. Broad capitals such as W and M sit beside narrow letters in this printed sample.",
+      "pages": 2,
+      "width": 161.54998779296875,
+      "ends": [
+        28,
+        57,
+        91,
+        120,
+        150,
+        166
+      ]
+    },
+    {
+      "name": "bold-footer-above",
+      "kind": "footer",
+      "fixture": "tests/fixtures/word-justification-bold-footer-above.docx",
+      "nativeName": "footer-font3-text2-width161.65",
+      "sourceHash": "19318dabba840f26df1e7cd3becf4f6fa590bfc9fcd0ec0b3988f76c3206cf2b",
+      "nativePdf": ".local/word-story-paragraph-layout/justification-raw-heldout-native-v1/footer-font3-text2-width161.65.pdf",
+      "nativePdfHash": "d330b6cd875868a7238eef136ca7da89da7093d462bb0d600c0681a993fe80cc",
+      "text": "Please compare item 204 with item 719, then write a brief account of the differences. Broad capitals such as W and M sit beside narrow letters in this printed sample.",
+      "pages": 2,
+      "width": 161.64999389648438,
+      "ends": [
+        33,
+        68,
+        100,
+        134,
+        166
+      ]
+    }
+  ],
+  "nativeReceiptHash": "f191a88b19077842f83c14c34b6de79906e449c5a8fb51ebd67a344d06a33ad1",
+  "comparisonHash": "1d4040b3ac201f2018d60a889e1fdf6b7779a323bd367cfc1f4f0da566a3a259",
+  "producerHash": "8fccb2c3fd0a05195cde9a05f814281d874f3b3d4701b695abe4ab38d139b61d"
+}

@@ -1,0 +1,3974 @@
+{
+  "rows": [
+    {
+      "index": 1,
+      "property": "Before",
+      "docxHash": "0e3b3ae978f5981143ea49463f7730b27e9d64a769766d22604971ec6142ea28",
+      "name": "header-before-1-0.05",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0.05000000074505806,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 0.05,
+      "pdfHash": "39b14ce59044ce034048c986864fa624e4aa7c1cbf3b4cd18208b3e743aa5d33",
+      "origins": {
+        "header": [
+          68.15997314453125,
+          108.13995361328125,
+          148.0999755859375,
+          188.05999755859375,
+          228.13995361328125
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.119995,
+          0.119995,
+          0.0,
+          0.0,
+          0.119995
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 1,
+      "property": "Before",
+      "docxHash": "f7eeecc008d590a507243013fca225ecf87f480ed9777e6a04fa7f90f614a505",
+      "name": "header-before-1-8",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 8,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 8,
+      "pdfHash": "1b89cbe8e321962e139e6212d26a867afb4e80df906b2249f84d55191ee1b233",
+      "origins": {
+        "header": [
+          76.0799560546875,
+          116.05999755859375,
+          156.01995849609375,
+          196.0999755859375,
+          236.05999755859375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          8.039978,
+          8.040039,
+          7.919983,
+          8.039978,
+          8.040039
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 1,
+      "property": "Before",
+      "docxHash": "1040a9a2bf241101187b8cbd0b8c813cdead758b2304412b55c3252031d83373",
+      "name": "header-before-1-20",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 20,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 20,
+      "pdfHash": "3eaa4468f62d56c50b3436dad4a048b934b78b988f9acc166cd4628fbdaa6056",
+      "origins": {
+        "header": [
+          88.0999755859375,
+          128.05999755859375,
+          168.01995849609375,
+          208.0999755859375,
+          248.05999755859375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          20.059998,
+          20.040039,
+          19.919983,
+          20.039978,
+          20.040039
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 1,
+      "property": "Before",
+      "docxHash": "7850f807033f5f92b26927f3e1a538626d9becc28f71ec4850c0c60d6e877326",
+      "name": "header-before-1-40",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 40,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 40,
+      "pdfHash": "9a2dfd912a23ab7ea2c3b1968024eb347216400ae7e45d72e50bb0b428cbbb04",
+      "origins": {
+        "header": [
+          108.13995361328125,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375,
+          268.1300048828125
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          40.099976,
+          40.080017,
+          39.960022,
+          39.959961,
+          40.110046
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 3,
+      "property": "Before",
+      "docxHash": "825f88be29edd0c86f5c2704685e6d96c92b01ac2e67c49269a7a3fe3670833a",
+      "name": "header-before-3-0.05",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0.05000000074505806,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 0.05,
+      "pdfHash": "8a63c8233c9b749f50d7228b1f7f7964791852c0bb8e287d4c196a2cd3ee52e0",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.13995361328125
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.119995
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 3,
+      "property": "Before",
+      "docxHash": "00ded17be9b29e72920f0170ea84c6a79281959e8b134d0a06c4179213523031",
+      "name": "header-before-3-8",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 8,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 8,
+      "pdfHash": "d65f99aafee03fceef1323bd330d7ff3bd422c4f505b9a7c6644f5a2d5ace4f2",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          156.13995361328125,
+          196.0999755859375,
+          236.05999755859375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          8.039978,
+          8.039978,
+          8.040039
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 3,
+      "property": "Before",
+      "docxHash": "dc04272e15f65a6b41ac7d1bfe4eeaaff0c74748650efc36be6f6910c2a93aeb",
+      "name": "header-before-3-20",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 20,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 20,
+      "pdfHash": "035b8794a825492920f0eb376dd87aeab1c5c9e0ef14da3432e5dfce472d6dca",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          168.13995361328125,
+          208.0999755859375,
+          248.05999755859375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          20.039978,
+          20.039978,
+          20.040039
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 3,
+      "property": "Before",
+      "docxHash": "ecb582d32915f57712992d47aaf2cb1e23b5c67635c010f03f7b03668ec9708e",
+      "name": "header-before-3-40",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 40,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 40,
+      "pdfHash": "97ef4dd599f10d3139c01053b9bf19e67e88aaa78000d95b3cd34c6faff1e07d",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          188.05999755859375,
+          228.01995849609375,
+          268.1300048828125
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          39.960022,
+          39.959961,
+          40.110046
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 5,
+      "property": "Before",
+      "docxHash": "58114cb30e53ccb9bd6443383ef5d97fe834ae707241089e10e4b4108fa2a7d5",
+      "name": "header-before-5-0.05",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0.05000000074505806,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 0.05,
+      "pdfHash": "565e3952fc689f61c296b6d7ca7664206c917b7fd9ad1e79d45dc047c7842a08",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.13995361328125
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.119995
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 5,
+      "property": "Before",
+      "docxHash": "d7161b4cf017b1b12d3fbc0e11cff794f71073ee367e9d8a58a37f94cb6b5405",
+      "name": "header-before-5-8",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 8,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 8,
+      "pdfHash": "bae05dfe27f505a7d7b765dbdf3f5bdb86163df28fb081e73cf4a576f4760d40",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          236.05999755859375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          8.040039
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 5,
+      "property": "Before",
+      "docxHash": "553b48668900f56ee0f0ab403fa0842d10efe2255f1b944217735ed40ae62d19",
+      "name": "header-before-5-20",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 20,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 20,
+      "pdfHash": "7f46cfac2d9eae429cc515adcd3fecc63d5f7c2519e6ff9372f95be314ab4121",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          248.05999755859375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          20.040039
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 5,
+      "property": "Before",
+      "docxHash": "fbd120ede768f723ae7a62ad319170d0e68124e09a69ecc38b4684c3162244bf",
+      "name": "header-before-5-40",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 40,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 40,
+      "pdfHash": "e34afa648aacf0bf0e241ba1f230db285a36537028d36a8c36a2c20b8ce4288b",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          268.1300048828125
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          40.110046
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 1,
+      "property": "After",
+      "docxHash": "5c62b8f38f8fea598374b0f72bb1719d2644dee27287ab65909be4bbe0e60fde",
+      "name": "header-after-1-0.05",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0.05000000074505806
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 0.05,
+      "pdfHash": "d08edeecc3cbe53c29c2318fa48c5ba600b3621b64e36afe0216df2d054d8c6a",
+      "origins": {
+        "header": [
+          68.15997314453125,
+          108.13995361328125,
+          148.0999755859375,
+          188.05999755859375,
+          228.13995361328125
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.119995,
+          0.119995,
+          0.0,
+          0.0,
+          0.119995
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 1,
+      "property": "After",
+      "docxHash": "a203882ccbcd18009bb8835c9d371c2ce67320c49268828a1cf2f01d0aa97b51",
+      "name": "header-after-1-8",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 8
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 8,
+      "pdfHash": "f8fd80dcb753c6907fbd90557bc8e407d3906631a5acd9001a6de8970d50eed8",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          116.05999755859375,
+          156.01995849609375,
+          196.0999755859375,
+          236.05999755859375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          8.040039,
+          7.919983,
+          8.039978,
+          8.040039
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 1,
+      "property": "After",
+      "docxHash": "8c38deb29ae5d80fc6ab1486316e0df6752ad123236eba3395b24f5b59e3518a",
+      "name": "header-after-1-20",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 20
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 20,
+      "pdfHash": "33985ed52e343df30141d78608a9877ed13b08ee9fe203bb7e14e2d9bf09c815",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          128.05999755859375,
+          168.01995849609375,
+          208.0999755859375,
+          248.05999755859375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          20.040039,
+          19.919983,
+          20.039978,
+          20.040039
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 1,
+      "property": "After",
+      "docxHash": "e1ed68a9127b3921a814e489989c278179b84bb55b4dc91543262ab83e0487ac",
+      "name": "header-after-1-40",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 40
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 40,
+      "pdfHash": "10702b930e04dbc452101fa4d18cc0e24bc59d137e167765c20473dea429719f",
+      "origins": {
+        "header": [
+          68.15997314453125,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375,
+          268.1300048828125
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.119995,
+          40.080017,
+          39.960022,
+          39.959961,
+          40.110046
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 3,
+      "property": "After",
+      "docxHash": "cb8ae777db40164eab43beac1d8507c12909ab19e4078e1fcee860951bdf4eae",
+      "name": "header-after-3-0.05",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0.05000000074505806
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 0.05,
+      "pdfHash": "258d7d0ec710bd465046a9abdad51a3fa65cc2caebd18f4fdcc3bbd29d9d3837",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.13995361328125
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.119995
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 3,
+      "property": "After",
+      "docxHash": "daf76b4e12e9f4943f637cc0abe0d6a1b4ed9d9e7c77448b86c1166f929d60c0",
+      "name": "header-after-3-8",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 8
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 8,
+      "pdfHash": "75647f9c08e5e9bb34debcaad9166858f540dc343dd5aa8072e644f783d83b6a",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          196.0999755859375,
+          236.05999755859375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          8.039978,
+          8.040039
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 3,
+      "property": "After",
+      "docxHash": "797f147f3d591028978c8662cf8df55ab095f77af30319b995135692e3087170",
+      "name": "header-after-3-20",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 20
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 20,
+      "pdfHash": "44f807603b1d4f464e6ef6cc5c02101d88d12289257e7f6c765eae75ecc8055f",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          208.0999755859375,
+          248.05999755859375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          20.039978,
+          20.040039
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 3,
+      "property": "After",
+      "docxHash": "bae62bb9f9c597581fc3b35cccc07041dcefd0a5c84d3903d82347db0c66fce1",
+      "name": "header-after-3-40",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 40
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 40,
+      "pdfHash": "541e83fde30958410225a25da858be300f67af06f2fdaa771c909b7566aece8c",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.219970703125,
+          228.01995849609375,
+          268.1300048828125
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.119995,
+          39.959961,
+          40.110046
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 5,
+      "property": "After",
+      "docxHash": "c26da1bcc00d4af617b4dcb986b767666a01010d500d4b1276c805aef465f4bc",
+      "name": "header-after-5-0.05",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0.05000000074505806
+        }
+      ],
+      "value": 0.05,
+      "pdfHash": "bf04afdbda7e7816e4fd9bb7f529e5316919bc3310ced7951dc164e46a47c46f",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.13995361328125
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.119995
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 5,
+      "property": "After",
+      "docxHash": "4c4147d0eadb1c78335c3fab3b0b2dea9867a5591c32a23e00c14fb4ddc8cf68",
+      "name": "header-after-5-8",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 8
+        }
+      ],
+      "value": 8,
+      "pdfHash": "22a500f674ff8f6d5f529148ddc0aa192a30f67862e92a9a122f3fdd06ca1f25",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 5,
+      "property": "After",
+      "docxHash": "5bec5d4e35802de9afbe9cfc086e2aa30a3370d41124c7bad498d64409b27937",
+      "name": "header-after-5-20",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 20
+        }
+      ],
+      "value": 20,
+      "pdfHash": "74fadc3f10120af20a0bd2a6f3d4ebc75790a7d7f471b62715a158003ab8108b",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 5,
+      "property": "After",
+      "docxHash": "e9e8c13ee941b1c3879bae6803a68b50f2778619a0bf98c3083ed5ac776a32e1",
+      "name": "header-after-5-40",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 40
+        }
+      ],
+      "value": 40,
+      "pdfHash": "b9d52826c0b9f19fdcb2e1fb905f7f09180d908c29981500ce23d783e4c7ddab",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.13995361328125
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.119995
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 1,
+      "property": "Before",
+      "docxHash": "310670c2f7e673c07adb30d39dc3bc14236ce4b2776669ee16aaf49a73e9f737",
+      "name": "footer-before-1-0.05",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0.05000000074505806,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 0.05,
+      "pdfHash": "6095d6a06bfd2cecde6ae68f006ccba625af7ec8b8d5a0dad578a62a493bd895",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 1,
+      "property": "Before",
+      "docxHash": "bae2d7cee77a97e44591952dc7d8c42281c2ff51fdf5cdd676bfbdaae5fc7328",
+      "name": "footer-before-1-8",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 8,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 8,
+      "pdfHash": "088497d180cf808dda1ee65971dc6fab2bb320a55bee03ae135acdb544efa6c6",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 1,
+      "property": "Before",
+      "docxHash": "17dcaa3a3997e392f1b2ed9c9e77693a603e31ccbd7dcd5f0ad15ef351e658e9",
+      "name": "footer-before-1-20",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 20,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 20,
+      "pdfHash": "285908038f74997d02173237915df71bed825fbebc67931807868039a1f26c4b",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 1,
+      "property": "Before",
+      "docxHash": "23ad4b88c9a3eda8f9108d2ab5820326bcff9c5327be8f32144063b55d0d0481",
+      "name": "footer-before-1-40",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 40,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 40,
+      "pdfHash": "501675e863f258803e37330baeee2b3e6837309b3f8dd2705bf1d3a94ba7f985",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 3,
+      "property": "Before",
+      "docxHash": "bbcdbb7ddbfd9187095ddc7bc0cbea05d768011b5bada7e55dada54f45b5ec62",
+      "name": "footer-before-3-0.05",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0.05000000074505806,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 0.05,
+      "pdfHash": "55fdd0c9da0934014da2e7f0765bbba7c81ec3a01fe1fd9afa6ba4d86c4c07db",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 3,
+      "property": "Before",
+      "docxHash": "4166c843141119e491e764f7244f3a2463f6568640c977fc05cc125dc9eec791",
+      "name": "footer-before-3-8",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 8,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 8,
+      "pdfHash": "54c1374f01e1fc7d85ab4fc32722cb6acae524e26ca2e579e34a5ad826810f42",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          629.97998046875,
+          670.0599822998047,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          -8.040009,
+          -7.919998,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 3,
+      "property": "Before",
+      "docxHash": "037c3fe5cb96f4f8c37dbffd91363c02fa96a7467cfe036485e12bede16a90ac",
+      "name": "footer-before-3-20",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 20,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 20,
+      "pdfHash": "b1ea9eb7e22cf8d4933ca8d0cb9a8f9afe9fcf0f7e762c27b6572b736ef6bbc9",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          617.97998046875,
+          658.0599822998047,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          -20.040009,
+          -19.919998,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 3,
+      "property": "Before",
+      "docxHash": "3176caecdf38adae62ae475b74f4ff017ad4da81d91d50143053ee4e416d81d7",
+      "name": "footer-before-3-40",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 40,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 40,
+      "pdfHash": "cb8c90beedd29d73a5348c473c50339f5cfe1239910120588fe1ea5e38465540",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          598.0299835205078,
+          638.0199890136719,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          -39.990005,
+          -39.959991,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 5,
+      "property": "Before",
+      "docxHash": "3937b409f9aba254698f51fedbb12e92980b07d6486901d13aeb2386d015d53d",
+      "name": "footer-before-5-0.05",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0.05000000074505806,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 0.05,
+      "pdfHash": "abf8a968fe2df58f996d78be2c8078cc3416dfb34f065bcc3e72f9703fe056f0",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          717.9399795532227,
+          758.015983581543,
+          798.1199836730957
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          -0.120003,
+          0.0,
+          0.119999
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 5,
+      "property": "Before",
+      "docxHash": "38266c2fa8a57fef09b010c8670da9a2e389277828d32d0e95ea034abd42b3ef",
+      "name": "footer-before-5-8",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 8,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 8,
+      "pdfHash": "0e8b6fd6139be97461ecdc540ed153c2a45c8adc64629691f6a0c7dcf22d136e",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          629.97998046875,
+          670.0599822998047,
+          710.0199890136719,
+          749.9759826660156,
+          798.1199836730957
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          -8.040009,
+          -7.919998,
+          -8.039993,
+          -8.040001,
+          0.119999
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 5,
+      "property": "Before",
+      "docxHash": "a7161f41aa7a4147961b58d9127a13926491a364085a4157502b0d183a6849c1",
+      "name": "footer-before-5-20",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 20,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 20,
+      "pdfHash": "523beb82ce9cd48d239c51ffdca13cc1e7706190081a3f26fe704df976b77373",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          617.97998046875,
+          658.0599822998047,
+          698.0199890136719,
+          737.97998046875,
+          798.1199836730957
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          -20.040009,
+          -19.919998,
+          -20.039993,
+          -20.036003,
+          0.119999
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 5,
+      "property": "Before",
+      "docxHash": "087dfef60e26c86b0b249c53ab015871606a79dc247b064993751c2161f98c93",
+      "name": "footer-before-5-40",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 40,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 40,
+      "pdfHash": "c7a4a170ac7dc566c85b950a6e9d3d358c6dd82104b8f463db57ad1a22fd5f7c",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          598.0299835205078,
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          798.1199836730957
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          -39.990005,
+          -39.959991,
+          -40.080002,
+          -39.956001,
+          0.119999
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 1,
+      "property": "After",
+      "docxHash": "fc6aae43294aa6713aa9feb29ffb076ecab3e1830ea8a44d20ddfb7ab219d161",
+      "name": "footer-after-1-0.05",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0.05000000074505806
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 0.05,
+      "pdfHash": "c95d470e22e7a2c982efe789e8044f8a35031f10b6f3537f6bac8a7c2543d1bb",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 1,
+      "property": "After",
+      "docxHash": "f25360f6291598742e4bc99fb6556727de32886513240c2346930b67be58fb16",
+      "name": "footer-after-1-8",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 8
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 8,
+      "pdfHash": "449694e8260a1b27246ff51d3919f0549a5fee5f3c310bf3d2479ef95c0b1504",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          629.97998046875,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          -8.040009,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 1,
+      "property": "After",
+      "docxHash": "588b4bc6978c995951cab0b895c05ec04a78ebefd0c85da111886a0f6628307f",
+      "name": "footer-after-1-20",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 20
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 20,
+      "pdfHash": "7c6cdc22c74c5d6f3f1a7f663faa587b1907eab8b7c9f6bc9f7c8abd72ed3068",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          617.97998046875,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          -20.040009,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 1,
+      "property": "After",
+      "docxHash": "7c38e9c37f8afb0d871a9d2c66093cb33a5b1367c2f0c9a803ef02d56b6dd89e",
+      "name": "footer-after-1-40",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 40
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 40,
+      "pdfHash": "3aa5fdb7de24a8a59af7d0a86319d8da3dd85ccdf630d1a57ad6bf57d1ff9896",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          598.1499786376953,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          -39.87001,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 3,
+      "property": "After",
+      "docxHash": "07db2a4df963e32749340c47562b18eb833eca33c3eec5c47e4b8e802b6cb397",
+      "name": "footer-after-3-0.05",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0.05000000074505806
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 0.05,
+      "pdfHash": "ffc30261af3bc3d745fb315f02bdecdabf4d2998e59fcfd133631d6fcd1f4e5f",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 3,
+      "property": "After",
+      "docxHash": "3074bce76363361f80a5fcab8311ebd3168f100bb7fd554c34471a3b99353d3e",
+      "name": "footer-after-3-8",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 8
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 8,
+      "pdfHash": "d83f3b664b380d7e83c23b1c3992e2719701b41f07c5d8d31566d263506e9b85",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          629.97998046875,
+          670.0599822998047,
+          710.0199890136719,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          -8.040009,
+          -7.919998,
+          -8.039993,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 3,
+      "property": "After",
+      "docxHash": "c2618523381003192793d4d2a8bff847bb33d4cd1c469b6393c716b6fbacf8d3",
+      "name": "footer-after-3-20",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 20
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 20,
+      "pdfHash": "fc3a33c331cc0a43a82ed0af7d2ae1a8bcb9ac148fba4e34f9ba1d0909683a01",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          617.97998046875,
+          658.0599822998047,
+          698.0199890136719,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          -20.040009,
+          -19.919998,
+          -20.039993,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 3,
+      "property": "After",
+      "docxHash": "68a250d57b2f1992cecbdbcf5e60716a145bcc55b34f1f79e274c03723263c56",
+      "name": "footer-after-3-40",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 40
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "value": 40,
+      "pdfHash": "111258e3f84c683cdaa2f9056b4be9fa495c40dd8924e061835a7e14bba5f9b1",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          598.0299835205078,
+          638.0199890136719,
+          678.0999755859375,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          -39.990005,
+          -39.959991,
+          -39.960007,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 5,
+      "property": "After",
+      "docxHash": "9646ca8cd235a699da4bf7a68c4b8730201c24796b04dd7aac54e4b7b83da21e",
+      "name": "footer-after-5-0.05",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0.05000000074505806
+        }
+      ],
+      "value": 0.05,
+      "pdfHash": "d4aee5b5807ca1f3f4aba5af3eec80192799c72128a9a18ae2c4059cd333aded",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          717.9399795532227,
+          758.015983581543,
+          798.1199836730957
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          -0.120003,
+          0.0,
+          0.119999
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 5,
+      "property": "After",
+      "docxHash": "5f9d7ae9139d9e44e1cdde42fb839d7823ddc014a66ce47270694b0fe6079ae4",
+      "name": "footer-after-5-8",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 8
+        }
+      ],
+      "value": 8,
+      "pdfHash": "76302aac75bd66ae09b884b1d3d8fa513f8c3b2292ac6bff29828285e2a5aa97",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          629.97998046875,
+          670.0599822998047,
+          710.0199890136719,
+          749.9759826660156,
+          790.0559844970703
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          -8.040009,
+          -7.919998,
+          -8.039993,
+          -8.040001,
+          -7.944
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 5,
+      "property": "After",
+      "docxHash": "b12e526226574514999da6d3e690cde92e9f5b40b3a77d9c767595ff4f24aae7",
+      "name": "footer-after-5-20",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 20
+        }
+      ],
+      "value": 20,
+      "pdfHash": "af2563be2a68364590bf4ae24b0afb3b98382196d65b0f4ba4b42dd49c68c893",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          617.97998046875,
+          658.0599822998047,
+          698.0199890136719,
+          737.97998046875,
+          778.0559844970703
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          -20.040009,
+          -19.919998,
+          -20.039993,
+          -20.036003,
+          -19.944
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "index": 5,
+      "property": "After",
+      "docxHash": "0e02ebb0e72a58e5711eb09f1963b83f1f8b7746fe5406534d1abaaf20288538",
+      "name": "footer-after-5-40",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 40
+        }
+      ],
+      "value": 40,
+      "pdfHash": "5b4cce7c905e74c0e6bbf3c808ef707cecf079a3d282f6f31a7f14bb6f4c86bb",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          598.0299835205078,
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.135986328125
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          -39.990005,
+          -39.959991,
+          -40.080002,
+          -39.956001,
+          -39.863998
+        ]
+      },
+      "run": "native-v2",
+      "nativeReportHash": "f56ab01c8b2de75052afe92e879db5a8a433035a4c9e857a18ea7aa9fcdc9278",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "name": "header-pair-8-20",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 8
+        },
+        {
+          "before": 20,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "pdfHash": "ad148fd3bba0208d04abf6bdb92a8276cd0a1e927a322b5f3d204b057c5a8831",
+      "docxHash": "71057b3b4bc70be64c65dca83fc681e1878dacf2eb43383a3cdde87dab91bd13",
+      "after": 8,
+      "kind": "header",
+      "before": 20,
+      "origins": {
+        "header": [
+          68.03997802734375,
+          128.05999755859375,
+          168.01995849609375,
+          208.0999755859375,
+          248.05999755859375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          20.040039,
+          19.919983,
+          20.039978,
+          20.040039
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "pairs-v1",
+      "nativeReportHash": "341ad20bb12fe4d40272d362761b8fb7b30afd553ec14ff50281d461f22f5850",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "name": "header-pair-20-8",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 20
+        },
+        {
+          "before": 8,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "pdfHash": "69aa76541c0ce2092f737ddc20b152c2ae5d70fea7a29325d67ff1fb507f7cbf",
+      "docxHash": "b484bab53024e5384110d3995a19be7b219ff2427acb8d48fafac73b7b11895b",
+      "after": 20,
+      "kind": "header",
+      "before": 8,
+      "origins": {
+        "header": [
+          68.03997802734375,
+          128.05999755859375,
+          168.01995849609375,
+          208.0999755859375,
+          248.05999755859375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          20.040039,
+          19.919983,
+          20.039978,
+          20.040039
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "pairs-v1",
+      "nativeReportHash": "341ad20bb12fe4d40272d362761b8fb7b30afd553ec14ff50281d461f22f5850",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "name": "header-pair-8-8",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 8
+        },
+        {
+          "before": 8,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "pdfHash": "5c20f5e1a5b3fb64eeb8c69713be7e9fe26741f8371a4c3444fc62545cc31450",
+      "docxHash": "60cec88ca773d2bf3a77cc6901b1931d2200ed4ad790b957dc9668e3c4480e23",
+      "after": 8,
+      "kind": "header",
+      "before": 8,
+      "origins": {
+        "header": [
+          68.03997802734375,
+          116.05999755859375,
+          156.01995849609375,
+          196.0999755859375,
+          236.05999755859375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          8.040039,
+          7.919983,
+          8.039978,
+          8.040039
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "pairs-v1",
+      "nativeReportHash": "341ad20bb12fe4d40272d362761b8fb7b30afd553ec14ff50281d461f22f5850",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "name": "header-pair-0.05-0.05",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0.05000000074505806
+        },
+        {
+          "before": 0.05000000074505806,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "pdfHash": "2634c7ab21655e783823088182ff8384590c4fd980bcc1e5a1f6def0906fe8f4",
+      "docxHash": "0a0e63b27b6cf91c1161f5f9a57c1e80ef87b6ed22dc9f37f380b1e5102d6194",
+      "after": 0.05,
+      "kind": "header",
+      "before": 0.05,
+      "origins": {
+        "header": [
+          68.15997314453125,
+          108.13995361328125,
+          148.0999755859375,
+          188.05999755859375,
+          228.13995361328125
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.119995,
+          0.119995,
+          0.0,
+          0.0,
+          0.119995
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "pairs-v1",
+      "nativeReportHash": "341ad20bb12fe4d40272d362761b8fb7b30afd553ec14ff50281d461f22f5850",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "name": "footer-pair-8-20",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 8
+        },
+        {
+          "before": 20,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "pdfHash": "bd0b2ccbcbc540dd3902d21cde08811bbe8ecafc05e8c7f723b692356bd1f8ee",
+      "docxHash": "7a9ca6704b12c6a3d6afdd6fd30708be286d85539e4c92c57c500f39fd4e4e0b",
+      "after": 8,
+      "kind": "footer",
+      "before": 20,
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          617.97998046875,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          -20.040009,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "pairs-v1",
+      "nativeReportHash": "341ad20bb12fe4d40272d362761b8fb7b30afd553ec14ff50281d461f22f5850",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "name": "footer-pair-20-8",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 20
+        },
+        {
+          "before": 8,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "pdfHash": "5d373b8151755c0477f577969c92c02a2313007e7c4f0bac933fbac5251533f3",
+      "docxHash": "6abd70b7ff0ca4ff5048006c9882ea8a803ea92d92154cd64a71ec7ad699f5d7",
+      "after": 20,
+      "kind": "footer",
+      "before": 8,
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          617.97998046875,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          -20.040009,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "pairs-v1",
+      "nativeReportHash": "341ad20bb12fe4d40272d362761b8fb7b30afd553ec14ff50281d461f22f5850",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "name": "footer-pair-8-8",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 8
+        },
+        {
+          "before": 8,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "pdfHash": "b2019140c88a366da28c51b614ff657609eca280f645b9c68279c90f938fc460",
+      "docxHash": "953201e07341a05fc2c9395c3c0285ab8e9c78513cb17d633d194c65882a462c",
+      "after": 8,
+      "kind": "footer",
+      "before": 8,
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          629.97998046875,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          -8.040009,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "pairs-v1",
+      "nativeReportHash": "341ad20bb12fe4d40272d362761b8fb7b30afd553ec14ff50281d461f22f5850",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "name": "footer-pair-0.05-0.05",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0.05000000074505806
+        },
+        {
+          "before": 0.05000000074505806,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "pdfHash": "bd856f3b494d83701b75af6476fe5636eb36e95147b07f917f47f0ad8cbc02d0",
+      "docxHash": "fb76d0ca59e15861ef82b552edb23f8b27282b316956ed87542f0d49ae01970c",
+      "after": 0.05,
+      "kind": "footer",
+      "before": 0.05,
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      },
+      "delta": {
+        "header": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "footer": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "run": "pairs-v1",
+      "nativeReportHash": "341ad20bb12fe4d40272d362761b8fb7b30afd553ec14ff50281d461f22f5850",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    }
+  ],
+  "producerHash": "588d56307ec880e304d4b0c1566239261f6afd3929fc6c25482acef88eba99b9",
+  "scope": "56 independently captured authored Word header/footer paragraph-spacing cases, including leading/trailing and adjacent collapsing. Before/after glyph deltas are native observations, not correction offsets; strict full-page PDF comparison remains required."
+}

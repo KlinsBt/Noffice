@@ -1,0 +1,46 @@
+.grid-scroll {
+  overflow-anchor: none;
+}
+.spreadsheet td,
+.spreadsheet tbody th {
+  min-height: 0;
+  max-height: none;
+  max-width: none;
+  padding: 0;
+  height: inherit;
+}
+.spreadsheet .cell-display {
+  overflow: hidden;
+  padding: 2px 6px;
+  line-height: 1.2;
+  overflow-wrap: anywhere;
+}
+.spreadsheet.no-gridlines td {
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+}
+.spreadsheet td.cell-error {
+  color: #a43232;
+}
+.spreadsheet tbody th {
+  min-width: 46px;
+}
+.sheet-image {
+  position: absolute;
+  object-fit: fill;
+  pointer-events: none;
+  z-index: 2;
+}
+.cell-note {
+  padding: 6px 16px;
+  height: 30px;
+  flex-shrink: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-size: 12px;
+  border-bottom: 1px solid var(--border);
+}
+.cell-note.has-note {
+  background: #fff8df;
+}

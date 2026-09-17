@@ -1,0 +1,502 @@
+{
+  "provenance": "MIT synthetic exact-height/font-size fixture. Native paragraph shading is independently verified layout-neutral. Only author metadata is sanitized; no font binaries are included.",
+  "sourceSha256": "39439478842d0def97dbb118fc43b0983a699be0e83b1c1df8cde83cba1d2a1d",
+  "native": {
+    "fontHash": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+    "scriptHash": "bc5272fa0c29bb7a09d8e706fe2ca26d64e575576a80ff0226dc381986cc51ad",
+    "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+    "savedHash": "352d6a3a71fab58b1456a2fe813c0fa6ca1fe683792f950c16fd8f7946618644",
+    "paragraphs": [
+      {
+        "line": 6,
+        "rule": 4,
+        "text": "F10L6\r",
+        "y": 30,
+        "page": 1,
+        "x": 30,
+        "size": 10
+      },
+      {
+        "line": 10,
+        "rule": 4,
+        "text": "F10L10\r",
+        "y": 36,
+        "page": 1,
+        "x": 30,
+        "size": 10
+      },
+      {
+        "line": 15,
+        "rule": 4,
+        "text": "F10L15\r",
+        "y": 46.150001525878906,
+        "page": 1,
+        "x": 30,
+        "size": 10
+      },
+      {
+        "line": 30,
+        "rule": 4,
+        "text": "F10L30\r",
+        "y": 61.150001525878906,
+        "page": 1,
+        "x": 30,
+        "size": 10
+      },
+      {
+        "line": 6,
+        "rule": 4,
+        "text": "F20L6\r",
+        "y": 91.1500015258789,
+        "page": 1,
+        "x": 30,
+        "size": 20
+      },
+      {
+        "line": 10,
+        "rule": 4,
+        "text": "F20L10\r",
+        "y": 97.1500015258789,
+        "page": 1,
+        "x": 30,
+        "size": 20
+      },
+      {
+        "line": 15,
+        "rule": 4,
+        "text": "F20L15\r",
+        "y": 106.9000015258789,
+        "page": 1,
+        "x": 30,
+        "size": 20
+      },
+      {
+        "line": 30,
+        "rule": 4,
+        "text": "F20L30\r",
+        "y": 121.9000015258789,
+        "page": 1,
+        "x": 30,
+        "size": 20
+      },
+      {
+        "line": 6,
+        "rule": 4,
+        "text": "F40L6\r",
+        "y": 151.89999389648438,
+        "page": 1,
+        "x": 30,
+        "size": 40
+      },
+      {
+        "line": 10,
+        "rule": 4,
+        "text": "F40L10\r",
+        "y": 157.89999389648438,
+        "page": 1,
+        "x": 30,
+        "size": 40
+      },
+      {
+        "line": 15,
+        "rule": 4,
+        "text": "F40L15\r",
+        "y": 168,
+        "page": 1,
+        "x": 30,
+        "size": 40
+      },
+      {
+        "line": 30,
+        "rule": 4,
+        "text": "F40L30\r",
+        "y": 183,
+        "page": 1,
+        "x": 30,
+        "size": 40
+      }
+    ],
+    "printer": "Microsoft Print to PDF",
+    "pdfHash": "e8fc0fc8393807f1f8fbc66ecc4b67f9a97b73d288a680e4a09e811ba6b36bcf",
+    "sourceHash": "85caa20c9730ced95939f815d421e7f11942a7b3820fa92ae13220df65f3abbf"
+  },
+  "paragraphBoxes": {
+    "glyphsUnchanged": true,
+    "nativeReceiptHash": "f9a314e2166ae31ddd14d728301202ce48a2624a13149a0ffc86637cf5886fac",
+    "boxes": [
+      {
+        "paragraph": 0,
+        "page": 1,
+        "left": 28.559999465942383,
+        "right": 571.5599975585938,
+        "top": 30.0,
+        "bottom": 36.0
+      },
+      {
+        "paragraph": 1,
+        "page": 1,
+        "left": 28.559999465942383,
+        "right": 571.5599975585938,
+        "top": 35.99993896484375,
+        "bottom": 45.9599609375
+      },
+      {
+        "paragraph": 2,
+        "page": 1,
+        "left": 28.559999465942383,
+        "right": 571.5599975585938,
+        "top": 45.9599609375,
+        "bottom": 60.9599609375
+      },
+      {
+        "paragraph": 3,
+        "page": 1,
+        "left": 28.559999465942383,
+        "right": 571.5599975585938,
+        "top": 60.95599365234375,
+        "bottom": 90.97998046875
+      },
+      {
+        "paragraph": 4,
+        "page": 1,
+        "left": 28.559999465942383,
+        "right": 571.5599975585938,
+        "top": 90.97998046875,
+        "bottom": 96.97998046875
+      },
+      {
+        "paragraph": 5,
+        "page": 1,
+        "left": 28.559999465942383,
+        "right": 571.5599975585938,
+        "top": 96.97998046875,
+        "bottom": 107.05999755859375
+      },
+      {
+        "paragraph": 6,
+        "page": 1,
+        "left": 28.559999465942383,
+        "right": 571.5599975585938,
+        "top": 107.05999755859375,
+        "bottom": 122.05999755859375
+      },
+      {
+        "paragraph": 7,
+        "page": 1,
+        "left": 28.559999465942383,
+        "right": 571.5599975585938,
+        "top": 122.05999755859375,
+        "bottom": 152.05999755859375
+      },
+      {
+        "paragraph": 8,
+        "page": 1,
+        "left": 28.559999465942383,
+        "right": 571.5599975585938,
+        "top": 152.05999755859375,
+        "bottom": 158.05999755859375
+      },
+      {
+        "paragraph": 9,
+        "page": 1,
+        "left": 28.559999465942383,
+        "right": 571.5599975585938,
+        "top": 158.0599365234375,
+        "bottom": 168.01995849609375
+      },
+      {
+        "paragraph": 10,
+        "page": 1,
+        "left": 28.559999465942383,
+        "right": 571.5599975585938,
+        "top": 168.01995849609375,
+        "bottom": 183.01995849609375
+      },
+      {
+        "paragraph": 11,
+        "page": 1,
+        "left": 28.559999465942383,
+        "right": 571.5599975585938,
+        "top": 183.01995849609375,
+        "bottom": 213.01995849609375
+      }
+    ],
+    "capture": {
+      "fontHash": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+      "scriptHash": "9cd4f76546941409ba1352833f42c14a15612e0c14b65d0dcd763fc6dfca454c",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "boxesHash": "2fc1219e404d83a37460ae69c5bb0e0ce946c68566b8b266e4c0d66b770e92cc",
+      "paragraphs": [
+        {
+          "origin": 30,
+          "rgb": [
+            21,
+            220,
+            140
+          ],
+          "text": "F10L6\r"
+        },
+        {
+          "origin": 36,
+          "rgb": [
+            22,
+            220,
+            140
+          ],
+          "text": "F10L10\r"
+        },
+        {
+          "origin": 46.150001525878906,
+          "rgb": [
+            23,
+            220,
+            140
+          ],
+          "text": "F10L15\r"
+        },
+        {
+          "origin": 61.150001525878906,
+          "rgb": [
+            24,
+            220,
+            140
+          ],
+          "text": "F10L30\r"
+        },
+        {
+          "origin": 91.1500015258789,
+          "rgb": [
+            25,
+            220,
+            140
+          ],
+          "text": "F20L6\r"
+        },
+        {
+          "origin": 97.1500015258789,
+          "rgb": [
+            26,
+            220,
+            140
+          ],
+          "text": "F20L10\r"
+        },
+        {
+          "origin": 106.9000015258789,
+          "rgb": [
+            27,
+            220,
+            140
+          ],
+          "text": "F20L15\r"
+        },
+        {
+          "origin": 121.9000015258789,
+          "rgb": [
+            28,
+            220,
+            140
+          ],
+          "text": "F20L30\r"
+        },
+        {
+          "origin": 151.89999389648438,
+          "rgb": [
+            29,
+            220,
+            140
+          ],
+          "text": "F40L6\r"
+        },
+        {
+          "origin": 157.89999389648438,
+          "rgb": [
+            30,
+            220,
+            140
+          ],
+          "text": "F40L10\r"
+        },
+        {
+          "origin": 168,
+          "rgb": [
+            31,
+            220,
+            140
+          ],
+          "text": "F40L15\r"
+        },
+        {
+          "origin": 183,
+          "rgb": [
+            32,
+            220,
+            140
+          ],
+          "text": "F40L30\r"
+        }
+      ],
+      "scope": "Discovery only; shading neutrality must be checked separately",
+      "pdfHash": "be058121a943e0f32bab8ebc2a42c1c7e3c4c1c4c85b21344e1867f5db95ecf4",
+      "sourceHash": "352d6a3a71fab58b1456a2fe813c0fa6ca1fe683792f950c16fd8f7946618644"
+    }
+  },
+  "baselines": [
+    {
+      "line": 6,
+      "rule": 4,
+      "text": "F10L6\r",
+      "y": 30,
+      "page": 1,
+      "x": 30,
+      "size": 10,
+      "baselineFromTop": 4.79998779296875,
+      "pdfFontSize": 9.960000038146973,
+      "layoutTop": 30.0,
+      "baselineFromLayoutTop": 4.79998779296875
+    },
+    {
+      "line": 10,
+      "rule": 4,
+      "text": "F10L10\r",
+      "y": 36,
+      "page": 1,
+      "x": 30,
+      "size": 10,
+      "baselineFromTop": 8.03997802734375,
+      "pdfFontSize": 9.960000038146973,
+      "layoutTop": 35.99993896484375,
+      "baselineFromLayoutTop": 8.0400390625
+    },
+    {
+      "line": 15,
+      "rule": 4,
+      "text": "F10L15\r",
+      "y": 46.150001525878906,
+      "page": 1,
+      "x": 30,
+      "size": 10,
+      "baselineFromTop": 11.809959411621094,
+      "pdfFontSize": 9.960000038146973,
+      "layoutTop": 45.9599609375,
+      "baselineFromLayoutTop": 12.0
+    },
+    {
+      "line": 30,
+      "rule": 4,
+      "text": "F10L30\r",
+      "y": 61.150001525878906,
+      "page": 1,
+      "x": 30,
+      "size": 10,
+      "baselineFromTop": 23.829978942871094,
+      "pdfFontSize": 9.960000038146973,
+      "layoutTop": 60.95599365234375,
+      "baselineFromLayoutTop": 24.02398681640625
+    },
+    {
+      "line": 6,
+      "rule": 4,
+      "text": "F20L6\r",
+      "y": 91.1500015258789,
+      "page": 1,
+      "x": 30,
+      "size": 20,
+      "baselineFromTop": 4.629966735839844,
+      "pdfFontSize": 20.040000915527344,
+      "layoutTop": 90.97998046875,
+      "baselineFromLayoutTop": 4.79998779296875
+    },
+    {
+      "line": 10,
+      "rule": 4,
+      "text": "F20L10\r",
+      "y": 97.1500015258789,
+      "page": 1,
+      "x": 30,
+      "size": 20,
+      "baselineFromTop": 7.869956970214844,
+      "pdfFontSize": 20.040000915527344,
+      "layoutTop": 96.97998046875,
+      "baselineFromLayoutTop": 8.03997802734375
+    },
+    {
+      "line": 15,
+      "rule": 4,
+      "text": "F20L15\r",
+      "y": 106.9000015258789,
+      "page": 1,
+      "x": 30,
+      "size": 20,
+      "baselineFromTop": 12.159996032714844,
+      "pdfFontSize": 20.040000915527344,
+      "layoutTop": 107.05999755859375,
+      "baselineFromLayoutTop": 12.0
+    },
+    {
+      "line": 30,
+      "rule": 4,
+      "text": "F20L30\r",
+      "y": 121.9000015258789,
+      "page": 1,
+      "x": 30,
+      "size": 20,
+      "baselineFromTop": 24.159996032714844,
+      "pdfFontSize": 20.040000915527344,
+      "layoutTop": 122.05999755859375,
+      "baselineFromLayoutTop": 24.0
+    },
+    {
+      "line": 6,
+      "rule": 4,
+      "text": "F40L6\r",
+      "y": 151.89999389648438,
+      "page": 1,
+      "x": 30,
+      "size": 40,
+      "baselineFromTop": 4.959991455078125,
+      "pdfFontSize": 39.959999084472656,
+      "layoutTop": 152.05999755859375,
+      "baselineFromLayoutTop": 4.79998779296875
+    },
+    {
+      "line": 10,
+      "rule": 4,
+      "text": "F40L10\r",
+      "y": 157.89999389648438,
+      "page": 1,
+      "x": 30,
+      "size": 40,
+      "baselineFromTop": 8.199981689453125,
+      "pdfFontSize": 39.959999084472656,
+      "layoutTop": 158.0599365234375,
+      "baselineFromLayoutTop": 8.0400390625
+    },
+    {
+      "line": 15,
+      "rule": 4,
+      "text": "F40L15\r",
+      "y": 168,
+      "page": 1,
+      "x": 30,
+      "size": 40,
+      "baselineFromTop": 12.01995849609375,
+      "pdfFontSize": 39.959999084472656,
+      "layoutTop": 168.01995849609375,
+      "baselineFromLayoutTop": 12.0
+    },
+    {
+      "line": 30,
+      "rule": 4,
+      "text": "F40L30\r",
+      "y": 183,
+      "page": 1,
+      "x": 30,
+      "size": 40,
+      "baselineFromTop": 24.01995849609375,
+      "pdfFontSize": 39.959999084472656,
+      "layoutTop": 183.01995849609375,
+      "baselineFromLayoutTop": 24.0
+    }
+  ]
+}

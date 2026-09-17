@@ -1,0 +1,221 @@
+{
+  "sheet": "Data Set",
+  "cells": {
+    "A1": "Amount",
+    "A2": 2,
+    "A3": 4,
+    "A4": 6,
+    "A5": 8,
+    "A6": "=SUBTOTAL(9,A2:A5)",
+    "A7": "text",
+    "A8": "=\"\"",
+    "A9": true,
+    "A10": "=NA()",
+    "B1": "Group",
+    "B2": "keep",
+    "B3": "keep",
+    "B4": "drop",
+    "B5": "keep",
+    "B6": "keep",
+    "B7": "keep",
+    "B8": "keep",
+    "B9": "keep",
+    "B10": "drop",
+    "C2": 3,
+    "D2": 5,
+    "E2": 7,
+    "G2": "=SUM(SUBTOTAL(9,A2:A5))+1",
+    "G3": "=A6",
+    "G4": "=\"SUBTOTAL(9,A2:A5)\"",
+    "G5": "=MissingName",
+    "C12": 11
+  },
+  "names": {
+    "Amounts": "'Data Set'!$A$2:$A$5"
+  },
+  "hiddenRows": [
+    2,
+    11
+  ],
+  "hiddenColumns": [
+    3
+  ],
+  "cases": [
+    {
+      "ref": "J1",
+      "formula": "=SUBTOTAL(1,A2:A9)"
+    },
+    {
+      "ref": "J2",
+      "formula": "=SUBTOTAL(2,A2:A9)"
+    },
+    {
+      "ref": "J3",
+      "formula": "=SUBTOTAL(3,A2:A9)"
+    },
+    {
+      "ref": "J4",
+      "formula": "=SUBTOTAL(4,A2:A9)"
+    },
+    {
+      "ref": "J5",
+      "formula": "=SUBTOTAL(5,A2:A9)"
+    },
+    {
+      "ref": "J6",
+      "formula": "=SUBTOTAL(6,A2:A9)"
+    },
+    {
+      "ref": "J7",
+      "formula": "=SUBTOTAL(7,A2:A9)"
+    },
+    {
+      "ref": "J8",
+      "formula": "=SUBTOTAL(8,A2:A9)"
+    },
+    {
+      "ref": "J9",
+      "formula": "=SUBTOTAL(9,A2:A9)"
+    },
+    {
+      "ref": "J10",
+      "formula": "=SUBTOTAL(10,A2:A9)"
+    },
+    {
+      "ref": "J11",
+      "formula": "=SUBTOTAL(11,A2:A9)"
+    },
+    {
+      "ref": "J12",
+      "formula": "=SUBTOTAL(101,A2:A9)"
+    },
+    {
+      "ref": "J13",
+      "formula": "=SUBTOTAL(102,A2:A9)"
+    },
+    {
+      "ref": "J14",
+      "formula": "=SUBTOTAL(103,A2:A9)"
+    },
+    {
+      "ref": "J15",
+      "formula": "=SUBTOTAL(104,A2:A9)"
+    },
+    {
+      "ref": "J16",
+      "formula": "=SUBTOTAL(105,A2:A9)"
+    },
+    {
+      "ref": "J17",
+      "formula": "=SUBTOTAL(106,A2:A9)"
+    },
+    {
+      "ref": "J18",
+      "formula": "=SUBTOTAL(107,A2:A9)"
+    },
+    {
+      "ref": "J19",
+      "formula": "=SUBTOTAL(108,A2:A9)"
+    },
+    {
+      "ref": "J20",
+      "formula": "=SUBTOTAL(109,A2:A9)"
+    },
+    {
+      "ref": "J21",
+      "formula": "=SUBTOTAL(110,A2:A9)"
+    },
+    {
+      "ref": "J22",
+      "formula": "=SUBTOTAL(111,A2:A9)"
+    },
+    {
+      "ref": "J23",
+      "formula": "=SUBTOTAL(9,A2:A5,A2:A3)"
+    },
+    {
+      "ref": "J24",
+      "formula": "=SUBTOTAL(109,C2:E2)"
+    },
+    {
+      "ref": "J25",
+      "formula": "=SUBTOTAL(2,A7:A10)"
+    },
+    {
+      "ref": "J26",
+      "formula": "=SUBTOTAL(3,A7:A10)"
+    },
+    {
+      "ref": "J27",
+      "formula": "=SUBTOTAL(9,A7:A10)"
+    },
+    {
+      "ref": "J28",
+      "formula": "=SUBTOTAL(9,G2:G4)"
+    },
+    {
+      "ref": "J29",
+      "formula": "=SUBTOTAL(3,G2:G4)"
+    },
+    {
+      "ref": "J30",
+      "formula": "=SUBTOTAL(9,Amounts)"
+    },
+    {
+      "ref": "J31",
+      "formula": "=SUBTOTAL(109,INDIRECT(\"A2:A5\"))"
+    },
+    {
+      "ref": "J32",
+      "formula": "=SUBTOTAL(9,A2)"
+    },
+    {
+      "ref": "J33",
+      "formula": "=SUBTOTAL(9.9,A2:A5)"
+    },
+    {
+      "ref": "J34",
+      "formula": "=SUBTOTAL(0,A2:A5)"
+    },
+    {
+      "ref": "J35",
+      "formula": "=SUBTOTAL(112,A2:A5)"
+    },
+    {
+      "ref": "J36",
+      "formula": "=SUBTOTAL(9,Z1:Z5)"
+    },
+    {
+      "ref": "J37",
+      "formula": "=SUBTOTAL(6,Z1:Z5)"
+    },
+    {
+      "ref": "J38",
+      "formula": "=SUBTOTAL(7,A2)"
+    },
+    {
+      "ref": "J39",
+      "formula": "=SUBTOTAL(8,A2)"
+    },
+    {
+      "ref": "J40",
+      "formula": "=SUBTOTAL(9,A:A)"
+    },
+    {
+      "ref": "J41",
+      "formula": "=SUBTOTAL(2,G5)"
+    },
+    {
+      "ref": "J42",
+      "formula": "=SUBTOTAL(3,G5)"
+    },
+    {
+      "ref": "J43",
+      "formula": "=SUBTOTAL(9,C12)"
+    },
+    {
+      "ref": "J44",
+      "formula": "=SUBTOTAL(109,C12)"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "provenance": "Synthetic MIT inputs imported and edited in the actual archived pre-spacing browser build; backups downloaded through its UI.",
+  "archiveHash": "e977720d56813b094d0d1da0891a865bbfb4737ca77ad1540ab2c1ecdd04da15",
+  "producer": ".local/capture-paragraph-spacing-legacy.cjs",
+  "producerHash": "22c0919a8318b4dedbff63aca8d9fca5f5d6eceab985554cbbe438729c47bb00",
+  "rows": [
+    {
+      "name": "line-unchanged",
+      "source": "line-before-no-fallback",
+      "edit": "none",
+      "fixture": "word-paragraph-spacing-legacy-line-unchanged.noffice",
+      "backupHash": "b003c46ce47dc6be7da90b95bb29aff776a6729bb7fe8e928ec6e09abc9269e9",
+      "sourceHash": "3f7c876258ea230e08e816fb9b29017457072a73ecfd683e087dc66b7e96cb22"
+    },
+    {
+      "name": "line-edited",
+      "source": "line-before-no-fallback",
+      "edit": "points",
+      "fixture": "word-paragraph-spacing-legacy-line-edited.noffice",
+      "backupHash": "c69dead3f80600e7e762e823dca86299624703693bdaa66846ea5fc45d049d19",
+      "sourceHash": "3f7c876258ea230e08e816fb9b29017457072a73ecfd683e087dc66b7e96cb22"
+    },
+    {
+      "name": "auto-unchanged",
+      "source": "both-auto",
+      "edit": "none",
+      "fixture": "word-paragraph-spacing-legacy-auto-unchanged.noffice",
+      "backupHash": "56fe844e33bbbefc14c801632b74070ce093d2f994cd489d605a8af45ba60ca6",
+      "sourceHash": "fc3c5821cf76c8ec0649a791e2e7ee0df7dd665b1bce589f5a160621e729679f"
+    },
+    {
+      "name": "contextual-unchanged",
+      "source": "contextual-point",
+      "edit": "none",
+      "fixture": "word-paragraph-spacing-legacy-contextual-unchanged.noffice",
+      "backupHash": "53a6289ba1effe2fe23f77e6d12ab5e6a3103033e937d485878ecbb276881577",
+      "sourceHash": "3ba7f6d58134e3b45d771fee51c41348be1500e40640906cfed047246eba3f6f"
+    },
+    {
+      "name": "line-ambiguous",
+      "source": "line-before-no-fallback",
+      "edit": "split",
+      "fixture": "word-paragraph-spacing-legacy-line-ambiguous.noffice",
+      "backupHash": "9d300accfa116105eca72c932ac9e5b66325f0459c4194a05d31f4a888f6cb95",
+      "sourceHash": "3f7c876258ea230e08e816fb9b29017457072a73ecfd683e087dc66b7e96cb22"
+    }
+  ]
+}

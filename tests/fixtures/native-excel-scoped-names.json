@@ -1,0 +1,134 @@
+{
+    "passed":  true,
+    "sourceSha256":  "af1a7a81aae03febc87d0693e0ac4f8a957fafdf43d66b54a96687f8fd2e536a",
+    "version":  "16.0.4627.1001",
+    "scriptSha256":  "c8bd9762455093b630df0f7960b6c362b893b144c1fdf5691702f2218c17cac1",
+    "names":  [
+                  {
+                      "name":  "AliasRate",
+                      "refersTo":  "=Rate*3"
+                  },
+                  {
+                      "name":  "\u0027Cost data\u0027!Rate",
+                      "refersTo":  "=\u0027Cost data\u0027!$A$1"
+                  },
+                  {
+                      "name":  "Data!Rate",
+                      "refersTo":  "=Summary!$A$1"
+                  },
+                  {
+                      "name":  "Rate",
+                      "refersTo":  "=Data!$A$1"
+                  }
+              ],
+    "cells":  [
+                  {
+                      "sheet":  "Data",
+                      "address":  "A1",
+                      "formula":  "2",
+                      "value":  2
+                  },
+                  {
+                      "sheet":  "Data",
+                      "address":  "B1",
+                      "formula":  "=Rate",
+                      "value":  11
+                  },
+                  {
+                      "sheet":  "Data",
+                      "address":  "C1",
+                      "formula":  "=AliasRate",
+                      "value":  6
+                  },
+                  {
+                      "sheet":  "Data",
+                      "address":  "D1",
+                      "formula":  "=\u0027Cost data\u0027!Rate",
+                      "value":  7
+                  },
+                  {
+                      "sheet":  "Data",
+                      "address":  "E1",
+                      "formula":  "=Data!Rate",
+                      "value":  11
+                  },
+                  {
+                      "sheet":  "Data",
+                      "address":  "F1",
+                      "formula":  "=SUM(Rate,AliasRate)",
+                      "value":  17
+                  },
+                  {
+                      "sheet":  "Cost data",
+                      "address":  "A1",
+                      "formula":  "7",
+                      "value":  7
+                  },
+                  {
+                      "sheet":  "Cost data",
+                      "address":  "B1",
+                      "formula":  "=Rate",
+                      "value":  7
+                  },
+                  {
+                      "sheet":  "Cost data",
+                      "address":  "C1",
+                      "formula":  "=AliasRate",
+                      "value":  6
+                  },
+                  {
+                      "sheet":  "Cost data",
+                      "address":  "D1",
+                      "formula":  "=\u0027Cost data\u0027!Rate",
+                      "value":  7
+                  },
+                  {
+                      "sheet":  "Cost data",
+                      "address":  "E1",
+                      "formula":  "=source.xlsx!Rate",
+                      "value":  2
+                  },
+                  {
+                      "sheet":  "Cost data",
+                      "address":  "F1",
+                      "formula":  "=SUM(Rate,AliasRate)",
+                      "value":  13
+                  },
+                  {
+                      "sheet":  "Summary",
+                      "address":  "A1",
+                      "formula":  "11",
+                      "value":  11
+                  },
+                  {
+                      "sheet":  "Summary",
+                      "address":  "B1",
+                      "formula":  "=Rate",
+                      "value":  2
+                  },
+                  {
+                      "sheet":  "Summary",
+                      "address":  "C1",
+                      "formula":  "=AliasRate",
+                      "value":  6
+                  },
+                  {
+                      "sheet":  "Summary",
+                      "address":  "D1",
+                      "formula":  "=\u0027Cost data\u0027!Rate",
+                      "value":  7
+                  },
+                  {
+                      "sheet":  "Summary",
+                      "address":  "E1",
+                      "formula":  "=source.xlsx!Rate",
+                      "value":  2
+                  },
+                  {
+                      "sheet":  "Summary",
+                      "address":  "F1",
+                      "formula":  "=SUM(Rate,AliasRate)",
+                      "value":  8
+                  }
+              ]
+}

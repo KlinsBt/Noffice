@@ -1,0 +1,459 @@
+{
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "method": "Owned end-caret script Font, Undo, Redo, TypeText and reopened original query",
+  "scriptHash": "73411f6aa566c6a385c2e46f84d18d0bc9d43d3c96dffa331c75e8560615b49a",
+  "rows": [
+    {
+      "formattedSourceHash": "8c1fad2f8e9648ae81b1903d0f16a30b7dd9ad3520339b71ec6c0ec61f8329e2",
+      "redo": {
+        "subscript": 0,
+        "start": 4,
+        "end": 4,
+        "superscript": 0
+      },
+      "undoOk": true,
+      "docxHash": "30ee6da9756b7a27396ca3222803272e3bbee8e21d0747d1371ceae029e0ac7b",
+      "reopened": {
+        "subscript": 0,
+        "start": 4,
+        "end": 4,
+        "superscript": 0
+      },
+      "name": "Body-Superscript-end-caret",
+      "undo": {
+        "subscript": 0,
+        "start": 4,
+        "end": 4,
+        "superscript": 0
+      },
+      "redoOk": true,
+      "typed": [
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "A",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "b",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "\t",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "B",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "X",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "\r",
+          "superscript": -1
+        }
+      ],
+      "formatted": {
+        "subscript": 0,
+        "start": 4,
+        "end": 4,
+        "superscript": -1
+      }
+    },
+    {
+      "formattedSourceHash": "27d1a54ac797373df8990a27ae727422ec928e07e3479cc031cc8e3af48bf005",
+      "redo": {
+        "subscript": 0,
+        "start": 4,
+        "end": 4,
+        "superscript": 0
+      },
+      "undoOk": true,
+      "docxHash": "83a2208c4026a0b61e86966fa71b0c63e72aa3236fb2c7bc3a5f866f37d98b4b",
+      "reopened": {
+        "subscript": 0,
+        "start": 4,
+        "end": 4,
+        "superscript": 0
+      },
+      "name": "Body-Subscript-end-caret",
+      "undo": {
+        "subscript": 0,
+        "start": 4,
+        "end": 4,
+        "superscript": 0
+      },
+      "redoOk": true,
+      "typed": [
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "A",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "b",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "\t",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "B",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "X",
+          "superscript": 0
+        },
+        {
+          "subscript": -1,
+          "size": 10,
+          "family": "Arial",
+          "text": "\r",
+          "superscript": 0
+        }
+      ],
+      "formatted": {
+        "subscript": -1,
+        "start": 4,
+        "end": 4,
+        "superscript": 0
+      }
+    },
+    {
+      "formattedSourceHash": "15c2ae65af0ae2e6c825ebd12f7bf1bd15691bafd06295c5fdbeb324448399d0",
+      "redo": {
+        "subscript": 0,
+        "start": 4,
+        "end": 4,
+        "superscript": 0
+      },
+      "undoOk": true,
+      "docxHash": "2b518b1733f9cdabae227392121655c30cb858c076bf00209b0ab4636509913b",
+      "reopened": {
+        "subscript": 0,
+        "start": 4,
+        "end": 4,
+        "superscript": 0
+      },
+      "name": "Headers-Superscript-end-caret",
+      "undo": {
+        "subscript": 0,
+        "start": 4,
+        "end": 4,
+        "superscript": 0
+      },
+      "redoOk": true,
+      "typed": [
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "A",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "b",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "\t",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "B",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "X",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "\r",
+          "superscript": -1
+        }
+      ],
+      "formatted": {
+        "subscript": 0,
+        "start": 4,
+        "end": 4,
+        "superscript": -1
+      }
+    },
+    {
+      "formattedSourceHash": "319df4d24e75936971de11dd8c8d4ef8e47b074dcbcb8a3291dbb4940eff7a8f",
+      "redo": {
+        "subscript": 0,
+        "start": 4,
+        "end": 4,
+        "superscript": 0
+      },
+      "undoOk": true,
+      "docxHash": "c83a9843630a478c40c0c0eb25e5c861e98cec9dae43079620ab15156ecf4023",
+      "reopened": {
+        "subscript": 0,
+        "start": 4,
+        "end": 4,
+        "superscript": 0
+      },
+      "name": "Headers-Subscript-end-caret",
+      "undo": {
+        "subscript": 0,
+        "start": 4,
+        "end": 4,
+        "superscript": 0
+      },
+      "redoOk": true,
+      "typed": [
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "A",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "b",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "\t",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "B",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "X",
+          "superscript": 0
+        },
+        {
+          "subscript": -1,
+          "size": 10,
+          "family": "Arial",
+          "text": "\r",
+          "superscript": 0
+        }
+      ],
+      "formatted": {
+        "subscript": -1,
+        "start": 4,
+        "end": 4,
+        "superscript": 0
+      }
+    },
+    {
+      "formattedSourceHash": "7dbcf61baab37be4fabaaba06fd2ea73227f0b1be0e3bebbe1a1a5b501ece4af",
+      "redo": {
+        "subscript": 0,
+        "start": 4,
+        "end": 4,
+        "superscript": 0
+      },
+      "undoOk": true,
+      "docxHash": "8b16e41f3db6cc4b901fda60c7755e4daab77a90e93e5876ee13f00749036cd7",
+      "reopened": {
+        "subscript": 0,
+        "start": 4,
+        "end": 4,
+        "superscript": 0
+      },
+      "name": "Footers-Superscript-end-caret",
+      "undo": {
+        "subscript": 0,
+        "start": 4,
+        "end": 4,
+        "superscript": 0
+      },
+      "redoOk": true,
+      "typed": [
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "A",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "b",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "\t",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "B",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "X",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "\r",
+          "superscript": -1
+        }
+      ],
+      "formatted": {
+        "subscript": 0,
+        "start": 4,
+        "end": 4,
+        "superscript": -1
+      }
+    },
+    {
+      "formattedSourceHash": "340940dbbad476ad8f9271f3aed25cf64e0414e7c067fefded4f85f90115b6b3",
+      "redo": {
+        "subscript": 0,
+        "start": 4,
+        "end": 4,
+        "superscript": 0
+      },
+      "undoOk": true,
+      "docxHash": "4e30951049bf4458fcef64ece922f2c381e0e786b51826014c8b70bae61b64f5",
+      "reopened": {
+        "subscript": 0,
+        "start": 4,
+        "end": 4,
+        "superscript": 0
+      },
+      "name": "Footers-Subscript-end-caret",
+      "undo": {
+        "subscript": 0,
+        "start": 4,
+        "end": 4,
+        "superscript": 0
+      },
+      "redoOk": true,
+      "typed": [
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "A",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "b",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "\t",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "B",
+          "superscript": 0
+        },
+        {
+          "subscript": 0,
+          "size": 10,
+          "family": "Arial",
+          "text": "X",
+          "superscript": 0
+        },
+        {
+          "subscript": -1,
+          "size": 10,
+          "family": "Arial",
+          "text": "\r",
+          "superscript": 0
+        }
+      ],
+      "formatted": {
+        "subscript": -1,
+        "start": 4,
+        "end": 4,
+        "superscript": 0
+      }
+    }
+  ],
+  "nativeReportHash": "7b42768599823fc0855bf9b3c1a727d1800ccaa19bf660659bc881b8d9a2bc83",
+  "promotionHash": "ebaacc9fbe4308a2132a04e5f3bf49d92d06a3a9378c0a77bac6591190c46ec2"
+}

@@ -1,0 +1,55 @@
+{
+  "archiveHash": "4140b10f7fc7340ce110781fa742483224e997bd8bc690b7c9ff2c3f17d2bc4e",
+  "scriptHash": "6429de88c4c63a18ff999add6d0f709b6d60eaf0dc1700229ae2ffb9d6595c72",
+  "rows": [
+    {
+      "name": "absent-unchanged",
+      "edited": false,
+      "fixture": "word-style-defaults-absent-styles.docx",
+      "sourceHash": "303e1a12b0d86111b922a574e25fc7f1789241d5e3a7b1f351f580123f2ba9d7",
+      "backupHash": "a752e635d4adabb54d1e74a7fe7761ffc66cd54e4693b8b20c8103f4680dd6b2",
+      "file": "word-style-defaults-legacy-absent-unchanged.noffice"
+    },
+    {
+      "name": "absent-edited",
+      "edited": true,
+      "fixture": "word-style-defaults-absent-styles.docx",
+      "sourceHash": "303e1a12b0d86111b922a574e25fc7f1789241d5e3a7b1f351f580123f2ba9d7",
+      "backupHash": "75d7c44aec9d4612285f5098eb93f4956cc929e0b50ca504a647cbbb04b466b3",
+      "file": "word-style-defaults-legacy-absent-edited.noffice"
+    },
+    {
+      "name": "empty-paragraph-unchanged",
+      "edited": false,
+      "fixture": "word-style-defaults-empty-paragraph-properties.docx",
+      "sourceHash": "7df70e8316e1d8a7f19dd600bcdb354cfffd03c2f1c70c935246e72085e3b26f",
+      "backupHash": "16481f44f126a16b4d90b3bb88c664354ffd50f7b0274c9befc4e56cc9edbb6c",
+      "file": "word-style-defaults-legacy-empty-paragraph-unchanged.noffice"
+    },
+    {
+      "name": "empty-paragraph-edited",
+      "edited": true,
+      "fixture": "word-style-defaults-empty-paragraph-properties.docx",
+      "sourceHash": "7df70e8316e1d8a7f19dd600bcdb354cfffd03c2f1c70c935246e72085e3b26f",
+      "backupHash": "6b251057436acab3f34d618a78446c8a42a000740d6acc11785153a979b800d5",
+      "file": "word-style-defaults-legacy-empty-paragraph-edited.noffice"
+    },
+    {
+      "name": "unaffected-unchanged",
+      "edited": false,
+      "fixture": "word-story-base-missing-both.docx",
+      "sourceHash": "ba8c3973f7d37f40125609f3e2f56d701cd45cf1fb6879ea852a17808b7a2e2b",
+      "backupHash": "93931f611e204f307a99d92a33401713643444c46c7204a646c6b48aab3971cc",
+      "file": "word-style-defaults-legacy-unaffected-unchanged.noffice"
+    },
+    {
+      "name": "unaffected-edited",
+      "edited": true,
+      "fixture": "word-story-base-missing-both.docx",
+      "sourceHash": "ba8c3973f7d37f40125609f3e2f56d701cd45cf1fb6879ea852a17808b7a2e2b",
+      "backupHash": "b3141974251cdbe16103aba70c47d676639c5534ee5a611e4bf41f9737ff9869",
+      "file": "word-style-defaults-legacy-unaffected-edited.noffice"
+    }
+  ],
+  "receiptHash": "b910cb77011369f2244b7cf7acf05cd5a80e325a034bfb3f87d2873c22e89257"
+}

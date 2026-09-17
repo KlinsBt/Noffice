@@ -1,0 +1,2487 @@
+{
+    "application":  "Microsoft PowerPoint",
+    "version":  "16.0",
+    "inputSha256":  "1bff20a7bfbd6a5f2ad8e4ffc3629eb6970a79c3d53025a73cd699da944c9d16",
+    "cases":  [
+                  {
+                      "name":  "1-normal-front",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E",
+                                    "A"
+                                ]
+                  },
+                  {
+                      "name":  "1-normal-back",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "1-normal-forward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "1-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "1-reverse-front",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E",
+                                    "A"
+                                ]
+                  },
+                  {
+                      "name":  "1-reverse-back",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "1-reverse-forward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "1-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "2-normal-front",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E",
+                                    "B"
+                                ]
+                  },
+                  {
+                      "name":  "2-normal-back",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "2-normal-forward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "2-normal-backward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "2-reverse-front",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E",
+                                    "B"
+                                ]
+                  },
+                  {
+                      "name":  "2-reverse-back",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "2-reverse-forward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "2-reverse-backward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "3-normal-front",
+                      "order":  [
+                                    "C",
+                                    "D",
+                                    "E",
+                                    "A",
+                                    "B"
+                                ]
+                  },
+                  {
+                      "name":  "3-normal-back",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "3-normal-forward",
+                      "order":  [
+                                    "C",
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "3-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "3-reverse-front",
+                      "order":  [
+                                    "C",
+                                    "D",
+                                    "E",
+                                    "A",
+                                    "B"
+                                ]
+                  },
+                  {
+                      "name":  "3-reverse-back",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "3-reverse-forward",
+                      "order":  [
+                                    "C",
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "3-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "4-normal-front",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "E",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "4-normal-back",
+                      "order":  [
+                                    "C",
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "4-normal-forward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "4-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "4-reverse-front",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "E",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "4-reverse-back",
+                      "order":  [
+                                    "C",
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "4-reverse-forward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "4-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "5-normal-front",
+                      "order":  [
+                                    "B",
+                                    "D",
+                                    "E",
+                                    "A",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "5-normal-back",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "5-normal-forward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "D",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "5-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "5-reverse-front",
+                      "order":  [
+                                    "B",
+                                    "D",
+                                    "E",
+                                    "A",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "5-reverse-back",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "5-reverse-forward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "D",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "5-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "6-normal-front",
+                      "order":  [
+                                    "A",
+                                    "D",
+                                    "E",
+                                    "B",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "6-normal-back",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "A",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "6-normal-forward",
+                      "order":  [
+                                    "A",
+                                    "D",
+                                    "B",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "6-normal-backward",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "A",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "6-reverse-front",
+                      "order":  [
+                                    "A",
+                                    "D",
+                                    "E",
+                                    "B",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "6-reverse-back",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "A",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "6-reverse-forward",
+                      "order":  [
+                                    "A",
+                                    "D",
+                                    "B",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "6-reverse-backward",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "A",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "7-normal-front",
+                      "order":  [
+                                    "D",
+                                    "E",
+                                    "A",
+                                    "B",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "7-normal-back",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "7-normal-forward",
+                      "order":  [
+                                    "D",
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "7-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "7-reverse-front",
+                      "order":  [
+                                    "D",
+                                    "E",
+                                    "A",
+                                    "B",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "7-reverse-back",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "7-reverse-forward",
+                      "order":  [
+                                    "D",
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "7-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "8-normal-front",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "8-normal-back",
+                      "order":  [
+                                    "D",
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "8-normal-forward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "8-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "8-reverse-front",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "8-reverse-back",
+                      "order":  [
+                                    "D",
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "8-reverse-forward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "8-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "9-normal-front",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "E",
+                                    "A",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "9-normal-back",
+                      "order":  [
+                                    "A",
+                                    "D",
+                                    "B",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "9-normal-forward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "C",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "9-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "9-reverse-front",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "E",
+                                    "A",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "9-reverse-back",
+                      "order":  [
+                                    "A",
+                                    "D",
+                                    "B",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "9-reverse-forward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "C",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "9-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "10-normal-front",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "E",
+                                    "B",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "10-normal-back",
+                      "order":  [
+                                    "B",
+                                    "D",
+                                    "A",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "10-normal-forward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "B",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "10-normal-backward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "D",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "10-reverse-front",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "E",
+                                    "B",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "10-reverse-back",
+                      "order":  [
+                                    "B",
+                                    "D",
+                                    "A",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "10-reverse-forward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "B",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "10-reverse-backward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "D",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "11-normal-front",
+                      "order":  [
+                                    "C",
+                                    "E",
+                                    "A",
+                                    "B",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "11-normal-back",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "11-normal-forward",
+                      "order":  [
+                                    "C",
+                                    "A",
+                                    "B",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "11-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "11-reverse-front",
+                      "order":  [
+                                    "C",
+                                    "E",
+                                    "A",
+                                    "B",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "11-reverse-back",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "11-reverse-forward",
+                      "order":  [
+                                    "C",
+                                    "A",
+                                    "B",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "11-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "12-normal-front",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "E",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "12-normal-back",
+                      "order":  [
+                                    "C",
+                                    "D",
+                                    "A",
+                                    "B",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "12-normal-forward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "E",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "12-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "B",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "12-reverse-front",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "E",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "12-reverse-back",
+                      "order":  [
+                                    "C",
+                                    "D",
+                                    "A",
+                                    "B",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "12-reverse-forward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "E",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "12-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "B",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "13-normal-front",
+                      "order":  [
+                                    "B",
+                                    "E",
+                                    "A",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "13-normal-back",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "B",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "13-normal-forward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "E",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "13-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "B",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "13-reverse-front",
+                      "order":  [
+                                    "B",
+                                    "E",
+                                    "A",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "13-reverse-back",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "B",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "13-reverse-forward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "E",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "13-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "B",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "14-normal-front",
+                      "order":  [
+                                    "A",
+                                    "E",
+                                    "B",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "14-normal-back",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "A",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "14-normal-forward",
+                      "order":  [
+                                    "A",
+                                    "E",
+                                    "B",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "14-normal-backward",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "A",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "14-reverse-front",
+                      "order":  [
+                                    "A",
+                                    "E",
+                                    "B",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "14-reverse-back",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "A",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "14-reverse-forward",
+                      "order":  [
+                                    "A",
+                                    "E",
+                                    "B",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "14-reverse-backward",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "A",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "15-normal-front",
+                      "order":  [
+                                    "E",
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "15-normal-back",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "15-normal-forward",
+                      "order":  [
+                                    "E",
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "15-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "15-reverse-front",
+                      "order":  [
+                                    "E",
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "15-reverse-back",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "15-reverse-forward",
+                      "order":  [
+                                    "E",
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "15-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "16-normal-front",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "16-normal-back",
+                      "order":  [
+                                    "E",
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "16-normal-forward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "16-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "16-reverse-front",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "16-reverse-back",
+                      "order":  [
+                                    "E",
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "16-reverse-forward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "16-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "17-normal-front",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "A",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "17-normal-back",
+                      "order":  [
+                                    "A",
+                                    "E",
+                                    "B",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "17-normal-forward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "17-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "17-reverse-front",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "A",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "17-reverse-back",
+                      "order":  [
+                                    "A",
+                                    "E",
+                                    "B",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "17-reverse-forward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "17-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "18-normal-front",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "B",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "18-normal-back",
+                      "order":  [
+                                    "B",
+                                    "E",
+                                    "A",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "18-normal-forward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "18-normal-backward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "C",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "18-reverse-front",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "B",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "18-reverse-back",
+                      "order":  [
+                                    "B",
+                                    "E",
+                                    "A",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "18-reverse-forward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "18-reverse-backward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "C",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "19-normal-front",
+                      "order":  [
+                                    "C",
+                                    "D",
+                                    "A",
+                                    "B",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "19-normal-back",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "E",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "19-normal-forward",
+                      "order":  [
+                                    "C",
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "19-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "19-reverse-front",
+                      "order":  [
+                                    "C",
+                                    "D",
+                                    "A",
+                                    "B",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "19-reverse-back",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "E",
+                                    "C",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "19-reverse-forward",
+                      "order":  [
+                                    "C",
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "19-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "20-normal-front",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "20-normal-back",
+                      "order":  [
+                                    "C",
+                                    "E",
+                                    "A",
+                                    "B",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "20-normal-forward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "20-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "B",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "20-reverse-front",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "20-reverse-back",
+                      "order":  [
+                                    "C",
+                                    "E",
+                                    "A",
+                                    "B",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "20-reverse-forward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "20-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "B",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "21-normal-front",
+                      "order":  [
+                                    "B",
+                                    "D",
+                                    "A",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "21-normal-back",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "E",
+                                    "B",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "21-normal-forward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "D",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "21-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "B",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "21-reverse-front",
+                      "order":  [
+                                    "B",
+                                    "D",
+                                    "A",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "21-reverse-back",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "E",
+                                    "B",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "21-reverse-forward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "D",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "21-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "B",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "22-normal-front",
+                      "order":  [
+                                    "A",
+                                    "D",
+                                    "B",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "22-normal-back",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "E",
+                                    "A",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "22-normal-forward",
+                      "order":  [
+                                    "A",
+                                    "D",
+                                    "B",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "22-normal-backward",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "A",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "22-reverse-front",
+                      "order":  [
+                                    "A",
+                                    "D",
+                                    "B",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "22-reverse-back",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "E",
+                                    "A",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "22-reverse-forward",
+                      "order":  [
+                                    "A",
+                                    "D",
+                                    "B",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "22-reverse-backward",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "A",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "23-normal-front",
+                      "order":  [
+                                    "D",
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "23-normal-back",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "23-normal-forward",
+                      "order":  [
+                                    "D",
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "23-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "23-reverse-front",
+                      "order":  [
+                                    "D",
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "23-reverse-back",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "23-reverse-forward",
+                      "order":  [
+                                    "D",
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "23-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "E",
+                                    "D"
+                                ]
+                  },
+                  {
+                      "name":  "24-normal-front",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "24-normal-back",
+                      "order":  [
+                                    "D",
+                                    "E",
+                                    "A",
+                                    "B",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "24-normal-forward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "24-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "E",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "24-reverse-front",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "24-reverse-back",
+                      "order":  [
+                                    "D",
+                                    "E",
+                                    "A",
+                                    "B",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "24-reverse-forward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "24-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "E",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "25-normal-front",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "A",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "25-normal-back",
+                      "order":  [
+                                    "A",
+                                    "D",
+                                    "E",
+                                    "B",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "25-normal-forward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "25-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "E",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "25-reverse-front",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "A",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "25-reverse-back",
+                      "order":  [
+                                    "A",
+                                    "D",
+                                    "E",
+                                    "B",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "25-reverse-forward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "25-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "E",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "26-normal-front",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "26-normal-back",
+                      "order":  [
+                                    "B",
+                                    "D",
+                                    "E",
+                                    "A",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "26-normal-forward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "26-normal-backward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "D",
+                                    "E",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "26-reverse-front",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "26-reverse-back",
+                      "order":  [
+                                    "B",
+                                    "D",
+                                    "E",
+                                    "A",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "26-reverse-forward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "26-reverse-backward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "D",
+                                    "E",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "27-normal-front",
+                      "order":  [
+                                    "C",
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "27-normal-back",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "E",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "27-normal-forward",
+                      "order":  [
+                                    "C",
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "27-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "E",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "27-reverse-front",
+                      "order":  [
+                                    "C",
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "27-reverse-back",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "E",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "27-reverse-forward",
+                      "order":  [
+                                    "C",
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "27-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "D",
+                                    "E",
+                                    "C"
+                                ]
+                  },
+                  {
+                      "name":  "28-normal-front",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "28-normal-back",
+                      "order":  [
+                                    "C",
+                                    "D",
+                                    "E",
+                                    "A",
+                                    "B"
+                                ]
+                  },
+                  {
+                      "name":  "28-normal-forward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "28-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E",
+                                    "B"
+                                ]
+                  },
+                  {
+                      "name":  "28-reverse-front",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "28-reverse-back",
+                      "order":  [
+                                    "C",
+                                    "D",
+                                    "E",
+                                    "A",
+                                    "B"
+                                ]
+                  },
+                  {
+                      "name":  "28-reverse-forward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "28-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E",
+                                    "B"
+                                ]
+                  },
+                  {
+                      "name":  "29-normal-front",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "29-normal-back",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E",
+                                    "B"
+                                ]
+                  },
+                  {
+                      "name":  "29-normal-forward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "29-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E",
+                                    "B"
+                                ]
+                  },
+                  {
+                      "name":  "29-reverse-front",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "29-reverse-back",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E",
+                                    "B"
+                                ]
+                  },
+                  {
+                      "name":  "29-reverse-forward",
+                      "order":  [
+                                    "B",
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "29-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "C",
+                                    "D",
+                                    "E",
+                                    "B"
+                                ]
+                  },
+                  {
+                      "name":  "30-normal-front",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "30-normal-back",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E",
+                                    "A"
+                                ]
+                  },
+                  {
+                      "name":  "30-normal-forward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "30-normal-backward",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E",
+                                    "A"
+                                ]
+                  },
+                  {
+                      "name":  "30-reverse-front",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "30-reverse-back",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E",
+                                    "A"
+                                ]
+                  },
+                  {
+                      "name":  "30-reverse-forward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "30-reverse-backward",
+                      "order":  [
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E",
+                                    "A"
+                                ]
+                  },
+                  {
+                      "name":  "31-normal-front",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "31-normal-back",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "31-normal-forward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "31-normal-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "31-reverse-front",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "31-reverse-back",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "31-reverse-forward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  },
+                  {
+                      "name":  "31-reverse-backward",
+                      "order":  [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                  }
+              ]
+}

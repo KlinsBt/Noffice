@@ -1,0 +1,827 @@
+{
+  "sourceSha256": "66deab49890104577894fae2439c81c0f35bae885088c5803b5b97076db78b42",
+  "executableSha256": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "fonts": [
+    {
+      "sha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+      "name": "arial.ttf"
+    },
+    {
+      "sha256": "e8f4e3baf6cc35fed6fcce3a540e8b39e8f6cda1d22a28f2ec8f526fef7a43f5",
+      "name": "arialbd.ttf"
+    },
+    {
+      "sha256": "86b32db9a06f9694e2a3760c42e5117bcdc5cc1255bb5186ca8ce0305e22f288",
+      "name": "ariali.ttf"
+    },
+    {
+      "sha256": "267a411525980d648f10a7222a6ff1ebe4d4feeefbf9b3100cae2b5cfab5594a",
+      "name": "arialbi.ttf"
+    }
+  ],
+  "stages": {
+    "source": [
+      {
+        "paragraph": 2,
+        "height": 258.739990234375,
+        "lines": [
+          {
+            "baseline": 18.47998046875,
+            "words": [
+              "alpha1",
+              "alpha2",
+              "alpha3",
+              "alpha4"
+            ],
+            "boxTop": 0.0,
+            "boxHeight": 34.44000244140625
+          },
+          {
+            "baseline": 62.4200439453125,
+            "words": [
+              "alpha5",
+              "alpha6",
+              "alpha7",
+              "alpha8"
+            ],
+            "boxTop": 34.43603515625,
+            "boxHeight": 51.864013671875
+          },
+          {
+            "baseline": 104.780029296875,
+            "words": [
+              "alpha9",
+              "alpha10",
+              "alpha11"
+            ],
+            "boxTop": 86.29998779296875,
+            "boxHeight": 34.44000244140625
+          },
+          {
+            "baseline": 148.70001220703125,
+            "words": [
+              "alpha12",
+              "alpha13",
+              "alpha14"
+            ],
+            "boxTop": 120.739990234375,
+            "boxHeight": 51.72003173828125
+          },
+          {
+            "baseline": 190.94000244140625,
+            "words": [
+              "alpha15",
+              "alpha16",
+              "alpha17",
+              "alpha18"
+            ],
+            "boxTop": 172.46002197265625,
+            "boxHeight": 34.55999755859375
+          },
+          {
+            "baseline": 234.98004150390625,
+            "words": [
+              "alpha19",
+              "alpha20"
+            ],
+            "boxTop": 207.02001953125,
+            "boxHeight": 51.719970703125
+          }
+        ],
+        "backgroundFragments": 6
+      },
+      {
+        "paragraph": 3,
+        "height": 224.1839599609375,
+        "lines": [
+          {
+            "baseline": 18.4739990234375,
+            "words": [
+              "beta1",
+              "beta2",
+              "beta3",
+              "beta4"
+            ],
+            "boxTop": 0.0,
+            "boxHeight": 34.4639892578125
+          },
+          {
+            "baseline": 62.42401123046875,
+            "words": [
+              "beta5",
+              "beta6",
+              "beta7",
+              "beta8",
+              "beta9"
+            ],
+            "boxTop": 34.4639892578125,
+            "boxHeight": 51.84002685546875
+          },
+          {
+            "baseline": 114.26397705078125,
+            "words": [
+              "beta10",
+              "beta11",
+              "beta12"
+            ],
+            "boxTop": 86.30401611328125,
+            "boxHeight": 51.719970703125
+          },
+          {
+            "baseline": 156.50396728515625,
+            "words": [
+              "beta13",
+              "beta14",
+              "beta15",
+              "beta16",
+              "beta17"
+            ],
+            "boxTop": 138.02398681640625,
+            "boxHeight": 34.44000244140625
+          },
+          {
+            "baseline": 200.42401123046875,
+            "words": [
+              "beta18",
+              "beta19",
+              "beta20"
+            ],
+            "boxTop": 172.46392822265625,
+            "boxHeight": 51.72003173828125
+          }
+        ],
+        "backgroundFragments": 5
+      }
+    ],
+    "double": [
+      {
+        "paragraph": 2,
+        "height": 345.050048828125,
+        "lines": [
+          {
+            "baseline": 18.47998046875,
+            "words": [
+              "alpha1",
+              "alpha2",
+              "alpha3",
+              "alpha4"
+            ],
+            "boxTop": 0.0,
+            "boxHeight": 45.96002197265625
+          },
+          {
+            "baseline": 74.05999755859375,
+            "words": [
+              "alpha5",
+              "alpha6",
+              "alpha7",
+              "alpha8"
+            ],
+            "boxTop": 45.9560546875,
+            "boxHeight": 69.02398681640625
+          },
+          {
+            "baseline": 133.46002197265625,
+            "words": [
+              "alpha9",
+              "alpha10",
+              "alpha11"
+            ],
+            "boxTop": 114.97998046875,
+            "boxHeight": 45.96002197265625
+          },
+          {
+            "baseline": 189.02001953125,
+            "words": [
+              "alpha12",
+              "alpha13",
+              "alpha14"
+            ],
+            "boxTop": 160.94000244140625,
+            "boxHeight": 69.0
+          },
+          {
+            "baseline": 248.4200439453125,
+            "words": [
+              "alpha15",
+              "alpha16",
+              "alpha17",
+              "alpha18"
+            ],
+            "boxTop": 229.94000244140625,
+            "boxHeight": 46.08001708984375
+          },
+          {
+            "baseline": 304.1300048828125,
+            "words": [
+              "alpha19",
+              "alpha20"
+            ],
+            "boxTop": 276.02606201171875,
+            "boxHeight": 69.02398681640625
+          }
+        ],
+        "backgroundFragments": 6
+      },
+      {
+        "paragraph": 3,
+        "height": 298.9400329589844,
+        "lines": [
+          {
+            "baseline": 18.48004150390625,
+            "words": [
+              "beta1",
+              "beta2",
+              "beta3",
+              "beta4"
+            ],
+            "boxTop": 0.0,
+            "boxHeight": 45.96002197265625
+          },
+          {
+            "baseline": 74.0400390625,
+            "words": [
+              "beta5",
+              "beta6",
+              "beta7",
+              "beta8",
+              "beta9"
+            ],
+            "boxTop": 45.96002197265625,
+            "boxHeight": 69.0
+          },
+          {
+            "baseline": 143.0400390625,
+            "words": [
+              "beta10",
+              "beta11",
+              "beta12"
+            ],
+            "boxTop": 114.9560546875,
+            "boxHeight": 69.02398681640625
+          },
+          {
+            "baseline": 202.46002197265625,
+            "words": [
+              "beta13",
+              "beta14",
+              "beta15",
+              "beta16",
+              "beta17"
+            ],
+            "boxTop": 183.98004150390625,
+            "boxHeight": 45.959991455078125
+          },
+          {
+            "baseline": 258.02001953125,
+            "words": [
+              "beta18",
+              "beta19",
+              "beta20"
+            ],
+            "boxTop": 229.94003295898438,
+            "boxHeight": 69.0
+          }
+        ],
+        "backgroundFragments": 5
+      }
+    ],
+    "minimum": [
+      {
+        "paragraph": 2,
+        "height": 300.050048828125,
+        "lines": [
+          {
+            "baseline": 45.48004150390625,
+            "words": [
+              "alpha1",
+              "alpha2",
+              "alpha3",
+              "alpha4"
+            ],
+            "boxTop": 0.0,
+            "boxHeight": 49.9200439453125
+          },
+          {
+            "baseline": 93.5,
+            "words": [
+              "alpha5",
+              "alpha6",
+              "alpha7",
+              "alpha8"
+            ],
+            "boxTop": 49.916015625,
+            "boxHeight": 50.06402587890625
+          },
+          {
+            "baseline": 145.58001708984375,
+            "words": [
+              "alpha9",
+              "alpha10",
+              "alpha11"
+            ],
+            "boxTop": 99.98004150390625,
+            "boxHeight": 50.03997802734375
+          },
+          {
+            "baseline": 193.46002197265625,
+            "words": [
+              "alpha12",
+              "alpha13",
+              "alpha14"
+            ],
+            "boxTop": 150.02001953125,
+            "boxHeight": 49.91998291015625
+          },
+          {
+            "baseline": 245.5400390625,
+            "words": [
+              "alpha15",
+              "alpha16",
+              "alpha17",
+              "alpha18"
+            ],
+            "boxTop": 199.9400634765625,
+            "boxHeight": 50.03997802734375
+          },
+          {
+            "baseline": 293.57000732421875,
+            "words": [
+              "alpha19",
+              "alpha20"
+            ],
+            "boxTop": 249.98602294921875,
+            "boxHeight": 50.06402587890625
+          }
+        ],
+        "backgroundFragments": 6
+      },
+      {
+        "paragraph": 3,
+        "height": 249.97998046875,
+        "lines": [
+          {
+            "baseline": 45.47998046875,
+            "words": [
+              "beta1",
+              "beta2",
+              "beta3",
+              "beta4"
+            ],
+            "boxTop": 0.0,
+            "boxHeight": 49.91998291015625
+          },
+          {
+            "baseline": 93.47998046875,
+            "words": [
+              "beta5",
+              "beta6",
+              "beta7",
+              "beta8",
+              "beta9"
+            ],
+            "boxTop": 49.91998291015625,
+            "boxHeight": 50.03997802734375
+          },
+          {
+            "baseline": 143.51995849609375,
+            "words": [
+              "beta10",
+              "beta11",
+              "beta12"
+            ],
+            "boxTop": 99.96002197265625,
+            "boxHeight": 50.03997802734375
+          },
+          {
+            "baseline": 195.47998046875,
+            "words": [
+              "beta13",
+              "beta14",
+              "beta15",
+              "beta16",
+              "beta17"
+            ],
+            "boxTop": 150.0,
+            "boxHeight": 49.91998291015625
+          },
+          {
+            "baseline": 243.49996948242188,
+            "words": [
+              "beta18",
+              "beta19",
+              "beta20"
+            ],
+            "boxTop": 199.91595458984375,
+            "boxHeight": 50.06402587890625
+          }
+        ],
+        "backgroundFragments": 5
+      }
+    ],
+    "single": [
+      {
+        "paragraph": 2,
+        "height": 172.46002197265625,
+        "lines": [
+          {
+            "baseline": 18.47998046875,
+            "words": [
+              "alpha1",
+              "alpha2",
+              "alpha3",
+              "alpha4"
+            ],
+            "boxTop": 0.0,
+            "boxHeight": 22.9200439453125
+          },
+          {
+            "baseline": 50.8800048828125,
+            "words": [
+              "alpha5",
+              "alpha6",
+              "alpha7",
+              "alpha8"
+            ],
+            "boxTop": 22.916015625,
+            "boxHeight": 34.583984375
+          },
+          {
+            "baseline": 76.10003662109375,
+            "words": [
+              "alpha9",
+              "alpha10",
+              "alpha11"
+            ],
+            "boxTop": 57.50006103515625,
+            "boxHeight": 23.03997802734375
+          },
+          {
+            "baseline": 108.5,
+            "words": [
+              "alpha12",
+              "alpha13",
+              "alpha14"
+            ],
+            "boxTop": 80.5400390625,
+            "boxHeight": 34.44000244140625
+          },
+          {
+            "baseline": 133.58001708984375,
+            "words": [
+              "alpha15",
+              "alpha16",
+              "alpha17",
+              "alpha18"
+            ],
+            "boxTop": 114.98004150390625,
+            "boxHeight": 23.03997802734375
+          },
+          {
+            "baseline": 165.98004150390625,
+            "words": [
+              "alpha19",
+              "alpha20"
+            ],
+            "boxTop": 138.02001953125,
+            "boxHeight": 34.44000244140625
+          }
+        ],
+        "backgroundFragments": 6
+      },
+      {
+        "paragraph": 3,
+        "height": 149.54998779296875,
+        "lines": [
+          {
+            "baseline": 18.5999755859375,
+            "words": [
+              "beta1",
+              "beta2",
+              "beta3",
+              "beta4"
+            ],
+            "boxTop": 0.0,
+            "boxHeight": 23.03997802734375
+          },
+          {
+            "baseline": 51.0,
+            "words": [
+              "beta5",
+              "beta6",
+              "beta7",
+              "beta8",
+              "beta9"
+            ],
+            "boxTop": 23.03997802734375,
+            "boxHeight": 34.44000244140625
+          },
+          {
+            "baseline": 85.44000244140625,
+            "words": [
+              "beta10",
+              "beta11",
+              "beta12"
+            ],
+            "boxTop": 57.47998046875,
+            "boxHeight": 34.55999755859375
+          },
+          {
+            "baseline": 110.52001953125,
+            "words": [
+              "beta13",
+              "beta14",
+              "beta15",
+              "beta16",
+              "beta17"
+            ],
+            "boxTop": 92.04595947265625,
+            "boxHeight": 22.94403076171875
+          },
+          {
+            "baseline": 142.95001220703125,
+            "words": [
+              "beta18",
+              "beta19",
+              "beta20"
+            ],
+            "boxTop": 114.989990234375,
+            "boxHeight": 34.55999755859375
+          }
+        ],
+        "backgroundFragments": 5
+      }
+    ],
+    "size": [
+      {
+        "paragraph": 2,
+        "height": 241.46002197265625,
+        "lines": [
+          {
+            "baseline": 18.47998046875,
+            "words": [
+              "alpha1",
+              "alpha2",
+              "alpha3",
+              "alpha4"
+            ],
+            "boxTop": 0.0,
+            "boxHeight": 34.44000244140625
+          },
+          {
+            "baseline": 52.9200439453125,
+            "words": [
+              "alpha5",
+              "alpha6",
+              "alpha7",
+              "alpha8",
+              "alpha9"
+            ],
+            "boxTop": 34.43603515625,
+            "boxHeight": 34.583984375
+          },
+          {
+            "baseline": 87.5,
+            "words": [
+              "alpha10",
+              "alpha11"
+            ],
+            "boxTop": 69.02001953125,
+            "boxHeight": 34.44000244140625
+          },
+          {
+            "baseline": 131.4200439453125,
+            "words": [
+              "alpha12",
+              "alpha13",
+              "alpha14"
+            ],
+            "boxTop": 103.4599609375,
+            "boxHeight": 51.72003173828125
+          },
+          {
+            "baseline": 173.6600341796875,
+            "words": [
+              "alpha15",
+              "alpha16",
+              "alpha17",
+              "alpha18"
+            ],
+            "boxTop": 155.17999267578125,
+            "boxHeight": 34.55999755859375
+          },
+          {
+            "baseline": 217.70001220703125,
+            "words": [
+              "alpha19",
+              "alpha20"
+            ],
+            "boxTop": 189.739990234375,
+            "boxHeight": 51.72003173828125
+          }
+        ],
+        "backgroundFragments": 6
+      },
+      {
+        "paragraph": 3,
+        "height": 224.30999755859375,
+        "lines": [
+          {
+            "baseline": 18.47998046875,
+            "words": [
+              "beta1",
+              "beta2",
+              "beta3",
+              "beta4"
+            ],
+            "boxTop": 0.0,
+            "boxHeight": 34.55999755859375
+          },
+          {
+            "baseline": 62.54998779296875,
+            "words": [
+              "beta5",
+              "beta6",
+              "beta7",
+              "beta8",
+              "beta9"
+            ],
+            "boxTop": 34.56597900390625,
+            "boxHeight": 51.7440185546875
+          },
+          {
+            "baseline": 114.27001953125,
+            "words": [
+              "beta10",
+              "beta11",
+              "beta12"
+            ],
+            "boxTop": 86.30999755859375,
+            "boxHeight": 51.719970703125
+          },
+          {
+            "baseline": 156.510009765625,
+            "words": [
+              "beta13",
+              "beta14",
+              "beta15",
+              "beta16",
+              "beta17"
+            ],
+            "boxTop": 138.030029296875,
+            "boxHeight": 34.55999755859375
+          },
+          {
+            "baseline": 200.54998779296875,
+            "words": [
+              "beta18",
+              "beta19",
+              "beta20"
+            ],
+            "boxTop": 172.59002685546875,
+            "boxHeight": 51.719970703125
+          }
+        ],
+        "backgroundFragments": 5
+      }
+    ],
+    "typing": [
+      {
+        "paragraph": 2,
+        "height": 258.739990234375,
+        "lines": [
+          {
+            "baseline": 18.47998046875,
+            "words": [
+              "alpha01",
+              "alpha2",
+              "alpha3",
+              "alpha4"
+            ],
+            "boxTop": 0.0,
+            "boxHeight": 34.44000244140625
+          },
+          {
+            "baseline": 62.4200439453125,
+            "words": [
+              "alpha5",
+              "alpha6",
+              "alpha7",
+              "alpha8"
+            ],
+            "boxTop": 34.43603515625,
+            "boxHeight": 51.864013671875
+          },
+          {
+            "baseline": 104.780029296875,
+            "words": [
+              "alpha9",
+              "alpha10",
+              "alpha11"
+            ],
+            "boxTop": 86.29998779296875,
+            "boxHeight": 34.44000244140625
+          },
+          {
+            "baseline": 148.70001220703125,
+            "words": [
+              "alpha12",
+              "alpha13",
+              "alpha14"
+            ],
+            "boxTop": 120.739990234375,
+            "boxHeight": 51.72003173828125
+          },
+          {
+            "baseline": 190.94000244140625,
+            "words": [
+              "alpha15",
+              "alpha16",
+              "alpha17",
+              "alpha18"
+            ],
+            "boxTop": 172.46002197265625,
+            "boxHeight": 34.55999755859375
+          },
+          {
+            "baseline": 234.98004150390625,
+            "words": [
+              "alpha19",
+              "alpha20"
+            ],
+            "boxTop": 207.02001953125,
+            "boxHeight": 51.719970703125
+          }
+        ],
+        "backgroundFragments": 6
+      },
+      {
+        "paragraph": 3,
+        "height": 224.1839599609375,
+        "lines": [
+          {
+            "baseline": 18.4739990234375,
+            "words": [
+              "beta1",
+              "beta2",
+              "beta3",
+              "beta4"
+            ],
+            "boxTop": 0.0,
+            "boxHeight": 34.4639892578125
+          },
+          {
+            "baseline": 62.42401123046875,
+            "words": [
+              "beta5",
+              "beta6",
+              "beta7",
+              "beta8",
+              "beta9"
+            ],
+            "boxTop": 34.4639892578125,
+            "boxHeight": 51.84002685546875
+          },
+          {
+            "baseline": 114.26397705078125,
+            "words": [
+              "beta10",
+              "beta11",
+              "beta12"
+            ],
+            "boxTop": 86.30401611328125,
+            "boxHeight": 51.719970703125
+          },
+          {
+            "baseline": 156.50396728515625,
+            "words": [
+              "beta13",
+              "beta14",
+              "beta15",
+              "beta16",
+              "beta17"
+            ],
+            "boxTop": 138.02398681640625,
+            "boxHeight": 34.44000244140625
+          },
+          {
+            "baseline": 200.42401123046875,
+            "words": [
+              "beta18",
+              "beta19",
+              "beta20"
+            ],
+            "boxTop": 172.46392822265625,
+            "boxHeight": 51.72003173828125
+          }
+        ],
+        "backgroundFragments": 5
+      }
+    ]
+  },
+  "scope": "Independent native glyph line identities and paragraph-background heights; shaded/unshaded vertical glyph coordinates identical; horizontal painter quantization differs and is excluded",
+  "scriptSha256": "6a5c89bd104ea1e772e652a5e131e89e93cb9be42164cc9f2afbfdb83ff155d3",
+  "nativeReceiptPath": "reference-report.json",
+  "nativeReceiptSha256": "186a6f88e92c59cef5cdfb58f9fd70c1cbb693dc601c7b19b278346f0fec0f39",
+  "probeSha256": "46cb45f16d23b7491c81f80463c0a75b57b1a9544178dddaefae700ffa57e95d"
+}

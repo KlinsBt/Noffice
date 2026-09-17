@@ -1,0 +1,234 @@
+{
+  "rows": [
+    {
+      "family": "Arial",
+      "size": 10,
+      "weight": "400",
+      "style": "normal",
+      "normalRatio": 1.1499,
+      "glyph": ".",
+      "pitch": 2.76
+    },
+    {
+      "family": "Arial",
+      "size": 10,
+      "weight": "400",
+      "style": "normal",
+      "normalRatio": 1.1499,
+      "glyph": "_",
+      "pitch": 5.52
+    },
+    {
+      "family": "Arial",
+      "size": 10,
+      "weight": "400",
+      "style": "normal",
+      "normalRatio": 1.1499,
+      "glyph": "-",
+      "pitch": 3.36
+    },
+    {
+      "family": "Arial",
+      "size": 10,
+      "weight": "400",
+      "style": "normal",
+      "normalRatio": 1.1499,
+      "glyph": "\u00b7",
+      "pitch": 3.36
+    },
+    {
+      "family": "Arial",
+      "size": 20,
+      "weight": "400",
+      "style": "normal",
+      "normalRatio": 1.1499,
+      "glyph": ".",
+      "pitch": 5.52
+    },
+    {
+      "family": "Arial",
+      "size": 20,
+      "weight": "400",
+      "style": "normal",
+      "normalRatio": 1.1499,
+      "glyph": "_",
+      "pitch": 11.16
+    },
+    {
+      "family": "Arial",
+      "size": 20,
+      "weight": "400",
+      "style": "normal",
+      "normalRatio": 1.1499,
+      "glyph": "-",
+      "pitch": 6.72
+    },
+    {
+      "family": "Arial",
+      "size": 20,
+      "weight": "400",
+      "style": "normal",
+      "normalRatio": 1.1499,
+      "glyph": "\u00b7",
+      "pitch": 6.72
+    },
+    {
+      "family": "Arial",
+      "size": 10,
+      "weight": "700",
+      "style": "normal",
+      "normalRatio": 1.1499,
+      "glyph": ".",
+      "pitch": 2.76
+    },
+    {
+      "family": "Arial",
+      "size": 10,
+      "weight": "700",
+      "style": "normal",
+      "normalRatio": 1.1499,
+      "glyph": "_",
+      "pitch": 5.52
+    },
+    {
+      "family": "Arial",
+      "size": 10,
+      "weight": "700",
+      "style": "normal",
+      "normalRatio": 1.1499,
+      "glyph": "-",
+      "pitch": 3.36
+    },
+    {
+      "family": "Arial",
+      "size": 10,
+      "weight": "700",
+      "style": "normal",
+      "normalRatio": 1.1499,
+      "glyph": "\u00b7",
+      "pitch": 3.36
+    },
+    {
+      "family": "Arial",
+      "size": 10,
+      "weight": "400",
+      "style": "italic",
+      "normalRatio": 1.1499,
+      "glyph": ".",
+      "pitch": 2.76
+    },
+    {
+      "family": "Arial",
+      "size": 10,
+      "weight": "400",
+      "style": "italic",
+      "normalRatio": 1.1499,
+      "glyph": "_",
+      "pitch": 5.52
+    },
+    {
+      "family": "Arial",
+      "size": 10,
+      "weight": "400",
+      "style": "italic",
+      "normalRatio": 1.1499,
+      "glyph": "-",
+      "pitch": 3.36
+    },
+    {
+      "family": "Arial",
+      "size": 10,
+      "weight": "400",
+      "style": "italic",
+      "normalRatio": 1.1499,
+      "glyph": "\u00b7",
+      "pitch": 3.36
+    },
+    {
+      "family": "Times New Roman",
+      "size": 10,
+      "weight": "400",
+      "style": "normal",
+      "normalRatio": 1.1499,
+      "glyph": ".",
+      "pitch": 2.52
+    },
+    {
+      "family": "Times New Roman",
+      "size": 10,
+      "weight": "400",
+      "style": "normal",
+      "normalRatio": 1.1499,
+      "glyph": "_",
+      "pitch": 5.04
+    },
+    {
+      "family": "Times New Roman",
+      "size": 10,
+      "weight": "400",
+      "style": "normal",
+      "normalRatio": 1.1499,
+      "glyph": "-",
+      "pitch": 3.24
+    },
+    {
+      "family": "Times New Roman",
+      "size": 10,
+      "weight": "400",
+      "style": "normal",
+      "normalRatio": 1.1499,
+      "glyph": "\u00b7",
+      "pitch": 3.36
+    },
+    {
+      "family": "Calibri",
+      "size": 11,
+      "weight": "400",
+      "style": "normal",
+      "normalRatio": 1.2207,
+      "glyph": ".",
+      "pitch": 2.76
+    },
+    {
+      "family": "Calibri",
+      "size": 11,
+      "weight": "400",
+      "style": "normal",
+      "normalRatio": 1.2207,
+      "glyph": "_",
+      "pitch": 5.52
+    },
+    {
+      "family": "Calibri",
+      "size": 11,
+      "weight": "400",
+      "style": "normal",
+      "normalRatio": 1.2207,
+      "glyph": "-",
+      "pitch": 3.36
+    },
+    {
+      "family": "Calibri",
+      "size": 11,
+      "weight": "400",
+      "style": "normal",
+      "normalRatio": 1.2207,
+      "glyph": "\u00b7",
+      "pitch": 2.76
+    }
+  ],
+  "fontHashes": {
+    "arial.ttf": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+    "arialbd.ttf": "e8f4e3baf6cc35fed6fcce3a540e8b39e8f6cda1d22a28f2ec8f526fef7a43f5",
+    "ariali.ttf": "86b32db9a06f9694e2a3760c42e5117bcdc5cc1255bb5186ca8ce0305e22f288",
+    "times.ttf": "931c5de5c70401d9324d5014c123802b4fb753000360ceb2f56c589403cd58c5",
+    "calibri.ttf": "57e93ff143572bcc092c1f56202d43ddc07bb119aa104c6d7af163470fb551f6"
+  },
+  "sourceHashes": {
+    "gdi-advances.json": "0c130948adb78d1747c8fe236fd26f79535f97ec45bb9cb7d993aab2b6dd37fa",
+    "browser-font-profiles.json": "435c0f2d727901d2372cf452af0b1feb995d93b3f17c3e2f391febcf5c878c68",
+    "native-report.json": "97b471843bbba41befd44c0ced54ae5427df69191305ff9e8f66bf61dfef9810"
+  },
+  "producerHash": "0ea0fbdca137527c57bc5b453d83f188198e1ffd207011807839caefc56c233f",
+  "scope": "Finite native leader-cell profiles and current browser metric guards; no font binaries, arbitrary-text shaping or general font compatibility."
+}

@@ -1,0 +1,436 @@
+﻿{
+  "application": "Microsoft Excel",
+  "version": "16.0",
+  "build": 4627,
+  "locale": 1031,
+  "inputSha256": "43162007e73d867ef89070ac7636202a56647db35114b8bcd77dc491ea716579",
+  "cases": [
+    {
+      "ref": "J2",
+      "formula": "=SalesData[@Amount]*2",
+      "nativeFormula": "=SalesData[@Amount]*2",
+      "value": 20,
+      "kind": "value"
+    },
+    {
+      "ref": "J3",
+      "formula": "=SalesData[[#This Row],[Amount]]*2",
+      "nativeFormula": "=SalesData[@Amount]*2",
+      "value": 40,
+      "kind": "value"
+    },
+    {
+      "ref": "J4",
+      "formula": "=ROW(SalesData[[#This Row],[Amount]])",
+      "nativeFormula": "=ROW(SalesData[@Amount])",
+      "value": 4,
+      "kind": "value"
+    },
+    {
+      "ref": "J5",
+      "formula": "=SUM(SalesData[@[Amount]:[Units]])",
+      "nativeFormula": "=SUM(SalesData[@[Amount]:[Units]])",
+      "value": 44,
+      "kind": "value"
+    },
+    {
+      "ref": "J6",
+      "formula": "=SUM(SalesData[Amount])",
+      "nativeFormula": "=SUM(SalesData[Amount])",
+      "value": 100,
+      "kind": "value"
+    },
+    {
+      "ref": "J7",
+      "formula": "=INDEX(SalesData[#All],2,2)",
+      "nativeFormula": "=INDEX(SalesData[#All],2,2)",
+      "value": 10,
+      "kind": "value"
+    },
+    {
+      "ref": "J8",
+      "formula": "=VLOOKUP(\"Ops\",SalesData[#All],2,FALSE)",
+      "nativeFormula": "=VLOOKUP(\"Ops\",SalesData[#All],2,FALSE)",
+      "value": 30,
+      "kind": "value"
+    },
+    {
+      "ref": "J9",
+      "formula": "=ROWS(SalesData)",
+      "nativeFormula": "=ROWS(SalesData)",
+      "value": 4,
+      "kind": "value"
+    },
+    {
+      "ref": "J10",
+      "formula": "=COLUMNS(SalesData[#Headers])",
+      "nativeFormula": "=COLUMNS(SalesData[#Headers])",
+      "value": 4,
+      "kind": "value"
+    },
+    {
+      "ref": "J11",
+      "formula": "=SUM(Amounts)",
+      "nativeFormula": "=SUM(Amounts)",
+      "value": 100,
+      "kind": "value"
+    },
+    {
+      "ref": "J12",
+      "formula": "=Gross",
+      "nativeFormula": "=Gross",
+      "value": 120,
+      "kind": "value"
+    },
+    {
+      "ref": "J13",
+      "formula": "=INDEX(Amounts,3)",
+      "nativeFormula": "=INDEX(Amounts,3)",
+      "value": 30,
+      "kind": "value"
+    },
+    {
+      "ref": "J14",
+      "formula": "=SUM(INDIRECT(\"Amounts\"))",
+      "nativeFormula": "=SUM(INDIRECT(\"Amounts\"))",
+      "value": 100,
+      "kind": "value"
+    },
+    {
+      "ref": "J15",
+      "formula": "=INDIRECT(\"B\"\u0026ROW(A3))",
+      "nativeFormula": "=INDIRECT(\"B\"\u0026ROW(A3))",
+      "value": 20,
+      "kind": "value"
+    },
+    {
+      "ref": "J16",
+      "formula": "=SUM(INDIRECT(\"\u0027Data Set\u0027!B2:B5\"))",
+      "nativeFormula": "=SUM(INDIRECT(\"\u0027Data Set\u0027!B2:B5\"))",
+      "value": 100,
+      "kind": "value"
+    },
+    {
+      "ref": "J17",
+      "formula": "=INDIRECT(\"R2C2\",FALSE)",
+      "nativeFormula": "=INDIRECT(\"Z2S2\",FALSE)",
+      "value": 10,
+      "kind": "value"
+    },
+    {
+      "ref": "J18",
+      "formula": "=INDIRECT(\"R[-15]C[-8]\",FALSE)",
+      "nativeFormula": "=INDIRECT(\"Z(-15)S(-8)\",FALSE)",
+      "value": 20,
+      "kind": "value"
+    },
+    {
+      "ref": "J19",
+      "formula": "=INDIRECT(\"1+2\")",
+      "nativeFormula": "=INDIRECT(\"1+2\")",
+      "value": "#REF!",
+      "kind": "error"
+    },
+    {
+      "ref": "J20",
+      "formula": "=INDIRECT(\"A1048577\")",
+      "nativeFormula": "=INDIRECT(\"A1048577\")",
+      "value": "#REF!",
+      "kind": "error"
+    },
+    {
+      "ref": "J21",
+      "formula": "=ROW()",
+      "nativeFormula": "=ROW()",
+      "value": 21,
+      "kind": "value"
+    },
+    {
+      "ref": "J22",
+      "formula": "=COLUMN()",
+      "nativeFormula": "=COLUMN()",
+      "value": 10,
+      "kind": "value"
+    },
+    {
+      "ref": "J23",
+      "formula": "=ROWS(A:A)",
+      "nativeFormula": "=ROWS(A:A)",
+      "value": 1048576,
+      "kind": "value"
+    },
+    {
+      "ref": "J24",
+      "formula": "=COLUMNS(1:1)",
+      "nativeFormula": "=COLUMNS(1:1)",
+      "value": 16384,
+      "kind": "value"
+    },
+    {
+      "ref": "J25",
+      "formula": "=ROW(B4:B5)",
+      "nativeFormula": "=ROW(B4:B5)",
+      "value": 4,
+      "kind": "value"
+    },
+    {
+      "ref": "J26",
+      "formula": "=ISNA(NA())",
+      "nativeFormula": "=ISNA(NA())",
+      "value": true,
+      "kind": "value"
+    },
+    {
+      "ref": "J27",
+      "formula": "=ISNA(1/0)",
+      "nativeFormula": "=ISNA(1/0)",
+      "value": false,
+      "kind": "value"
+    },
+    {
+      "ref": "J28",
+      "formula": "=ISERROR(1/0)",
+      "nativeFormula": "=ISERROR(1/0)",
+      "value": true,
+      "kind": "value"
+    },
+    {
+      "ref": "J29",
+      "formula": "=ISERR(NA())",
+      "nativeFormula": "=ISERR(NA())",
+      "value": false,
+      "kind": "value"
+    },
+    {
+      "ref": "J30",
+      "formula": "=IFNA(NA(),\"missing\")",
+      "nativeFormula": "=IFNA(NA(),\"missing\")",
+      "value": "missing",
+      "kind": "value"
+    },
+    {
+      "ref": "J31",
+      "formula": "=IFNA(1/0,\"missing\")",
+      "nativeFormula": "=IFNA(1/0,\"missing\")",
+      "value": "#DIV/0!",
+      "kind": "error"
+    },
+    {
+      "ref": "J32",
+      "formula": "=ISERROR(\"#N/A\")",
+      "nativeFormula": "=ISERROR(\"#NV\")",
+      "value": false,
+      "kind": "value"
+    },
+    {
+      "ref": "J33",
+      "formula": "=SUMIFS(B2:B5,A2:A5,\"Sales\",C2:C5,\"\u003e1\")",
+      "nativeFormula": "=SUMIFS(B2:B5,A2:A5,\"Sales\",C2:C5,\"\u003e1\")",
+      "value": 20,
+      "kind": "value"
+    },
+    {
+      "ref": "J34",
+      "formula": "=COUNTIFS(A2:A5,\"Ops\",C2:C5,\"\u003e=3\")",
+      "nativeFormula": "=COUNTIFS(A2:A5,\"Ops\",C2:C5,\"\u003e=3\")",
+      "value": 2,
+      "kind": "value"
+    },
+    {
+      "ref": "J35",
+      "formula": "=AVERAGEIFS(B2:B5,A2:A5,\"Ops\")",
+      "nativeFormula": "=AVERAGEIFS(B2:B5,A2:A5,\"Ops\")",
+      "value": 35,
+      "kind": "value"
+    },
+    {
+      "ref": "J36",
+      "formula": "=SUMIFS(B2:B5,D2:D5,\"=a*\")",
+      "nativeFormula": "=SUMIFS(B2:B5,D2:D5,\"=a*\")",
+      "value": 60,
+      "kind": "value"
+    },
+    {
+      "ref": "J37",
+      "formula": "=COUNTIFS(D2:D5,\"a~*b\")",
+      "nativeFormula": "=COUNTIFS(D2:D5,\"a~*b\")",
+      "value": 1,
+      "kind": "value"
+    },
+    {
+      "ref": "J38",
+      "formula": "=COUNTIFS(D2:D5,\"\u003c\u003ea*\")",
+      "nativeFormula": "=COUNTIFS(D2:D5,\"\u003c\u003ea*\")",
+      "value": 1,
+      "kind": "value"
+    },
+    {
+      "ref": "J39",
+      "formula": "=SUMIFS(B2:B5,A2:A4,\"Ops\")",
+      "nativeFormula": "=SUMIFS(B2:B5,A2:A4,\"Ops\")",
+      "value": "#VALUE!",
+      "kind": "error"
+    },
+    {
+      "ref": "J40",
+      "formula": "=AVERAGEIFS(B2:B5,A2:A5,\"Nobody\")",
+      "nativeFormula": "=AVERAGEIFS(B2:B5,A2:A5,\"Nobody\")",
+      "value": "#DIV/0!",
+      "kind": "error"
+    },
+    {
+      "ref": "J41",
+      "formula": "=SUMIF(A2:A5,\"Ops\",B2)",
+      "nativeFormula": "=SUMIF(A2:A5,\"Ops\",B2)",
+      "value": 70,
+      "kind": "value"
+    },
+    {
+      "ref": "J42",
+      "formula": "=COUNTIF(F2:F8,0)",
+      "nativeFormula": "=COUNTIF(F2:F8,0)",
+      "value": 2,
+      "kind": "value"
+    },
+    {
+      "ref": "J43",
+      "formula": "=COUNTIF(F2:F8,\"\")",
+      "nativeFormula": "=COUNTIF(F2:F8,\"\")",
+      "value": 2,
+      "kind": "value"
+    },
+    {
+      "ref": "J44",
+      "formula": "=COUNTIF(F2:F8,\"#N/A\")",
+      "nativeFormula": "=COUNTIF(F2:F8,\"#NV\")",
+      "value": 1,
+      "kind": "value"
+    },
+    {
+      "ref": "J45",
+      "formula": "=COUNTIFS(F2:F8,\"\u003c\u003e0\")",
+      "nativeFormula": "=COUNTIFS(F2:F8,\"\u003c\u003e0\")",
+      "value": 6,
+      "kind": "value"
+    },
+    {
+      "ref": "J46",
+      "formula": "=COUNTIFS(F2:F8,F8)",
+      "nativeFormula": "=COUNTIFS(F2:F8,F8)",
+      "value": 2,
+      "kind": "value"
+    },
+    {
+      "ref": "J47",
+      "formula": "=COUNTIFS(F2:F8,TRUE)",
+      "nativeFormula": "=COUNTIFS(F2:F8,TRUE)",
+      "value": 1,
+      "kind": "value"
+    },
+    {
+      "ref": "J48",
+      "formula": "=SUMIFS(B2:B5,F2:F5,\"\u003c\u003e#N/A\")",
+      "nativeFormula": "=SUMIFS(B2:B5,F2:F5,\"\u003c\u003e#NV\")",
+      "value": 60,
+      "kind": "value"
+    },
+    {
+      "ref": "J49",
+      "formula": "=COUNTIF(F2:F8,\"\u003e=0\")",
+      "nativeFormula": "=COUNTIF(F2:F8,\"\u003e=0\")",
+      "value": 1,
+      "kind": "value"
+    },
+    {
+      "ref": "J50",
+      "formula": "=IF(TRUE,,1/0)",
+      "nativeFormula": "=IF(TRUE,,1/0)",
+      "value": 0,
+      "kind": "value"
+    },
+    {
+      "ref": "J51",
+      "formula": "=IF(FALSE,1/0,)",
+      "nativeFormula": "=IF(FALSE,1/0,)",
+      "value": 0,
+      "kind": "value"
+    },
+    {
+      "ref": "J52",
+      "formula": "=IFNA(#N/A,12)",
+      "nativeFormula": "=IFNA(#N/A,12)",
+      "value": 12,
+      "kind": "value"
+    },
+    {
+      "ref": "J53",
+      "formula": "=VLOOKUP(\"Ops\",A:D,2,FALSE)",
+      "nativeFormula": "=VLOOKUP(\"Ops\",A:D,2,FALSE)",
+      "value": 30,
+      "kind": "value"
+    },
+    {
+      "ref": "J54",
+      "formula": "=ISNA(VLOOKUP(\"Nobody\",A:D,2,FALSE))",
+      "nativeFormula": "=ISNA(VLOOKUP(\"Nobody\",A:D,2,FALSE))",
+      "value": true,
+      "kind": "value"
+    },
+    {
+      "ref": "J55",
+      "formula": "=COUNTIF(F2:F3,F8)",
+      "nativeFormula": "=COUNTIF(F2:F3,F8)",
+      "value": 2,
+      "kind": "value"
+    },
+    {
+      "ref": "J56",
+      "formula": "=INDIRECT(\"UndefinedName\")",
+      "nativeFormula": "=INDIRECT(\"UndefinedName\")",
+      "value": "#REF!",
+      "kind": "error"
+    },
+    {
+      "ref": "J57",
+      "formula": "=INDIRECT(\"TaxRate\")",
+      "nativeFormula": "=INDIRECT(\"TaxRate\")",
+      "value": "#REF!",
+      "kind": "error"
+    },
+    {
+      "ref": "J58",
+      "formula": "=VLOOKUP(0,N:O,2,FALSE)",
+      "nativeFormula": "=VLOOKUP(0,N:O,2,FALSE)",
+      "value": "#N/A",
+      "kind": "error"
+    },
+    {
+      "ref": "J59",
+      "formula": "=COUNTIFS(F2:F8,\"=0\")",
+      "nativeFormula": "=COUNTIFS(F2:F8,\"=0\")",
+      "value": 2,
+      "kind": "value"
+    },
+    {
+      "ref": "J60",
+      "formula": "=COUNTIFS(F2:F8,\"\u003c\u003e\")",
+      "nativeFormula": "=COUNTIFS(F2:F8,\"\u003c\u003e\")",
+      "value": 6,
+      "kind": "value"
+    },
+    {
+      "ref": "J61",
+      "formula": "=IFNA(10,1/0)",
+      "nativeFormula": "=IFNA(10,1/0)",
+      "value": 10,
+      "kind": "value"
+    },
+    {
+      "ref": "J62",
+      "formula": "=SUMIF(F2:F5,F8,B2:B5)",
+      "nativeFormula": "=SUMIF(F2:F5,F8,B2:B5)",
+      "value": 30,
+      "kind": "value"
+    }
+  ]
+}

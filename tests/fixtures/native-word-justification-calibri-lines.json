@@ -1,0 +1,476 @@
+{
+  "cases": [
+    {
+      "name": "header-font0-text0-width141.25",
+      "text": "The office staff drafted five clear notices after the final meeting. A short title identifies each revision, while a careful reader checks the printed figures and dates.",
+      "width": 188.33333333333334,
+      "ends": [
+        29,
+        59,
+        93,
+        124,
+        150,
+        169
+      ],
+      "pdfHash": "6f842e1f9561b077622ab88d9fe53ad1f2f6cca3792a6ee5302dcf63926adb61",
+      "docxHash": "369f8a4dc227cf689b295c7eef215f16596214b406f14a43fbe6fa63f8f322c3"
+    },
+    {
+      "name": "header-font0-text0-width141.3",
+      "text": "The office staff drafted five clear notices after the final meeting. A short title identifies each revision, while a careful reader checks the printed figures and dates.",
+      "width": 188.39998372395834,
+      "ends": [
+        29,
+        59,
+        93,
+        124,
+        150,
+        169
+      ],
+      "pdfHash": "dcb61e93124250e8991270936e3582a2d60c0a821eaefd9f38532673457e51b5",
+      "docxHash": "bd5e94ae32952f0fec1e08e0196d395e6cb5d272f6c5c593ab19b9075423b2fe"
+    },
+    {
+      "name": "header-font0-text0-width141.35",
+      "text": "The office staff drafted five clear notices after the final meeting. A short title identifies each revision, while a careful reader checks the printed figures and dates.",
+      "width": 188.46663411458334,
+      "ends": [
+        35,
+        68,
+        98,
+        131,
+        162,
+        169
+      ],
+      "pdfHash": "7a9a206adb506eddcd8dc6e8f80400ec04417e244a47d9e550383658b1fe81ca",
+      "docxHash": "fa89ff33f9a31fe5ce5d1044a462efcc4444f5b363ef74105282b1b7bf62711a"
+    },
+    {
+      "name": "header-font0-text0-width236.55",
+      "text": "The office staff drafted five clear notices after the final meeting. A short title identifies each revision, while a careful reader checks the printed figures and dates.",
+      "width": 315.3999837239583,
+      "ends": [
+        53,
+        108,
+        162,
+        169
+      ],
+      "pdfHash": "4eb055f036496e6901bbba8f9869b374ca7c09c9109d719c5f90cda0de1b777c",
+      "docxHash": "b73ea60ecf722182eb357cd81b348c9b6ca93980b8fc232b8aef7ef051617da1"
+    },
+    {
+      "name": "header-font0-text0-width236.6",
+      "text": "The office staff drafted five clear notices after the final meeting. A short title identifies each revision, while a careful reader checks the printed figures and dates.",
+      "width": 315.46665445963544,
+      "ends": [
+        53,
+        108,
+        162,
+        169
+      ],
+      "pdfHash": "6a32420e4f8084d5dc20528f443aab74bf16c2ce4b42c66cfe382258a3ea7a2b",
+      "docxHash": "207ae9f7a43559cb04e5a58f65cb09182295960eb492fd1ff6dc0d73b45b37b7"
+    },
+    {
+      "name": "header-font0-text0-width236.65",
+      "text": "The office staff drafted five clear notices after the final meeting. A short title identifies each revision, while a careful reader checks the printed figures and dates.",
+      "width": 315.5333251953125,
+      "ends": [
+        59,
+        116,
+        169
+      ],
+      "pdfHash": "c2e4236ea127076678626ee3216431651a4cb16de4f0cc62c5f767fc1a1ebbea",
+      "docxHash": "42eb567f82cd48d020f287a2066c7758191c14a0640183acb3ec6af231917d18"
+    },
+    {
+      "name": "header-font0-text0-width251",
+      "text": "The office staff drafted five clear notices after the final meeting. A short title identifies each revision, while a careful reader checks the printed figures and dates.",
+      "width": 334.66664632161456,
+      "ends": [
+        59,
+        116,
+        169
+      ],
+      "pdfHash": "98752dd28051997925080d4a012d3627ccb7c5896cb92618b63b89d3a5c669b0",
+      "docxHash": "2a5f5927067ee3f7276ec67255d6e3dc0b8491f2b4fd76004dbfede7689898b2"
+    },
+    {
+      "name": "body-font0-text1-width145.7",
+      "text": "After fifty minutes, the visitor left a detailed account of the afternoon trip. Different routes led past quiet fields, a stone bridge, and a familiar little station.",
+      "width": 194.26664225260416,
+      "ends": [
+        32,
+        63,
+        96,
+        127,
+        157,
+        166
+      ],
+      "pdfHash": "3354ace3d4b322a0984824f8cb8ec1c26e632e03b2044ab2c616cba14252d096",
+      "docxHash": "0e6a7c6570edf8e6eaabedd0609bd3a8bcf265457fe6764824dd35338edf4714"
+    },
+    {
+      "name": "body-font0-text1-width145.75",
+      "text": "After fifty minutes, the visitor left a detailed account of the afternoon trip. Different routes led past quiet fields, a stone bridge, and a familiar little station.",
+      "width": 194.33333333333334,
+      "ends": [
+        32,
+        63,
+        96,
+        127,
+        157,
+        166
+      ],
+      "pdfHash": "fee7413df7833e0f17902f7fdc09e4622c1edb161038c305bdf919d8d63388f9",
+      "docxHash": "0a817fcee2d6532adbc75309f226c688c1502732b817d89fd45627276fd6fe45"
+    },
+    {
+      "name": "body-font0-text1-width145.8",
+      "text": "After fifty minutes, the visitor left a detailed account of the afternoon trip. Different routes led past quiet fields, a stone bridge, and a familiar little station.",
+      "width": 194.39998372395834,
+      "ends": [
+        37,
+        63,
+        96,
+        127,
+        157,
+        166
+      ],
+      "pdfHash": "4ff6bac4f99510b359c47b89c85550611ec33cd83ec2aa95c1c8be2cf6d6c782",
+      "docxHash": "c3ddb63083e02651d4b03f274b4699015710cd2feeebd7f9895c95057e578b53"
+    },
+    {
+      "name": "body-font0-text1-width241.1",
+      "text": "After fifty minutes, the visitor left a detailed account of the afternoon trip. Different routes led past quiet fields, a stone bridge, and a familiar little station.",
+      "width": 321.46665445963544,
+      "ends": [
+        56,
+        111,
+        166
+      ],
+      "pdfHash": "302b24b45c6e4f3eb525f6b136574a93b948f77e26b7a908d6840543aa572f12",
+      "docxHash": "e412ee9c51cba8a892244e3fedd0787b1fd4f0f6ef085fe6b7b39af79239e9c7"
+    },
+    {
+      "name": "body-font0-text1-width241.15",
+      "text": "After fifty minutes, the visitor left a detailed account of the afternoon trip. Different routes led past quiet fields, a stone bridge, and a familiar little station.",
+      "width": 321.5333251953125,
+      "ends": [
+        56,
+        111,
+        166
+      ],
+      "pdfHash": "8dc967323bcc3ac3528b614c4c128ba8cc04f9813065a5350cf8617e99e463b5",
+      "docxHash": "f17d580cb6cfd5542dabcd127c44056820d66acfc27ffb5c26816ed15f98705b"
+    },
+    {
+      "name": "body-font0-text1-width241.2",
+      "text": "After fifty minutes, the visitor left a detailed account of the afternoon trip. Different routes led past quiet fields, a stone bridge, and a familiar little station.",
+      "width": 321.5999755859375,
+      "ends": [
+        59,
+        111,
+        166
+      ],
+      "pdfHash": "e08443a69af4d712fc54a649757457a948318c4a37087a420398a66ece1f1f24",
+      "docxHash": "4b273724570c52fa44b42651a4fada60f158fe0cec040ff50b0101dbd281978e"
+    },
+    {
+      "name": "body-font0-text1-width251",
+      "text": "After fifty minutes, the visitor left a detailed account of the afternoon trip. Different routes led past quiet fields, a stone bridge, and a familiar little station.",
+      "width": 334.66664632161456,
+      "ends": [
+        59,
+        119,
+        166
+      ],
+      "pdfHash": "3c4662ec063a11e835d59a58892a4c0d4d51afecef120f8c29d32ca1f1d7fea3",
+      "docxHash": "5ef7e68c1746e0c4622c663ad3a4366e0d78526c9e42cd50a7ea876bdad97351"
+    },
+    {
+      "name": "footer-font0-text2-width166.1",
+      "text": "A difficult task becomes simpler when its first draft is complete. Editors often compare two copies, identify missing details, and refine the brief final description.",
+      "width": 221.46663411458334,
+      "ends": [
+        32,
+        66,
+        100,
+        137,
+        166
+      ],
+      "pdfHash": "8c5d4191746557c6ae6b57d8ef5e10211d3d9b2de169be6e6005f7096e564791",
+      "docxHash": "61912879149761ecece25946f9514237a0c349e3eeaf963f81fad6dddc1bc4d2"
+    },
+    {
+      "name": "footer-font0-text2-width166.15",
+      "text": "A difficult task becomes simpler when its first draft is complete. Editors often compare two copies, identify missing details, and refine the brief final description.",
+      "width": 221.5333251953125,
+      "ends": [
+        32,
+        66,
+        100,
+        137,
+        166
+      ],
+      "pdfHash": "c1dc66788c788d4e253a3fad23afc6dfd2466fb5f2d33bb553abd8dc45830560",
+      "docxHash": "eba46812ce82a770e8a69bfb0b7bdb6466cd239bd6a1fa6212c803254263925c"
+    },
+    {
+      "name": "footer-font0-text2-width166.2",
+      "text": "A difficult task becomes simpler when its first draft is complete. Editors often compare two copies, identify missing details, and refine the brief final description.",
+      "width": 221.5999755859375,
+      "ends": [
+        37,
+        74,
+        109,
+        147,
+        166
+      ],
+      "pdfHash": "7f5f9c829cba1bf80ff0408dc9c0b61ab142338091babe5d915a5f120936b47d",
+      "docxHash": "afa6c819e72305c6c6a269a8a5f745c4c2409acd335aa12b43e64192d4c2f9c6"
+    },
+    {
+      "name": "footer-font0-text2-width232.45",
+      "text": "A difficult task becomes simpler when its first draft is complete. Editors often compare two copies, identify missing details, and refine the brief final description.",
+      "width": 309.9333089192708,
+      "ends": [
+        53,
+        100,
+        153,
+        166
+      ],
+      "pdfHash": "7e4698529a46e103974850eba307760a039a268ffa0ad0663bf61b1ea9af557d",
+      "docxHash": "6f2fe82b4a72c174b560e8ea0422835c8d1d6953176cb910548583d382a4d220"
+    },
+    {
+      "name": "footer-font0-text2-width232.5",
+      "text": "A difficult task becomes simpler when its first draft is complete. Editors often compare two copies, identify missing details, and refine the brief final description.",
+      "width": 309.99997965494794,
+      "ends": [
+        53,
+        100,
+        153,
+        166
+      ],
+      "pdfHash": "8fedf807c2ca65f5f2d6f2c7a08c366a90d177a68ac3865dbd17b956fc25dd65",
+      "docxHash": "b8e6587e2c19a276b0910c0962c434c8a2bc56cae6a350ac226cde22527e504d"
+    },
+    {
+      "name": "footer-font0-text2-width232.55",
+      "text": "A difficult task becomes simpler when its first draft is complete. Editors often compare two copies, identify missing details, and refine the brief final description.",
+      "width": 310.066650390625,
+      "ends": [
+        56,
+        100,
+        153,
+        166
+      ],
+      "pdfHash": "0dfc1617c2bcd915a85289507b74c1963135b91b93b2f85e15c0c3ff7b06a6c1",
+      "docxHash": "3eda8111f949a90bd5246c857eb18111e94b0fa0305f79e073c7986a68e41354"
+    },
+    {
+      "name": "footer-font0-text2-width251",
+      "text": "A difficult task becomes simpler when its first draft is complete. Editors often compare two copies, identify missing details, and refine the brief final description.",
+      "width": 334.66664632161456,
+      "ends": [
+        56,
+        109,
+        166
+      ],
+      "pdfHash": "4dbc1e0de336f1af30cf2b56abf423166e49c18cf494801e407a5fabf469f153",
+      "docxHash": "0265b665d05c3fba2395295f6731300f5280a1cb57df9ae494b6eed03acb9144"
+    },
+    {
+      "name": "header-font0-text3-width147.4",
+      "text": "This printed sample includes ft, ti, fi, fl, ffi, and ffl within ordinary words. The final paragraph offers sufficient variety to test both narrow and broader text lines.",
+      "width": 196.5333251953125,
+      "ends": [
+        32,
+        73,
+        107,
+        139,
+        170
+      ],
+      "pdfHash": "00c4d3da56010709f8ff4ff0029a9ad5c4fd978ebef8c47936c36ecefef24a26",
+      "docxHash": "a8045bf6202789d3901b6f5636ae3250dae2031e4ff38bfbba1777cb1f381974"
+    },
+    {
+      "name": "header-font0-text3-width147.45",
+      "text": "This printed sample includes ft, ti, fi, fl, ffi, and ffl within ordinary words. The final paragraph offers sufficient variety to test both narrow and broader text lines.",
+      "width": 196.5999755859375,
+      "ends": [
+        32,
+        73,
+        107,
+        139,
+        170
+      ],
+      "pdfHash": "e660a126b34c70aeacb89b24ac021facdb54de98e09e0a7256eb0c647fa0d411",
+      "docxHash": "542d9b042c5f633803d74f2736af7d497bbaecc1a16c0f696d3369715d5e3110"
+    },
+    {
+      "name": "header-font0-text3-width147.5",
+      "text": "This printed sample includes ft, ti, fi, fl, ffi, and ffl within ordinary words. The final paragraph offers sufficient variety to test both narrow and broader text lines.",
+      "width": 196.66666666666666,
+      "ends": [
+        36,
+        73,
+        107,
+        139,
+        170
+      ],
+      "pdfHash": "977ed912e2ead953995347e36d189d1c0c15065cdf8c24768c63c7dd47c8a7ce",
+      "docxHash": "b9f81ad6364da2a5618c0b7ded7fa65909f7e7cb1a28cadc36c42be768a16dd4"
+    },
+    {
+      "name": "header-font0-text3-width200.45",
+      "text": "This printed sample includes ft, ti, fi, fl, ffi, and ffl within ordinary words. The final paragraph offers sufficient variety to test both narrow and broader text lines.",
+      "width": 267.2666422526042,
+      "ends": [
+        49,
+        90,
+        134,
+        170
+      ],
+      "pdfHash": "e216164cd5c69d19847dc158af939fb7cb3a91e36afb34c75eb61df615a21c8d",
+      "docxHash": "20a4778ce3b0c639e80a29266eb32ca5fbe507e177023dee0ab2471dbf7f06fd"
+    },
+    {
+      "name": "header-font0-text3-width200.5",
+      "text": "This printed sample includes ft, ti, fi, fl, ffi, and ffl within ordinary words. The final paragraph offers sufficient variety to test both narrow and broader text lines.",
+      "width": 267.33331298828125,
+      "ends": [
+        49,
+        90,
+        134,
+        170
+      ],
+      "pdfHash": "03661b013a0c49a63768b989f3fb6b76d5955ec036501e36ca77cdf5735ba2cc",
+      "docxHash": "57424a2533344c5c01ec21e3e271efd3f41fabbc4af75d3e09db050b4f3407a3"
+    },
+    {
+      "name": "header-font0-text3-width200.55",
+      "text": "This printed sample includes ft, ti, fi, fl, ffi, and ffl within ordinary words. The final paragraph offers sufficient variety to test both narrow and broader text lines.",
+      "width": 267.3999837239583,
+      "ends": [
+        53,
+        100,
+        146,
+        170
+      ],
+      "pdfHash": "c7bf198ddc0a93a904504671045d65c59f18e943d1c72d1a61847a2e9eee559d",
+      "docxHash": "61eb54c16debe135cce12281373600c64089f498bd6844e7d2f901e4de4b5e55"
+    },
+    {
+      "name": "header-font0-text3-width251",
+      "text": "This printed sample includes ft, ti, fi, fl, ffi, and ffl within ordinary words. The final paragraph offers sufficient variety to test both narrow and broader text lines.",
+      "width": 334.66664632161456,
+      "ends": [
+        64,
+        118,
+        170
+      ],
+      "pdfHash": "beef369d5cdc2f87b599a72822ded32e6f710846dfffb36b1a4ac9f64aabbcb3",
+      "docxHash": "59c14a9dd21900e760b4b746ac83a053b31e055f63fec75fbee0f55d383104ed"
+    }
+  ],
+  "advances": {
+    " ": 3.3157552083333335,
+    "The": 22.150390625,
+    "office": 33.078776041666664,
+    "staff": 26.232421875,
+    "drafted": 43.878255208333336,
+    "five": 21.684895833333332,
+    "clear": 29.00390625,
+    "notices": 42.847005208333336,
+    "after": 28.466796875,
+    "the": 19.916015625,
+    "final": 25.860026041666668,
+    "meeting.": 52.794270833333336,
+    "A": 8.486328125,
+    "short": 31.202473958333332,
+    "title": 23.747395833333332,
+    "identifies": 55.04296875,
+    "each": 28.23046875,
+    "revision,": 50.602864583333336,
+    "while": 32.219401041666664,
+    "a": 7.025390625,
+    "careful": 41.185546875,
+    "reader": 39.552734375,
+    "checks": 39.810546875,
+    "printed": 43.806640625,
+    "figures": 40.51953125,
+    "and": 22.436848958333332,
+    "dates.": 36.380208333333336,
+    "After": 29.927734375,
+    "fifty": 23.432291666666668,
+    "minutes,": 52.099609375,
+    "visitor": 36.852864583333336,
+    "left": 19.694010416666668,
+    "detailed": 48.676432291666664,
+    "account": 47.487630208333336,
+    "of": 12.210286458333334,
+    "afternoon": 59.347005208333336,
+    "trip.": 24.800130208333332,
+    "Different": 53.274088541666664,
+    "routes": 38.5,
+    "led": 18.369140625,
+    "past": 25.380208333333332,
+    "quiet": 30.987630208333332,
+    "fields,": 35.527994791666664,
+    "stone": 33.38671875,
+    "bridge,": 41.751302083333336,
+    "familiar": 45.453776041666664,
+    "little": 26.697916666666668,
+    "station.": 44.98828125,
+    "difficult": 45.102864583333336,
+    "task": 24.341796875,
+    "becomes": 53.689453125,
+    "simpler": 44.30078125,
+    "when": 33.193359375,
+    "its": 14.014973958333334,
+    "first": 23.525390625,
+    "draft": 28.875,
+    "is": 9.102213541666666,
+    "complete.": 59.934244791666664,
+    "Editors": 41.729817708333336,
+    "often": 31.768229166666668,
+    "compare": 52.794270833333336,
+    "two": 23.131510416666668,
+    "copies,": 41.701171875,
+    "identify": 45.360677083333336,
+    "missing": 44.529947916666664,
+    "details,": 43.069010416666664,
+    "refine": 35.177083333333336,
+    "brief": 27.958333333333332,
+    "description.": 70.44010416666667,
+    "This": 23.955078125,
+    "sample": 42.847005208333336,
+    "includes": 49.084635416666664,
+    "ft,": 12.690104166666666,
+    "ti,": 11.830729166666666,
+    "fi,": 11.422526041666666,
+    "fl,": 11.422526041666666,
+    "ffi,": 15.504557291666666,
+    "ffl": 11.845052083333334,
+    "within": 37.540364583333336,
+    "ordinary": 50.40234375,
+    "words.": 40.4765625,
+    "paragraph": 61.323567708333336,
+    "offers": 34.439453125,
+    "sufficient": 54.770833333333336,
+    "variety": 40.977864583333336,
+    "to": 12.647135416666666,
+    "test": 22.859375,
+    "both": 28.05859375,
+    "narrow": 43.176432291666664,
+    "broader": 47.6953125,
+    "text": 23.475260416666668,
+    "lines.": 31.173828125
+  },
+  "nativeReceiptHash": "aed4f3dc32a90ecac92c748edb7601afbc585bed0524f94842c7e7a392857893",
+  "comparisonHash": "f2ba0b55dcdeeff7799ba7398a99c76b5091e18a4b3dbd4fd7a3a6bd2f3b5a71",
+  "metricsHash": "fcdeb4445a024c352cf6b42d6fd40568ea3d45a0cffe95f6762f91bc89024a2f",
+  "producerHash": "230c70d5d29302be6395979fd459f483d0418264384f138150b6563d8c76d4ad"
+}

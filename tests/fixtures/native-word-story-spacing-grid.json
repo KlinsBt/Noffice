@@ -1,0 +1,2061 @@
+{
+  "provenance": "Synthetic Noffice-authored MIT fixtures, measured independently in pinned installed Word; no font binaries. Source and shaded glyph matrices identical on both pages.",
+  "nativeReceiptHash": "6de073292829ed3fd6afb7b8643da5532daf0c454b679e5567801d7572f00b2f",
+  "geometryHash": "3017c72d2c3420e5a3c4122cb90e164c6badfaa6401857c67fe06a1877eecbb1",
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "units": "points; native page EMF device pixels converted at600dpi",
+  "rows": [
+    {
+      "name": "header-before-3-0",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        68.03999999999999,
+        108.0,
+        148.07999999999998,
+        188.04,
+        228.0
+      ],
+      "docxHash": "30fbcff81e3c021961e3ed19588b96d3826c15555d05c2be9da416d5b5ab08bf",
+      "pdfHash": "dea89d1edd4c90507a31cc9ab5f10b018af15973e2d526f7cfe5d8af02d3c24b",
+      "emfHash": "0ad07be21e585d9dcde748840eedf46d90e549d1e94357e3eb72caef9249ee65",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "header-before-3-0.1",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0.10000000149011612,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        68.03999999999999,
+        108.0,
+        148.2,
+        188.16,
+        228.12
+      ],
+      "docxHash": "adc71d97530fc4db908b042b36d2abc0a35d1799c20774c36d7b909b330df38e",
+      "pdfHash": "d6888d5a75af4c2902e2957ec45edef9e80e8a0c4f073dc8427fa132bc7db1b7",
+      "emfHash": "1756de70c0e29333de6129a958ed757b70860c1319f59df8555bfb18ace0844d",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.219970703125,
+          188.17999267578125,
+          228.13995361328125
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "header-before-3-0.15",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0.15000000596046448,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        68.03999999999999,
+        108.0,
+        148.2,
+        188.16,
+        228.23999999999998
+      ],
+      "docxHash": "63297d9ec8e94078f43cf860e5af02642fcbea8930261b464ebe99cee60e13fe",
+      "pdfHash": "ee2d6711674fb8ef28239c930780f96d3e31773d5c04d02325297f3e9b0fffa4",
+      "emfHash": "1ff233973c3bca7a945d7c6a1bcb868cc3b690ef2e2ff110c169b14dd35489df",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.219970703125,
+          188.17999267578125,
+          228.260009765625
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "header-before-3-0.2",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0.20000000298023224,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        68.03999999999999,
+        108.0,
+        148.32,
+        188.28,
+        228.23999999999998
+      ],
+      "docxHash": "a71f1be259493e2f3053f82d0a6623c4e73bb6d4b9e2ab4635069cfd2068b295",
+      "pdfHash": "5ac54e8cf6bd7584aca26a84a06e8636009ae1106c5e73d84fde36f0804cfbab",
+      "emfHash": "4fa301471110531b3551d64ca4404cebe4af8147226c08ce213283f3aad19436",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.3399658203125,
+          188.29998779296875,
+          228.260009765625
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "header-before-3-0.25",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0.25,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        68.03999999999999,
+        108.0,
+        148.32,
+        188.28,
+        228.23999999999998
+      ],
+      "docxHash": "1573897f682c87d5eb3517632f00d0e402ae5a441c3b14869ddba06fcd0ebeaa",
+      "pdfHash": "22b8ca83d891b2d316d2ac9f4cf759fa800e1513777b8b68c7173f69ea6915e1",
+      "emfHash": "4fa301471110531b3551d64ca4404cebe4af8147226c08ce213283f3aad19436",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.3399658203125,
+          188.29998779296875,
+          228.260009765625
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "header-before-3-0.5",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0.5,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        68.03999999999999,
+        108.0,
+        148.56,
+        188.51999999999998,
+        228.6
+      ],
+      "docxHash": "c16389b933528c2efbd4d555389142c18de73d79efc749ce9275bd04eba1f167",
+      "pdfHash": "8d069881a38fadc88be232f48ec73a655981af326ca43017781f4a3c01423253",
+      "emfHash": "052bf735ddbc1731d8f91917103e60deffa43be1fb1244a1a7c8546fe8252b9c",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.5799560546875,
+          188.53997802734375,
+          228.6199951171875
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "header-before-3-1",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 1,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        68.03999999999999,
+        108.0,
+        149.04,
+        189.0,
+        229.07999999999998
+      ],
+      "docxHash": "1efc7058b25413ca7b68b0be799ac9ad9b569076a0870dbc902b20140f05157e",
+      "pdfHash": "74bd55e4058ab70682043b4570777ac76c22a32f4af3b835a87e578ada5910fd",
+      "emfHash": "07a95b300aa90c7b6f5eb1635c2bcfb2e17bd46257b4ffeec31a7bc4cedae663",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          149.05999755859375,
+          189.01995849609375,
+          229.0999755859375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "header-before-3-39.9",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 39.900001525878906,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        68.03999999999999,
+        108.0,
+        187.92,
+        227.88,
+        267.96
+      ],
+      "docxHash": "ee285bfefac58ea73bea4049bdee4f1f02ffbe3de6f85093b3f9bf792917e67c",
+      "pdfHash": "7e7a5d81b24bb5925b92634e96f3d158d26d3b723dac6babb3ff6b8a107d7b00",
+      "emfHash": "3d3e7ffa3d6e058aba94b5cbe863ff8a7a60fa1d6bd494794d3d1cb8c5526f00",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          187.94000244140625,
+          227.89996337890625,
+          268.010009765625
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "header-before-3-40.05",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 40.04999923706055,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        68.03999999999999,
+        108.0,
+        188.16,
+        228.12,
+        268.08
+      ],
+      "docxHash": "03aeb2eacd455d7f1a2b90110870df9aca1d6c42754ced7e2c4c2a21498ab1c8",
+      "pdfHash": "3dacf655374d0b5b680094bac3e4b97b9cb4b7667536d6e56cecce5ce1037115",
+      "emfHash": "76632e6b4f47251a59e60420f48a3e8eb210a2080f99f61f5e684e7f3a130314",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          188.17999267578125,
+          228.13995361328125,
+          268.1300048828125
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "header-after-3-0",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        68.03999999999999,
+        108.0,
+        148.07999999999998,
+        188.04,
+        228.0
+      ],
+      "docxHash": "b46c4677e554555b0372118646920269759cb5855bc7fdf0b812d8ad0c3bca4e",
+      "pdfHash": "bc6a3c48adb171db894ac1a82d09c00747efdff2206b6b1ff5b73858e3b33ca6",
+      "emfHash": "c484d4e3aab5c6ad18f47d32cd35560b4729e036359e45c3dd10fec91acc68a7",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "header-after-3-0.1",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0.10000000149011612
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        68.03999999999999,
+        108.0,
+        148.07999999999998,
+        188.16,
+        228.12
+      ],
+      "docxHash": "cbad7213b7f7ef4cb0c7be5d46e0495062b3d0a01ea0d8e94e7971378618015f",
+      "pdfHash": "5e1aa73a329841017c70c4f9c081444b403f84020245621ea5da75bc2879c151",
+      "emfHash": "0ea5a00462b400dc81e26e808f0cbf8bf1f7674814f5d26da7640953dc1a4502",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.17999267578125,
+          228.13995361328125
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "header-after-3-0.15",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0.15000000596046448
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        68.03999999999999,
+        108.0,
+        148.2,
+        188.16,
+        228.23999999999998
+      ],
+      "docxHash": "b3387240a955db7ec550521427c59473b140e101dbe673dd90fa8d6789c694a6",
+      "pdfHash": "1739108c54d37bf8cde84cde41ac6ffe928520863ff378a53a8ac11f1374d9c3",
+      "emfHash": "1ff233973c3bca7a945d7c6a1bcb868cc3b690ef2e2ff110c169b14dd35489df",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.219970703125,
+          188.17999267578125,
+          228.260009765625
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "header-after-3-0.2",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0.20000000298023224
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        68.03999999999999,
+        108.0,
+        148.07999999999998,
+        188.28,
+        228.23999999999998
+      ],
+      "docxHash": "99a9361e27c9b8582b3d6777269720e3ad9dcf970744f2a8d274f6a9888c8592",
+      "pdfHash": "b05477aea59658f2e1f51b2e250900af904e9f69d8162982476d02c6c1650f97",
+      "emfHash": "15cf1baff6b515b980a596564a5b41d2fa9357a7308bd29280d53da8634579ce",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.29998779296875,
+          228.260009765625
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "header-after-3-0.25",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0.25
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        68.03999999999999,
+        108.0,
+        148.07999999999998,
+        188.28,
+        228.23999999999998
+      ],
+      "docxHash": "708617921c9b4d20f621f9739c796a62d7ed9f485bd1e5b55995b9eba40d86a0",
+      "pdfHash": "f3bc1008112ea42af8c275aba7f294ddd1e778e45ec919dcf290a23a8f9c2c78",
+      "emfHash": "15cf1baff6b515b980a596564a5b41d2fa9357a7308bd29280d53da8634579ce",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.29998779296875,
+          228.260009765625
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "header-after-3-0.5",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0.5
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        68.03999999999999,
+        108.0,
+        148.2,
+        188.51999999999998,
+        228.6
+      ],
+      "docxHash": "bda70300df0ea88df2330392e4f3ed5e8403d156766e43a85f83c4e085d931ef",
+      "pdfHash": "09536ebf9d38922d9e1b840f64860c360d7b74d1d18e680275a803abec149190",
+      "emfHash": "57da6f20fdd5badb2c5742b77a2c66906bfebf28b8dfd8b8b953b34d1921701e",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.219970703125,
+          188.53997802734375,
+          228.6199951171875
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "header-after-3-1",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 1
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        68.03999999999999,
+        108.0,
+        148.2,
+        189.0,
+        229.07999999999998
+      ],
+      "docxHash": "74e3512d5fc4ec886d13c75fd4f2aefdb5e7d401480f15ef734aa359de143fe3",
+      "pdfHash": "42665eecd27cc73f8242dd25af9636680a0391c2f382b844cb2aa95bc41346c3",
+      "emfHash": "28b07e865cc17aff22ba21a5e4af5563c39f9ce66f9bf704c6935960f16d1baa",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.219970703125,
+          189.01995849609375,
+          229.0999755859375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "header-after-3-39.9",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 39.900001525878906
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        68.03999999999999,
+        108.0,
+        148.07999999999998,
+        227.88,
+        267.96
+      ],
+      "docxHash": "a594fa81e2fc16cf8fe27e4ca6142bb9943f302f99c5965c2bffb7be4f94e839",
+      "pdfHash": "ba13221545899a342d43fa19921cf8291adbb7067d98b177e6a6896b9e140308",
+      "emfHash": "54433b53878c20d86cfd2bd7226446c72cffb2bc6152b4c0034636a6972d59e4",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          227.89996337890625,
+          268.010009765625
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "header-after-3-40.05",
+      "kind": "header",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 40.04999923706055
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        68.03999999999999,
+        108.0,
+        148.07999999999998,
+        228.12,
+        268.08
+      ],
+      "docxHash": "c5d7a1e5e81de70b51ee60c807237f5f974e582d4606c2218195a8f90c8e54a9",
+      "pdfHash": "5f9c3e03d70cc714c264ee0616d264bb89681a5ec0383b2b5d56d7a6a801746e",
+      "emfHash": "3efcca094ad6c74648212e6b7a43768e9b664977df71d9261c179160017731f3",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          228.13995361328125,
+          268.1300048828125
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "footer-before-3-0",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        637.92,
+        677.88,
+        717.9599999999999,
+        757.92,
+        797.88
+      ],
+      "docxHash": "bb4d8477dc62d6abe51ee9a8064a3748c0b89e4d6f0779208f89361149078b6b",
+      "pdfHash": "5dc8484ed0ae5ce0e35532a7d316f5ea7c5b162007f7deec6cce463219cff94f",
+      "emfHash": "75f0601b0e05caf50967e3809b5d02b76f65ebe7bdd7eaa5cbb75917296bccd3",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "footer-before-3-0.1",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0.10000000149011612,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        637.8,
+        677.88,
+        717.9599999999999,
+        757.92,
+        797.88
+      ],
+      "docxHash": "06e334c2200d862c9722b7e4034adc15630c2e0417d2bfc0a0be2d3c28520c25",
+      "pdfHash": "cfc2f206f489c632a2c0ea0a81a21f5e96a7e3982decfb49de86b01b63b3e1a5",
+      "emfHash": "c5882886b5c0057dd31d125fb64eed9da79d03d8ee1eba0d0398c9839863161d",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          637.8999786376953,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "footer-before-3-0.15",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0.15000000596046448,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        637.8,
+        677.76,
+        717.9599999999999,
+        757.92,
+        797.88
+      ],
+      "docxHash": "3475fdb06e9f08119e607564a11a441a91a842f639c88e886263866346bd0a04",
+      "pdfHash": "2f3f9cdc266f9f87321f652c416c781d03ec297b9eccd0a89f32100f20cb91ae",
+      "emfHash": "deb85fb16bf34f6740efde69043e3a2f717f1d6332b1c6410f8b6836b87b8aa9",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          637.8999786376953,
+          677.8599853515625,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "footer-before-3-0.2",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0.20000000298023224,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        637.68,
+        677.76,
+        717.9599999999999,
+        757.92,
+        797.88
+      ],
+      "docxHash": "84710cb8eb74999fdc62d792dd8012c33ef1c526029dde1a065633fbacfc603c",
+      "pdfHash": "2eef97f95931cab8f4f26d51afeef7e1c82406e6c1773330e55c84db00815313",
+      "emfHash": "1beb8cba5de5e68c6093fd04815aefa2bfd0d840422a7c64fc233595c0865e0b",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          637.7799835205078,
+          677.8599853515625,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "footer-before-3-0.25",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0.25,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        637.68,
+        677.64,
+        717.9599999999999,
+        757.92,
+        797.88
+      ],
+      "docxHash": "7886a4ccbade5af0e144838eb6b87f091b518f4fe6fd3fc50b31de978d0d5f6d",
+      "pdfHash": "816f8d6343333df99c7999dd14e7f077e5e163e3d27f1890dc44df59ce56c371",
+      "emfHash": "8a460bbb55a32267a31e36ff3400e8a6fff5d65cd64539b41977dcae2b2d5e88",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          637.7799835205078,
+          677.739990234375,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "footer-before-3-0.5",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0.5,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        637.4399999999999,
+        677.4,
+        717.9599999999999,
+        757.92,
+        797.88
+      ],
+      "docxHash": "04187ddce02e9bacd217aa05eee38fa4d5ee1d77fbe4ead5b4f63a96a9d25f79",
+      "pdfHash": "8987108705300a6161eae6c717c18ddde1c865f2cd7060d46fbdd46c408c3772",
+      "emfHash": "3ee47ed9b228a1668475562cda2a3f67de808dab78d1a7875e521f13bf7356ff",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          637.5399780273438,
+          677.4999847412109,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "footer-before-3-1",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 1,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        636.9599999999999,
+        676.92,
+        717.9599999999999,
+        757.92,
+        797.88
+      ],
+      "docxHash": "22ae63fedf1f0bde9f6a29cee7ad4cac1af4d9927b0c7a4e93ee67854e4ea923",
+      "pdfHash": "7e4346d82ee7525bc7edb9cf066c09f656e9afb018b02c670204f7d629066949",
+      "emfHash": "53d4984b8357fe072cb4d3a2e7f7325cdef9388c7d6bebef19b285e16ed3e637",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          637.0599822998047,
+          677.0199890136719,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "footer-before-3-39.9",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 39.900001525878906,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        598.0799999999999,
+        638.04,
+        717.9599999999999,
+        757.92,
+        797.88
+      ],
+      "docxHash": "f196ff82aa736110b3acfc69a8564bc2708a38bde1187488804231277e063029",
+      "pdfHash": "0c4352e7d2bdb1e30a26e43de7cdde641eb85920090afd333ab057cd32a05e5c",
+      "emfHash": "9d97ffc8781f0bbef09dd7715dbbf82e54295bfa1037b1722abb1a2147098ac1",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          598.1499786376953,
+          638.1399841308594,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "footer-before-3-40.05",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 40.04999923706055,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        597.84,
+        637.92,
+        717.9599999999999,
+        757.92,
+        797.88
+      ],
+      "docxHash": "d704f4c401f3c2386e92411a09c107c68a48569b54d0bc08cc76886a1f33952e",
+      "pdfHash": "2e1c788d9405a2068e8754b83048e3aa7264287d4c5fb01fa23fc558c8bdaf86",
+      "emfHash": "0cfba4f03ab09de29b9242bd7fb7b930804aef513528cead1ca549855ff79f2b",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          597.9099884033203,
+          638.0199890136719,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "footer-after-3-0",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        637.92,
+        677.88,
+        717.9599999999999,
+        757.92,
+        797.88
+      ],
+      "docxHash": "04326cd37381328f554799de56e125ae06d7f64b76b907836cfa342fb900f488",
+      "pdfHash": "b51223c5b1478ebfb5e5a90f40d5c01801ae3fc4eb0e68a28f24c539e3376729",
+      "emfHash": "c484d4e3aab5c6ad18f47d32cd35560b4729e036359e45c3dd10fec91acc68a7",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          638.0199890136719,
+          677.97998046875,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "footer-after-3-0.1",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0.10000000149011612
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        637.8,
+        677.88,
+        717.8399999999999,
+        757.92,
+        797.88
+      ],
+      "docxHash": "a6b8cdfa5f40bf45e54f6caadb694a9f277911298e8fe16015309b28bca787b8",
+      "pdfHash": "b6c69ba9fce10155c625d3b51a5842a7278a31e141dbd75c213c662541393586",
+      "emfHash": "07d2499584d114c77a954ec3f001cb719e6d6ae0da33b9cdb10dbdbce86229da",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          637.8999786376953,
+          677.97998046875,
+          717.9399795532227,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "footer-after-3-0.15",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0.15000000596046448
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        637.8,
+        677.76,
+        717.9599999999999,
+        757.92,
+        797.88
+      ],
+      "docxHash": "314c7f34182d94454a9516d01773a1b36db4ae62bc65f469197ab99d325f2c13",
+      "pdfHash": "3a9b193cf7643224abb1123ca15e5470706a3ef1be188b4f9d691ef050a0e7e5",
+      "emfHash": "deb85fb16bf34f6740efde69043e3a2f717f1d6332b1c6410f8b6836b87b8aa9",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          637.8999786376953,
+          677.8599853515625,
+          718.0599822998047,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "footer-after-3-0.2",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0.20000000298023224
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        637.68,
+        677.76,
+        717.72,
+        757.92,
+        797.88
+      ],
+      "docxHash": "1b07a24cc5b8eba66bfce31ac39daa1784e57d5518013c1668c2fb7561dbe768",
+      "pdfHash": "edef7f936e58708c17f2ee4ea3d147d0b333fdde7b1206cfd9c4ff2d8a935121",
+      "emfHash": "6c76ee06a04ddb3114112fdcb1db0110f24436ede21a93f67637130d9b339756",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          637.7799835205078,
+          677.8599853515625,
+          717.8199844360352,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "footer-after-3-0.25",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0.25
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        637.68,
+        677.64,
+        717.72,
+        757.92,
+        797.88
+      ],
+      "docxHash": "041b0e5b1bbe44c16166481a9bd7ce80048e56d88135a9dad8b49861d136ed9d",
+      "pdfHash": "9671a67a0f049b7ad7a6705441db37c86598407ab1c5f8c95a4898c4116b26a4",
+      "emfHash": "97d636e22493a12b78e56f7ae60cce771c6ed8f53b92411b367a6c71019cd6b1",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          637.7799835205078,
+          677.739990234375,
+          717.8199844360352,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "footer-after-3-0.5",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0.5
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        637.4399999999999,
+        677.4,
+        717.6,
+        757.92,
+        797.88
+      ],
+      "docxHash": "310f582fcf5fe7804c7ce8b58c096541d5ff806865e73e136afab9ffd54e2e40",
+      "pdfHash": "0791f1a5f52aa6ec0dfd4816a52afd4970585b48877755ddef45e14bf26c2eda",
+      "emfHash": "f8e552d20254b87102d89d77aecd58cd8f9ee219e6d919ad9b4c47ca88d45bda",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          637.5399780273438,
+          677.4999847412109,
+          717.6999816894531,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "footer-after-3-1",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 1
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        636.9599999999999,
+        676.92,
+        717.0,
+        757.92,
+        797.88
+      ],
+      "docxHash": "2cc4de1af0165d3eb97bb3d2ebd50a2c639a7588e6f1fed731fd863dff12e79c",
+      "pdfHash": "fe4674c99e32bbcef51297ccfd94ac359861ef9c3ad540222a0b531d2122bd84",
+      "emfHash": "b7478df4970bc64bb0d57d4c0ce95ba49cbd8a3cb1d6e55f3233e8a45cd9366d",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          637.0599822998047,
+          677.0199890136719,
+          717.099983215332,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "footer-after-3-39.9",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 39.900001525878906
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        598.0799999999999,
+        638.04,
+        678.0,
+        757.92,
+        797.88
+      ],
+      "docxHash": "019db0bafac5d6271be157fa7e1cfa6d83287791f78b4c7c600040dc005eefa2",
+      "pdfHash": "7b602e51ddfbc655950950e45211a9a62e056450a55dd7e256e8c0304a936108",
+      "emfHash": "4f274782966ed31cc3f42050776e44ff79146ad15942f0ff0667912b2c1dc62f",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          598.1499786376953,
+          638.1399841308594,
+          678.0999755859375,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    },
+    {
+      "name": "footer-after-3-40.05",
+      "kind": "footer",
+      "paragraphs": [
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 40.04999923706055
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        },
+        {
+          "before": 0,
+          "text": "A\tB\r",
+          "after": 0
+        }
+      ],
+      "baselines": [
+        597.84,
+        637.92,
+        677.88,
+        757.92,
+        797.88
+      ],
+      "docxHash": "e31e2a1a76d36622b52eb7cadc1018b01dfd3ff20cdf839fac12b523c6c4890b",
+      "pdfHash": "9f3484c09012d99afa3fa60f1b6f8bfd7d103715587a0d65655d556f6c4ec9c1",
+      "emfHash": "5fc17d859a7eec31e6c131853efedf3c7aa0f021f7f092c6715b5bdaad3298db",
+      "origins": {
+        "header": [
+          68.03997802734375,
+          108.01995849609375,
+          148.0999755859375,
+          188.05999755859375,
+          228.01995849609375
+        ],
+        "footer": [
+          597.9099884033203,
+          638.0199890136719,
+          677.97998046875,
+          758.015983581543,
+          797.9999847412109
+        ]
+      }
+    }
+  ]
+}

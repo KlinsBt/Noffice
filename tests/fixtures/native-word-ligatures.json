@@ -1,0 +1,271 @@
+{
+  "rows": [
+    {
+      "name": "0",
+      "flags": 0,
+      "docxHash": "bb37b8c1652263ce03cd66f8ea1784bf6d3d7ce537ce7d4cf06e2488e8d64f76",
+      "nativeReportHash": "10785084dbb4ecd9651ded81318bfa5b35af42b519392c815fb323e95db5e2cd",
+      "pdfHash": "a9b86312e4743f32579f67cd642f5d06d75b1317aea4d1c940da15300ade8a77",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 0,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "1",
+      "flags": 1,
+      "docxHash": "70345aaf2d780c3b64e4777f66fdd0e284b02f1453df5cb5c09c8f34374289ba",
+      "nativeReportHash": "10785084dbb4ecd9651ded81318bfa5b35af42b519392c815fb323e95db5e2cd",
+      "pdfHash": "fc12f24b8a6125db8c1a22805eaaaed362ff770abdf3c5c769d5e23016996b9c",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 1,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "2",
+      "flags": 2,
+      "docxHash": "3fc17247bac3e89cc2a2f0561bbc6f9d05aa8a7a8a916b17e891abc3d97130d9",
+      "nativeReportHash": "10785084dbb4ecd9651ded81318bfa5b35af42b519392c815fb323e95db5e2cd",
+      "pdfHash": "3e161478bb141b24c0bd1bc63f057a9d6427c7ba3cfd5cc7cf13d784d9c41747",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 2,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "3",
+      "flags": 3,
+      "docxHash": "4b8fcb31941efcbe3806a98ee27ad8cf8120febfacac703b738a6a9f2bc5f748",
+      "nativeReportHash": "10785084dbb4ecd9651ded81318bfa5b35af42b519392c815fb323e95db5e2cd",
+      "pdfHash": "d2a1132a4f79b9e65f34e6e00fe6bee6cb260c884d4a066e25c1ba96529c50ff",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 3,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "4",
+      "flags": 4,
+      "docxHash": "566e6ed95fa68c6192d329425d6139a693cdf54bbed7788b5402dcf4e44a0a09",
+      "nativeReportHash": "10785084dbb4ecd9651ded81318bfa5b35af42b519392c815fb323e95db5e2cd",
+      "pdfHash": "27f3567d3f1eec8e4ba615d3100ad0a79d36c48365197c9cd2bc3524bfa81c8c",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 4,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "5",
+      "flags": 5,
+      "docxHash": "94696018954d772eccec89abaa0c781177846b20f2bc1556a7572bcfae8a9cc9",
+      "nativeReportHash": "10785084dbb4ecd9651ded81318bfa5b35af42b519392c815fb323e95db5e2cd",
+      "pdfHash": "ba8cac014d60016e4833c77e21752265adf1490e0519735ac7e54fba598443e7",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 5,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "6",
+      "flags": 6,
+      "docxHash": "11ef2d9a7d1acbc5c8411d17c2a62bfee91fb03ba0ef8ef6c9036981db59251a",
+      "nativeReportHash": "10785084dbb4ecd9651ded81318bfa5b35af42b519392c815fb323e95db5e2cd",
+      "pdfHash": "e128673be2deb9c48a513f1f2ffc65c70f659328419ab333e0f81417881f49ab",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 6,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "7",
+      "flags": 7,
+      "docxHash": "ed9e219ace65b3b5b8d74c1ac17eb97a59508d72b68088f65229c7a322843236",
+      "nativeReportHash": "10785084dbb4ecd9651ded81318bfa5b35af42b519392c815fb323e95db5e2cd",
+      "pdfHash": "a286200b0f3276aa7ca771b65e96a9d428629ac4a031264b43f3ba95b5c55a61",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 7,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "8",
+      "flags": 8,
+      "docxHash": "431a6c90aef58be8608be1102e822ee4534a937aefd63cd56c6db721bdb4cdb9",
+      "nativeReportHash": "10785084dbb4ecd9651ded81318bfa5b35af42b519392c815fb323e95db5e2cd",
+      "pdfHash": "5a67d651b777fcee1ff4701d77a27d58fd74debe84cd43b49989dd75cf635277",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 8,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "9",
+      "flags": 9,
+      "docxHash": "04fd317f0de76dbbb12f77e18122389860910e9f150ba4e808021af492218093",
+      "nativeReportHash": "10785084dbb4ecd9651ded81318bfa5b35af42b519392c815fb323e95db5e2cd",
+      "pdfHash": "9beb85c06e9531a871421fc4241e27e42b2d40658dd5f77a19211dd4783ef3a0",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 9,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "10",
+      "flags": 10,
+      "docxHash": "05e3ddb75223f140dcf0b4ec366321e2cf2766fbd7348e44b83035f1321bb276",
+      "nativeReportHash": "10785084dbb4ecd9651ded81318bfa5b35af42b519392c815fb323e95db5e2cd",
+      "pdfHash": "9f53fe45401882f75e724317551f4e1f7b9668c32660227728798c65b1bd7726",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 10,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "11",
+      "flags": 11,
+      "docxHash": "9e931bfa92c5aed37f7e1f1d617955a6848bd41e24d4d12b4a7353b91c6bb6f5",
+      "nativeReportHash": "10785084dbb4ecd9651ded81318bfa5b35af42b519392c815fb323e95db5e2cd",
+      "pdfHash": "8709d21bba4d6395c333f7ca2be725e077feb493651424a26de401c1c9a6671d",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 11,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "12",
+      "flags": 12,
+      "docxHash": "08d466fcbd690786ec679067bd8b4c0b41c1c9f59c20bbfde9f046cb86daab40",
+      "nativeReportHash": "10785084dbb4ecd9651ded81318bfa5b35af42b519392c815fb323e95db5e2cd",
+      "pdfHash": "4eb6d882851e65668717eb7b9b2146e8636757eacb531f284b190a142d544ec7",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 12,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "13",
+      "flags": 13,
+      "docxHash": "b0771a5dd3a4888682cf60a12408f967b715c604d985b0af67f28fad00b64dea",
+      "nativeReportHash": "10785084dbb4ecd9651ded81318bfa5b35af42b519392c815fb323e95db5e2cd",
+      "pdfHash": "f955b7a5698fbff45596dc8fd9ef1c8556c06984eff30ec0cf246d677ca0e4f3",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 13,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "14",
+      "flags": 14,
+      "docxHash": "a17ff2685a87c4882ac34040165f4e9a6ac3b292c9a240ded4dcdea143b12b1b",
+      "nativeReportHash": "10785084dbb4ecd9651ded81318bfa5b35af42b519392c815fb323e95db5e2cd",
+      "pdfHash": "b094ff8506d7fa346e35eed204171bc8f1238b4ace2caf4a6a6527e457222e39",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 14,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "15",
+      "flags": 15,
+      "docxHash": "22ee9bee04a77644078cce051000693f643a94622b14b38cf3a7a9fe8f873a7b",
+      "nativeReportHash": "10785084dbb4ecd9651ded81318bfa5b35af42b519392c815fb323e95db5e2cd",
+      "pdfHash": "5d41a2e459c43528a9022acd2993014b7ea1190123ff0dc2370ce64abd815f6a",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 15,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "omitted",
+      "flags": 0,
+      "docxHash": "87f7cd79aa85851828a1e2b058be14c58a3756b30a225a51d3f7bf3525ded2e1",
+      "nativeReportHash": "988483f5bb0c33a46e81289f9bc3bdd632d84c0a8930459c5211188feed66b8d",
+      "pdfHash": "b359f5681afc78271911d0527b253ea119fe9479ca38db2338f96c2112455952",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 0,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "default",
+      "flags": 1,
+      "docxHash": "716f084b0babea459f8b646d883a3194f9d380c2d38dce6072241405194a5f30",
+      "nativeReportHash": "988483f5bb0c33a46e81289f9bc3bdd632d84c0a8930459c5211188feed66b8d",
+      "pdfHash": "ddb0948751870c0fc1fa85da83c631485bfdb7c151d48519d9b061f4064a298f",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 1,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "paragraph-none",
+      "flags": 0,
+      "docxHash": "dc603ebe14b2ffd25f7fba5d61e9d04eb0683402df5d68b48ad1f410814da864",
+      "nativeReportHash": "988483f5bb0c33a46e81289f9bc3bdd632d84c0a8930459c5211188feed66b8d",
+      "pdfHash": "6ea97443b486aed6d2ee9099cc2039d50b189c7c294aae07c8d99c6db8668a66",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 0,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "paragraph-standard",
+      "flags": 1,
+      "docxHash": "70d14b48e76f155b83373f90c4800b5352aab53b7fe6829fe04d974451b83d41",
+      "nativeReportHash": "988483f5bb0c33a46e81289f9bc3bdd632d84c0a8930459c5211188feed66b8d",
+      "pdfHash": "5dc3a7ce0a5461504ec3a7de54dd268f2dae1cc7dadc961a32fb8a51286cdacc",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 1,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "character-none",
+      "flags": 0,
+      "docxHash": "0c5b7e8fc96090763827d40bdab30f4352ccc48fbad2f7c9468996ee180a4dca",
+      "nativeReportHash": "988483f5bb0c33a46e81289f9bc3bdd632d84c0a8930459c5211188feed66b8d",
+      "pdfHash": "4e43abb3c775a13308ac9a1ac688b171e4dcafc6e401e86f833db10f684e4516",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 1,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "character-standard",
+      "flags": 1,
+      "docxHash": "3cbb378f771a9c8a2d6e04592487112cd429017f85ab0c5a4f596c6448c45eb6",
+      "nativeReportHash": "988483f5bb0c33a46e81289f9bc3bdd632d84c0a8930459c5211188feed66b8d",
+      "pdfHash": "542ebeb6cd71240bfbd39e53ad62891126229091fa05e494adc7cf679b700924",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 0,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "direct-none",
+      "flags": 0,
+      "docxHash": "7be704cb14dcb43ad9550a6244bebfc2f00205d8b8ee01eaf2c5d4e97d51ab15",
+      "nativeReportHash": "988483f5bb0c33a46e81289f9bc3bdd632d84c0a8930459c5211188feed66b8d",
+      "pdfHash": "0c07a746f53356630f26c812a099f0b0687bcc0c10d9429feb2d63b2080d5939",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 1,
+      "runAlternates": false,
+      "markAlternates": false
+    },
+    {
+      "name": "direct-standard",
+      "flags": 1,
+      "docxHash": "035d919048c29b3c06c52bd12b48c51936328437fabc1b06b717c989faea4a5a",
+      "nativeReportHash": "988483f5bb0c33a46e81289f9bc3bdd632d84c0a8930459c5211188feed66b8d",
+      "pdfHash": "b4d6436be7e8e4d9b5aaf3418012f6cff9e4725f34489826369d37b677b86eea",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+      "markFlags": 0,
+      "runAlternates": false,
+      "markAlternates": false
+    }
+  ],
+  "producerHash": "7853cb8f816af57fdb125e5201d5dfeea6fad59c3f98dd24a120d34e90032bd2",
+  "scope": "Project-authored Calibri ligature flag and style-inheritance fixtures; no fonts distributed. Native source/PDF receipts retained locally; full glyph and interaction acceptance remains open.",
+  "markReportHash": "c09283d906f3ccfaa6758e3a48063a17e1a9b6dfc670eb1cba6607f8dd97dc84"
+}

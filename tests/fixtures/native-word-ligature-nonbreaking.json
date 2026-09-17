@@ -1,0 +1,228 @@
+{
+  "sourceHash": "db2b2f7799d418d3b8f41cd2c6becc7a6b46fffabac9ed992374f66bd0704630",
+  "source": "word-ligature-nonbreaking.docx",
+  "parent": "word-ligature-boundary-single.docx",
+  "parentHash": "8cf5cda673b3f32c2ca2a2502a65d4157cd1f30bc5500761a9bca068d30cd88c",
+  "authorship": "Authored Noffice fixture derived from the existing authored ligature-boundary fixture; only word/footer2.xml text changed. No embedded fonts or private user content.",
+  "text": "ti\u00a0ti ti\u00a0\u00a0ti",
+  "nativeSourcePdfHash": "e80f20f020b648d8185a8119f0c49339e604d47a67e1cacd24be67f677db971c",
+  "nativeReopenedPdfHash": "3f4f3478ba7d9d571964157da18bec4832f5c2f8cb4d22b9e7fdc0ad28bc8aa2",
+  "nativeExecutableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "nativeReceiptHash": "b784cbdd9b813ad7ff13d02e41013b8ad4aab431de4f8188299015cd8e0bdde9",
+  "nativeProducerHash": "a7fd137b65abc22a90747c22e8ae967238eab924ceedb77117ec72dda08b882b",
+  "nativeSourceState": {
+    "mode": 15,
+    "text": "Body1\rBody2\r",
+    "paragraphs": [
+      {
+        "end": 6,
+        "text": "Body1\r",
+        "start": 0
+      },
+      {
+        "end": 12,
+        "text": "Body2\r",
+        "start": 6
+      }
+    ],
+    "sections": [
+      {
+        "start": 0,
+        "end": 12,
+        "width": 595.2999877929688,
+        "height": 841.9000244140625,
+        "left": 73,
+        "right": 72,
+        "top": 288,
+        "bottom": 288,
+        "header": 36,
+        "footer": 36,
+        "sectionStart": 2,
+        "first": 0,
+        "even": 0,
+        "columns": 1,
+        "stories": [
+          {
+            "text": "Edited\tB\rA\tB\rA\tB\rA\tB\rA\tB\r",
+            "slot": 1,
+            "linked": false,
+            "exists": true,
+            "kind": "header"
+          },
+          {
+            "text": null,
+            "slot": 2,
+            "linked": false,
+            "exists": false,
+            "kind": "header"
+          },
+          {
+            "text": null,
+            "slot": 3,
+            "linked": false,
+            "exists": false,
+            "kind": "header"
+          },
+          {
+            "text": "ti\u00a0ti ti\u00a0\u00a0ti\tB\rA\tB\rA\tB\rA\tB\rA\tB\r",
+            "slot": 1,
+            "linked": false,
+            "exists": true,
+            "kind": "footer"
+          },
+          {
+            "text": null,
+            "slot": 2,
+            "linked": false,
+            "exists": false,
+            "kind": "footer"
+          },
+          {
+            "text": null,
+            "slot": 3,
+            "linked": false,
+            "exists": false,
+            "kind": "footer"
+          }
+        ]
+      }
+    ],
+    "nonbreakingParagraphs": [
+      {
+        "lastX": 101.25,
+        "text": "Body1\r",
+        "firstY": 288,
+        "start": 0,
+        "lastPage": 1,
+        "firstX": 72.94999694824219,
+        "firstPage": 1,
+        "rightIndent": 0,
+        "lines": 1,
+        "lastY": 288,
+        "end": 6
+      },
+      {
+        "lastX": 101.25,
+        "text": "Body2\r",
+        "firstY": 288,
+        "start": 6,
+        "lastPage": 2,
+        "firstX": 72.94999694824219,
+        "firstPage": 2,
+        "rightIndent": 0,
+        "lines": 1,
+        "lastY": 288,
+        "end": 12
+      }
+    ],
+    "pages": 2
+  },
+  "nativeReopenedState": {
+    "mode": 15,
+    "text": "Body1\rBody2\r",
+    "paragraphs": [
+      {
+        "end": 6,
+        "text": "Body1\r",
+        "start": 0
+      },
+      {
+        "end": 12,
+        "text": "Body2\r",
+        "start": 6
+      }
+    ],
+    "sections": [
+      {
+        "start": 0,
+        "end": 12,
+        "width": 595.2999877929688,
+        "height": 841.9000244140625,
+        "left": 73,
+        "right": 72,
+        "top": 288,
+        "bottom": 288,
+        "header": 36,
+        "footer": 36,
+        "sectionStart": 2,
+        "first": 0,
+        "even": 0,
+        "columns": 1,
+        "stories": [
+          {
+            "text": "Edited\tB\rA\tB\rA\tB\rA\tB\rA\tB\r",
+            "slot": 1,
+            "linked": false,
+            "exists": true,
+            "kind": "header"
+          },
+          {
+            "text": null,
+            "slot": 2,
+            "linked": false,
+            "exists": false,
+            "kind": "header"
+          },
+          {
+            "text": null,
+            "slot": 3,
+            "linked": false,
+            "exists": false,
+            "kind": "header"
+          },
+          {
+            "text": "ti\u00a0ti ti\u00a0\u00a0ti\tB\rA\tB\rA\tB\rA\tB\rA\tB\r",
+            "slot": 1,
+            "linked": false,
+            "exists": true,
+            "kind": "footer"
+          },
+          {
+            "text": null,
+            "slot": 2,
+            "linked": false,
+            "exists": false,
+            "kind": "footer"
+          },
+          {
+            "text": null,
+            "slot": 3,
+            "linked": false,
+            "exists": false,
+            "kind": "footer"
+          }
+        ]
+      }
+    ],
+    "nonbreakingParagraphs": [
+      {
+        "lastX": 101.25,
+        "text": "Body1\r",
+        "firstY": 288,
+        "start": 0,
+        "lastPage": 1,
+        "firstX": 72.94999694824219,
+        "firstPage": 1,
+        "rightIndent": 0,
+        "lines": 1,
+        "lastY": 288,
+        "end": 6
+      },
+      {
+        "lastX": 101.25,
+        "text": "Body2\r",
+        "firstY": 288,
+        "start": 6,
+        "lastPage": 2,
+        "firstX": 72.94999694824219,
+        "firstPage": 2,
+        "rightIndent": 0,
+        "lines": 1,
+        "lastY": 288,
+        "end": 12
+      }
+    ],
+    "pages": 2
+  },
+  "scope": "Two-page body/header/footer controls, Calibri standard ligatures and ordinary/NBSP gap aliasing. Native source/save/reopen evidence; browser/full-font and recovery comparisons are independent."
+}

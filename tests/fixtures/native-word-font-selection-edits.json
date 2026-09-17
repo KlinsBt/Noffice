@@ -1,0 +1,324 @@
+{
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "referenceHash": "f2d8383a0a43c810dcc11660ae26a7a6bf869f3115f1faf1c0c6b0ce2c0ef10d",
+  "rows": [
+    {
+      "sourceHash": "02e93f77ba9262a91cc3da40e147f5d2d16f6348c16e1455ec9c32781eb2a8d2",
+      "name": "Body-mixed-sizes",
+      "characters": [
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "A"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\t"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "B"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "pdfHash": "046e69caee7af112ce6df24badd7c902cf0a440de1c5849401b03d94f64d3822",
+      "docxHash": "eef181978786eb17770e9bbae64943cf64ee757bedc8a3f3c23f85d9c6d9d3cd",
+      "kind": "Body",
+      "pages": 2
+    },
+    {
+      "sourceHash": "de81ccb4a6e6cc6da4022e0d4f801a644dbebf5e603b9991dee100c8be8faa56",
+      "name": "Body-mixed-families",
+      "characters": [
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "A"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\t"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "B"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "pdfHash": "132f728e711ad09e03582b617a738dd9d4435434dc204528bb32f7656f170413",
+      "docxHash": "86476fdeaa199a2c0b7e960ff2eee9bc64ea094821cdf542691f7d76ed3316ce",
+      "kind": "Body",
+      "pages": 2
+    },
+    {
+      "sourceHash": "7f1bae582aa1f46aa5d2721187b3defaa65b6feb9ef0316da836b72db3637c32",
+      "name": "Body-uniform-text",
+      "characters": [
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "A"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\t"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "B"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "pdfHash": "d2e61d400199821729c369732fbd835eddc460c1bd25515c6b3d82ecf85e1c58",
+      "docxHash": "1625e9ce17e4a6a3e055ab50dd8786dabfdea559b99cfd4a0d42d3645bc426dd",
+      "kind": "Body",
+      "pages": 2
+    },
+    {
+      "sourceHash": "fae80d5af5767c03625ba86fe1604e3f8c268a2972a3348a5d91f2eb7816304c",
+      "name": "Body-empty",
+      "characters": [
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "pdfHash": "c4df9f77e091d858bb5ba4bb6d1001f0e3225044442003633d8921bcae3c6551",
+      "docxHash": "e9708a4c385a6ef84d5d73d7109ed693bcfd0bc24075c6f3bc891295e8413f0b",
+      "kind": "Body",
+      "pages": 2
+    },
+    {
+      "sourceHash": "9d93347addcd6557a16a6ab702309455d17e707ca75c8bc79af0ef883f876f86",
+      "name": "Headers-mixed-sizes",
+      "characters": [
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "A"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\t"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "B"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "pdfHash": "9ac53cb624b639b0e485629dddea62710a5976fd99d4912fbdef862c57fa7fcb",
+      "docxHash": "ffffdf2b74b86fcf82ac509d3ca6a7c3de5f0e4f3e936fd6f59b9c384f04bfcc",
+      "kind": "Headers",
+      "pages": 2
+    },
+    {
+      "sourceHash": "dc7032350873b13e57fd3dd96658a8c079ca4a3c258f854d6d68e2283b2249ae",
+      "name": "Headers-mixed-families",
+      "characters": [
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "A"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\t"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "B"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "pdfHash": "22138c8751990daaaff6e1761354fa23fd7dafb08750b359ae9bce76b40a43e5",
+      "docxHash": "bbad901dfd38643613e1efdc709ad43ca72b16afcc27a0b329d90721a5f669d2",
+      "kind": "Headers",
+      "pages": 2
+    },
+    {
+      "sourceHash": "c2dab9c78a10e041277bb2a3718d743faf92684921f1ec518af87bc7eb336eec",
+      "name": "Headers-uniform-text",
+      "characters": [
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "A"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\t"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "B"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "pdfHash": "3d492c80837592a631e0206e63515fb335b9ee6d93a8ac7ced0b40637456dfa4",
+      "docxHash": "f8a37e847d533142af1c3765aaa4056e6e6bffc35f629b0a6599b989d5e54509",
+      "kind": "Headers",
+      "pages": 2
+    },
+    {
+      "sourceHash": "095e4d0ba17e2ec2c75930c37c1c614ac63892258532df11930691cdcc813d83",
+      "name": "Headers-empty",
+      "characters": [
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "pdfHash": "2d2e467bf1415ea6bb5c45f300ac739c8c55ccd775f4845e8f994daeb97d63d5",
+      "docxHash": "fa39c2a3d6cf3138ba23c0dc42693056c13bca862aaeceaac66eaa6dfbe110fe",
+      "kind": "Headers",
+      "pages": 2
+    },
+    {
+      "sourceHash": "2fa9c97bb72d93da7545efbded6087fa3e381f03ef2fc827ab6f18ea32213180",
+      "name": "Footers-mixed-sizes",
+      "characters": [
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "A"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\t"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "B"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "pdfHash": "97d0c8851f4e1615246e3ad342444b4cd75a1979cbb8f30d8fdbe2f2669c53db",
+      "docxHash": "7e97a9062f6605fbe2233ba663e6248ca4671a89468f15c59f9af3bebcd3bc92",
+      "kind": "Footers",
+      "pages": 2
+    },
+    {
+      "sourceHash": "f5567dadd4924d1d7a4348804ec5b21e437066aed536aa5da8fa6283919fbdef",
+      "name": "Footers-mixed-families",
+      "characters": [
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "A"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\t"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "B"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "pdfHash": "97d07f96cd0be10bf6152548d7a58d3411f417635aa1524285e4609d35d8b3e6",
+      "docxHash": "5166bf3fc0109554a720f28bf4a36c77263083857249639f5cb3054b36e96037",
+      "kind": "Footers",
+      "pages": 2
+    },
+    {
+      "sourceHash": "dcb512ed256c302b6e9592f69a2ac3038e3ff89516480ce92390d6842b6581bf",
+      "name": "Footers-uniform-text",
+      "characters": [
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "A"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\t"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "B"
+        },
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "pdfHash": "2b880d892fe35c1a8804bd483f3a3610693bfa8f07499415e676ebe7268d7ed4",
+      "docxHash": "6e9d8245fe0ad655d4256b8e2735f3822c66376187120b961a62ad502476dc84",
+      "kind": "Footers",
+      "pages": 2
+    },
+    {
+      "sourceHash": "6f5133a0ace5ceae38a90392193c9381d679e874234025f062afa7ceba263c96",
+      "name": "Footers-empty",
+      "characters": [
+        {
+          "size": 20,
+          "family": "Arial",
+          "text": "\r"
+        }
+      ],
+      "pdfHash": "85f05e1aae7c9df6d9f3be68d9dc425398be0307e8c0d4ac2e0e17efd59563bb",
+      "docxHash": "e18466b68fb06051cba17e2981dadd84153834fbd09a5ae9d2e7471f3d8996d8",
+      "kind": "Footers",
+      "pages": 2
+    }
+  ],
+  "scriptHash": "275911842038c83de7eb5e7a38f4b4504fe2250381cedb2df25b00fd99ddf2a0",
+  "scope": "Owned Selection.Font.Size/Name on full paragraph text excluding mark, then save/reopen. Native UI interaction remains separate.",
+  "nativeReportHash": "5bedd0191dd2d986425ff5d52495d3681a175f4854822b52bf95590cf54a1273"
+}

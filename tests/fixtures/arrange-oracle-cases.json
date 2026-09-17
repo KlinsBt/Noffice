@@ -1,0 +1,2402 @@
+[
+  {
+    "name": "unequal-left-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 0
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "left",
+    "toSlide": false
+  },
+  {
+    "name": "unequal-center-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 0
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "center",
+    "toSlide": false
+  },
+  {
+    "name": "unequal-right-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 0
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "right",
+    "toSlide": false
+  },
+  {
+    "name": "unequal-top-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 0
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "top",
+    "toSlide": false
+  },
+  {
+    "name": "unequal-middle-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 0
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "middle",
+    "toSlide": false
+  },
+  {
+    "name": "unequal-bottom-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 0
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "bottom",
+    "toSlide": false
+  },
+  {
+    "name": "unequal-horizontal-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 0
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "horizontal",
+    "toSlide": false
+  },
+  {
+    "name": "unequal-vertical-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 0
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "vertical",
+    "toSlide": false
+  },
+  {
+    "name": "unequal-left-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 0
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "left",
+    "toSlide": true
+  },
+  {
+    "name": "unequal-center-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 0
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "center",
+    "toSlide": true
+  },
+  {
+    "name": "unequal-right-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 0
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "right",
+    "toSlide": true
+  },
+  {
+    "name": "unequal-top-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 0
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "top",
+    "toSlide": true
+  },
+  {
+    "name": "unequal-middle-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 0
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "middle",
+    "toSlide": true
+  },
+  {
+    "name": "unequal-bottom-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 0
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "bottom",
+    "toSlide": true
+  },
+  {
+    "name": "unequal-horizontal-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 0
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "horizontal",
+    "toSlide": true
+  },
+  {
+    "name": "unequal-vertical-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 0
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "vertical",
+    "toSlide": true
+  },
+  {
+    "name": "rotated-left-selection",
+    "width": 720,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 30
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 90
+      },
+      {
+        "x": 570,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 270
+      }
+    ],
+    "command": "left",
+    "toSlide": false
+  },
+  {
+    "name": "rotated-center-selection",
+    "width": 720,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 30
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 90
+      },
+      {
+        "x": 570,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 270
+      }
+    ],
+    "command": "center",
+    "toSlide": false
+  },
+  {
+    "name": "rotated-right-selection",
+    "width": 720,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 30
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 90
+      },
+      {
+        "x": 570,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 270
+      }
+    ],
+    "command": "right",
+    "toSlide": false
+  },
+  {
+    "name": "rotated-top-selection",
+    "width": 720,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 30
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 90
+      },
+      {
+        "x": 570,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 270
+      }
+    ],
+    "command": "top",
+    "toSlide": false
+  },
+  {
+    "name": "rotated-middle-selection",
+    "width": 720,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 30
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 90
+      },
+      {
+        "x": 570,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 270
+      }
+    ],
+    "command": "middle",
+    "toSlide": false
+  },
+  {
+    "name": "rotated-bottom-selection",
+    "width": 720,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 30
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 90
+      },
+      {
+        "x": 570,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 270
+      }
+    ],
+    "command": "bottom",
+    "toSlide": false
+  },
+  {
+    "name": "rotated-horizontal-selection",
+    "width": 720,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 30
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 90
+      },
+      {
+        "x": 570,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 270
+      }
+    ],
+    "command": "horizontal",
+    "toSlide": false
+  },
+  {
+    "name": "rotated-vertical-selection",
+    "width": 720,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 30
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 90
+      },
+      {
+        "x": 570,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 270
+      }
+    ],
+    "command": "vertical",
+    "toSlide": false
+  },
+  {
+    "name": "rotated-left-slide",
+    "width": 720,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 30
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 90
+      },
+      {
+        "x": 570,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 270
+      }
+    ],
+    "command": "left",
+    "toSlide": true
+  },
+  {
+    "name": "rotated-center-slide",
+    "width": 720,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 30
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 90
+      },
+      {
+        "x": 570,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 270
+      }
+    ],
+    "command": "center",
+    "toSlide": true
+  },
+  {
+    "name": "rotated-right-slide",
+    "width": 720,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 30
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 90
+      },
+      {
+        "x": 570,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 270
+      }
+    ],
+    "command": "right",
+    "toSlide": true
+  },
+  {
+    "name": "rotated-top-slide",
+    "width": 720,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 30
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 90
+      },
+      {
+        "x": 570,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 270
+      }
+    ],
+    "command": "top",
+    "toSlide": true
+  },
+  {
+    "name": "rotated-middle-slide",
+    "width": 720,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 30
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 90
+      },
+      {
+        "x": 570,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 270
+      }
+    ],
+    "command": "middle",
+    "toSlide": true
+  },
+  {
+    "name": "rotated-bottom-slide",
+    "width": 720,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 30
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 90
+      },
+      {
+        "x": 570,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 270
+      }
+    ],
+    "command": "bottom",
+    "toSlide": true
+  },
+  {
+    "name": "rotated-horizontal-slide",
+    "width": 720,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 30
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 90
+      },
+      {
+        "x": 570,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 270
+      }
+    ],
+    "command": "horizontal",
+    "toSlide": true
+  },
+  {
+    "name": "rotated-vertical-slide",
+    "width": 720,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 30
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 90
+      },
+      {
+        "x": 570,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 270
+      }
+    ],
+    "command": "vertical",
+    "toSlide": true
+  },
+  {
+    "name": "overlapping-left-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 100,
+        "y": 70,
+        "w": 400,
+        "h": 220,
+        "rotation": 0
+      },
+      {
+        "x": 120,
+        "y": 90,
+        "w": 80,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 250,
+        "y": 100,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "left",
+    "toSlide": false
+  },
+  {
+    "name": "overlapping-center-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 100,
+        "y": 70,
+        "w": 400,
+        "h": 220,
+        "rotation": 0
+      },
+      {
+        "x": 120,
+        "y": 90,
+        "w": 80,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 250,
+        "y": 100,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "center",
+    "toSlide": false
+  },
+  {
+    "name": "overlapping-right-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 100,
+        "y": 70,
+        "w": 400,
+        "h": 220,
+        "rotation": 0
+      },
+      {
+        "x": 120,
+        "y": 90,
+        "w": 80,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 250,
+        "y": 100,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "right",
+    "toSlide": false
+  },
+  {
+    "name": "overlapping-top-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 100,
+        "y": 70,
+        "w": 400,
+        "h": 220,
+        "rotation": 0
+      },
+      {
+        "x": 120,
+        "y": 90,
+        "w": 80,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 250,
+        "y": 100,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "top",
+    "toSlide": false
+  },
+  {
+    "name": "overlapping-middle-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 100,
+        "y": 70,
+        "w": 400,
+        "h": 220,
+        "rotation": 0
+      },
+      {
+        "x": 120,
+        "y": 90,
+        "w": 80,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 250,
+        "y": 100,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "middle",
+    "toSlide": false
+  },
+  {
+    "name": "overlapping-bottom-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 100,
+        "y": 70,
+        "w": 400,
+        "h": 220,
+        "rotation": 0
+      },
+      {
+        "x": 120,
+        "y": 90,
+        "w": 80,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 250,
+        "y": 100,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "bottom",
+    "toSlide": false
+  },
+  {
+    "name": "overlapping-horizontal-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 100,
+        "y": 70,
+        "w": 400,
+        "h": 220,
+        "rotation": 0
+      },
+      {
+        "x": 120,
+        "y": 90,
+        "w": 80,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 250,
+        "y": 100,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "horizontal",
+    "toSlide": false
+  },
+  {
+    "name": "overlapping-vertical-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 100,
+        "y": 70,
+        "w": 400,
+        "h": 220,
+        "rotation": 0
+      },
+      {
+        "x": 120,
+        "y": 90,
+        "w": 80,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 250,
+        "y": 100,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "vertical",
+    "toSlide": false
+  },
+  {
+    "name": "overlapping-left-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 100,
+        "y": 70,
+        "w": 400,
+        "h": 220,
+        "rotation": 0
+      },
+      {
+        "x": 120,
+        "y": 90,
+        "w": 80,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 250,
+        "y": 100,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "left",
+    "toSlide": true
+  },
+  {
+    "name": "overlapping-center-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 100,
+        "y": 70,
+        "w": 400,
+        "h": 220,
+        "rotation": 0
+      },
+      {
+        "x": 120,
+        "y": 90,
+        "w": 80,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 250,
+        "y": 100,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "center",
+    "toSlide": true
+  },
+  {
+    "name": "overlapping-right-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 100,
+        "y": 70,
+        "w": 400,
+        "h": 220,
+        "rotation": 0
+      },
+      {
+        "x": 120,
+        "y": 90,
+        "w": 80,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 250,
+        "y": 100,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "right",
+    "toSlide": true
+  },
+  {
+    "name": "overlapping-top-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 100,
+        "y": 70,
+        "w": 400,
+        "h": 220,
+        "rotation": 0
+      },
+      {
+        "x": 120,
+        "y": 90,
+        "w": 80,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 250,
+        "y": 100,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "top",
+    "toSlide": true
+  },
+  {
+    "name": "overlapping-middle-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 100,
+        "y": 70,
+        "w": 400,
+        "h": 220,
+        "rotation": 0
+      },
+      {
+        "x": 120,
+        "y": 90,
+        "w": 80,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 250,
+        "y": 100,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "middle",
+    "toSlide": true
+  },
+  {
+    "name": "overlapping-bottom-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 100,
+        "y": 70,
+        "w": 400,
+        "h": 220,
+        "rotation": 0
+      },
+      {
+        "x": 120,
+        "y": 90,
+        "w": 80,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 250,
+        "y": 100,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "bottom",
+    "toSlide": true
+  },
+  {
+    "name": "overlapping-horizontal-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 100,
+        "y": 70,
+        "w": 400,
+        "h": 220,
+        "rotation": 0
+      },
+      {
+        "x": 120,
+        "y": 90,
+        "w": 80,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 250,
+        "y": 100,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "horizontal",
+    "toSlide": true
+  },
+  {
+    "name": "overlapping-vertical-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 100,
+        "y": 70,
+        "w": 400,
+        "h": 220,
+        "rotation": 0
+      },
+      {
+        "x": 120,
+        "y": 90,
+        "w": 80,
+        "h": 60,
+        "rotation": 0
+      },
+      {
+        "x": 250,
+        "y": 100,
+        "w": 130,
+        "h": 90,
+        "rotation": 0
+      }
+    ],
+    "command": "vertical",
+    "toSlide": true
+  },
+  {
+    "name": "angles-44-45-46-left-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 44
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 45
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 46
+      }
+    ],
+    "command": "left",
+    "toSlide": false
+  },
+  {
+    "name": "angles-44-45-46-center-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 44
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 45
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 46
+      }
+    ],
+    "command": "center",
+    "toSlide": false
+  },
+  {
+    "name": "angles-44-45-46-right-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 44
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 45
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 46
+      }
+    ],
+    "command": "right",
+    "toSlide": false
+  },
+  {
+    "name": "angles-44-45-46-top-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 44
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 45
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 46
+      }
+    ],
+    "command": "top",
+    "toSlide": false
+  },
+  {
+    "name": "angles-44-45-46-middle-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 44
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 45
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 46
+      }
+    ],
+    "command": "middle",
+    "toSlide": false
+  },
+  {
+    "name": "angles-44-45-46-bottom-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 44
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 45
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 46
+      }
+    ],
+    "command": "bottom",
+    "toSlide": false
+  },
+  {
+    "name": "angles-44-45-46-horizontal-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 44
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 45
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 46
+      }
+    ],
+    "command": "horizontal",
+    "toSlide": false
+  },
+  {
+    "name": "angles-44-45-46-vertical-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 44
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 45
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 46
+      }
+    ],
+    "command": "vertical",
+    "toSlide": false
+  },
+  {
+    "name": "angles-44-45-46-left-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 44
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 45
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 46
+      }
+    ],
+    "command": "left",
+    "toSlide": true
+  },
+  {
+    "name": "angles-44-45-46-center-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 44
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 45
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 46
+      }
+    ],
+    "command": "center",
+    "toSlide": true
+  },
+  {
+    "name": "angles-44-45-46-right-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 44
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 45
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 46
+      }
+    ],
+    "command": "right",
+    "toSlide": true
+  },
+  {
+    "name": "angles-44-45-46-top-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 44
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 45
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 46
+      }
+    ],
+    "command": "top",
+    "toSlide": true
+  },
+  {
+    "name": "angles-44-45-46-middle-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 44
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 45
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 46
+      }
+    ],
+    "command": "middle",
+    "toSlide": true
+  },
+  {
+    "name": "angles-44-45-46-bottom-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 44
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 45
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 46
+      }
+    ],
+    "command": "bottom",
+    "toSlide": true
+  },
+  {
+    "name": "angles-44-45-46-horizontal-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 44
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 45
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 46
+      }
+    ],
+    "command": "horizontal",
+    "toSlide": true
+  },
+  {
+    "name": "angles-44-45-46-vertical-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 44
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 45
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 46
+      }
+    ],
+    "command": "vertical",
+    "toSlide": true
+  },
+  {
+    "name": "angles-135-225-315-left-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 135
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 225
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 315
+      }
+    ],
+    "command": "left",
+    "toSlide": false
+  },
+  {
+    "name": "angles-135-225-315-center-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 135
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 225
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 315
+      }
+    ],
+    "command": "center",
+    "toSlide": false
+  },
+  {
+    "name": "angles-135-225-315-right-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 135
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 225
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 315
+      }
+    ],
+    "command": "right",
+    "toSlide": false
+  },
+  {
+    "name": "angles-135-225-315-top-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 135
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 225
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 315
+      }
+    ],
+    "command": "top",
+    "toSlide": false
+  },
+  {
+    "name": "angles-135-225-315-middle-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 135
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 225
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 315
+      }
+    ],
+    "command": "middle",
+    "toSlide": false
+  },
+  {
+    "name": "angles-135-225-315-bottom-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 135
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 225
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 315
+      }
+    ],
+    "command": "bottom",
+    "toSlide": false
+  },
+  {
+    "name": "angles-135-225-315-horizontal-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 135
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 225
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 315
+      }
+    ],
+    "command": "horizontal",
+    "toSlide": false
+  },
+  {
+    "name": "angles-135-225-315-vertical-selection",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 135
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 225
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 315
+      }
+    ],
+    "command": "vertical",
+    "toSlide": false
+  },
+  {
+    "name": "angles-135-225-315-left-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 135
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 225
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 315
+      }
+    ],
+    "command": "left",
+    "toSlide": true
+  },
+  {
+    "name": "angles-135-225-315-center-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 135
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 225
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 315
+      }
+    ],
+    "command": "center",
+    "toSlide": true
+  },
+  {
+    "name": "angles-135-225-315-right-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 135
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 225
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 315
+      }
+    ],
+    "command": "right",
+    "toSlide": true
+  },
+  {
+    "name": "angles-135-225-315-top-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 135
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 225
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 315
+      }
+    ],
+    "command": "top",
+    "toSlide": true
+  },
+  {
+    "name": "angles-135-225-315-middle-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 135
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 225
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 315
+      }
+    ],
+    "command": "middle",
+    "toSlide": true
+  },
+  {
+    "name": "angles-135-225-315-bottom-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 135
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 225
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 315
+      }
+    ],
+    "command": "bottom",
+    "toSlide": true
+  },
+  {
+    "name": "angles-135-225-315-horizontal-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 135
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 225
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 315
+      }
+    ],
+    "command": "horizontal",
+    "toSlide": true
+  },
+  {
+    "name": "angles-135-225-315-vertical-slide",
+    "width": 960,
+    "height": 540,
+    "shapes": [
+      {
+        "x": 60,
+        "y": 40,
+        "w": 180,
+        "h": 60,
+        "rotation": 135
+      },
+      {
+        "x": 310,
+        "y": 200,
+        "w": 70,
+        "h": 120,
+        "rotation": 225
+      },
+      {
+        "x": 670,
+        "y": 390,
+        "w": 130,
+        "h": 90,
+        "rotation": 315
+      }
+    ],
+    "command": "vertical",
+    "toSlide": true
+  }
+]

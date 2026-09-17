@@ -1,0 +1,908 @@
+﻿{
+    "application":  "Microsoft Excel",
+    "version":  "16.0",
+    "build":  4627,
+    "locale":  1031,
+    "inputSha256":  "a04d149c92d081f0284955df97ae652719e197b5dae588acf35664e06e5b3b00",
+    "hiddenRows":  [
+
+                   ],
+    "cases":  [
+                  {
+                      "ref":  "E1",
+                      "formula":  "=SUM(A1:A8)",
+                      "nativeFormula":  "=SUM(A1:A8)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E2",
+                      "formula":  "=SUM(A1:A5)",
+                      "nativeFormula":  "=SUM(A1:A5)",
+                      "value":  6,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E3",
+                      "formula":  "=SUM(A7)",
+                      "nativeFormula":  "=SUM(A7)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E4",
+                      "formula":  "=SUM(A6)",
+                      "nativeFormula":  "=SUM(A6)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E5",
+                      "formula":  "=SUM(A8)",
+                      "nativeFormula":  "=SUM(A8)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E6",
+                      "formula":  "=SUM(A9)",
+                      "nativeFormula":  "=SUM(A9)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E7",
+                      "formula":  "=SUM(TRUE,FALSE,\"3\",2)",
+                      "nativeFormula":  "=SUM(TRUE,FALSE,\"3\",2)",
+                      "value":  6,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E8",
+                      "formula":  "=SUM(\"bad\",2)",
+                      "nativeFormula":  "=SUM(\"bad\",2)",
+                      "value":  "#VALUE!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E9",
+                      "formula":  "=SUM(\"\",2)",
+                      "nativeFormula":  "=SUM(\"\",2)",
+                      "value":  "#VALUE!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E10",
+                      "formula":  "=SUM(NA(),2)",
+                      "nativeFormula":  "=SUM(NA(),2)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E11",
+                      "formula":  "=SUM(A1,A2,A3,A4,A5,A6,A7,A8)",
+                      "nativeFormula":  "=SUM(A1,A2,A3,A4,A5,A6,A7,A8)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E12",
+                      "formula":  "=SUM(Amounts)",
+                      "nativeFormula":  "=SUM(Amounts)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E13",
+                      "formula":  "=SUM(Flag,2)",
+                      "nativeFormula":  "=SUM(Flag,2)",
+                      "value":  3,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E14",
+                      "formula":  "=SUM(INDIRECT(\"A1:A8\"))",
+                      "nativeFormula":  "=SUM(INDIRECT(\"A1:A8\"))",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E15",
+                      "formula":  "=SUM(INDEX(A1:A8,6))",
+                      "nativeFormula":  "=SUM(INDEX(A1:A8,6))",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E16",
+                      "formula":  "=SUM(INDEX(A1:A8,7))",
+                      "nativeFormula":  "=SUM(INDEX(A1:A8,7))",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E17",
+                      "formula":  "=SUM(INDEX(A1:B8,0,1))",
+                      "nativeFormula":  "=SUM(INDEX(A1:B8,0,1))",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E18",
+                      "formula":  "=SUM(INDEX(A1:B8,2,0))",
+                      "nativeFormula":  "=SUM(INDEX(A1:B8,2,0))",
+                      "value":  12,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E19",
+                      "formula":  "=SUM(A:A)",
+                      "nativeFormula":  "=SUM(A:A)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E20",
+                      "formula":  "=SUM(1,)",
+                      "nativeFormula":  "=SUM(1,)",
+                      "value":  1,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E21",
+                      "formula":  "=SUM(Empty)",
+                      "nativeFormula":  "=SUM(Empty)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E22",
+                      "formula":  "=AVERAGE(A1:A8)",
+                      "nativeFormula":  "=AVERAGE(A1:A8)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E23",
+                      "formula":  "=AVERAGE(A1:A5)",
+                      "nativeFormula":  "=AVERAGE(A1:A5)",
+                      "value":  3,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E24",
+                      "formula":  "=AVERAGE(A7)",
+                      "nativeFormula":  "=AVERAGE(A7)",
+                      "value":  "#DIV/0!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E25",
+                      "formula":  "=AVERAGE(A6)",
+                      "nativeFormula":  "=AVERAGE(A6)",
+                      "value":  "#DIV/0!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E26",
+                      "formula":  "=AVERAGE(A8)",
+                      "nativeFormula":  "=AVERAGE(A8)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E27",
+                      "formula":  "=AVERAGE(A9)",
+                      "nativeFormula":  "=AVERAGE(A9)",
+                      "value":  "#DIV/0!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E28",
+                      "formula":  "=AVERAGE(TRUE,FALSE,\"3\",2)",
+                      "nativeFormula":  "=AVERAGE(TRUE,FALSE,\"3\",2)",
+                      "value":  1.5,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E29",
+                      "formula":  "=AVERAGE(\"bad\",2)",
+                      "nativeFormula":  "=AVERAGE(\"bad\",2)",
+                      "value":  "#VALUE!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E30",
+                      "formula":  "=AVERAGE(\"\",2)",
+                      "nativeFormula":  "=AVERAGE(\"\",2)",
+                      "value":  "#VALUE!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E31",
+                      "formula":  "=AVERAGE(NA(),2)",
+                      "nativeFormula":  "=AVERAGE(NA(),2)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E32",
+                      "formula":  "=AVERAGE(A1,A2,A3,A4,A5,A6,A7,A8)",
+                      "nativeFormula":  "=AVERAGE(A1,A2,A3,A4,A5,A6,A7,A8)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E33",
+                      "formula":  "=AVERAGE(Amounts)",
+                      "nativeFormula":  "=AVERAGE(Amounts)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E34",
+                      "formula":  "=AVERAGE(Flag,2)",
+                      "nativeFormula":  "=AVERAGE(Flag,2)",
+                      "value":  1.5,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E35",
+                      "formula":  "=AVERAGE(INDIRECT(\"A1:A8\"))",
+                      "nativeFormula":  "=AVERAGE(INDIRECT(\"A1:A8\"))",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E36",
+                      "formula":  "=AVERAGE(INDEX(A1:A8,6))",
+                      "nativeFormula":  "=AVERAGE(INDEX(A1:A8,6))",
+                      "value":  "#DIV/0!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E37",
+                      "formula":  "=AVERAGE(INDEX(A1:A8,7))",
+                      "nativeFormula":  "=AVERAGE(INDEX(A1:A8,7))",
+                      "value":  "#DIV/0!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E38",
+                      "formula":  "=AVERAGE(INDEX(A1:B8,0,1))",
+                      "nativeFormula":  "=AVERAGE(INDEX(A1:B8,0,1))",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E39",
+                      "formula":  "=AVERAGE(INDEX(A1:B8,2,0))",
+                      "nativeFormula":  "=AVERAGE(INDEX(A1:B8,2,0))",
+                      "value":  6,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E40",
+                      "formula":  "=AVERAGE(A:A)",
+                      "nativeFormula":  "=AVERAGE(A:A)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E41",
+                      "formula":  "=AVERAGE(1,)",
+                      "nativeFormula":  "=AVERAGE(1,)",
+                      "value":  0.5,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E42",
+                      "formula":  "=AVERAGE(Empty)",
+                      "nativeFormula":  "=AVERAGE(Empty)",
+                      "value":  "#DIV/0!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E43",
+                      "formula":  "=MIN(A1:A8)",
+                      "nativeFormula":  "=MIN(A1:A8)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E44",
+                      "formula":  "=MIN(A1:A5)",
+                      "nativeFormula":  "=MIN(A1:A5)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E45",
+                      "formula":  "=MIN(A7)",
+                      "nativeFormula":  "=MIN(A7)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E46",
+                      "formula":  "=MIN(A6)",
+                      "nativeFormula":  "=MIN(A6)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E47",
+                      "formula":  "=MIN(A8)",
+                      "nativeFormula":  "=MIN(A8)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E48",
+                      "formula":  "=MIN(A9)",
+                      "nativeFormula":  "=MIN(A9)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E49",
+                      "formula":  "=MIN(TRUE,FALSE,\"3\",2)",
+                      "nativeFormula":  "=MIN(TRUE,FALSE,\"3\",2)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E50",
+                      "formula":  "=MIN(\"bad\",2)",
+                      "nativeFormula":  "=MIN(\"bad\",2)",
+                      "value":  "#VALUE!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E51",
+                      "formula":  "=MIN(\"\",2)",
+                      "nativeFormula":  "=MIN(\"\",2)",
+                      "value":  "#VALUE!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E52",
+                      "formula":  "=MIN(NA(),2)",
+                      "nativeFormula":  "=MIN(NA(),2)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E53",
+                      "formula":  "=MIN(A1,A2,A3,A4,A5,A6,A7,A8)",
+                      "nativeFormula":  "=MIN(A1,A2,A3,A4,A5,A6,A7,A8)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E54",
+                      "formula":  "=MIN(Amounts)",
+                      "nativeFormula":  "=MIN(Amounts)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E55",
+                      "formula":  "=MIN(Flag,2)",
+                      "nativeFormula":  "=MIN(Flag,2)",
+                      "value":  1,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E56",
+                      "formula":  "=MIN(INDIRECT(\"A1:A8\"))",
+                      "nativeFormula":  "=MIN(INDIRECT(\"A1:A8\"))",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E57",
+                      "formula":  "=MIN(INDEX(A1:A8,6))",
+                      "nativeFormula":  "=MIN(INDEX(A1:A8,6))",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E58",
+                      "formula":  "=MIN(INDEX(A1:A8,7))",
+                      "nativeFormula":  "=MIN(INDEX(A1:A8,7))",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E59",
+                      "formula":  "=MIN(INDEX(A1:B8,0,1))",
+                      "nativeFormula":  "=MIN(INDEX(A1:B8,0,1))",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E60",
+                      "formula":  "=MIN(INDEX(A1:B8,2,0))",
+                      "nativeFormula":  "=MIN(INDEX(A1:B8,2,0))",
+                      "value":  4,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E61",
+                      "formula":  "=MIN(A:A)",
+                      "nativeFormula":  "=MIN(A:A)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E62",
+                      "formula":  "=MIN(1,)",
+                      "nativeFormula":  "=MIN(1,)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E63",
+                      "formula":  "=MIN(Empty)",
+                      "nativeFormula":  "=MIN(Empty)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E64",
+                      "formula":  "=MAX(A1:A8)",
+                      "nativeFormula":  "=MAX(A1:A8)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E65",
+                      "formula":  "=MAX(A1:A5)",
+                      "nativeFormula":  "=MAX(A1:A5)",
+                      "value":  4,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E66",
+                      "formula":  "=MAX(A7)",
+                      "nativeFormula":  "=MAX(A7)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E67",
+                      "formula":  "=MAX(A6)",
+                      "nativeFormula":  "=MAX(A6)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E68",
+                      "formula":  "=MAX(A8)",
+                      "nativeFormula":  "=MAX(A8)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E69",
+                      "formula":  "=MAX(A9)",
+                      "nativeFormula":  "=MAX(A9)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E70",
+                      "formula":  "=MAX(TRUE,FALSE,\"3\",2)",
+                      "nativeFormula":  "=MAX(TRUE,FALSE,\"3\",2)",
+                      "value":  3,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E71",
+                      "formula":  "=MAX(\"bad\",2)",
+                      "nativeFormula":  "=MAX(\"bad\",2)",
+                      "value":  "#VALUE!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E72",
+                      "formula":  "=MAX(\"\",2)",
+                      "nativeFormula":  "=MAX(\"\",2)",
+                      "value":  "#VALUE!",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E73",
+                      "formula":  "=MAX(NA(),2)",
+                      "nativeFormula":  "=MAX(NA(),2)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E74",
+                      "formula":  "=MAX(A1,A2,A3,A4,A5,A6,A7,A8)",
+                      "nativeFormula":  "=MAX(A1,A2,A3,A4,A5,A6,A7,A8)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E75",
+                      "formula":  "=MAX(Amounts)",
+                      "nativeFormula":  "=MAX(Amounts)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E76",
+                      "formula":  "=MAX(Flag,2)",
+                      "nativeFormula":  "=MAX(Flag,2)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E77",
+                      "formula":  "=MAX(INDIRECT(\"A1:A8\"))",
+                      "nativeFormula":  "=MAX(INDIRECT(\"A1:A8\"))",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E78",
+                      "formula":  "=MAX(INDEX(A1:A8,6))",
+                      "nativeFormula":  "=MAX(INDEX(A1:A8,6))",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E79",
+                      "formula":  "=MAX(INDEX(A1:A8,7))",
+                      "nativeFormula":  "=MAX(INDEX(A1:A8,7))",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E80",
+                      "formula":  "=MAX(INDEX(A1:B8,0,1))",
+                      "nativeFormula":  "=MAX(INDEX(A1:B8,0,1))",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E81",
+                      "formula":  "=MAX(INDEX(A1:B8,2,0))",
+                      "nativeFormula":  "=MAX(INDEX(A1:B8,2,0))",
+                      "value":  8,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E82",
+                      "formula":  "=MAX(A:A)",
+                      "nativeFormula":  "=MAX(A:A)",
+                      "value":  "#N/A",
+                      "kind":  "error"
+                  },
+                  {
+                      "ref":  "E83",
+                      "formula":  "=MAX(1,)",
+                      "nativeFormula":  "=MAX(1,)",
+                      "value":  1,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E84",
+                      "formula":  "=MAX(Empty)",
+                      "nativeFormula":  "=MAX(Empty)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E85",
+                      "formula":  "=COUNT(A1:A8)",
+                      "nativeFormula":  "=COUNT(A1:A8)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E86",
+                      "formula":  "=COUNT(A1:A5)",
+                      "nativeFormula":  "=COUNT(A1:A5)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E87",
+                      "formula":  "=COUNT(A7)",
+                      "nativeFormula":  "=COUNT(A7)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E88",
+                      "formula":  "=COUNT(A6)",
+                      "nativeFormula":  "=COUNT(A6)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E89",
+                      "formula":  "=COUNT(A8)",
+                      "nativeFormula":  "=COUNT(A8)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E90",
+                      "formula":  "=COUNT(A9)",
+                      "nativeFormula":  "=COUNT(A9)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E91",
+                      "formula":  "=COUNT(TRUE,FALSE,\"3\",2)",
+                      "nativeFormula":  "=COUNT(TRUE,FALSE,\"3\",2)",
+                      "value":  4,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E92",
+                      "formula":  "=COUNT(\"bad\",2)",
+                      "nativeFormula":  "=COUNT(\"bad\",2)",
+                      "value":  1,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E93",
+                      "formula":  "=COUNT(\"\",2)",
+                      "nativeFormula":  "=COUNT(\"\",2)",
+                      "value":  1,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E94",
+                      "formula":  "=COUNT(NA(),2)",
+                      "nativeFormula":  "=COUNT(NA(),2)",
+                      "value":  1,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E95",
+                      "formula":  "=COUNT(A1,A2,A3,A4,A5,A6,A7,A8)",
+                      "nativeFormula":  "=COUNT(A1,A2,A3,A4,A5,A6,A7,A8)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E96",
+                      "formula":  "=COUNT(Amounts)",
+                      "nativeFormula":  "=COUNT(Amounts)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E97",
+                      "formula":  "=COUNT(Flag,2)",
+                      "nativeFormula":  "=COUNT(Flag,2)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E98",
+                      "formula":  "=COUNT(INDIRECT(\"A1:A8\"))",
+                      "nativeFormula":  "=COUNT(INDIRECT(\"A1:A8\"))",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E99",
+                      "formula":  "=COUNT(INDEX(A1:A8,6))",
+                      "nativeFormula":  "=COUNT(INDEX(A1:A8,6))",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E100",
+                      "formula":  "=COUNT(INDEX(A1:A8,7))",
+                      "nativeFormula":  "=COUNT(INDEX(A1:A8,7))",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E101",
+                      "formula":  "=COUNT(INDEX(A1:B8,0,1))",
+                      "nativeFormula":  "=COUNT(INDEX(A1:B8,0,1))",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E102",
+                      "formula":  "=COUNT(INDEX(A1:B8,2,0))",
+                      "nativeFormula":  "=COUNT(INDEX(A1:B8,2,0))",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E103",
+                      "formula":  "=COUNT(A:A)",
+                      "nativeFormula":  "=COUNT(A:A)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E104",
+                      "formula":  "=COUNT(1,)",
+                      "nativeFormula":  "=COUNT(1,)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E105",
+                      "formula":  "=COUNT(Empty)",
+                      "nativeFormula":  "=COUNT(Empty)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E106",
+                      "formula":  "=COUNTA(A1:A8)",
+                      "nativeFormula":  "=COUNTA(A1:A8)",
+                      "value":  7,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E107",
+                      "formula":  "=COUNTA(A1:A5)",
+                      "nativeFormula":  "=COUNTA(A1:A5)",
+                      "value":  5,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E108",
+                      "formula":  "=COUNTA(A7)",
+                      "nativeFormula":  "=COUNTA(A7)",
+                      "value":  1,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E109",
+                      "formula":  "=COUNTA(A6)",
+                      "nativeFormula":  "=COUNTA(A6)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E110",
+                      "formula":  "=COUNTA(A8)",
+                      "nativeFormula":  "=COUNTA(A8)",
+                      "value":  1,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E111",
+                      "formula":  "=COUNTA(A9)",
+                      "nativeFormula":  "=COUNTA(A9)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E112",
+                      "formula":  "=COUNTA(TRUE,FALSE,\"3\",2)",
+                      "nativeFormula":  "=COUNTA(TRUE,FALSE,\"3\",2)",
+                      "value":  4,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E113",
+                      "formula":  "=COUNTA(\"bad\",2)",
+                      "nativeFormula":  "=COUNTA(\"bad\",2)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E114",
+                      "formula":  "=COUNTA(\"\",2)",
+                      "nativeFormula":  "=COUNTA(\"\",2)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E115",
+                      "formula":  "=COUNTA(NA(),2)",
+                      "nativeFormula":  "=COUNTA(NA(),2)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E116",
+                      "formula":  "=COUNTA(A1,A2,A3,A4,A5,A6,A7,A8)",
+                      "nativeFormula":  "=COUNTA(A1,A2,A3,A4,A5,A6,A7,A8)",
+                      "value":  7,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E117",
+                      "formula":  "=COUNTA(Amounts)",
+                      "nativeFormula":  "=COUNTA(Amounts)",
+                      "value":  7,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E118",
+                      "formula":  "=COUNTA(Flag,2)",
+                      "nativeFormula":  "=COUNTA(Flag,2)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E119",
+                      "formula":  "=COUNTA(INDIRECT(\"A1:A8\"))",
+                      "nativeFormula":  "=COUNTA(INDIRECT(\"A1:A8\"))",
+                      "value":  7,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E120",
+                      "formula":  "=COUNTA(INDEX(A1:A8,6))",
+                      "nativeFormula":  "=COUNTA(INDEX(A1:A8,6))",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E121",
+                      "formula":  "=COUNTA(INDEX(A1:A8,7))",
+                      "nativeFormula":  "=COUNTA(INDEX(A1:A8,7))",
+                      "value":  1,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E122",
+                      "formula":  "=COUNTA(INDEX(A1:B8,0,1))",
+                      "nativeFormula":  "=COUNTA(INDEX(A1:B8,0,1))",
+                      "value":  7,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E123",
+                      "formula":  "=COUNTA(INDEX(A1:B8,2,0))",
+                      "nativeFormula":  "=COUNTA(INDEX(A1:B8,2,0))",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E124",
+                      "formula":  "=COUNTA(A:A)",
+                      "nativeFormula":  "=COUNTA(A:A)",
+                      "value":  7,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E125",
+                      "formula":  "=COUNTA(1,)",
+                      "nativeFormula":  "=COUNTA(1,)",
+                      "value":  2,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E126",
+                      "formula":  "=COUNTA(Empty)",
+                      "nativeFormula":  "=COUNTA(Empty)",
+                      "value":  0,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E127",
+                      "formula":  "=COUNTA(1,\"a\",\"\")",
+                      "nativeFormula":  "=COUNTA(1,\"a\",\"\")",
+                      "value":  3,
+                      "kind":  "value"
+                  },
+                  {
+                      "ref":  "E128",
+                      "formula":  "=AVERAGE(\"a\")",
+                      "nativeFormula":  "=AVERAGE(\"a\")",
+                      "value":  "#VALUE!",
+                      "kind":  "error"
+                  }
+              ]
+}

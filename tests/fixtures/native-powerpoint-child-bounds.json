@@ -1,0 +1,1888 @@
+{
+  "sourceSha256": "0bdcce99f5fa485644f0a81131869eea9875cffecdf6e30983bef8c6213371c8",
+  "scriptSha256": "f6b221bd00a6ca04ee86c945b5ce7adb897ad4187c526237135485d01c609531",
+  "executableSha256": "a57633850b4f82f842144b3758d1fc2d2dd71fb15036bac642aa81bd32004a55",
+  "initial": [
+    [
+      {
+        "id": 6,
+        "name": "Outer",
+        "x": 120,
+        "y": 140,
+        "w": 400,
+        "h": 135,
+        "rotation": 0,
+        "parents": [],
+        "group": true
+      },
+      {
+        "id": 2,
+        "name": "Nested A",
+        "x": 120,
+        "y": 140,
+        "w": 120,
+        "h": 67.5,
+        "rotation": 30,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 3,
+        "name": "Nested B",
+        "x": 300,
+        "y": 185,
+        "w": 90,
+        "h": 90,
+        "rotation": 0,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 5,
+        "name": "Nested C",
+        "x": 440,
+        "y": 170,
+        "w": 80,
+        "h": 75,
+        "rotation": 0,
+        "parents": [
+          6
+        ],
+        "group": false
+      }
+    ],
+    [
+      {
+        "id": 6,
+        "name": "Outer",
+        "x": 120,
+        "y": 140,
+        "w": 400,
+        "h": 180,
+        "rotation": 0,
+        "parents": [],
+        "group": true
+      },
+      {
+        "id": 2,
+        "name": "Nested A",
+        "x": 120,
+        "y": 140,
+        "w": 120,
+        "h": 90,
+        "rotation": 45,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 3,
+        "name": "Nested B",
+        "x": 300,
+        "y": 200,
+        "w": 90,
+        "h": 120,
+        "rotation": 0,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 5,
+        "name": "Nested C",
+        "x": 440,
+        "y": 180,
+        "w": 80,
+        "h": 100,
+        "rotation": 0,
+        "parents": [
+          6
+        ],
+        "group": false
+      }
+    ],
+    [
+      {
+        "id": 6,
+        "name": "Outer",
+        "x": 120,
+        "y": 140,
+        "w": 400,
+        "h": 135,
+        "rotation": 30,
+        "parents": [],
+        "group": true
+      },
+      {
+        "id": 2,
+        "name": "Nested A",
+        "x": 170.6314239501953,
+        "y": 63.27165222167969,
+        "w": 90,
+        "h": 90,
+        "rotation": 120,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 3,
+        "name": "Nested B",
+        "x": 285.400634765625,
+        "y": 194.485595703125,
+        "w": 90,
+        "h": 90,
+        "rotation": 30,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 5,
+        "name": "Nested C",
+        "x": 418.5640869140625,
+        "y": 250,
+        "w": 80,
+        "h": 75,
+        "rotation": 30,
+        "parents": [
+          6
+        ],
+        "group": false
+      }
+    ],
+    [
+      {
+        "id": 6,
+        "name": "Outer",
+        "x": 120,
+        "y": 140,
+        "w": 400,
+        "h": 135,
+        "rotation": 0,
+        "parents": [],
+        "group": true
+      },
+      {
+        "id": 2,
+        "name": "Nested A",
+        "x": 400,
+        "y": 140,
+        "w": 120,
+        "h": 67.5,
+        "rotation": 30,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 3,
+        "name": "Nested B",
+        "x": 250,
+        "y": 185,
+        "w": 90,
+        "h": 90,
+        "rotation": 0,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 5,
+        "name": "Nested C",
+        "x": 120,
+        "y": 170,
+        "w": 80,
+        "h": 75,
+        "rotation": 0,
+        "parents": [
+          6
+        ],
+        "group": false
+      }
+    ]
+  ],
+  "initialSelection": [
+    {
+      "slide": 1,
+      "count": 1,
+      "x": 120,
+      "y": 140,
+      "w": 400,
+      "h": 135,
+      "rotation": 0
+    },
+    {
+      "slide": 2,
+      "count": 1,
+      "x": 120,
+      "y": 140,
+      "w": 400,
+      "h": 180,
+      "rotation": 0
+    },
+    {
+      "slide": 3,
+      "count": 1,
+      "x": 120,
+      "y": 140,
+      "w": 400,
+      "h": 135,
+      "rotation": 30
+    },
+    {
+      "slide": 4,
+      "count": 1,
+      "x": 120,
+      "y": 140,
+      "w": 400,
+      "h": 135,
+      "rotation": 0
+    }
+  ],
+  "steps": [
+    {
+      "slide": 1,
+      "property": "Left",
+      "shapes": [
+        {
+          "id": 6,
+          "name": "Outer",
+          "x": 120,
+          "y": 140,
+          "w": 400,
+          "h": 135,
+          "rotation": 0,
+          "parents": [],
+          "group": true
+        },
+        {
+          "id": 2,
+          "name": "Nested A",
+          "x": 120,
+          "y": 140,
+          "w": 120,
+          "h": 67.5,
+          "rotation": 30,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 3,
+          "name": "Nested B",
+          "x": 312,
+          "y": 185,
+          "w": 90,
+          "h": 90,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 5,
+          "name": "Nested C",
+          "x": 440,
+          "y": 170,
+          "w": 80,
+          "h": 75,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        }
+      ]
+    },
+    {
+      "slide": 1,
+      "property": "Top",
+      "shapes": [
+        {
+          "id": 6,
+          "name": "Outer",
+          "x": 120,
+          "y": 140,
+          "w": 400,
+          "h": 144,
+          "rotation": 0,
+          "parents": [],
+          "group": true
+        },
+        {
+          "id": 2,
+          "name": "Nested A",
+          "x": 120,
+          "y": 140,
+          "w": 120,
+          "h": 67.5,
+          "rotation": 30,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 3,
+          "name": "Nested B",
+          "x": 312,
+          "y": 194,
+          "w": 90,
+          "h": 90,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 5,
+          "name": "Nested C",
+          "x": 440,
+          "y": 170,
+          "w": 80,
+          "h": 75,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        }
+      ]
+    },
+    {
+      "slide": 1,
+      "property": "Width",
+      "shapes": [
+        {
+          "id": 6,
+          "name": "Outer",
+          "x": 120,
+          "y": 140,
+          "w": 400,
+          "h": 144,
+          "rotation": 0,
+          "parents": [],
+          "group": true
+        },
+        {
+          "id": 2,
+          "name": "Nested A",
+          "x": 120,
+          "y": 140,
+          "w": 120,
+          "h": 67.5,
+          "rotation": 30,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 3,
+          "name": "Nested B",
+          "x": 312,
+          "y": 194,
+          "w": 102,
+          "h": 90,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 5,
+          "name": "Nested C",
+          "x": 440,
+          "y": 170,
+          "w": 80,
+          "h": 75,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        }
+      ]
+    },
+    {
+      "slide": 1,
+      "property": "Height",
+      "shapes": [
+        {
+          "id": 6,
+          "name": "Outer",
+          "x": 120,
+          "y": 140,
+          "w": 400,
+          "h": 153,
+          "rotation": 0,
+          "parents": [],
+          "group": true
+        },
+        {
+          "id": 2,
+          "name": "Nested A",
+          "x": 120,
+          "y": 140,
+          "w": 120,
+          "h": 67.5,
+          "rotation": 30,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 3,
+          "name": "Nested B",
+          "x": 312,
+          "y": 194,
+          "w": 102,
+          "h": 99,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 5,
+          "name": "Nested C",
+          "x": 440,
+          "y": 170,
+          "w": 80,
+          "h": 75,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        }
+      ]
+    },
+    {
+      "slide": 2,
+      "property": "Left",
+      "shapes": [
+        {
+          "id": 6,
+          "name": "Outer",
+          "x": 135,
+          "y": 125,
+          "w": 385,
+          "h": 195,
+          "rotation": 0,
+          "parents": [],
+          "group": true
+        },
+        {
+          "id": 2,
+          "name": "Nested A",
+          "x": 120,
+          "y": 140,
+          "w": 120,
+          "h": 90,
+          "rotation": 45,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 3,
+          "name": "Nested B",
+          "x": 312,
+          "y": 200,
+          "w": 90,
+          "h": 120,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 5,
+          "name": "Nested C",
+          "x": 440,
+          "y": 180,
+          "w": 80,
+          "h": 100,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        }
+      ]
+    },
+    {
+      "slide": 2,
+      "property": "Top",
+      "shapes": [
+        {
+          "id": 6,
+          "name": "Outer",
+          "x": 135,
+          "y": 125,
+          "w": 385,
+          "h": 204,
+          "rotation": 0,
+          "parents": [],
+          "group": true
+        },
+        {
+          "id": 2,
+          "name": "Nested A",
+          "x": 120,
+          "y": 140,
+          "w": 120,
+          "h": 90,
+          "rotation": 45,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 3,
+          "name": "Nested B",
+          "x": 312,
+          "y": 209,
+          "w": 90,
+          "h": 120,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 5,
+          "name": "Nested C",
+          "x": 440,
+          "y": 180,
+          "w": 80,
+          "h": 100,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        }
+      ]
+    },
+    {
+      "slide": 2,
+      "property": "Width",
+      "shapes": [
+        {
+          "id": 6,
+          "name": "Outer",
+          "x": 135,
+          "y": 125,
+          "w": 385,
+          "h": 204,
+          "rotation": 0,
+          "parents": [],
+          "group": true
+        },
+        {
+          "id": 2,
+          "name": "Nested A",
+          "x": 120,
+          "y": 140,
+          "w": 120,
+          "h": 90,
+          "rotation": 45,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 3,
+          "name": "Nested B",
+          "x": 312,
+          "y": 209,
+          "w": 102,
+          "h": 120,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 5,
+          "name": "Nested C",
+          "x": 440,
+          "y": 180,
+          "w": 80,
+          "h": 100,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        }
+      ]
+    },
+    {
+      "slide": 2,
+      "property": "Height",
+      "shapes": [
+        {
+          "id": 6,
+          "name": "Outer",
+          "x": 135,
+          "y": 125,
+          "w": 385,
+          "h": 213,
+          "rotation": 0,
+          "parents": [],
+          "group": true
+        },
+        {
+          "id": 2,
+          "name": "Nested A",
+          "x": 120,
+          "y": 140,
+          "w": 120,
+          "h": 90,
+          "rotation": 45,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 3,
+          "name": "Nested B",
+          "x": 312,
+          "y": 209,
+          "w": 102,
+          "h": 129,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 5,
+          "name": "Nested C",
+          "x": 440,
+          "y": 180,
+          "w": 80,
+          "h": 100,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        }
+      ]
+    },
+    {
+      "slide": 3,
+      "property": "Left",
+      "shapes": [
+        {
+          "id": 6,
+          "name": "Outer",
+          "x": 138.30772399902344,
+          "y": 133.655517578125,
+          "w": 385,
+          "h": 140.25,
+          "rotation": 30,
+          "parents": [],
+          "group": true
+        },
+        {
+          "id": 2,
+          "name": "Nested A",
+          "x": 170.6314239501953,
+          "y": 63.27165222167969,
+          "w": 90,
+          "h": 90,
+          "rotation": 120,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 3,
+          "name": "Nested B",
+          "x": 297.400634765625,
+          "y": 194.4855194091797,
+          "w": 90,
+          "h": 90,
+          "rotation": 30,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 5,
+          "name": "Nested C",
+          "x": 418.5640869140625,
+          "y": 250,
+          "w": 80,
+          "h": 75,
+          "rotation": 30,
+          "parents": [
+            6
+          ],
+          "group": false
+        }
+      ]
+    },
+    {
+      "slide": 3,
+      "property": "Top",
+      "shapes": [
+        {
+          "id": 6,
+          "name": "Outer",
+          "x": 136.359130859375,
+          "y": 133.13339233398438,
+          "w": 385,
+          "h": 148.04425048828125,
+          "rotation": 30,
+          "parents": [],
+          "group": true
+        },
+        {
+          "id": 2,
+          "name": "Nested A",
+          "x": 170.6314239501953,
+          "y": 63.27165222167969,
+          "w": 90.00007629394531,
+          "h": 90,
+          "rotation": 120,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 3,
+          "name": "Nested B",
+          "x": 297.400634765625,
+          "y": 203.4855194091797,
+          "w": 90,
+          "h": 90.00007629394531,
+          "rotation": 30,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 5,
+          "name": "Nested C",
+          "x": 418.5640869140625,
+          "y": 250,
+          "w": 80,
+          "h": 75,
+          "rotation": 30,
+          "parents": [
+            6
+          ],
+          "group": false
+        }
+      ]
+    },
+    {
+      "slide": 3,
+      "property": "Width",
+      "shapes": [
+        {
+          "id": 6,
+          "name": "Outer",
+          "x": 136.359130859375,
+          "y": 133.13339233398438,
+          "w": 385,
+          "h": 148.04425048828125,
+          "rotation": 30,
+          "parents": [],
+          "group": true
+        },
+        {
+          "id": 2,
+          "name": "Nested A",
+          "x": 170.6314239501953,
+          "y": 63.27165222167969,
+          "w": 90.00007629394531,
+          "h": 90,
+          "rotation": 120,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 3,
+          "name": "Nested B",
+          "x": 296.5967712402344,
+          "y": 206.4855194091797,
+          "w": 102,
+          "h": 90.00007629394531,
+          "rotation": 30,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 5,
+          "name": "Nested C",
+          "x": 418.5640869140625,
+          "y": 250,
+          "w": 80,
+          "h": 75,
+          "rotation": 30,
+          "parents": [
+            6
+          ],
+          "group": false
+        }
+      ]
+    },
+    {
+      "slide": 3,
+      "property": "Height",
+      "shapes": [
+        {
+          "id": 6,
+          "name": "Outer",
+          "x": 134.109130859375,
+          "y": 132.5304718017578,
+          "w": 385,
+          "h": 157.04425048828125,
+          "rotation": 30,
+          "parents": [],
+          "group": true
+        },
+        {
+          "id": 2,
+          "name": "Nested A",
+          "x": 170.6314239501953,
+          "y": 63.271575927734375,
+          "w": 90.00007629394531,
+          "h": 90,
+          "rotation": 120,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 3,
+          "name": "Nested B",
+          "x": 294.3467712402344,
+          "y": 205.88259887695312,
+          "w": 102,
+          "h": 99.00007629394531,
+          "rotation": 30,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 5,
+          "name": "Nested C",
+          "x": 418.5640869140625,
+          "y": 249.9999237060547,
+          "w": 80,
+          "h": 75,
+          "rotation": 30,
+          "parents": [
+            6
+          ],
+          "group": false
+        }
+      ]
+    },
+    {
+      "slide": 4,
+      "property": "Left",
+      "shapes": [
+        {
+          "id": 6,
+          "name": "Outer",
+          "x": 120,
+          "y": 140,
+          "w": 400,
+          "h": 135,
+          "rotation": 0,
+          "parents": [],
+          "group": true
+        },
+        {
+          "id": 2,
+          "name": "Nested A",
+          "x": 400,
+          "y": 140,
+          "w": 120,
+          "h": 67.5,
+          "rotation": 30,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 3,
+          "name": "Nested B",
+          "x": 262,
+          "y": 185,
+          "w": 90,
+          "h": 90,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 5,
+          "name": "Nested C",
+          "x": 120,
+          "y": 170,
+          "w": 80,
+          "h": 75,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        }
+      ]
+    },
+    {
+      "slide": 4,
+      "property": "Top",
+      "shapes": [
+        {
+          "id": 6,
+          "name": "Outer",
+          "x": 120,
+          "y": 140,
+          "w": 400,
+          "h": 144,
+          "rotation": 0,
+          "parents": [],
+          "group": true
+        },
+        {
+          "id": 2,
+          "name": "Nested A",
+          "x": 400,
+          "y": 140,
+          "w": 120,
+          "h": 67.5,
+          "rotation": 30,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 3,
+          "name": "Nested B",
+          "x": 262,
+          "y": 194,
+          "w": 90,
+          "h": 90,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 5,
+          "name": "Nested C",
+          "x": 120,
+          "y": 170,
+          "w": 80,
+          "h": 75,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        }
+      ]
+    },
+    {
+      "slide": 4,
+      "property": "Width",
+      "shapes": [
+        {
+          "id": 6,
+          "name": "Outer",
+          "x": 120,
+          "y": 140,
+          "w": 400,
+          "h": 144,
+          "rotation": 0,
+          "parents": [],
+          "group": true
+        },
+        {
+          "id": 2,
+          "name": "Nested A",
+          "x": 400,
+          "y": 140,
+          "w": 120,
+          "h": 67.5,
+          "rotation": 30,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 3,
+          "name": "Nested B",
+          "x": 262,
+          "y": 194,
+          "w": 102,
+          "h": 90,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 5,
+          "name": "Nested C",
+          "x": 120,
+          "y": 170,
+          "w": 80,
+          "h": 75,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        }
+      ]
+    },
+    {
+      "slide": 4,
+      "property": "Height",
+      "shapes": [
+        {
+          "id": 6,
+          "name": "Outer",
+          "x": 120,
+          "y": 140,
+          "w": 400,
+          "h": 153,
+          "rotation": 0,
+          "parents": [],
+          "group": true
+        },
+        {
+          "id": 2,
+          "name": "Nested A",
+          "x": 400,
+          "y": 140,
+          "w": 120,
+          "h": 67.5,
+          "rotation": 30,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 3,
+          "name": "Nested B",
+          "x": 262,
+          "y": 194,
+          "w": 102,
+          "h": 99,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        },
+        {
+          "id": 5,
+          "name": "Nested C",
+          "x": 120,
+          "y": 170,
+          "w": 80,
+          "h": 75,
+          "rotation": 0,
+          "parents": [
+            6
+          ],
+          "group": false
+        }
+      ]
+    }
+  ],
+  "edited": [
+    [
+      {
+        "id": 6,
+        "name": "Outer",
+        "x": 120,
+        "y": 140,
+        "w": 400,
+        "h": 153,
+        "rotation": 0,
+        "parents": [],
+        "group": true
+      },
+      {
+        "id": 2,
+        "name": "Nested A",
+        "x": 120,
+        "y": 140,
+        "w": 120,
+        "h": 67.5,
+        "rotation": 30,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 3,
+        "name": "Nested B",
+        "x": 312,
+        "y": 194,
+        "w": 102,
+        "h": 99,
+        "rotation": 0,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 5,
+        "name": "Nested C",
+        "x": 440,
+        "y": 170,
+        "w": 80,
+        "h": 75,
+        "rotation": 0,
+        "parents": [
+          6
+        ],
+        "group": false
+      }
+    ],
+    [
+      {
+        "id": 6,
+        "name": "Outer",
+        "x": 135,
+        "y": 125,
+        "w": 385,
+        "h": 213,
+        "rotation": 0,
+        "parents": [],
+        "group": true
+      },
+      {
+        "id": 2,
+        "name": "Nested A",
+        "x": 120,
+        "y": 140,
+        "w": 120,
+        "h": 90,
+        "rotation": 45,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 3,
+        "name": "Nested B",
+        "x": 312,
+        "y": 209,
+        "w": 102,
+        "h": 129,
+        "rotation": 0,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 5,
+        "name": "Nested C",
+        "x": 440,
+        "y": 180,
+        "w": 80,
+        "h": 100,
+        "rotation": 0,
+        "parents": [
+          6
+        ],
+        "group": false
+      }
+    ],
+    [
+      {
+        "id": 6,
+        "name": "Outer",
+        "x": 134.109130859375,
+        "y": 132.5304718017578,
+        "w": 385,
+        "h": 157.04425048828125,
+        "rotation": 30,
+        "parents": [],
+        "group": true
+      },
+      {
+        "id": 2,
+        "name": "Nested A",
+        "x": 170.6314239501953,
+        "y": 63.271575927734375,
+        "w": 90.00007629394531,
+        "h": 90,
+        "rotation": 120,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 3,
+        "name": "Nested B",
+        "x": 294.3467712402344,
+        "y": 205.88259887695312,
+        "w": 102,
+        "h": 99.00007629394531,
+        "rotation": 30,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 5,
+        "name": "Nested C",
+        "x": 418.5640869140625,
+        "y": 249.9999237060547,
+        "w": 80,
+        "h": 75,
+        "rotation": 30,
+        "parents": [
+          6
+        ],
+        "group": false
+      }
+    ],
+    [
+      {
+        "id": 6,
+        "name": "Outer",
+        "x": 120,
+        "y": 140,
+        "w": 400,
+        "h": 153,
+        "rotation": 0,
+        "parents": [],
+        "group": true
+      },
+      {
+        "id": 2,
+        "name": "Nested A",
+        "x": 400,
+        "y": 140,
+        "w": 120,
+        "h": 67.5,
+        "rotation": 30,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 3,
+        "name": "Nested B",
+        "x": 262,
+        "y": 194,
+        "w": 102,
+        "h": 99,
+        "rotation": 0,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 5,
+        "name": "Nested C",
+        "x": 120,
+        "y": 170,
+        "w": 80,
+        "h": 75,
+        "rotation": 0,
+        "parents": [
+          6
+        ],
+        "group": false
+      }
+    ]
+  ],
+  "editedSelection": [
+    {
+      "slide": 1,
+      "count": 1,
+      "x": 120,
+      "y": 140,
+      "w": 400,
+      "h": 153,
+      "rotation": 0
+    },
+    {
+      "slide": 2,
+      "count": 1,
+      "x": 135,
+      "y": 125,
+      "w": 385,
+      "h": 213,
+      "rotation": 0
+    },
+    {
+      "slide": 3,
+      "count": 1,
+      "x": 134.109130859375,
+      "y": 132.5304718017578,
+      "w": 385,
+      "h": 157.04425048828125,
+      "rotation": 30
+    },
+    {
+      "slide": 4,
+      "count": 1,
+      "x": 120,
+      "y": 140,
+      "w": 400,
+      "h": 153,
+      "rotation": 0
+    }
+  ],
+  "reopened": [
+    [
+      {
+        "id": 6,
+        "name": "Outer",
+        "x": 120,
+        "y": 140,
+        "w": 400,
+        "h": 153,
+        "rotation": 0,
+        "parents": [],
+        "group": true
+      },
+      {
+        "id": 2,
+        "name": "Nested A",
+        "x": 120,
+        "y": 140,
+        "w": 120,
+        "h": 67.5,
+        "rotation": 30,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 3,
+        "name": "Nested B",
+        "x": 312,
+        "y": 194,
+        "w": 102,
+        "h": 99,
+        "rotation": 0,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 5,
+        "name": "Nested C",
+        "x": 440,
+        "y": 170,
+        "w": 80,
+        "h": 75,
+        "rotation": 0,
+        "parents": [
+          6
+        ],
+        "group": false
+      }
+    ],
+    [
+      {
+        "id": 6,
+        "name": "Outer",
+        "x": 135,
+        "y": 125,
+        "w": 385,
+        "h": 213,
+        "rotation": 0,
+        "parents": [],
+        "group": true
+      },
+      {
+        "id": 2,
+        "name": "Nested A",
+        "x": 120,
+        "y": 140,
+        "w": 120,
+        "h": 90,
+        "rotation": 45,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 3,
+        "name": "Nested B",
+        "x": 312,
+        "y": 209,
+        "w": 102,
+        "h": 129,
+        "rotation": 0,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 5,
+        "name": "Nested C",
+        "x": 440,
+        "y": 180,
+        "w": 80,
+        "h": 100,
+        "rotation": 0,
+        "parents": [
+          6
+        ],
+        "group": false
+      }
+    ],
+    [
+      {
+        "id": 6,
+        "name": "Outer",
+        "x": 134.109130859375,
+        "y": 132.5304718017578,
+        "w": 385,
+        "h": 157.04425048828125,
+        "rotation": 30,
+        "parents": [],
+        "group": true
+      },
+      {
+        "id": 2,
+        "name": "Nested A",
+        "x": 170.6314239501953,
+        "y": 63.271575927734375,
+        "w": 90.00007629394531,
+        "h": 90,
+        "rotation": 120,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 3,
+        "name": "Nested B",
+        "x": 294.3467712402344,
+        "y": 205.88259887695312,
+        "w": 102,
+        "h": 99.00007629394531,
+        "rotation": 30,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 5,
+        "name": "Nested C",
+        "x": 418.5640869140625,
+        "y": 249.9999237060547,
+        "w": 80,
+        "h": 75,
+        "rotation": 30,
+        "parents": [
+          6
+        ],
+        "group": false
+      }
+    ],
+    [
+      {
+        "id": 6,
+        "name": "Outer",
+        "x": 120,
+        "y": 140,
+        "w": 400,
+        "h": 153,
+        "rotation": 0,
+        "parents": [],
+        "group": true
+      },
+      {
+        "id": 2,
+        "name": "Nested A",
+        "x": 400,
+        "y": 140,
+        "w": 120,
+        "h": 67.5,
+        "rotation": 30,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 3,
+        "name": "Nested B",
+        "x": 262,
+        "y": 194,
+        "w": 102,
+        "h": 99,
+        "rotation": 0,
+        "parents": [
+          6
+        ],
+        "group": false
+      },
+      {
+        "id": 5,
+        "name": "Nested C",
+        "x": 120,
+        "y": 170,
+        "w": 80,
+        "h": 75,
+        "rotation": 0,
+        "parents": [
+          6
+        ],
+        "group": false
+      }
+    ]
+  ],
+  "selection": [
+    {
+      "slide": 1,
+      "count": 1,
+      "x": 120,
+      "y": 140,
+      "w": 400,
+      "h": 153,
+      "rotation": 0
+    },
+    {
+      "slide": 2,
+      "count": 1,
+      "x": 135,
+      "y": 125,
+      "w": 385,
+      "h": 213,
+      "rotation": 0
+    },
+    {
+      "slide": 3,
+      "count": 1,
+      "x": 134.109130859375,
+      "y": 132.5304718017578,
+      "w": 385,
+      "h": 157.04425048828125,
+      "rotation": 30
+    },
+    {
+      "slide": 4,
+      "count": 1,
+      "x": 120,
+      "y": 140,
+      "w": 400,
+      "h": 153,
+      "rotation": 0
+    }
+  ],
+  "effective": [
+    [
+      {
+        "id": 2,
+        "name": "Nested A",
+        "x": 120,
+        "y": 140,
+        "w": 120,
+        "h": 67.5,
+        "rotation": 30,
+        "parents": [],
+        "group": false
+      },
+      {
+        "id": 3,
+        "name": "Nested B",
+        "x": 312,
+        "y": 194,
+        "w": 102,
+        "h": 99,
+        "rotation": 0,
+        "parents": [],
+        "group": false
+      },
+      {
+        "id": 5,
+        "name": "Nested C",
+        "x": 440,
+        "y": 170,
+        "w": 80,
+        "h": 75,
+        "rotation": 0,
+        "parents": [],
+        "group": false
+      }
+    ],
+    [
+      {
+        "id": 2,
+        "name": "Nested A",
+        "x": 120,
+        "y": 140,
+        "w": 120,
+        "h": 90,
+        "rotation": 45,
+        "parents": [],
+        "group": false
+      },
+      {
+        "id": 3,
+        "name": "Nested B",
+        "x": 312,
+        "y": 209,
+        "w": 102,
+        "h": 129,
+        "rotation": 0,
+        "parents": [],
+        "group": false
+      },
+      {
+        "id": 5,
+        "name": "Nested C",
+        "x": 440,
+        "y": 180,
+        "w": 80,
+        "h": 100,
+        "rotation": 0,
+        "parents": [],
+        "group": false
+      }
+    ],
+    [
+      {
+        "id": 2,
+        "name": "Nested A",
+        "x": 170.6314239501953,
+        "y": 63.271575927734375,
+        "w": 90.00007629394531,
+        "h": 90,
+        "rotation": 120,
+        "parents": [],
+        "group": false
+      },
+      {
+        "id": 3,
+        "name": "Nested B",
+        "x": 294.3467712402344,
+        "y": 205.88259887695312,
+        "w": 102,
+        "h": 99.00007629394531,
+        "rotation": 30,
+        "parents": [],
+        "group": false
+      },
+      {
+        "id": 5,
+        "name": "Nested C",
+        "x": 418.5640869140625,
+        "y": 249.9999237060547,
+        "w": 80,
+        "h": 75,
+        "rotation": 30,
+        "parents": [],
+        "group": false
+      }
+    ],
+    [
+      {
+        "id": 2,
+        "name": "Nested A",
+        "x": 400,
+        "y": 140,
+        "w": 120,
+        "h": 67.5,
+        "rotation": 30,
+        "parents": [],
+        "group": false
+      },
+      {
+        "id": 3,
+        "name": "Nested B",
+        "x": 262,
+        "y": 194,
+        "w": 102,
+        "h": 99,
+        "rotation": 0,
+        "parents": [],
+        "group": false
+      },
+      {
+        "id": 5,
+        "name": "Nested C",
+        "x": 120,
+        "y": 170,
+        "w": 80,
+        "h": 75,
+        "rotation": 0,
+        "parents": [],
+        "group": false
+      }
+    ]
+  ],
+  "transforms": [
+    [
+      {
+        "id": "6",
+        "off.x": 1524000,
+        "off.y": 1778000,
+        "ext.cx": 5080000,
+        "ext.cy": 1943100,
+        "chOff.x": 889000,
+        "chOff.y": 1016000,
+        "chExt.cx": 2540000,
+        "chExt.cy": 1295400
+      },
+      {
+        "id": "4",
+        "off.x": 889000,
+        "off.y": 1016000,
+        "ext.cx": 1866900,
+        "ext.cy": 1295400,
+        "chOff.x": 635000,
+        "chOff.y": 762000,
+        "chExt.cx": 1244600,
+        "chExt.cy": 863600
+      }
+    ],
+    [
+      {
+        "id": "6",
+        "off.x": 1714500,
+        "off.y": 1587500,
+        "ext.cx": 4889500,
+        "ext.cy": 2705100,
+        "chOff.x": 984250,
+        "chOff.y": 920750,
+        "chExt.cx": 2444750,
+        "chExt.cy": 1352550
+      },
+      {
+        "id": "4",
+        "off.x": 984250,
+        "off.y": 920750,
+        "ext.cx": 1771650,
+        "ext.cy": 1352550,
+        "chOff.x": 698500,
+        "chOff.y": 698500,
+        "chExt.cx": 1181100,
+        "chExt.cy": 901700
+      }
+    ],
+    [
+      {
+        "id": "6",
+        "off.x": 1703186,
+        "off.y": 1683137,
+        "ext.cx": 4889500,
+        "ext.cy": 1994462,
+        "chOff.x": 984250,
+        "chOff.y": 920750,
+        "chExt.cx": 2444750,
+        "chExt.cy": 1329641
+      },
+      {
+        "id": "4",
+        "off.x": 984250,
+        "off.y": 920750,
+        "ext.cx": 1790016,
+        "ext.cy": 1329641,
+        "chOff.x": 698500,
+        "chOff.y": 698500,
+        "chExt.cx": 1193344,
+        "chExt.cy": 886427
+      }
+    ],
+    [
+      {
+        "id": "6",
+        "off.x": 1524000,
+        "off.y": 1778000,
+        "ext.cx": 5080000,
+        "ext.cy": 1943100,
+        "chOff.x": 889000,
+        "chOff.y": 1016000,
+        "chExt.cx": 2540000,
+        "chExt.cy": 1295400
+      },
+      {
+        "id": "4",
+        "off.x": 889000,
+        "off.y": 1016000,
+        "ext.cx": 1638300,
+        "ext.cy": 1295400,
+        "chOff.x": 635000,
+        "chOff.y": 762000,
+        "chExt.cx": 1092200,
+        "chExt.cy": 863600
+      }
+    ]
+  ],
+  "expectedSha256": "3758dad418764b28c49f362e720a1961a9b4fd6cc8c962a27a20e30b5ab5c23a"
+}

@@ -1,0 +1,1965 @@
+{
+  "scriptSha256": "9f61e9df75b02a20a1e1d9b29140c535335269a3e71edf064312b45494905dcf",
+  "rows": [
+    {
+      "angle": 0,
+      "sourceSha256": "c4c690d0d88cc234427c22ed055acc50e33ba4b76966fcc9036bc02ad6a316da",
+      "expectedSha256": "c0565e51a7080e405d0793e0af9e3c6f8f7e223154b779d471aa4f3f7cc9768b",
+      "transforms": [
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 2286000,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1543049,
+            "off.y": 1783106,
+            "ext.cx": 5080000,
+            "ext.cy": 1638300,
+            "chOff.x": 889000,
+            "chOff.y": 1016001,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1092200
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016001,
+            "ext.cx": 1780491,
+            "ext.cy": 1092200,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1186994,
+            "chExt.cy": 728133
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1638300,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1092200,
+            "chExt.cy": 762000
+          }
+        ]
+      ]
+    },
+    {
+      "angle": 30,
+      "sourceSha256": "f241fed9cb2083e1e90617dbc8ef5c8591809a951eaa28c5af8bf5d14ef8ba22",
+      "expectedSha256": "7e80d5b234e0ccb63f89b5a9fb43ee743daa99c781f6065d0ea5641573ef3db3",
+      "transforms": [
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 2286000,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1543049,
+            "off.y": 1783106,
+            "ext.cx": 5080000,
+            "ext.cy": 1638300,
+            "chOff.x": 889000,
+            "chOff.y": 1016001,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1092200
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016001,
+            "ext.cx": 1780491,
+            "ext.cy": 1092200,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1186994,
+            "chExt.cy": 728133
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1638300,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1092200,
+            "chExt.cy": 762000
+          }
+        ]
+      ]
+    },
+    {
+      "angle": 44.999,
+      "sourceSha256": "9c61ce42e383304bf0421b24bd95a322b63cd691e350ca3305d3c9c9b01da760",
+      "expectedSha256": "577a69991a75dc15cdcf663a23e078d4bf210e034c7ef56a46b03b3a9e12a672",
+      "transforms": [
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 2286000,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1543049,
+            "off.y": 1783106,
+            "ext.cx": 5080000,
+            "ext.cy": 1638300,
+            "chOff.x": 889000,
+            "chOff.y": 1016001,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1092200
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016001,
+            "ext.cx": 1780491,
+            "ext.cy": 1092200,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1186994,
+            "chExt.cy": 728133
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1638300,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1092200,
+            "chExt.cy": 762000
+          }
+        ]
+      ]
+    },
+    {
+      "angle": 45,
+      "sourceSha256": "fdea6907a94fb7c8f0a6a9a53e2271fd59428902783e8cad220d324efbc28b2c",
+      "expectedSha256": "78cd8dde87ba45b382107ac8c38c3bf362fbe3bc6e3ee18853d15df3f60a9736",
+      "transforms": [
+        [
+          {
+            "id": "6",
+            "off.x": 1714500,
+            "off.y": 1635125,
+            "ext.cx": 4889500,
+            "ext.cy": 1857375,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1695450,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1130300,
+            "chExt.cy": 825500
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1714500,
+            "off.y": 1587500,
+            "ext.cx": 4889500,
+            "ext.cy": 2476500,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1695450,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1130300,
+            "chExt.cy": 825500
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1756508,
+            "off.y": 1697425,
+            "ext.cx": 4889500,
+            "ext.cy": 1781175,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1187450
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1685241,
+            "ext.cy": 1187450,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1123494,
+            "chExt.cy": 791633
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1635125,
+            "ext.cx": 4889500,
+            "ext.cy": 1857375,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1543050,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1028700,
+            "chExt.cy": 825500
+          }
+        ]
+      ]
+    },
+    {
+      "angle": 45.001,
+      "sourceSha256": "345714777bcc2ae049b2e9e16f470197b481ea2cab020ccc097f3c1fbf85953a",
+      "expectedSha256": "53a7a4bb4028baa2707afea4a074705db17329651272624321435607003e94da",
+      "transforms": [
+        [
+          {
+            "id": "6",
+            "off.x": 1714500,
+            "off.y": 1635125,
+            "ext.cx": 4889500,
+            "ext.cy": 1857375,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1695450,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1130300,
+            "chExt.cy": 825500
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1714500,
+            "off.y": 1587500,
+            "ext.cx": 4889500,
+            "ext.cy": 2476500,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1695450,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1130300,
+            "chExt.cy": 825500
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1756508,
+            "off.y": 1697425,
+            "ext.cx": 4889500,
+            "ext.cy": 1781175,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1187450
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1685241,
+            "ext.cy": 1187450,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1123494,
+            "chExt.cy": 791633
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1635125,
+            "ext.cx": 4889500,
+            "ext.cy": 1857375,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1543050,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1028700,
+            "chExt.cy": 825500
+          }
+        ]
+      ]
+    },
+    {
+      "angle": 90,
+      "sourceSha256": "848570f483b3498a9954c9858a2d36b9e29d98b2fac77070d40a5d6c7bc4f2f1",
+      "expectedSha256": "8f904f830da1c334f1923dc14d7ff144ab5f11c1d26658442f3fe3909ef610ab",
+      "transforms": [
+        [
+          {
+            "id": "6",
+            "off.x": 1714500,
+            "off.y": 1635125,
+            "ext.cx": 4889500,
+            "ext.cy": 1857375,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1695450,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1130300,
+            "chExt.cy": 825500
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1714500,
+            "off.y": 1587500,
+            "ext.cx": 4889500,
+            "ext.cy": 2476500,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1695450,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1130300,
+            "chExt.cy": 825500
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1756508,
+            "off.y": 1697425,
+            "ext.cx": 4889500,
+            "ext.cy": 1781175,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1187450
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1685241,
+            "ext.cy": 1187450,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1123494,
+            "chExt.cy": 791633
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1635125,
+            "ext.cx": 4889500,
+            "ext.cy": 1857375,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1543050,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1028700,
+            "chExt.cy": 825500
+          }
+        ]
+      ]
+    },
+    {
+      "angle": 134.999,
+      "sourceSha256": "456f05a9c66dbc113e1f3b1d07f7642481c25042c2e3b69b785e5eecb8049c18",
+      "expectedSha256": "3a8c18107c534d1f7363c81d4cc407b69b2a6073b90763ab72b701e01e649c87",
+      "transforms": [
+        [
+          {
+            "id": "6",
+            "off.x": 1714500,
+            "off.y": 1635125,
+            "ext.cx": 4889500,
+            "ext.cy": 1857375,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1695450,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1130300,
+            "chExt.cy": 825500
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1714500,
+            "off.y": 1587500,
+            "ext.cx": 4889500,
+            "ext.cy": 2476500,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1695450,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1130300,
+            "chExt.cy": 825500
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1756508,
+            "off.y": 1697425,
+            "ext.cx": 4889500,
+            "ext.cy": 1781175,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1187450
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1685241,
+            "ext.cy": 1187450,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1123494,
+            "chExt.cy": 791633
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1635125,
+            "ext.cx": 4889500,
+            "ext.cy": 1857375,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1543050,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1028700,
+            "chExt.cy": 825500
+          }
+        ]
+      ]
+    },
+    {
+      "angle": 135,
+      "sourceSha256": "588e7e4252d7a726e4b94aab7527b4cc88663ec83c63105d43aacd92421a0b6d",
+      "expectedSha256": "b6c0e3f4d98413a607a7ee0d4501b4db554e0de7ec50d792f720c357e81faad6",
+      "transforms": [
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 2286000,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1543049,
+            "off.y": 1783106,
+            "ext.cx": 5080000,
+            "ext.cy": 1638300,
+            "chOff.x": 889000,
+            "chOff.y": 1016001,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1092200
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016001,
+            "ext.cx": 1780491,
+            "ext.cy": 1092200,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1186994,
+            "chExt.cy": 728133
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1638300,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1092200,
+            "chExt.cy": 762000
+          }
+        ]
+      ]
+    },
+    {
+      "angle": 135.001,
+      "sourceSha256": "37784f8d7df94e328366893371959761389e7dda8a4869907ee03004ba70b1e9",
+      "expectedSha256": "f319adea0cf18173824cf62b853ba077f4cd5ee16e07a9f6933d30ccb79f707f",
+      "transforms": [
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 2286000,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1543049,
+            "off.y": 1783106,
+            "ext.cx": 5080000,
+            "ext.cy": 1638300,
+            "chOff.x": 889000,
+            "chOff.y": 1016001,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1092200
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016001,
+            "ext.cx": 1780491,
+            "ext.cy": 1092200,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1186994,
+            "chExt.cy": 728133
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1638300,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1092200,
+            "chExt.cy": 762000
+          }
+        ]
+      ]
+    },
+    {
+      "angle": 180,
+      "sourceSha256": "0ef6df0b78c0f62dbb9dee97ea93195fe67f9459c94c009295f2943b68756e9a",
+      "expectedSha256": "623874d834b00ef355ced8d4dd0bd1d043fbdfca3d162a1f9b322a37a46608bf",
+      "transforms": [
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 2286000,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1543049,
+            "off.y": 1783106,
+            "ext.cx": 5080000,
+            "ext.cy": 1638300,
+            "chOff.x": 889000,
+            "chOff.y": 1016001,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1092200
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016001,
+            "ext.cx": 1780491,
+            "ext.cy": 1092200,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1186994,
+            "chExt.cy": 728133
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1638300,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1092200,
+            "chExt.cy": 762000
+          }
+        ]
+      ]
+    },
+    {
+      "angle": 224.999,
+      "sourceSha256": "dd2c45d4a38b11aa74eb0f04141d95d2a854fb55e1f1671551d0145d1fdc60e1",
+      "expectedSha256": "71eacdcd7378907271cee447aa24fd91158e381e2caf6e50f186189178e1adad",
+      "transforms": [
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 2286000,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1543049,
+            "off.y": 1783106,
+            "ext.cx": 5080000,
+            "ext.cy": 1638300,
+            "chOff.x": 889000,
+            "chOff.y": 1016001,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1092200
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016001,
+            "ext.cx": 1780491,
+            "ext.cy": 1092200,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1186994,
+            "chExt.cy": 728133
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1638300,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1092200,
+            "chExt.cy": 762000
+          }
+        ]
+      ]
+    },
+    {
+      "angle": 225,
+      "sourceSha256": "940d97ac488ea0fa716361112e40c5d34718b160ebd9dfc4f6cdeb99271bddcb",
+      "expectedSha256": "b22682ebb2280215c3af5fe9c0b7730cc9dfd8d420e7c3c3fca9acc80f77545f",
+      "transforms": [
+        [
+          {
+            "id": "6",
+            "off.x": 1714500,
+            "off.y": 1635125,
+            "ext.cx": 4889500,
+            "ext.cy": 1857375,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1695450,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1130300,
+            "chExt.cy": 825500
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1714500,
+            "off.y": 1587500,
+            "ext.cx": 4889500,
+            "ext.cy": 2476500,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1695450,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1130300,
+            "chExt.cy": 825500
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1756508,
+            "off.y": 1697425,
+            "ext.cx": 4889500,
+            "ext.cy": 1781175,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1187450
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1685241,
+            "ext.cy": 1187450,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1123494,
+            "chExt.cy": 791633
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1635125,
+            "ext.cx": 4889500,
+            "ext.cy": 1857375,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1543050,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1028700,
+            "chExt.cy": 825500
+          }
+        ]
+      ]
+    },
+    {
+      "angle": 225.001,
+      "sourceSha256": "d9d2582219a77ab6f880b36e6d292b30d91ff3b0f07e826acd999f10d38cc6b1",
+      "expectedSha256": "d8f888a5148b02a8cdc878a6cd0536407814f9c49168f2cd2be1f620e04ef411",
+      "transforms": [
+        [
+          {
+            "id": "6",
+            "off.x": 1714500,
+            "off.y": 1635125,
+            "ext.cx": 4889500,
+            "ext.cy": 1857375,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1695450,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1130300,
+            "chExt.cy": 825500
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1714500,
+            "off.y": 1587500,
+            "ext.cx": 4889500,
+            "ext.cy": 2476500,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1695450,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1130300,
+            "chExt.cy": 825500
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1756508,
+            "off.y": 1697425,
+            "ext.cx": 4889500,
+            "ext.cy": 1781175,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1187450
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1685241,
+            "ext.cy": 1187450,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1123494,
+            "chExt.cy": 791633
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1635125,
+            "ext.cx": 4889500,
+            "ext.cy": 1857375,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1543050,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1028700,
+            "chExt.cy": 825500
+          }
+        ]
+      ]
+    },
+    {
+      "angle": 270,
+      "sourceSha256": "d92f543d035411e86e1c2d0a03955e8c4d4fdc2ce421136861401835aca5b95b",
+      "expectedSha256": "7c684b3c70ad2cd12a1a97526d29e0eb8c38f6dcf67684540987562023dfde5b",
+      "transforms": [
+        [
+          {
+            "id": "6",
+            "off.x": 1714500,
+            "off.y": 1635125,
+            "ext.cx": 4889500,
+            "ext.cy": 1857375,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1695450,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1130300,
+            "chExt.cy": 825500
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1714500,
+            "off.y": 1587500,
+            "ext.cx": 4889500,
+            "ext.cy": 2476500,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1695450,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1130300,
+            "chExt.cy": 825500
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1756508,
+            "off.y": 1697425,
+            "ext.cx": 4889500,
+            "ext.cy": 1781175,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1187450
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1685241,
+            "ext.cy": 1187450,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1123494,
+            "chExt.cy": 791633
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1635125,
+            "ext.cx": 4889500,
+            "ext.cy": 1857375,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1543050,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1028700,
+            "chExt.cy": 825500
+          }
+        ]
+      ]
+    },
+    {
+      "angle": 314.999,
+      "sourceSha256": "5858708f66e241d43baf0be00c4aa6b13977e9c9c148903f4fec90532443edc3",
+      "expectedSha256": "8a6d01716b5ede4702018a39720e6034f5bf038425d36fd7381e2c27cbdf6249",
+      "transforms": [
+        [
+          {
+            "id": "6",
+            "off.x": 1714500,
+            "off.y": 1635125,
+            "ext.cx": 4889500,
+            "ext.cy": 1857375,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1695450,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1130300,
+            "chExt.cy": 825500
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1714500,
+            "off.y": 1587500,
+            "ext.cx": 4889500,
+            "ext.cy": 2476500,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1695450,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1130300,
+            "chExt.cy": 825500
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1756508,
+            "off.y": 1697425,
+            "ext.cx": 4889500,
+            "ext.cy": 1781175,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1187450
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1685241,
+            "ext.cy": 1187450,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1123494,
+            "chExt.cy": 791633
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1635125,
+            "ext.cx": 4889500,
+            "ext.cy": 1857375,
+            "chOff.x": 984250,
+            "chOff.y": 920750,
+            "chExt.cx": 2444750,
+            "chExt.cy": 1238250
+          },
+          {
+            "id": "4",
+            "off.x": 984250,
+            "off.y": 920750,
+            "ext.cx": 1543050,
+            "ext.cy": 1238250,
+            "chOff.x": 698500,
+            "chOff.y": 698500,
+            "chExt.cx": 1028700,
+            "chExt.cy": 825500
+          }
+        ]
+      ]
+    },
+    {
+      "angle": 315,
+      "sourceSha256": "c905526ca261b2ea4d1cd2aed8cae63a39a24274d4c283405d31bcc45c115c66",
+      "expectedSha256": "81ce0211d5505427864885e0d154657411c7ab0b0eebcd10d6ef44b812d0de54",
+      "transforms": [
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 2286000,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1543049,
+            "off.y": 1783106,
+            "ext.cx": 5080000,
+            "ext.cy": 1638300,
+            "chOff.x": 889000,
+            "chOff.y": 1016001,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1092200
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016001,
+            "ext.cx": 1780491,
+            "ext.cy": 1092200,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1186994,
+            "chExt.cy": 728133
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1638300,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1092200,
+            "chExt.cy": 762000
+          }
+        ]
+      ]
+    },
+    {
+      "angle": 315.001,
+      "sourceSha256": "b9d24c79a113638108c9711bc265e8a020be4d894f2e2cb6fdbd391160c206ad",
+      "expectedSha256": "4db300a809556d23fd828a5eb725a56942aa1291cc0ece9daf646531cb186538",
+      "transforms": [
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 2286000,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1543049,
+            "off.y": 1783106,
+            "ext.cx": 5080000,
+            "ext.cy": 1638300,
+            "chOff.x": 889000,
+            "chOff.y": 1016001,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1092200
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016001,
+            "ext.cx": 1780491,
+            "ext.cy": 1092200,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1186994,
+            "chExt.cy": 728133
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1638300,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1092200,
+            "chExt.cy": 762000
+          }
+        ]
+      ]
+    },
+    {
+      "angle": 359.999,
+      "sourceSha256": "93f563bf233d3df58bdb8816d60229243bb73e400d240712897735d066f66054",
+      "expectedSha256": "804f73cdd10961000866a2aa940829b46862fa7b4d8cb793c0522247a90fdfbc",
+      "transforms": [
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 2286000,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1543049,
+            "off.y": 1783106,
+            "ext.cx": 5080000,
+            "ext.cy": 1638300,
+            "chOff.x": 889000,
+            "chOff.y": 1016001,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1092200
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016001,
+            "ext.cx": 1780491,
+            "ext.cy": 1092200,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1186994,
+            "chExt.cy": 728133
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1638300,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1092200,
+            "chExt.cy": 762000
+          }
+        ]
+      ]
+    },
+    {
+      "angle": -30,
+      "sourceSha256": "5e41f0a3468c13c0771cc3d5a0c719a5b41d3384c7b314458a914a4e183fe9b2",
+      "expectedSha256": "9d0938f85f6e5aec86225133832064271302bb4620e831ee34345c2db16ea68c",
+      "transforms": [
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 2286000,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1790700,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1193800,
+            "chExt.cy": 762000
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1543049,
+            "off.y": 1783106,
+            "ext.cx": 5080000,
+            "ext.cy": 1638300,
+            "chOff.x": 889000,
+            "chOff.y": 1016001,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1092200
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016001,
+            "ext.cx": 1780491,
+            "ext.cy": 1092200,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1186994,
+            "chExt.cy": 728133
+          }
+        ],
+        [
+          {
+            "id": "6",
+            "off.x": 1524000,
+            "off.y": 1778000,
+            "ext.cx": 5080000,
+            "ext.cy": 1714500,
+            "chOff.x": 889000,
+            "chOff.y": 1016000,
+            "chExt.cx": 2540000,
+            "chExt.cy": 1143000
+          },
+          {
+            "id": "4",
+            "off.x": 889000,
+            "off.y": 1016000,
+            "ext.cx": 1638300,
+            "ext.cy": 1143000,
+            "chOff.x": 635000,
+            "chOff.y": 762000,
+            "chExt.cx": 1092200,
+            "chExt.cy": 762000
+          }
+        ]
+      ]
+    }
+  ],
+  "executableSha256": "a57633850b4f82f842144b3758d1fc2d2dd71fb15036bac642aa81bd32004a55",
+  "fixturesSha256": "017dfc73dd45541738a62ad0ddc432a9f217269d91e0167df30a642822f3bc4d",
+  "sourceSha256": "b04e465e00dbb123b4219c164fa204edc987fdb7653e2009ba69d41b9097e4e6"
+}

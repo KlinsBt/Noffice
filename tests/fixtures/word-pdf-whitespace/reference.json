@@ -1,0 +1,1770 @@
+{
+  "rows": [
+    {
+      "name": "ascii-plain",
+      "mode": "plain",
+      "kind": "supported",
+      "path": "tests/fixtures/word-pdf-whitespace/ascii-plain.docx",
+      "sourceHash": "3eb02dbec60d6126e5b10ad569451531e7fbc16b68f1eebb98a98f8d7b0382af",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B",
+          "segments": [
+            [
+              "A B",
+              true
+            ]
+          ],
+          "index": 0
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A  B",
+          "segments": [
+            [
+              "A  B",
+              true
+            ]
+          ],
+          "index": 1
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": " A B",
+          "segments": [
+            [
+              " A B",
+              true
+            ]
+          ],
+          "index": 2
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B ",
+          "segments": [
+            [
+              "A B ",
+              true
+            ]
+          ],
+          "index": 3
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "  A  B  ",
+          "segments": [
+            [
+              "  A  B  ",
+              true
+            ]
+          ],
+          "index": 4
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B C",
+          "segments": [
+            [
+              "A B C",
+              true
+            ]
+          ],
+          "index": 5
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\tB tail.",
+          "segments": [
+            [
+              "A\tB tail.",
+              true
+            ]
+          ],
+          "index": 6
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B",
+          "segments": [
+            [
+              "A B",
+              true
+            ]
+          ],
+          "index": 0
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A  B",
+          "segments": [
+            [
+              "A  B",
+              true
+            ]
+          ],
+          "index": 1
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": " A B",
+          "segments": [
+            [
+              " A B",
+              true
+            ]
+          ],
+          "index": 2
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B ",
+          "segments": [
+            [
+              "A B ",
+              true
+            ]
+          ],
+          "index": 3
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "  A  B  ",
+          "segments": [
+            [
+              "  A  B  ",
+              true
+            ]
+          ],
+          "index": 4
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B C",
+          "segments": [
+            [
+              "A B C",
+              true
+            ]
+          ],
+          "index": 5
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\tB tail.",
+          "segments": [
+            [
+              "A\tB tail.",
+              true
+            ]
+          ],
+          "index": 6
+        }
+      ],
+      "nativeSourcePdfHash": "926ad64a77857722b26110ab54bf181228830f252598a450575e17a1a94cc085",
+      "nativeReopenedPdfHash": "f80223960771b83cd74f83494e668cd4173f91db5333b3f7b40553a1a304566d"
+    },
+    {
+      "name": "boundaries-plain",
+      "mode": "plain",
+      "kind": "supported",
+      "path": "tests/fixtures/word-pdf-whitespace/boundaries-plain.docx",
+      "sourceHash": "676ecb96510111710ba1e97d206edcae67d5bc1f14b0d8bd2c2b4b774da59358",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B",
+              true
+            ],
+            [
+              " tail.",
+              false
+            ]
+          ],
+          "index": 0
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B ",
+              true
+            ],
+            [
+              "tail.",
+              false
+            ]
+          ],
+          "index": 1
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B",
+              false
+            ],
+            [
+              " ",
+              true
+            ],
+            [
+              "tail.",
+              false
+            ]
+          ],
+          "index": 2
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A  B tail.",
+          "segments": [
+            [
+              "A",
+              true
+            ],
+            [
+              "  ",
+              false
+            ],
+            [
+              "B tail.",
+              true
+            ]
+          ],
+          "index": 3
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B",
+              true
+            ],
+            [
+              " tail.",
+              false
+            ]
+          ],
+          "index": 0
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B ",
+              true
+            ],
+            [
+              "tail.",
+              false
+            ]
+          ],
+          "index": 1
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B",
+              false
+            ],
+            [
+              " ",
+              true
+            ],
+            [
+              "tail.",
+              false
+            ]
+          ],
+          "index": 2
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A  B tail.",
+          "segments": [
+            [
+              "A",
+              true
+            ],
+            [
+              "  ",
+              false
+            ],
+            [
+              "B tail.",
+              true
+            ]
+          ],
+          "index": 3
+        }
+      ],
+      "nativeSourcePdfHash": "56d87a1d3c53b2bc2eb410151895175bcc97e943a7e2ea5d27341622c8692b03",
+      "nativeReopenedPdfHash": "fe1f1f04bdc529efa5bba1dae14dae9e5e8806d3de7de0155a4485fe18e50c28"
+    },
+    {
+      "name": "ascii-underline",
+      "mode": "underline",
+      "kind": "supported",
+      "path": "tests/fixtures/word-pdf-whitespace/ascii-underline.docx",
+      "sourceHash": "5f1f99c3185a1a2a05217eb80143a7bb6aaa065e75268740eda1f1af78fd775a",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B",
+          "segments": [
+            [
+              "A B",
+              true
+            ]
+          ],
+          "index": 0
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A  B",
+          "segments": [
+            [
+              "A  B",
+              true
+            ]
+          ],
+          "index": 1
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": " A B",
+          "segments": [
+            [
+              " A B",
+              true
+            ]
+          ],
+          "index": 2
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B ",
+          "segments": [
+            [
+              "A B ",
+              true
+            ]
+          ],
+          "index": 3
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "  A  B  ",
+          "segments": [
+            [
+              "  A  B  ",
+              true
+            ]
+          ],
+          "index": 4
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B C",
+          "segments": [
+            [
+              "A B C",
+              true
+            ]
+          ],
+          "index": 5
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\tB tail.",
+          "segments": [
+            [
+              "A\tB tail.",
+              true
+            ]
+          ],
+          "index": 6
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B",
+          "segments": [
+            [
+              "A B",
+              true
+            ]
+          ],
+          "index": 0
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A  B",
+          "segments": [
+            [
+              "A  B",
+              true
+            ]
+          ],
+          "index": 1
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": " A B",
+          "segments": [
+            [
+              " A B",
+              true
+            ]
+          ],
+          "index": 2
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B ",
+          "segments": [
+            [
+              "A B ",
+              true
+            ]
+          ],
+          "index": 3
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "  A  B  ",
+          "segments": [
+            [
+              "  A  B  ",
+              true
+            ]
+          ],
+          "index": 4
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B C",
+          "segments": [
+            [
+              "A B C",
+              true
+            ]
+          ],
+          "index": 5
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\tB tail.",
+          "segments": [
+            [
+              "A\tB tail.",
+              true
+            ]
+          ],
+          "index": 6
+        }
+      ],
+      "nativeSourcePdfHash": "6dcb70a311798248003e658a13ad302a380ccb39ca3082832e24c5b4946f6115",
+      "nativeReopenedPdfHash": "73e760dc9ed009bd20eea557d38cb83aebd341c49901d37ce2d123f0f19965a1"
+    },
+    {
+      "name": "boundaries-underline",
+      "mode": "underline",
+      "kind": "supported",
+      "path": "tests/fixtures/word-pdf-whitespace/boundaries-underline.docx",
+      "sourceHash": "b829a71e60bb7f720f26be27bc38ff7ea2f4b258406fe4de48e6ece6b6efd587",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B",
+              true
+            ],
+            [
+              " tail.",
+              false
+            ]
+          ],
+          "index": 0
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B ",
+              true
+            ],
+            [
+              "tail.",
+              false
+            ]
+          ],
+          "index": 1
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B",
+              false
+            ],
+            [
+              " ",
+              true
+            ],
+            [
+              "tail.",
+              false
+            ]
+          ],
+          "index": 2
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A  B tail.",
+          "segments": [
+            [
+              "A",
+              true
+            ],
+            [
+              "  ",
+              false
+            ],
+            [
+              "B tail.",
+              true
+            ]
+          ],
+          "index": 3
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B",
+              true
+            ],
+            [
+              " tail.",
+              false
+            ]
+          ],
+          "index": 0
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B ",
+              true
+            ],
+            [
+              "tail.",
+              false
+            ]
+          ],
+          "index": 1
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B",
+              false
+            ],
+            [
+              " ",
+              true
+            ],
+            [
+              "tail.",
+              false
+            ]
+          ],
+          "index": 2
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A  B tail.",
+          "segments": [
+            [
+              "A",
+              true
+            ],
+            [
+              "  ",
+              false
+            ],
+            [
+              "B tail.",
+              true
+            ]
+          ],
+          "index": 3
+        }
+      ],
+      "nativeSourcePdfHash": "f8856c71347a8c32ecb9c57ba67982dc1b5150807efe0ea000f763837f40d76e",
+      "nativeReopenedPdfHash": "029328bde656301ea3a55db4d5fabc407380e2d5d895ee31cf363df8b9173ead"
+    },
+    {
+      "name": "ascii-strike",
+      "mode": "strike",
+      "kind": "supported",
+      "path": "tests/fixtures/word-pdf-whitespace/ascii-strike.docx",
+      "sourceHash": "646c8bdefeff563f3a1bea115e2123f636f403f3c6b39591b4180cfd798a882e",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B",
+          "segments": [
+            [
+              "A B",
+              true
+            ]
+          ],
+          "index": 0
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A  B",
+          "segments": [
+            [
+              "A  B",
+              true
+            ]
+          ],
+          "index": 1
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": " A B",
+          "segments": [
+            [
+              " A B",
+              true
+            ]
+          ],
+          "index": 2
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B ",
+          "segments": [
+            [
+              "A B ",
+              true
+            ]
+          ],
+          "index": 3
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "  A  B  ",
+          "segments": [
+            [
+              "  A  B  ",
+              true
+            ]
+          ],
+          "index": 4
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B C",
+          "segments": [
+            [
+              "A B C",
+              true
+            ]
+          ],
+          "index": 5
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\tB tail.",
+          "segments": [
+            [
+              "A\tB tail.",
+              true
+            ]
+          ],
+          "index": 6
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B",
+          "segments": [
+            [
+              "A B",
+              true
+            ]
+          ],
+          "index": 0
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A  B",
+          "segments": [
+            [
+              "A  B",
+              true
+            ]
+          ],
+          "index": 1
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": " A B",
+          "segments": [
+            [
+              " A B",
+              true
+            ]
+          ],
+          "index": 2
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B ",
+          "segments": [
+            [
+              "A B ",
+              true
+            ]
+          ],
+          "index": 3
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "  A  B  ",
+          "segments": [
+            [
+              "  A  B  ",
+              true
+            ]
+          ],
+          "index": 4
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B C",
+          "segments": [
+            [
+              "A B C",
+              true
+            ]
+          ],
+          "index": 5
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\tB tail.",
+          "segments": [
+            [
+              "A\tB tail.",
+              true
+            ]
+          ],
+          "index": 6
+        }
+      ],
+      "nativeSourcePdfHash": "9cccaf01ac04e6395d84f05f2ebb26fa0955a632ca755e49a0eeff446f0738cd",
+      "nativeReopenedPdfHash": "1430c8d5a68523e81cbfb9ff057f400d39fd3961a90e1a3a4ae5374a95f4f72b"
+    },
+    {
+      "name": "boundaries-strike",
+      "mode": "strike",
+      "kind": "supported",
+      "path": "tests/fixtures/word-pdf-whitespace/boundaries-strike.docx",
+      "sourceHash": "9214e3d38e9520cae342e077e443ad71e35a1b0d618698742e66630ca69b0cba",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B",
+              true
+            ],
+            [
+              " tail.",
+              false
+            ]
+          ],
+          "index": 0
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B ",
+              true
+            ],
+            [
+              "tail.",
+              false
+            ]
+          ],
+          "index": 1
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B",
+              false
+            ],
+            [
+              " ",
+              true
+            ],
+            [
+              "tail.",
+              false
+            ]
+          ],
+          "index": 2
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A  B tail.",
+          "segments": [
+            [
+              "A",
+              true
+            ],
+            [
+              "  ",
+              false
+            ],
+            [
+              "B tail.",
+              true
+            ]
+          ],
+          "index": 3
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B",
+              true
+            ],
+            [
+              " tail.",
+              false
+            ]
+          ],
+          "index": 0
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B ",
+              true
+            ],
+            [
+              "tail.",
+              false
+            ]
+          ],
+          "index": 1
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B",
+              false
+            ],
+            [
+              " ",
+              true
+            ],
+            [
+              "tail.",
+              false
+            ]
+          ],
+          "index": 2
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A  B tail.",
+          "segments": [
+            [
+              "A",
+              true
+            ],
+            [
+              "  ",
+              false
+            ],
+            [
+              "B tail.",
+              true
+            ]
+          ],
+          "index": 3
+        }
+      ],
+      "nativeSourcePdfHash": "07fbfc612fd8c2fbfec1112c0db5a7e78e3bf383b0619727ae607ab9041f96bc",
+      "nativeReopenedPdfHash": "1323571263f3b75354218b3cf1c5858faba3463846b302390335751a948a0ce6"
+    },
+    {
+      "name": "ascii-both",
+      "mode": "both",
+      "kind": "supported",
+      "path": "tests/fixtures/word-pdf-whitespace/ascii-both.docx",
+      "sourceHash": "e26bfd4c5b1bb872ce1f8dc4b4f2599b43166e1f4327d873eccaa00067104ff3",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B",
+          "segments": [
+            [
+              "A B",
+              true
+            ]
+          ],
+          "index": 0
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A  B",
+          "segments": [
+            [
+              "A  B",
+              true
+            ]
+          ],
+          "index": 1
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": " A B",
+          "segments": [
+            [
+              " A B",
+              true
+            ]
+          ],
+          "index": 2
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B ",
+          "segments": [
+            [
+              "A B ",
+              true
+            ]
+          ],
+          "index": 3
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "  A  B  ",
+          "segments": [
+            [
+              "  A  B  ",
+              true
+            ]
+          ],
+          "index": 4
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B C",
+          "segments": [
+            [
+              "A B C",
+              true
+            ]
+          ],
+          "index": 5
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\tB tail.",
+          "segments": [
+            [
+              "A\tB tail.",
+              true
+            ]
+          ],
+          "index": 6
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B",
+          "segments": [
+            [
+              "A B",
+              true
+            ]
+          ],
+          "index": 0
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A  B",
+          "segments": [
+            [
+              "A  B",
+              true
+            ]
+          ],
+          "index": 1
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": " A B",
+          "segments": [
+            [
+              " A B",
+              true
+            ]
+          ],
+          "index": 2
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B ",
+          "segments": [
+            [
+              "A B ",
+              true
+            ]
+          ],
+          "index": 3
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "  A  B  ",
+          "segments": [
+            [
+              "  A  B  ",
+              true
+            ]
+          ],
+          "index": 4
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B C",
+          "segments": [
+            [
+              "A B C",
+              true
+            ]
+          ],
+          "index": 5
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\tB tail.",
+          "segments": [
+            [
+              "A\tB tail.",
+              true
+            ]
+          ],
+          "index": 6
+        }
+      ],
+      "nativeSourcePdfHash": "c22e45705e012f876da2cfd669974261762e0b4b300d1170cc8fab9847602598",
+      "nativeReopenedPdfHash": "10f0f35f8f1253ccd5d68e794bbbe20a8e934c3a017b5cabf88a3ea3452d7f84"
+    },
+    {
+      "name": "boundaries-both",
+      "mode": "both",
+      "kind": "supported",
+      "path": "tests/fixtures/word-pdf-whitespace/boundaries-both.docx",
+      "sourceHash": "1db7a45aa871af8385c0471ffa108ecb8f79a654e892a30da58ba6e99a662b96",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B",
+              true
+            ],
+            [
+              " tail.",
+              false
+            ]
+          ],
+          "index": 0
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B ",
+              true
+            ],
+            [
+              "tail.",
+              false
+            ]
+          ],
+          "index": 1
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B",
+              false
+            ],
+            [
+              " ",
+              true
+            ],
+            [
+              "tail.",
+              false
+            ]
+          ],
+          "index": 2
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A  B tail.",
+          "segments": [
+            [
+              "A",
+              true
+            ],
+            [
+              "  ",
+              false
+            ],
+            [
+              "B tail.",
+              true
+            ]
+          ],
+          "index": 3
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B",
+              true
+            ],
+            [
+              " tail.",
+              false
+            ]
+          ],
+          "index": 0
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B ",
+              true
+            ],
+            [
+              "tail.",
+              false
+            ]
+          ],
+          "index": 1
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B tail.",
+          "segments": [
+            [
+              "A B",
+              false
+            ],
+            [
+              " ",
+              true
+            ],
+            [
+              "tail.",
+              false
+            ]
+          ],
+          "index": 2
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A  B tail.",
+          "segments": [
+            [
+              "A",
+              true
+            ],
+            [
+              "  ",
+              false
+            ],
+            [
+              "B tail.",
+              true
+            ]
+          ],
+          "index": 3
+        }
+      ],
+      "nativeSourcePdfHash": "0fbb8cee1725be473b94f4e0e6ab869f41816c508b248a48e60d19ceccb851bb",
+      "nativeReopenedPdfHash": "72a7131526c8c1ac8c1442a0b60f174b5adf635a597d7ae4106f29e56206dac4"
+    },
+    {
+      "name": "nbsp-plain",
+      "mode": "plain",
+      "kind": "nbsp",
+      "path": "tests/fixtures/word-pdf-whitespace/nbsp-plain.docx",
+      "sourceHash": "bc4df2dcf0dfe68ddd57a3172ae6d5d691c9866ceb35da1c947d23c4cc6d34c9",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B",
+          "index": 0
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A  B",
+          "index": 1
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": " A B",
+          "index": 2
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B ",
+          "index": 3
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "  A  B  ",
+          "index": 4
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B C",
+          "index": 5
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a0B",
+          "index": 6
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\tB tail.",
+          "index": 7
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B",
+          "index": 0
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A  B",
+          "index": 1
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": " A B",
+          "index": 2
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B ",
+          "index": 3
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "  A  B  ",
+          "index": 4
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B C",
+          "index": 5
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a0B",
+          "index": 6
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\tB tail.",
+          "index": 7
+        }
+      ],
+      "nativeSourcePdfHash": "47202b385c06f93572f6a3753d544fe016eb63321bcd2825b716629775415fd2",
+      "nativeReopenedPdfHash": "4648b6a9742d2fd06b03467a8c87b282d2aadc81951856f84d6aae5bd3c2fdea"
+    },
+    {
+      "name": "nbsp-underline",
+      "mode": "underline",
+      "kind": "nbsp",
+      "path": "tests/fixtures/word-pdf-whitespace/nbsp-underline.docx",
+      "sourceHash": "0f90de133ccbaa9473d8b3a69d3171ad65d5229fb7f9ba9099e3ef4e84c69ec4",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B",
+          "index": 0
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A  B",
+          "index": 1
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": " A B",
+          "index": 2
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B ",
+          "index": 3
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "  A  B  ",
+          "index": 4
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B C",
+          "index": 5
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a0B",
+          "index": 6
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\tB tail.",
+          "index": 7
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B",
+          "index": 0
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A  B",
+          "index": 1
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": " A B",
+          "index": 2
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B ",
+          "index": 3
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "  A  B  ",
+          "index": 4
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B C",
+          "index": 5
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a0B",
+          "index": 6
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\tB tail.",
+          "index": 7
+        }
+      ],
+      "nativeSourcePdfHash": "d56a0df8701f01c0d49f1fefaeae5a473344b30698ac6632b1ce515c5379f94c",
+      "nativeReopenedPdfHash": "fe2e47657d9007e43da852b76630d3a5983cf91df90ecb4a687ed073cde3ac1e"
+    },
+    {
+      "name": "nbsp-strike",
+      "mode": "strike",
+      "kind": "nbsp",
+      "path": "tests/fixtures/word-pdf-whitespace/nbsp-strike.docx",
+      "sourceHash": "fccbaa86bcde20c1a90a366bc2fd1517a50dda51db22121df2e998a8f0776a82",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B",
+          "index": 0
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A  B",
+          "index": 1
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": " A B",
+          "index": 2
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B ",
+          "index": 3
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "  A  B  ",
+          "index": 4
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B C",
+          "index": 5
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a0B",
+          "index": 6
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\tB tail.",
+          "index": 7
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B",
+          "index": 0
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A  B",
+          "index": 1
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": " A B",
+          "index": 2
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B ",
+          "index": 3
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "  A  B  ",
+          "index": 4
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B C",
+          "index": 5
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a0B",
+          "index": 6
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\tB tail.",
+          "index": 7
+        }
+      ],
+      "nativeSourcePdfHash": "4c2a1d9b490508a1987a8243f0cc66b0dda27f7f0621eafa1711f5c9ac051329",
+      "nativeReopenedPdfHash": "4549d12f3b22d063cc1ed77302c4ce7c8377c75c258e7a4fbc22b9b8dfb67bef"
+    },
+    {
+      "name": "nbsp-both",
+      "mode": "both",
+      "kind": "nbsp",
+      "path": "tests/fixtures/word-pdf-whitespace/nbsp-both.docx",
+      "sourceHash": "ff35ede2c20adb7a34075c7ded7cead3c987462bd6f877e7f84e01e522b90d8b",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B",
+          "index": 0
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A  B",
+          "index": 1
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": " A B",
+          "index": 2
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B ",
+          "index": 3
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "  A  B  ",
+          "index": 4
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A B C",
+          "index": 5
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a0B",
+          "index": 6
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\tB tail.",
+          "index": 7
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B",
+          "index": 0
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A  B",
+          "index": 1
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": " A B",
+          "index": 2
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B ",
+          "index": 3
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "  A  B  ",
+          "index": 4
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B C",
+          "index": 5
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a0B",
+          "index": 6
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\tB tail.",
+          "index": 7
+        }
+      ],
+      "nativeSourcePdfHash": "c315776f1479935e864ac86f9347e42a39fef99a0f73e51ed6b1d682194dbb3e",
+      "nativeReopenedPdfHash": "1df49b9b4efeba6d9a90941648dd039c737e11907e9139f10b3db8dc20363d2f"
+    }
+  ],
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "scope": "Independent Word source/save/reopen controls.88 ASCII/boundary cases plus64 original controls including NBSP. NBSP cases also exercise font failure/recovery; numeric full-page gates remain separate."
+}

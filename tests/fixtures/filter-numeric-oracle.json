@@ -1,0 +1,31 @@
+{
+  "application": "Microsoft Excel",
+  "version": "16.0",
+  "build": 4627,
+  "locale": 1031,
+  "inputSha256": "c8b759c2ba316c548c106f07f1781685dabd5e290f9ec000679aa27e7a77b87a",
+  "hiddenRows": [1, 2, 5, 6, 7, 8],
+  "cases": [
+    {
+      "ref": "D12",
+      "formula": "=SUBTOTAL(9,A2:A5)",
+      "nativeFormula": "=SUBTOTAL(9,A2:A5)",
+      "value": 14,
+      "kind": "value"
+    },
+    {
+      "ref": "D13",
+      "formula": "=SUBTOTAL(2,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(2,A2:A9)",
+      "value": 2,
+      "kind": "value"
+    },
+    {
+      "ref": "D14",
+      "formula": "=SUBTOTAL(3,A2:A9)",
+      "nativeFormula": "=SUBTOTAL(3,A2:A9)",
+      "value": 2,
+      "kind": "value"
+    }
+  ]
+}

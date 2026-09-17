@@ -1,0 +1,1939 @@
+{
+    "scriptSha256":  "2e10b84cad41f9f902acb60329f597e4eee2c5d692c2f7c6bfa6db63822550f3",
+    "version":  "16.0.4627.1001",
+    "anchors":  [
+                    {
+                        "activeCell":  "A1",
+                        "activeSheet":  "Data",
+                        "names":  [
+                                      {
+                                          "name":  "AliasForward",
+                                          "a1":  "=Forward*2",
+                                          "r1c1":  "=Forward*2"
+                                      },
+                                      {
+                                          "name":  "Area",
+                                          "a1":  "=Data!$A2:$B3",
+                                          "r1c1":  "=Data!R[1]C1:R[2]C2"
+                                      },
+                                      {
+                                          "name":  "Behind",
+                                          "a1":  "=Data!XFD1048576",
+                                          "r1c1":  "=Data!R[1048575]C[16383]"
+                                      },
+                                      {
+                                          "name":  "ColNext",
+                                          "a1":  "=Data!B$1",
+                                          "r1c1":  "=Data!R1C[1]"
+                                      },
+                                      {
+                                          "name":  "\u0027Cost data\u0027!Forward",
+                                          "a1":  "=Data!$B2",
+                                          "r1c1":  "=Data!R[1]C2"
+                                      },
+                                      {
+                                          "name":  "Forward",
+                                          "a1":  "=Data!B2",
+                                          "r1c1":  "=Data!R[1]C[1]"
+                                      },
+                                      {
+                                          "name":  "OtherAnchor",
+                                          "a1":  "=Data!B2",
+                                          "r1c1":  "=Data!R[1]C[1]"
+                                      },
+                                      {
+                                          "name":  "Previous",
+                                          "a1":  "=Calls!A1048576",
+                                          "r1c1":  "=Calls!R[1048575]C"
+                                      },
+                                      {
+                                          "name":  "RowNext",
+                                          "a1":  "=Data!$A2",
+                                          "r1c1":  "=Data!R[1]C1"
+                                      }
+                                  ]
+                    },
+                    {
+                        "activeCell":  "D5",
+                        "activeSheet":  "Data",
+                        "names":  [
+                                      {
+                                          "name":  "AliasForward",
+                                          "a1":  "=Forward*2",
+                                          "r1c1":  "=Forward*2"
+                                      },
+                                      {
+                                          "name":  "Area",
+                                          "a1":  "=Data!$A6:$B7",
+                                          "r1c1":  "=Data!R[1]C1:R[2]C2"
+                                      },
+                                      {
+                                          "name":  "Behind",
+                                          "a1":  "=Data!C4",
+                                          "r1c1":  "=Data!R[-1]C[-1]"
+                                      },
+                                      {
+                                          "name":  "ColNext",
+                                          "a1":  "=Data!E$1",
+                                          "r1c1":  "=Data!R1C[1]"
+                                      },
+                                      {
+                                          "name":  "\u0027Cost data\u0027!Forward",
+                                          "a1":  "=Data!$B6",
+                                          "r1c1":  "=Data!R[1]C2"
+                                      },
+                                      {
+                                          "name":  "Forward",
+                                          "a1":  "=Data!E6",
+                                          "r1c1":  "=Data!R[1]C[1]"
+                                      },
+                                      {
+                                          "name":  "OtherAnchor",
+                                          "a1":  "=Data!E6",
+                                          "r1c1":  "=Data!R[1]C[1]"
+                                      },
+                                      {
+                                          "name":  "Previous",
+                                          "a1":  "=Calls!D4",
+                                          "r1c1":  "=Calls!R[-1]C"
+                                      },
+                                      {
+                                          "name":  "RowNext",
+                                          "a1":  "=Data!$A6",
+                                          "r1c1":  "=Data!R[1]C1"
+                                      }
+                                  ]
+                    },
+                    {
+                        "activeCell":  "H9",
+                        "activeSheet":  "Data",
+                        "names":  [
+                                      {
+                                          "name":  "AliasForward",
+                                          "a1":  "=Forward*2",
+                                          "r1c1":  "=Forward*2"
+                                      },
+                                      {
+                                          "name":  "Area",
+                                          "a1":  "=Data!$A10:$B11",
+                                          "r1c1":  "=Data!R[1]C1:R[2]C2"
+                                      },
+                                      {
+                                          "name":  "Behind",
+                                          "a1":  "=Data!G8",
+                                          "r1c1":  "=Data!R[-1]C[-1]"
+                                      },
+                                      {
+                                          "name":  "ColNext",
+                                          "a1":  "=Data!I$1",
+                                          "r1c1":  "=Data!R1C[1]"
+                                      },
+                                      {
+                                          "name":  "\u0027Cost data\u0027!Forward",
+                                          "a1":  "=Data!$B10",
+                                          "r1c1":  "=Data!R[1]C2"
+                                      },
+                                      {
+                                          "name":  "Forward",
+                                          "a1":  "=Data!I10",
+                                          "r1c1":  "=Data!R[1]C[1]"
+                                      },
+                                      {
+                                          "name":  "OtherAnchor",
+                                          "a1":  "=Data!I10",
+                                          "r1c1":  "=Data!R[1]C[1]"
+                                      },
+                                      {
+                                          "name":  "Previous",
+                                          "a1":  "=Calls!H8",
+                                          "r1c1":  "=Calls!R[-1]C"
+                                      },
+                                      {
+                                          "name":  "RowNext",
+                                          "a1":  "=Data!$A10",
+                                          "r1c1":  "=Data!R[1]C1"
+                                      }
+                                  ]
+                    }
+                ],
+    "stages":  [
+                   {
+                       "names":  [
+                                     {
+                                         "name":  "AliasForward",
+                                         "a1":  "=Forward*2",
+                                         "r1c1":  "=Forward*2"
+                                     },
+                                     {
+                                         "name":  "Area",
+                                         "a1":  "=Data!$A2:$B3",
+                                         "r1c1":  "=Data!R[1]C1:R[2]C2"
+                                     },
+                                     {
+                                         "name":  "Behind",
+                                         "a1":  "=Data!XFD1048576",
+                                         "r1c1":  "=Data!R[1048575]C[16383]"
+                                     },
+                                     {
+                                         "name":  "ColNext",
+                                         "a1":  "=Data!B$1",
+                                         "r1c1":  "=Data!R1C[1]"
+                                     },
+                                     {
+                                         "name":  "\u0027Cost data\u0027!Forward",
+                                         "a1":  "=Data!$B2",
+                                         "r1c1":  "=Data!R[1]C2"
+                                     },
+                                     {
+                                         "name":  "Forward",
+                                         "a1":  "=Data!B2",
+                                         "r1c1":  "=Data!R[1]C[1]"
+                                     },
+                                     {
+                                         "name":  "OtherAnchor",
+                                         "a1":  "=Data!B2",
+                                         "r1c1":  "=Data!R[1]C[1]"
+                                     },
+                                     {
+                                         "name":  "Previous",
+                                         "a1":  "=Calls!A1048576",
+                                         "r1c1":  "=Calls!R[1048575]C"
+                                     },
+                                     {
+                                         "name":  "RowNext",
+                                         "a1":  "=Data!$A2",
+                                         "r1c1":  "=Data!R[1]C1"
+                                     }
+                                 ],
+                       "stage":  "source",
+                       "cells":  [
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "D2",
+                                         "formula":  "=RowNext",
+                                         "value":  301,
+                                         "valueType":  "System.Double",
+                                         "text":  "301"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "E2",
+                                         "formula":  "=ColNext",
+                                         "value":  106,
+                                         "valueType":  "System.Double",
+                                         "text":  "106"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "F2",
+                                         "formula":  "=Forward",
+                                         "value":  307,
+                                         "valueType":  "System.Double",
+                                         "text":  "307"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "G2",
+                                         "formula":  "=OtherAnchor",
+                                         "value":  308,
+                                         "valueType":  "System.Double",
+                                         "text":  "308"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "H2",
+                                         "formula":  "=Behind",
+                                         "value":  107,
+                                         "valueType":  "System.Double",
+                                         "text":  "107"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "I2",
+                                         "formula":  "=AliasForward",
+                                         "value":  620,
+                                         "valueType":  "System.Double",
+                                         "text":  "620"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "J2",
+                                         "formula":  "=SUM(Area)",
+                                         "value":  1406,
+                                         "valueType":  "System.Double",
+                                         "text":  "1406"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "K2",
+                                         "formula":  "=\u0027Cost data\u0027!Forward",
+                                         "value":  302,
+                                         "valueType":  "System.Double",
+                                         "text":  "302"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "L2",
+                                         "formula":  "=ROW(RowNext)",
+                                         "value":  3,
+                                         "valueType":  "System.Double",
+                                         "text":  "3"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "M2",
+                                         "formula":  "=COLUMN(ColNext)",
+                                         "value":  14,
+                                         "valueType":  "System.Double",
+                                         "text":  "14"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "N2",
+                                         "formula":  "=IF(RowNext\u003e0,RowNext,999)",
+                                         "value":  301,
+                                         "valueType":  "System.Double",
+                                         "text":  "301"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "D4",
+                                         "formula":  "=RowNext",
+                                         "value":  501,
+                                         "valueType":  "System.Double",
+                                         "text":  "501"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "E4",
+                                         "formula":  "=ColNext",
+                                         "value":  106,
+                                         "valueType":  "System.Double",
+                                         "text":  "106"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "F4",
+                                         "formula":  "=Forward",
+                                         "value":  507,
+                                         "valueType":  "System.Double",
+                                         "text":  "507"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "G4",
+                                         "formula":  "=OtherAnchor",
+                                         "value":  508,
+                                         "valueType":  "System.Double",
+                                         "text":  "508"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "H4",
+                                         "formula":  "=Behind",
+                                         "value":  307,
+                                         "valueType":  "System.Double",
+                                         "text":  "307"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "I4",
+                                         "formula":  "=AliasForward",
+                                         "value":  1020,
+                                         "valueType":  "System.Double",
+                                         "text":  "1020"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "J4",
+                                         "formula":  "=SUM(Area)",
+                                         "value":  2206,
+                                         "valueType":  "System.Double",
+                                         "text":  "2206"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "K4",
+                                         "formula":  "=\u0027Cost data\u0027!Forward",
+                                         "value":  502,
+                                         "valueType":  "System.Double",
+                                         "text":  "502"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "L4",
+                                         "formula":  "=ROW(RowNext)",
+                                         "value":  5,
+                                         "valueType":  "System.Double",
+                                         "text":  "5"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "M4",
+                                         "formula":  "=COLUMN(ColNext)",
+                                         "value":  14,
+                                         "valueType":  "System.Double",
+                                         "text":  "14"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "N4",
+                                         "formula":  "=IF(RowNext\u003e0,RowNext,999)",
+                                         "value":  501,
+                                         "valueType":  "System.Double",
+                                         "text":  "501"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "D2",
+                                         "formula":  "=RowNext",
+                                         "value":  301,
+                                         "valueType":  "System.Double",
+                                         "text":  "301"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "E2",
+                                         "formula":  "=ColNext",
+                                         "value":  106,
+                                         "valueType":  "System.Double",
+                                         "text":  "106"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "F2",
+                                         "formula":  "=Forward",
+                                         "value":  302,
+                                         "valueType":  "System.Double",
+                                         "text":  "302"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "G2",
+                                         "formula":  "=OtherAnchor",
+                                         "value":  308,
+                                         "valueType":  "System.Double",
+                                         "text":  "308"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "H2",
+                                         "formula":  "=Behind",
+                                         "value":  107,
+                                         "valueType":  "System.Double",
+                                         "text":  "107"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "I2",
+                                         "formula":  "=AliasForward",
+                                         "value":  620,
+                                         "valueType":  "System.Double",
+                                         "text":  "620"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "J2",
+                                         "formula":  "=SUM(Area)",
+                                         "value":  1406,
+                                         "valueType":  "System.Double",
+                                         "text":  "1406"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "K2",
+                                         "formula":  "=\u0027Cost data\u0027!Forward",
+                                         "value":  302,
+                                         "valueType":  "System.Double",
+                                         "text":  "302"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "L2",
+                                         "formula":  "=ROW(RowNext)",
+                                         "value":  3,
+                                         "valueType":  "System.Double",
+                                         "text":  "3"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "M2",
+                                         "formula":  "=COLUMN(ColNext)",
+                                         "value":  14,
+                                         "valueType":  "System.Double",
+                                         "text":  "14"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "N2",
+                                         "formula":  "=IF(RowNext\u003e0,RowNext,999)",
+                                         "value":  301,
+                                         "valueType":  "System.Double",
+                                         "text":  "301"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "D4",
+                                         "formula":  "=RowNext",
+                                         "value":  501,
+                                         "valueType":  "System.Double",
+                                         "text":  "501"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "E4",
+                                         "formula":  "=ColNext",
+                                         "value":  106,
+                                         "valueType":  "System.Double",
+                                         "text":  "106"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "F4",
+                                         "formula":  "=Forward",
+                                         "value":  502,
+                                         "valueType":  "System.Double",
+                                         "text":  "502"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "G4",
+                                         "formula":  "=OtherAnchor",
+                                         "value":  508,
+                                         "valueType":  "System.Double",
+                                         "text":  "508"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "H4",
+                                         "formula":  "=Behind",
+                                         "value":  307,
+                                         "valueType":  "System.Double",
+                                         "text":  "307"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "I4",
+                                         "formula":  "=AliasForward",
+                                         "value":  1020,
+                                         "valueType":  "System.Double",
+                                         "text":  "1020"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "J4",
+                                         "formula":  "=SUM(Area)",
+                                         "value":  2206,
+                                         "valueType":  "System.Double",
+                                         "text":  "2206"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "K4",
+                                         "formula":  "=\u0027Cost data\u0027!Forward",
+                                         "value":  502,
+                                         "valueType":  "System.Double",
+                                         "text":  "502"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "L4",
+                                         "formula":  "=ROW(RowNext)",
+                                         "value":  5,
+                                         "valueType":  "System.Double",
+                                         "text":  "5"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "M4",
+                                         "formula":  "=COLUMN(ColNext)",
+                                         "value":  14,
+                                         "valueType":  "System.Double",
+                                         "text":  "14"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "N4",
+                                         "formula":  "=IF(RowNext\u003e0,RowNext,999)",
+                                         "value":  501,
+                                         "valueType":  "System.Double",
+                                         "text":  "501"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "A1",
+                                         "formula":  "=Previous",
+                                         "value":  0,
+                                         "valueType":  "System.Double",
+                                         "text":  "0"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "A6",
+                                         "formula":  "1",
+                                         "value":  1,
+                                         "valueType":  "System.Double",
+                                         "text":  "1"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "A7",
+                                         "formula":  "=Previous+1",
+                                         "value":  2,
+                                         "valueType":  "System.Double",
+                                         "text":  "2"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "A8",
+                                         "formula":  "=Previous+1",
+                                         "value":  3,
+                                         "valueType":  "System.Double",
+                                         "text":  "3"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "D3",
+                                         "formula":  "",
+                                         "value":  null,
+                                         "valueType":  "blank",
+                                         "text":  ""
+                                     }
+                                 ]
+                   },
+                   {
+                       "names":  [
+                                     {
+                                         "name":  "AliasForward",
+                                         "a1":  "=Forward*2",
+                                         "r1c1":  "=Forward*2"
+                                     },
+                                     {
+                                         "name":  "Area",
+                                         "a1":  "=Data!$A2:$B3",
+                                         "r1c1":  "=Data!R[1]C1:R[2]C2"
+                                     },
+                                     {
+                                         "name":  "Behind",
+                                         "a1":  "=Data!XFD1048576",
+                                         "r1c1":  "=Data!R[1048575]C[16383]"
+                                     },
+                                     {
+                                         "name":  "ColNext",
+                                         "a1":  "=Data!B$1",
+                                         "r1c1":  "=Data!R1C[1]"
+                                     },
+                                     {
+                                         "name":  "\u0027Cost data\u0027!Forward",
+                                         "a1":  "=Data!$B2",
+                                         "r1c1":  "=Data!R[1]C2"
+                                     },
+                                     {
+                                         "name":  "Forward",
+                                         "a1":  "=Data!B2",
+                                         "r1c1":  "=Data!R[1]C[1]"
+                                     },
+                                     {
+                                         "name":  "OtherAnchor",
+                                         "a1":  "=Data!B2",
+                                         "r1c1":  "=Data!R[1]C[1]"
+                                     },
+                                     {
+                                         "name":  "Previous",
+                                         "a1":  "=Calls!A1048576",
+                                         "r1c1":  "=Calls!R[1048575]C"
+                                     },
+                                     {
+                                         "name":  "RowNext",
+                                         "a1":  "=Data!$A2",
+                                         "r1c1":  "=Data!R[1]C1"
+                                     }
+                                 ],
+                       "stage":  "edit",
+                       "cells":  [
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "D2",
+                                         "formula":  "=RowNext",
+                                         "value":  500,
+                                         "valueType":  "System.Double",
+                                         "text":  "500"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "E2",
+                                         "formula":  "=ColNext",
+                                         "value":  106,
+                                         "valueType":  "System.Double",
+                                         "text":  "106"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "F2",
+                                         "formula":  "=Forward",
+                                         "value":  307,
+                                         "valueType":  "System.Double",
+                                         "text":  "307"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "G2",
+                                         "formula":  "=OtherAnchor",
+                                         "value":  308,
+                                         "valueType":  "System.Double",
+                                         "text":  "308"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "H2",
+                                         "formula":  "=Behind",
+                                         "value":  107,
+                                         "valueType":  "System.Double",
+                                         "text":  "107"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "I2",
+                                         "formula":  "=AliasForward",
+                                         "value":  620,
+                                         "valueType":  "System.Double",
+                                         "text":  "620"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "J2",
+                                         "formula":  "=SUM(Area)",
+                                         "value":  1605,
+                                         "valueType":  "System.Double",
+                                         "text":  "1605"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "K2",
+                                         "formula":  "=\u0027Cost data\u0027!Forward",
+                                         "value":  302,
+                                         "valueType":  "System.Double",
+                                         "text":  "302"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "L2",
+                                         "formula":  "=ROW(RowNext)",
+                                         "value":  3,
+                                         "valueType":  "System.Double",
+                                         "text":  "3"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "M2",
+                                         "formula":  "=COLUMN(ColNext)",
+                                         "value":  14,
+                                         "valueType":  "System.Double",
+                                         "text":  "14"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "N2",
+                                         "formula":  "=IF(RowNext\u003e0,RowNext,999)",
+                                         "value":  500,
+                                         "valueType":  "System.Double",
+                                         "text":  "500"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "D4",
+                                         "formula":  "=RowNext",
+                                         "value":  501,
+                                         "valueType":  "System.Double",
+                                         "text":  "501"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "E4",
+                                         "formula":  "=ColNext",
+                                         "value":  106,
+                                         "valueType":  "System.Double",
+                                         "text":  "106"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "F4",
+                                         "formula":  "=Forward",
+                                         "value":  507,
+                                         "valueType":  "System.Double",
+                                         "text":  "507"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "G4",
+                                         "formula":  "=OtherAnchor",
+                                         "value":  508,
+                                         "valueType":  "System.Double",
+                                         "text":  "508"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "H4",
+                                         "formula":  "=Behind",
+                                         "value":  307,
+                                         "valueType":  "System.Double",
+                                         "text":  "307"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "I4",
+                                         "formula":  "=AliasForward",
+                                         "value":  1020,
+                                         "valueType":  "System.Double",
+                                         "text":  "1020"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "J4",
+                                         "formula":  "=SUM(Area)",
+                                         "value":  2206,
+                                         "valueType":  "System.Double",
+                                         "text":  "2206"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "K4",
+                                         "formula":  "=\u0027Cost data\u0027!Forward",
+                                         "value":  502,
+                                         "valueType":  "System.Double",
+                                         "text":  "502"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "L4",
+                                         "formula":  "=ROW(RowNext)",
+                                         "value":  5,
+                                         "valueType":  "System.Double",
+                                         "text":  "5"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "M4",
+                                         "formula":  "=COLUMN(ColNext)",
+                                         "value":  14,
+                                         "valueType":  "System.Double",
+                                         "text":  "14"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "N4",
+                                         "formula":  "=IF(RowNext\u003e0,RowNext,999)",
+                                         "value":  501,
+                                         "valueType":  "System.Double",
+                                         "text":  "501"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "D2",
+                                         "formula":  "=RowNext",
+                                         "value":  500,
+                                         "valueType":  "System.Double",
+                                         "text":  "500"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "E2",
+                                         "formula":  "=ColNext",
+                                         "value":  106,
+                                         "valueType":  "System.Double",
+                                         "text":  "106"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "F2",
+                                         "formula":  "=Forward",
+                                         "value":  302,
+                                         "valueType":  "System.Double",
+                                         "text":  "302"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "G2",
+                                         "formula":  "=OtherAnchor",
+                                         "value":  308,
+                                         "valueType":  "System.Double",
+                                         "text":  "308"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "H2",
+                                         "formula":  "=Behind",
+                                         "value":  107,
+                                         "valueType":  "System.Double",
+                                         "text":  "107"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "I2",
+                                         "formula":  "=AliasForward",
+                                         "value":  620,
+                                         "valueType":  "System.Double",
+                                         "text":  "620"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "J2",
+                                         "formula":  "=SUM(Area)",
+                                         "value":  1605,
+                                         "valueType":  "System.Double",
+                                         "text":  "1605"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "K2",
+                                         "formula":  "=\u0027Cost data\u0027!Forward",
+                                         "value":  302,
+                                         "valueType":  "System.Double",
+                                         "text":  "302"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "L2",
+                                         "formula":  "=ROW(RowNext)",
+                                         "value":  3,
+                                         "valueType":  "System.Double",
+                                         "text":  "3"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "M2",
+                                         "formula":  "=COLUMN(ColNext)",
+                                         "value":  14,
+                                         "valueType":  "System.Double",
+                                         "text":  "14"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "N2",
+                                         "formula":  "=IF(RowNext\u003e0,RowNext,999)",
+                                         "value":  500,
+                                         "valueType":  "System.Double",
+                                         "text":  "500"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "D4",
+                                         "formula":  "=RowNext",
+                                         "value":  501,
+                                         "valueType":  "System.Double",
+                                         "text":  "501"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "E4",
+                                         "formula":  "=ColNext",
+                                         "value":  106,
+                                         "valueType":  "System.Double",
+                                         "text":  "106"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "F4",
+                                         "formula":  "=Forward",
+                                         "value":  502,
+                                         "valueType":  "System.Double",
+                                         "text":  "502"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "G4",
+                                         "formula":  "=OtherAnchor",
+                                         "value":  508,
+                                         "valueType":  "System.Double",
+                                         "text":  "508"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "H4",
+                                         "formula":  "=Behind",
+                                         "value":  307,
+                                         "valueType":  "System.Double",
+                                         "text":  "307"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "I4",
+                                         "formula":  "=AliasForward",
+                                         "value":  1020,
+                                         "valueType":  "System.Double",
+                                         "text":  "1020"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "J4",
+                                         "formula":  "=SUM(Area)",
+                                         "value":  2206,
+                                         "valueType":  "System.Double",
+                                         "text":  "2206"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "K4",
+                                         "formula":  "=\u0027Cost data\u0027!Forward",
+                                         "value":  502,
+                                         "valueType":  "System.Double",
+                                         "text":  "502"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "L4",
+                                         "formula":  "=ROW(RowNext)",
+                                         "value":  5,
+                                         "valueType":  "System.Double",
+                                         "text":  "5"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "M4",
+                                         "formula":  "=COLUMN(ColNext)",
+                                         "value":  14,
+                                         "valueType":  "System.Double",
+                                         "text":  "14"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "N4",
+                                         "formula":  "=IF(RowNext\u003e0,RowNext,999)",
+                                         "value":  501,
+                                         "valueType":  "System.Double",
+                                         "text":  "501"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "A1",
+                                         "formula":  "=Previous",
+                                         "value":  0,
+                                         "valueType":  "System.Double",
+                                         "text":  "0"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "A6",
+                                         "formula":  "1",
+                                         "value":  1,
+                                         "valueType":  "System.Double",
+                                         "text":  "1"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "A7",
+                                         "formula":  "=Previous+1",
+                                         "value":  2,
+                                         "valueType":  "System.Double",
+                                         "text":  "2"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "A8",
+                                         "formula":  "=Previous+1",
+                                         "value":  3,
+                                         "valueType":  "System.Double",
+                                         "text":  "3"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "D3",
+                                         "formula":  "",
+                                         "value":  null,
+                                         "valueType":  "blank",
+                                         "text":  ""
+                                     }
+                                 ]
+                   },
+                   {
+                       "names":  [
+                                     {
+                                         "name":  "AliasForward",
+                                         "a1":  "=Forward*2",
+                                         "r1c1":  "=Forward*2"
+                                     },
+                                     {
+                                         "name":  "Area",
+                                         "a1":  "=Data!$A2:$B3",
+                                         "r1c1":  "=Data!R[1]C1:R[2]C2"
+                                     },
+                                     {
+                                         "name":  "Behind",
+                                         "a1":  "=Data!XFD1048576",
+                                         "r1c1":  "=Data!R[1048575]C[16383]"
+                                     },
+                                     {
+                                         "name":  "ColNext",
+                                         "a1":  "=Data!B$1",
+                                         "r1c1":  "=Data!R1C[1]"
+                                     },
+                                     {
+                                         "name":  "\u0027Cost data\u0027!Forward",
+                                         "a1":  "=Data!$B2",
+                                         "r1c1":  "=Data!R[1]C2"
+                                     },
+                                     {
+                                         "name":  "Forward",
+                                         "a1":  "=Data!B2",
+                                         "r1c1":  "=Data!R[1]C[1]"
+                                     },
+                                     {
+                                         "name":  "OtherAnchor",
+                                         "a1":  "=Data!B2",
+                                         "r1c1":  "=Data!R[1]C[1]"
+                                     },
+                                     {
+                                         "name":  "Previous",
+                                         "a1":  "=Calls!A1048576",
+                                         "r1c1":  "=Calls!R[1048575]C"
+                                     },
+                                     {
+                                         "name":  "RowNext",
+                                         "a1":  "=Data!$A2",
+                                         "r1c1":  "=Data!R[1]C1"
+                                     }
+                                 ],
+                       "stage":  "delete",
+                       "cells":  [
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "D2",
+                                         "formula":  "=RowNext",
+                                         "value":  0,
+                                         "valueType":  "System.Double",
+                                         "text":  "0"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "E2",
+                                         "formula":  "=ColNext",
+                                         "value":  106,
+                                         "valueType":  "System.Double",
+                                         "text":  "106"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "F2",
+                                         "formula":  "=Forward",
+                                         "value":  307,
+                                         "valueType":  "System.Double",
+                                         "text":  "307"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "G2",
+                                         "formula":  "=OtherAnchor",
+                                         "value":  308,
+                                         "valueType":  "System.Double",
+                                         "text":  "308"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "H2",
+                                         "formula":  "=Behind",
+                                         "value":  107,
+                                         "valueType":  "System.Double",
+                                         "text":  "107"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "I2",
+                                         "formula":  "=AliasForward",
+                                         "value":  620,
+                                         "valueType":  "System.Double",
+                                         "text":  "620"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "J2",
+                                         "formula":  "=SUM(Area)",
+                                         "value":  1105,
+                                         "valueType":  "System.Double",
+                                         "text":  "1105"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "K2",
+                                         "formula":  "=\u0027Cost data\u0027!Forward",
+                                         "value":  302,
+                                         "valueType":  "System.Double",
+                                         "text":  "302"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "L2",
+                                         "formula":  "=ROW(RowNext)",
+                                         "value":  3,
+                                         "valueType":  "System.Double",
+                                         "text":  "3"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "M2",
+                                         "formula":  "=COLUMN(ColNext)",
+                                         "value":  14,
+                                         "valueType":  "System.Double",
+                                         "text":  "14"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "N2",
+                                         "formula":  "=IF(RowNext\u003e0,RowNext,999)",
+                                         "value":  999,
+                                         "valueType":  "System.Double",
+                                         "text":  "999"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "D4",
+                                         "formula":  "=RowNext",
+                                         "value":  501,
+                                         "valueType":  "System.Double",
+                                         "text":  "501"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "E4",
+                                         "formula":  "=ColNext",
+                                         "value":  106,
+                                         "valueType":  "System.Double",
+                                         "text":  "106"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "F4",
+                                         "formula":  "=Forward",
+                                         "value":  507,
+                                         "valueType":  "System.Double",
+                                         "text":  "507"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "G4",
+                                         "formula":  "=OtherAnchor",
+                                         "value":  508,
+                                         "valueType":  "System.Double",
+                                         "text":  "508"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "H4",
+                                         "formula":  "=Behind",
+                                         "value":  307,
+                                         "valueType":  "System.Double",
+                                         "text":  "307"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "I4",
+                                         "formula":  "=AliasForward",
+                                         "value":  1020,
+                                         "valueType":  "System.Double",
+                                         "text":  "1020"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "J4",
+                                         "formula":  "=SUM(Area)",
+                                         "value":  2206,
+                                         "valueType":  "System.Double",
+                                         "text":  "2206"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "K4",
+                                         "formula":  "=\u0027Cost data\u0027!Forward",
+                                         "value":  502,
+                                         "valueType":  "System.Double",
+                                         "text":  "502"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "L4",
+                                         "formula":  "=ROW(RowNext)",
+                                         "value":  5,
+                                         "valueType":  "System.Double",
+                                         "text":  "5"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "M4",
+                                         "formula":  "=COLUMN(ColNext)",
+                                         "value":  14,
+                                         "valueType":  "System.Double",
+                                         "text":  "14"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "N4",
+                                         "formula":  "=IF(RowNext\u003e0,RowNext,999)",
+                                         "value":  501,
+                                         "valueType":  "System.Double",
+                                         "text":  "501"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "D2",
+                                         "formula":  "=RowNext",
+                                         "value":  0,
+                                         "valueType":  "System.Double",
+                                         "text":  "0"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "E2",
+                                         "formula":  "=ColNext",
+                                         "value":  106,
+                                         "valueType":  "System.Double",
+                                         "text":  "106"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "F2",
+                                         "formula":  "=Forward",
+                                         "value":  302,
+                                         "valueType":  "System.Double",
+                                         "text":  "302"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "G2",
+                                         "formula":  "=OtherAnchor",
+                                         "value":  308,
+                                         "valueType":  "System.Double",
+                                         "text":  "308"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "H2",
+                                         "formula":  "=Behind",
+                                         "value":  107,
+                                         "valueType":  "System.Double",
+                                         "text":  "107"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "I2",
+                                         "formula":  "=AliasForward",
+                                         "value":  620,
+                                         "valueType":  "System.Double",
+                                         "text":  "620"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "J2",
+                                         "formula":  "=SUM(Area)",
+                                         "value":  1105,
+                                         "valueType":  "System.Double",
+                                         "text":  "1105"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "K2",
+                                         "formula":  "=\u0027Cost data\u0027!Forward",
+                                         "value":  302,
+                                         "valueType":  "System.Double",
+                                         "text":  "302"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "L2",
+                                         "formula":  "=ROW(RowNext)",
+                                         "value":  3,
+                                         "valueType":  "System.Double",
+                                         "text":  "3"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "M2",
+                                         "formula":  "=COLUMN(ColNext)",
+                                         "value":  14,
+                                         "valueType":  "System.Double",
+                                         "text":  "14"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "N2",
+                                         "formula":  "=IF(RowNext\u003e0,RowNext,999)",
+                                         "value":  999,
+                                         "valueType":  "System.Double",
+                                         "text":  "999"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "D4",
+                                         "formula":  "=RowNext",
+                                         "value":  501,
+                                         "valueType":  "System.Double",
+                                         "text":  "501"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "E4",
+                                         "formula":  "=ColNext",
+                                         "value":  106,
+                                         "valueType":  "System.Double",
+                                         "text":  "106"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "F4",
+                                         "formula":  "=Forward",
+                                         "value":  502,
+                                         "valueType":  "System.Double",
+                                         "text":  "502"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "G4",
+                                         "formula":  "=OtherAnchor",
+                                         "value":  508,
+                                         "valueType":  "System.Double",
+                                         "text":  "508"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "H4",
+                                         "formula":  "=Behind",
+                                         "value":  307,
+                                         "valueType":  "System.Double",
+                                         "text":  "307"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "I4",
+                                         "formula":  "=AliasForward",
+                                         "value":  1020,
+                                         "valueType":  "System.Double",
+                                         "text":  "1020"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "J4",
+                                         "formula":  "=SUM(Area)",
+                                         "value":  2206,
+                                         "valueType":  "System.Double",
+                                         "text":  "2206"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "K4",
+                                         "formula":  "=\u0027Cost data\u0027!Forward",
+                                         "value":  502,
+                                         "valueType":  "System.Double",
+                                         "text":  "502"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "L4",
+                                         "formula":  "=ROW(RowNext)",
+                                         "value":  5,
+                                         "valueType":  "System.Double",
+                                         "text":  "5"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "M4",
+                                         "formula":  "=COLUMN(ColNext)",
+                                         "value":  14,
+                                         "valueType":  "System.Double",
+                                         "text":  "14"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "N4",
+                                         "formula":  "=IF(RowNext\u003e0,RowNext,999)",
+                                         "value":  501,
+                                         "valueType":  "System.Double",
+                                         "text":  "501"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "A1",
+                                         "formula":  "=Previous",
+                                         "value":  0,
+                                         "valueType":  "System.Double",
+                                         "text":  "0"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "A6",
+                                         "formula":  "1",
+                                         "value":  1,
+                                         "valueType":  "System.Double",
+                                         "text":  "1"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "A7",
+                                         "formula":  "=Previous+1",
+                                         "value":  2,
+                                         "valueType":  "System.Double",
+                                         "text":  "2"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "A8",
+                                         "formula":  "=Previous+1",
+                                         "value":  3,
+                                         "valueType":  "System.Double",
+                                         "text":  "3"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "D3",
+                                         "formula":  "",
+                                         "value":  null,
+                                         "valueType":  "blank",
+                                         "text":  ""
+                                     }
+                                 ]
+                   },
+                   {
+                       "names":  [
+                                     {
+                                         "name":  "AliasForward",
+                                         "a1":  "=Forward*2",
+                                         "r1c1":  "=Forward*2"
+                                     },
+                                     {
+                                         "name":  "Area",
+                                         "a1":  "=Data!$A2:$B3",
+                                         "r1c1":  "=Data!R[1]C1:R[2]C2"
+                                     },
+                                     {
+                                         "name":  "Behind",
+                                         "a1":  "=Data!XFD1048576",
+                                         "r1c1":  "=Data!R[1048575]C[16383]"
+                                     },
+                                     {
+                                         "name":  "ColNext",
+                                         "a1":  "=Data!B$1",
+                                         "r1c1":  "=Data!R1C[1]"
+                                     },
+                                     {
+                                         "name":  "\u0027Cost data\u0027!Forward",
+                                         "a1":  "=Data!$B2",
+                                         "r1c1":  "=Data!R[1]C2"
+                                     },
+                                     {
+                                         "name":  "Forward",
+                                         "a1":  "=Data!B2",
+                                         "r1c1":  "=Data!R[1]C[1]"
+                                     },
+                                     {
+                                         "name":  "OtherAnchor",
+                                         "a1":  "=Data!B2",
+                                         "r1c1":  "=Data!R[1]C[1]"
+                                     },
+                                     {
+                                         "name":  "Previous",
+                                         "a1":  "=Calls!A1048576",
+                                         "r1c1":  "=Calls!R[1048575]C"
+                                     },
+                                     {
+                                         "name":  "RowNext",
+                                         "a1":  "=Data!$A2",
+                                         "r1c1":  "=Data!R[1]C1"
+                                     }
+                                 ],
+                       "stage":  "caller",
+                       "cells":  [
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "D2",
+                                         "formula":  "=1/RowNext",
+                                         "value":  -2146826281,
+                                         "valueType":  "System.Int32",
+                                         "text":  "#DIV/0!"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "E2",
+                                         "formula":  "=ColNext",
+                                         "value":  106,
+                                         "valueType":  "System.Double",
+                                         "text":  "106"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "F2",
+                                         "formula":  "=Forward",
+                                         "value":  307,
+                                         "valueType":  "System.Double",
+                                         "text":  "307"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "G2",
+                                         "formula":  "=OtherAnchor",
+                                         "value":  308,
+                                         "valueType":  "System.Double",
+                                         "text":  "308"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "H2",
+                                         "formula":  "=Behind",
+                                         "value":  107,
+                                         "valueType":  "System.Double",
+                                         "text":  "107"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "I2",
+                                         "formula":  "=AliasForward",
+                                         "value":  620,
+                                         "valueType":  "System.Double",
+                                         "text":  "620"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "J2",
+                                         "formula":  "=SUM(Area)",
+                                         "value":  1105,
+                                         "valueType":  "System.Double",
+                                         "text":  "1105"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "K2",
+                                         "formula":  "=\u0027Cost data\u0027!Forward",
+                                         "value":  302,
+                                         "valueType":  "System.Double",
+                                         "text":  "302"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "L2",
+                                         "formula":  "=ROW(RowNext)",
+                                         "value":  3,
+                                         "valueType":  "System.Double",
+                                         "text":  "3"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "M2",
+                                         "formula":  "=COLUMN(ColNext)",
+                                         "value":  14,
+                                         "valueType":  "System.Double",
+                                         "text":  "14"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "N2",
+                                         "formula":  "=IF(RowNext\u003e0,RowNext,999)",
+                                         "value":  999,
+                                         "valueType":  "System.Double",
+                                         "text":  "999"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "D4",
+                                         "formula":  "=RowNext",
+                                         "value":  501,
+                                         "valueType":  "System.Double",
+                                         "text":  "501"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "E4",
+                                         "formula":  "=ColNext",
+                                         "value":  106,
+                                         "valueType":  "System.Double",
+                                         "text":  "106"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "F4",
+                                         "formula":  "=Forward",
+                                         "value":  507,
+                                         "valueType":  "System.Double",
+                                         "text":  "507"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "G4",
+                                         "formula":  "=OtherAnchor",
+                                         "value":  508,
+                                         "valueType":  "System.Double",
+                                         "text":  "508"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "H4",
+                                         "formula":  "=Behind",
+                                         "value":  307,
+                                         "valueType":  "System.Double",
+                                         "text":  "307"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "I4",
+                                         "formula":  "=AliasForward",
+                                         "value":  1020,
+                                         "valueType":  "System.Double",
+                                         "text":  "1020"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "J4",
+                                         "formula":  "=SUM(Area)",
+                                         "value":  2206,
+                                         "valueType":  "System.Double",
+                                         "text":  "2206"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "K4",
+                                         "formula":  "=\u0027Cost data\u0027!Forward",
+                                         "value":  502,
+                                         "valueType":  "System.Double",
+                                         "text":  "502"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "L4",
+                                         "formula":  "=ROW(RowNext)",
+                                         "value":  5,
+                                         "valueType":  "System.Double",
+                                         "text":  "5"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "M4",
+                                         "formula":  "=COLUMN(ColNext)",
+                                         "value":  14,
+                                         "valueType":  "System.Double",
+                                         "text":  "14"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "N4",
+                                         "formula":  "=IF(RowNext\u003e0,RowNext,999)",
+                                         "value":  501,
+                                         "valueType":  "System.Double",
+                                         "text":  "501"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "D2",
+                                         "formula":  "=RowNext",
+                                         "value":  0,
+                                         "valueType":  "System.Double",
+                                         "text":  "0"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "E2",
+                                         "formula":  "=ColNext",
+                                         "value":  106,
+                                         "valueType":  "System.Double",
+                                         "text":  "106"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "F2",
+                                         "formula":  "=Forward",
+                                         "value":  302,
+                                         "valueType":  "System.Double",
+                                         "text":  "302"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "G2",
+                                         "formula":  "=OtherAnchor",
+                                         "value":  308,
+                                         "valueType":  "System.Double",
+                                         "text":  "308"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "H2",
+                                         "formula":  "=Behind",
+                                         "value":  107,
+                                         "valueType":  "System.Double",
+                                         "text":  "107"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "I2",
+                                         "formula":  "=AliasForward",
+                                         "value":  620,
+                                         "valueType":  "System.Double",
+                                         "text":  "620"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "J2",
+                                         "formula":  "=SUM(Area)",
+                                         "value":  1105,
+                                         "valueType":  "System.Double",
+                                         "text":  "1105"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "K2",
+                                         "formula":  "=\u0027Cost data\u0027!Forward",
+                                         "value":  302,
+                                         "valueType":  "System.Double",
+                                         "text":  "302"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "L2",
+                                         "formula":  "=ROW(RowNext)",
+                                         "value":  3,
+                                         "valueType":  "System.Double",
+                                         "text":  "3"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "M2",
+                                         "formula":  "=COLUMN(ColNext)",
+                                         "value":  14,
+                                         "valueType":  "System.Double",
+                                         "text":  "14"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "N2",
+                                         "formula":  "=IF(RowNext\u003e0,RowNext,999)",
+                                         "value":  999,
+                                         "valueType":  "System.Double",
+                                         "text":  "999"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "D4",
+                                         "formula":  "=RowNext",
+                                         "value":  501,
+                                         "valueType":  "System.Double",
+                                         "text":  "501"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "E4",
+                                         "formula":  "=ColNext",
+                                         "value":  106,
+                                         "valueType":  "System.Double",
+                                         "text":  "106"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "F4",
+                                         "formula":  "=Forward",
+                                         "value":  502,
+                                         "valueType":  "System.Double",
+                                         "text":  "502"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "G4",
+                                         "formula":  "=OtherAnchor",
+                                         "value":  508,
+                                         "valueType":  "System.Double",
+                                         "text":  "508"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "H4",
+                                         "formula":  "=Behind",
+                                         "value":  307,
+                                         "valueType":  "System.Double",
+                                         "text":  "307"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "I4",
+                                         "formula":  "=AliasForward",
+                                         "value":  1020,
+                                         "valueType":  "System.Double",
+                                         "text":  "1020"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "J4",
+                                         "formula":  "=SUM(Area)",
+                                         "value":  2206,
+                                         "valueType":  "System.Double",
+                                         "text":  "2206"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "K4",
+                                         "formula":  "=\u0027Cost data\u0027!Forward",
+                                         "value":  502,
+                                         "valueType":  "System.Double",
+                                         "text":  "502"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "L4",
+                                         "formula":  "=ROW(RowNext)",
+                                         "value":  5,
+                                         "valueType":  "System.Double",
+                                         "text":  "5"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "M4",
+                                         "formula":  "=COLUMN(ColNext)",
+                                         "value":  14,
+                                         "valueType":  "System.Double",
+                                         "text":  "14"
+                                     },
+                                     {
+                                         "sheet":  "Cost data",
+                                         "address":  "N4",
+                                         "formula":  "=IF(RowNext\u003e0,RowNext,999)",
+                                         "value":  501,
+                                         "valueType":  "System.Double",
+                                         "text":  "501"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "A1",
+                                         "formula":  "=Previous",
+                                         "value":  0,
+                                         "valueType":  "System.Double",
+                                         "text":  "0"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "A6",
+                                         "formula":  "1",
+                                         "value":  1,
+                                         "valueType":  "System.Double",
+                                         "text":  "1"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "A7",
+                                         "formula":  "=Previous+1",
+                                         "value":  2,
+                                         "valueType":  "System.Double",
+                                         "text":  "2"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "A8",
+                                         "formula":  "=Previous+1",
+                                         "value":  3,
+                                         "valueType":  "System.Double",
+                                         "text":  "3"
+                                     },
+                                     {
+                                         "sheet":  "Calls",
+                                         "address":  "D3",
+                                         "formula":  "=RowNext",
+                                         "value":  401,
+                                         "valueType":  "System.Double",
+                                         "text":  "401"
+                                     }
+                                 ]
+                   }
+               ],
+    "executableSha256":  "34f17e922e344705a958b52e2472e6667b1d32a887f28a18b7b97e0e7ab167a9",
+    "sourceSha256":  "d93f373e625946255b0231bcc1d7d90fefd097fef8489a1767de943c207356e3"
+}

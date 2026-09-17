@@ -1,0 +1,602 @@
+{
+  "rows": [
+    {
+      "name": "plain",
+      "sourceHash": "34f1816e685f2b9ee0b686a7cddc635c0fe7869ee1c1f20b312730bc13791920",
+      "controls": [
+        {
+          "index": 0,
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 1,
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a0\u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 2,
+          "family": "Arial",
+          "size": 10,
+          "text": "\u00a0A B",
+          "wrapped": false
+        },
+        {
+          "index": 3,
+          "family": "Arial",
+          "size": 10,
+          "text": "A B\u00a0",
+          "wrapped": false
+        },
+        {
+          "index": 4,
+          "family": "Arial",
+          "size": 10,
+          "text": "\u00a0\u00a0A\u00a0\u00a0B\u00a0\u00a0",
+          "wrapped": false
+        },
+        {
+          "index": 5,
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a0B C",
+          "wrapped": false
+        },
+        {
+          "index": 6,
+          "family": "Arial",
+          "size": 10,
+          "text": "A \u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 7,
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a0 B",
+          "wrapped": false
+        },
+        {
+          "index": 8,
+          "family": "Arial",
+          "size": 10,
+          "text": "A AA BB",
+          "wrapped": true
+        },
+        {
+          "index": 9,
+          "family": "Arial",
+          "size": 10,
+          "text": "A AA\u00a0BB",
+          "wrapped": true
+        },
+        {
+          "index": 0,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 1,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a0\u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 2,
+          "family": "Calibri",
+          "size": 11,
+          "text": "\u00a0A B",
+          "wrapped": false
+        },
+        {
+          "index": 3,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B\u00a0",
+          "wrapped": false
+        },
+        {
+          "index": 4,
+          "family": "Calibri",
+          "size": 11,
+          "text": "\u00a0\u00a0A\u00a0\u00a0B\u00a0\u00a0",
+          "wrapped": false
+        },
+        {
+          "index": 5,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a0B C",
+          "wrapped": false
+        },
+        {
+          "index": 6,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A \u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 7,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a0 B",
+          "wrapped": false
+        },
+        {
+          "index": 8,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A AA BB",
+          "wrapped": true
+        },
+        {
+          "index": 9,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A AA\u00a0BB",
+          "wrapped": true
+        }
+      ],
+      "path": "tests/fixtures/word-nonbreaking-spaces/plain.docx",
+      "nativeSourcePdfHash": "90c63923aa81d54f39f39236a59899fb3009e64f646262a0bfef8fe1352f1123",
+      "nativeReopenedPdfHash": "833c83a3695161b61792f9ec7f472829d1ed4f716bed1e9dea98e42d99509faa"
+    },
+    {
+      "name": "underline",
+      "sourceHash": "2fc5fe6843b8ac824cedf46237ef4af6675957c119ff7230407e3f6d2a136283",
+      "controls": [
+        {
+          "index": 0,
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 1,
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a0\u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 2,
+          "family": "Arial",
+          "size": 10,
+          "text": "\u00a0A B",
+          "wrapped": false
+        },
+        {
+          "index": 3,
+          "family": "Arial",
+          "size": 10,
+          "text": "A B\u00a0",
+          "wrapped": false
+        },
+        {
+          "index": 4,
+          "family": "Arial",
+          "size": 10,
+          "text": "\u00a0\u00a0A\u00a0\u00a0B\u00a0\u00a0",
+          "wrapped": false
+        },
+        {
+          "index": 5,
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a0B C",
+          "wrapped": false
+        },
+        {
+          "index": 6,
+          "family": "Arial",
+          "size": 10,
+          "text": "A \u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 7,
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a0 B",
+          "wrapped": false
+        },
+        {
+          "index": 8,
+          "family": "Arial",
+          "size": 10,
+          "text": "A AA BB",
+          "wrapped": true
+        },
+        {
+          "index": 9,
+          "family": "Arial",
+          "size": 10,
+          "text": "A AA\u00a0BB",
+          "wrapped": true
+        },
+        {
+          "index": 0,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 1,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a0\u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 2,
+          "family": "Calibri",
+          "size": 11,
+          "text": "\u00a0A B",
+          "wrapped": false
+        },
+        {
+          "index": 3,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B\u00a0",
+          "wrapped": false
+        },
+        {
+          "index": 4,
+          "family": "Calibri",
+          "size": 11,
+          "text": "\u00a0\u00a0A\u00a0\u00a0B\u00a0\u00a0",
+          "wrapped": false
+        },
+        {
+          "index": 5,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a0B C",
+          "wrapped": false
+        },
+        {
+          "index": 6,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A \u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 7,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a0 B",
+          "wrapped": false
+        },
+        {
+          "index": 8,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A AA BB",
+          "wrapped": true
+        },
+        {
+          "index": 9,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A AA\u00a0BB",
+          "wrapped": true
+        }
+      ],
+      "path": "tests/fixtures/word-nonbreaking-spaces/underline.docx",
+      "nativeSourcePdfHash": "83baa772d6a21d1d3a3ba944ad5474ca00e6d5855eccbce029ac43e2e07f9229",
+      "nativeReopenedPdfHash": "54e1184b2c24960b6fcbcd0bf6360eb4f859d968757ed575c0c7e92732f31695"
+    },
+    {
+      "name": "strike",
+      "sourceHash": "b58c9783c44a6ca562d5d568cd61ca9473cd90c8c26e752d81458784bb02d1e3",
+      "controls": [
+        {
+          "index": 0,
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 1,
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a0\u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 2,
+          "family": "Arial",
+          "size": 10,
+          "text": "\u00a0A B",
+          "wrapped": false
+        },
+        {
+          "index": 3,
+          "family": "Arial",
+          "size": 10,
+          "text": "A B\u00a0",
+          "wrapped": false
+        },
+        {
+          "index": 4,
+          "family": "Arial",
+          "size": 10,
+          "text": "\u00a0\u00a0A\u00a0\u00a0B\u00a0\u00a0",
+          "wrapped": false
+        },
+        {
+          "index": 5,
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a0B C",
+          "wrapped": false
+        },
+        {
+          "index": 6,
+          "family": "Arial",
+          "size": 10,
+          "text": "A \u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 7,
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a0 B",
+          "wrapped": false
+        },
+        {
+          "index": 8,
+          "family": "Arial",
+          "size": 10,
+          "text": "A AA BB",
+          "wrapped": true
+        },
+        {
+          "index": 9,
+          "family": "Arial",
+          "size": 10,
+          "text": "A AA\u00a0BB",
+          "wrapped": true
+        },
+        {
+          "index": 0,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 1,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a0\u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 2,
+          "family": "Calibri",
+          "size": 11,
+          "text": "\u00a0A B",
+          "wrapped": false
+        },
+        {
+          "index": 3,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B\u00a0",
+          "wrapped": false
+        },
+        {
+          "index": 4,
+          "family": "Calibri",
+          "size": 11,
+          "text": "\u00a0\u00a0A\u00a0\u00a0B\u00a0\u00a0",
+          "wrapped": false
+        },
+        {
+          "index": 5,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a0B C",
+          "wrapped": false
+        },
+        {
+          "index": 6,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A \u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 7,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a0 B",
+          "wrapped": false
+        },
+        {
+          "index": 8,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A AA BB",
+          "wrapped": true
+        },
+        {
+          "index": 9,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A AA\u00a0BB",
+          "wrapped": true
+        }
+      ],
+      "path": "tests/fixtures/word-nonbreaking-spaces/strike.docx",
+      "nativeSourcePdfHash": "7a6dff8baa2e78e3feaa22e79abe714fd14f10819589be584de4737791503585",
+      "nativeReopenedPdfHash": "03b26a979a5f2caa20c4f558d67205bef1fd14ef5b334caf5417e2c330e6fe23"
+    },
+    {
+      "name": "both",
+      "sourceHash": "8b593a45fcef6bde83a9cba55be471d6711a3bef74c526e41465a905cd05ea3d",
+      "controls": [
+        {
+          "index": 0,
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 1,
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a0\u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 2,
+          "family": "Arial",
+          "size": 10,
+          "text": "\u00a0A B",
+          "wrapped": false
+        },
+        {
+          "index": 3,
+          "family": "Arial",
+          "size": 10,
+          "text": "A B\u00a0",
+          "wrapped": false
+        },
+        {
+          "index": 4,
+          "family": "Arial",
+          "size": 10,
+          "text": "\u00a0\u00a0A\u00a0\u00a0B\u00a0\u00a0",
+          "wrapped": false
+        },
+        {
+          "index": 5,
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a0B C",
+          "wrapped": false
+        },
+        {
+          "index": 6,
+          "family": "Arial",
+          "size": 10,
+          "text": "A \u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 7,
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a0 B",
+          "wrapped": false
+        },
+        {
+          "index": 8,
+          "family": "Arial",
+          "size": 10,
+          "text": "A AA BB",
+          "wrapped": true
+        },
+        {
+          "index": 9,
+          "family": "Arial",
+          "size": 10,
+          "text": "A AA\u00a0BB",
+          "wrapped": true
+        },
+        {
+          "index": 0,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 1,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a0\u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 2,
+          "family": "Calibri",
+          "size": 11,
+          "text": "\u00a0A B",
+          "wrapped": false
+        },
+        {
+          "index": 3,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A B\u00a0",
+          "wrapped": false
+        },
+        {
+          "index": 4,
+          "family": "Calibri",
+          "size": 11,
+          "text": "\u00a0\u00a0A\u00a0\u00a0B\u00a0\u00a0",
+          "wrapped": false
+        },
+        {
+          "index": 5,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a0B C",
+          "wrapped": false
+        },
+        {
+          "index": 6,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A \u00a0B",
+          "wrapped": false
+        },
+        {
+          "index": 7,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a0 B",
+          "wrapped": false
+        },
+        {
+          "index": 8,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A AA BB",
+          "wrapped": true
+        },
+        {
+          "index": 9,
+          "family": "Calibri",
+          "size": 11,
+          "text": "A AA\u00a0BB",
+          "wrapped": true
+        }
+      ],
+      "path": "tests/fixtures/word-nonbreaking-spaces/both.docx",
+      "nativeSourcePdfHash": "4a5de5ca0bba4c134eb5605962ce894f8c7ef36101bb82c902fe3a53a757ee4e",
+      "nativeReopenedPdfHash": "fc90bbad7a467fc0849534924aff07fa020f7123304981a25677382d3a482d72"
+    }
+  ],
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "scope": "64 NBSP leading/trailing/repeated/mixed controls and16 paired ordinary/NBSP wraps, independently opened/saved/reopened in Word. Full numeric page parity remains separately gated."
+}

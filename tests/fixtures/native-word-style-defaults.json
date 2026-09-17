@@ -1,0 +1,522 @@
+{
+  "receipts": [
+    {
+      "path": ".local\\word-absent-style-defaults\\native-discovery.json",
+      "sha256": "2680c9d39a317a5f15cfe0801ac26c1324f085d8fabd111beb9a0044fd90fd81",
+      "scriptHash": "16afde14ca5073d1db739d7960a4fa8b46fa799c7107f6389421370d53d3e3c4",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    },
+    {
+      "path": ".local\\word-absent-style-default-blocks\\native-discovery.json",
+      "sha256": "33c849d4f92fcc4599162b70ead276ddc694378be34ad238203cf292ae7d9e6c",
+      "scriptHash": "03b1b40721fc59b8e9af238936725217e189d2f136784d6dc2b6a7b593cec0c9",
+      "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e"
+    }
+  ],
+  "cases": [
+    {
+      "pdfHash": "5434603619ce792b568fad9be9812d54312ee575c688730dbb54e926d8718985",
+      "initial": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 11,
+        "kerning": 0,
+        "line": 12.949999809265137,
+        "after": 8,
+        "rule": 5,
+        "family": "Calibri"
+      },
+      "docxHash": "1bdbddbdbc124338ab74a89eb2e77198de2da92859a93c887af056cf1a241eba",
+      "body": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 11,
+        "kerning": 0,
+        "line": 12.949999809265137,
+        "after": 8,
+        "rule": 5,
+        "family": "Calibri"
+      },
+      "mode": "absent-styles",
+      "header": {
+        "style": "Kopfzeile",
+        "before": 0,
+        "text": "Created header\r",
+        "size": 11,
+        "kerning": 0,
+        "line": 12,
+        "after": 0,
+        "rule": 0,
+        "family": "Calibri"
+      },
+      "pages": 6,
+      "sourceHash": "303e1a12b0d86111b922a574e25fc7f1789241d5e3a7b1f351f580123f2ba9d7",
+      "file": "word-style-defaults-absent-styles.docx",
+      "nativeRoot": ".local\\word-absent-style-defaults"
+    },
+    {
+      "pdfHash": "1ea413bf1007d7c7a7a358f1266c53cfd53d4ae74c21befdb65bb52baa2e7492",
+      "initial": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 11,
+        "kerning": 0,
+        "line": 12.949999809265137,
+        "after": 8,
+        "rule": 5,
+        "family": "Calibri"
+      },
+      "docxHash": "f203baadd8e0a109a160e25375e1db1fe48b37db1da31b698351579926a5c42f",
+      "body": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 11,
+        "kerning": 0,
+        "line": 12.949999809265137,
+        "after": 8,
+        "rule": 5,
+        "family": "Calibri"
+      },
+      "mode": "absent-styles-theme",
+      "header": {
+        "style": "Kopfzeile",
+        "before": 0,
+        "text": "Created header\r",
+        "size": 11,
+        "kerning": 0,
+        "line": 12,
+        "after": 0,
+        "rule": 0,
+        "family": "Calibri"
+      },
+      "pages": 6,
+      "sourceHash": "e1b2ea2def3cd50c98f1b127eeb7f63f9712e050230588839e1127505a19d7ef",
+      "file": "word-style-defaults-absent-styles-theme.docx",
+      "nativeRoot": ".local\\word-absent-style-defaults"
+    },
+    {
+      "pdfHash": "41936663557f14a730d071c56ffb3caf70e1cfe2cd652b174086334721396e26",
+      "initial": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 11,
+        "kerning": 0,
+        "line": 12.949999809265137,
+        "after": 8,
+        "rule": 5,
+        "family": "Calibri"
+      },
+      "docxHash": "1e14db32f5dc6efb9175b535dff7941eb94aa946f5d64967356d408c317bdf45",
+      "body": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 11,
+        "kerning": 0,
+        "line": 12.949999809265137,
+        "after": 8,
+        "rule": 5,
+        "family": "Calibri"
+      },
+      "mode": "empty-styles",
+      "header": {
+        "style": "Kopfzeile",
+        "before": 0,
+        "text": "Created header\r",
+        "size": 11,
+        "kerning": 0,
+        "line": 12,
+        "after": 0,
+        "rule": 0,
+        "family": "Calibri"
+      },
+      "pages": 6,
+      "sourceHash": "9b715066bcd3af4692bd33255e20e7dfa18b9aca3d7ac29d340815f842e92825",
+      "file": "word-style-defaults-empty-styles.docx",
+      "nativeRoot": ".local\\word-absent-style-defaults"
+    },
+    {
+      "pdfHash": "b376e9d0fc52eae2fce6196c66797e56e9635ce0b6fe1cddddb65090d2c88276",
+      "initial": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 10,
+        "kerning": 0,
+        "line": 12.949999809265137,
+        "after": 8,
+        "rule": 5,
+        "family": "Arial"
+      },
+      "docxHash": "b69f5ef061463113e4787518bc720c2de3add14ba6910a7fab1ac9b30045acf3",
+      "body": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 10,
+        "kerning": 0,
+        "line": 12.949999809265137,
+        "after": 8,
+        "rule": 5,
+        "family": "Arial"
+      },
+      "mode": "font-only-defaults",
+      "header": {
+        "style": "Kopfzeile",
+        "before": 0,
+        "text": "Created header\r",
+        "size": 10,
+        "kerning": 0,
+        "line": 12,
+        "after": 0,
+        "rule": 0,
+        "family": "Arial"
+      },
+      "pages": 6,
+      "sourceHash": "947a363d34c1d91d06a956eedf16d83a210f29a8321d2ed5087a185b760bf508",
+      "file": "word-style-defaults-font-only-defaults.docx",
+      "nativeRoot": ".local\\word-absent-style-defaults"
+    },
+    {
+      "pdfHash": "e5f98d316e746882c54bac8cbfd8de8a68e0d5b0c197d008f79dd3dd5a153fb3",
+      "initial": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 10,
+        "kerning": 0,
+        "line": 12.949999809265137,
+        "after": 8,
+        "rule": 5,
+        "family": "Times New Roman"
+      },
+      "docxHash": "25894b4b83b988a896403add3a08f78ae9eab105487fa30d5504f7bd7a3c5a40",
+      "body": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 10,
+        "kerning": 0,
+        "line": 12.949999809265137,
+        "after": 8,
+        "rule": 5,
+        "family": "Times New Roman"
+      },
+      "mode": "size-only-defaults",
+      "header": {
+        "style": "Kopfzeile",
+        "before": 0,
+        "text": "Created header\r",
+        "size": 10,
+        "kerning": 0,
+        "line": 12,
+        "after": 0,
+        "rule": 0,
+        "family": "Times New Roman"
+      },
+      "pages": 6,
+      "sourceHash": "b02e2c834aeed3b3b3097ed7a2d7344d2855d750f8d62d4825680b702207c08e",
+      "file": "word-style-defaults-size-only-defaults.docx",
+      "nativeRoot": ".local\\word-absent-style-defaults"
+    },
+    {
+      "pdfHash": "d4998a46bd542fd3bb6407c3ee099d386014ff84855bae9e0787483fdfeee528",
+      "initial": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 11,
+        "kerning": 0,
+        "line": 12.949999809265137,
+        "after": 8,
+        "rule": 5,
+        "family": "Calibri"
+      },
+      "docxHash": "35a4a0350fa3c16acb04db49e200732d1fb4fe719e8223e1a566caaab4f6c3f0",
+      "body": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 11,
+        "kerning": 0,
+        "line": 12.949999809265137,
+        "after": 8,
+        "rule": 5,
+        "family": "Calibri"
+      },
+      "mode": "normal-only",
+      "header": {
+        "style": "Kopfzeile",
+        "before": 0,
+        "text": "Created header\r",
+        "size": 11,
+        "kerning": 0,
+        "line": 12,
+        "after": 0,
+        "rule": 0,
+        "family": "Calibri"
+      },
+      "pages": 6,
+      "sourceHash": "efebfae1963ff9c1303c0e027670504c8c6fb65adbf35dda548ca007bd8dc9ad",
+      "file": "word-style-defaults-normal-only.docx",
+      "nativeRoot": ".local\\word-absent-style-defaults"
+    },
+    {
+      "pdfHash": "47acda7695ea57a41aeeee1f7cae1fc69447231c26d9fc29e36b9a01f5fe3caf",
+      "initial": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 11,
+        "kerning": 0,
+        "line": 12.949999809265137,
+        "after": 8,
+        "rule": 5,
+        "family": "Calibri"
+      },
+      "docxHash": "fea5797cc669d71aaee7bda1c213f4ebf0ad7d2d2a87df6a0c39f1df03feff17",
+      "body": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 11,
+        "kerning": 0,
+        "line": 12.949999809265137,
+        "after": 8,
+        "rule": 5,
+        "family": "Calibri"
+      },
+      "mode": "empty-defaults",
+      "header": {
+        "style": "Kopfzeile",
+        "before": 0,
+        "text": "Created header\r",
+        "size": 11,
+        "kerning": 0,
+        "line": 12,
+        "after": 0,
+        "rule": 0,
+        "family": "Calibri"
+      },
+      "pages": 6,
+      "sourceHash": "6d8bb6772122f9ec20be804e93614737c1e34972802b449474279b59a3b01e1b",
+      "file": "word-style-defaults-empty-defaults.docx",
+      "nativeRoot": ".local\\word-absent-style-default-blocks"
+    },
+    {
+      "pdfHash": "e09c01de4a97ce953bb4e6e0594868b3e2ca94188fa54389eda153611c0fe66b",
+      "initial": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 10,
+        "kerning": 0,
+        "line": 12.949999809265137,
+        "after": 8,
+        "rule": 5,
+        "family": "Times New Roman"
+      },
+      "docxHash": "7aa28b9d97575d4dddc359fb52a75fc698da5af18f06cc4e51029e94da939790",
+      "body": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 10,
+        "kerning": 0,
+        "line": 12.949999809265137,
+        "after": 8,
+        "rule": 5,
+        "family": "Times New Roman"
+      },
+      "mode": "empty-run-container",
+      "header": {
+        "style": "Kopfzeile",
+        "before": 0,
+        "text": "Created header\r",
+        "size": 10,
+        "kerning": 0,
+        "line": 12,
+        "after": 0,
+        "rule": 0,
+        "family": "Times New Roman"
+      },
+      "pages": 6,
+      "sourceHash": "8c8c477a081bba6d90feff0d3c76109dfb11bfda2e8706222ac88445d84ea4de",
+      "file": "word-style-defaults-empty-run-container.docx",
+      "nativeRoot": ".local\\word-absent-style-default-blocks"
+    },
+    {
+      "pdfHash": "c9d72a1c19ab5d28321276270d4983d3ebd725b42f86430488e7bda187f906f9",
+      "initial": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 10,
+        "kerning": 0,
+        "line": 12.949999809265137,
+        "after": 8,
+        "rule": 5,
+        "family": "Times New Roman"
+      },
+      "docxHash": "e4cc92be5b5f2dd6b08b0f10f7fb0cf668de7711e59d89096a9c2c39b9b7f11c",
+      "body": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 10,
+        "kerning": 0,
+        "line": 12.949999809265137,
+        "after": 8,
+        "rule": 5,
+        "family": "Times New Roman"
+      },
+      "mode": "empty-run-properties",
+      "header": {
+        "style": "Kopfzeile",
+        "before": 0,
+        "text": "Created header\r",
+        "size": 10,
+        "kerning": 0,
+        "line": 12,
+        "after": 0,
+        "rule": 0,
+        "family": "Times New Roman"
+      },
+      "pages": 6,
+      "sourceHash": "c73b3c2450b9ef5fd9da7ad53c996bae9f15a6f711ce5013cd87c2801e3d5b69",
+      "file": "word-style-defaults-empty-run-properties.docx",
+      "nativeRoot": ".local\\word-absent-style-default-blocks"
+    },
+    {
+      "pdfHash": "51c706dd1bac723a90428e6e75192af96670a061a4f02a687d30019c8f1fafd4",
+      "initial": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 11,
+        "kerning": 0,
+        "line": 12,
+        "after": 0,
+        "rule": 0,
+        "family": "Calibri"
+      },
+      "docxHash": "070090d731ba837f3f2f8e804531ca323202a18553976415b8b7d7e11af2dabf",
+      "body": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 11,
+        "kerning": 0,
+        "line": 12,
+        "after": 0,
+        "rule": 0,
+        "family": "Calibri"
+      },
+      "mode": "empty-paragraph-container",
+      "header": {
+        "style": "Kopfzeile",
+        "before": 0,
+        "text": "Created header\r",
+        "size": 11,
+        "kerning": 0,
+        "line": 12,
+        "after": 0,
+        "rule": 0,
+        "family": "Calibri"
+      },
+      "pages": 6,
+      "sourceHash": "af4c93135a6fd4058df73b9b80894582b2915bad5695b8bd28c159fff5603c23",
+      "file": "word-style-defaults-empty-paragraph-container.docx",
+      "nativeRoot": ".local\\word-absent-style-default-blocks"
+    },
+    {
+      "pdfHash": "ea9478b77aa5be6c098e627549bafbfd19e53b75c4d9b9c3bcdbf4a73a44d58f",
+      "initial": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 11,
+        "kerning": 0,
+        "line": 12,
+        "after": 0,
+        "rule": 0,
+        "family": "Calibri"
+      },
+      "docxHash": "51e1eec7f4b08a3f8dc3d91eb819ae97b167e3473426ff3fc7ee4dffe854bf71",
+      "body": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 11,
+        "kerning": 0,
+        "line": 12,
+        "after": 0,
+        "rule": 0,
+        "family": "Calibri"
+      },
+      "mode": "empty-paragraph-properties",
+      "header": {
+        "style": "Kopfzeile",
+        "before": 0,
+        "text": "Created header\r",
+        "size": 11,
+        "kerning": 0,
+        "line": 12,
+        "after": 0,
+        "rule": 0,
+        "family": "Calibri"
+      },
+      "pages": 6,
+      "sourceHash": "7df70e8316e1d8a7f19dd600bcdb354cfffd03c2f1c70c935246e72085e3b26f",
+      "file": "word-style-defaults-empty-paragraph-properties.docx",
+      "nativeRoot": ".local\\word-absent-style-default-blocks"
+    },
+    {
+      "pdfHash": "dfd973563b9ab0c3e792895a04e76c82403b8846a44f236a3d975ca717ad0df5",
+      "initial": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 10,
+        "kerning": 0,
+        "line": 12,
+        "after": 0,
+        "rule": 0,
+        "family": "Arial"
+      },
+      "docxHash": "c7bc7ebe9bfb1ca4c1aa8e73e2f40fc130c221ec4c67427d3a5ef6e403509056",
+      "body": {
+        "style": "Standard",
+        "before": 0,
+        "text": "Unformatted body\r",
+        "size": 10,
+        "kerning": 0,
+        "line": 12,
+        "after": 0,
+        "rule": 0,
+        "family": "Arial"
+      },
+      "mode": "font-with-empty-paragraph",
+      "header": {
+        "style": "Kopfzeile",
+        "before": 0,
+        "text": "Created header\r",
+        "size": 10,
+        "kerning": 0,
+        "line": 12,
+        "after": 0,
+        "rule": 0,
+        "family": "Arial"
+      },
+      "pages": 6,
+      "sourceHash": "0924c4fdd1f845abdc272c1a13d487169426bf60dbbedda6768aab5f02a2b661",
+      "file": "word-style-defaults-font-with-empty-paragraph.docx",
+      "nativeRoot": ".local\\word-absent-style-default-blocks"
+    }
+  ]
+}

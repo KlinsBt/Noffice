@@ -1,0 +1,5774 @@
+{
+  "rows": [
+    {
+      "name": "regular-160-element",
+      "page": 1,
+      "paragraph": 0,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 35.99603271484375,
+        "right": 125.49600219726562,
+        "bottom": 66.02001953125,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 55.20001220703125,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "regular-160-element",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 66.02001953125,
+        "right": 125.49600219726562,
+        "bottom": 90.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 85.219970703125,
+      "offset": 19.199951171875
+    },
+    {
+      "name": "regular-160-element",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 90.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 120.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 109.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-160-element",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 120.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 144.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 139.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-160-element",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 144.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 174.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 163.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-160-element",
+      "page": 1,
+      "paragraph": 3,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 174.0260009765625,
+        "right": 125.49600219726562,
+        "bottom": 204.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 193.25,
+      "offset": 19.2239990234375
+    },
+    {
+      "name": "regular-160-element",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 204.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 228.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 223.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-160-element",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 228.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 258.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 247.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-160-element",
+      "page": 1,
+      "paragraph": 5,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 258.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 288.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 277.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-160-element",
+      "page": 1,
+      "paragraph": 6,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 288.0460205078125,
+        "right": 125.49600219726562,
+        "bottom": 318.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 307.25,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "regular-160-element",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 318.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 342.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 337.2699890136719,
+      "offset": 19.199981689453125
+    },
+    {
+      "name": "regular-160-element",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 342.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 372.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 361.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "regular-160-element",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 372.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 396.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 391.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "regular-160-element",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 396.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 426.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 415.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "regular-160-element",
+      "page": 1,
+      "paragraph": 9,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 426.0760040283203,
+        "right": 125.49600219726562,
+        "bottom": 456.1000061035156,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 445.3000030517578,
+      "offset": 19.2239990234375
+    },
+    {
+      "name": "regular-160-element",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 456.1000061035156,
+        "right": 125.49600219726562,
+        "bottom": 480.0999984741211,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 475.3000030517578,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "regular-160-element",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 480.0960006713867,
+        "right": 125.49600219726562,
+        "bottom": 510.0960006713867,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 499.3000030517578,
+      "offset": 19.204002380371094
+    },
+    {
+      "name": "regular-160-element",
+      "page": 1,
+      "paragraph": 11,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 510.0960006713867,
+        "right": 125.49600219726562,
+        "bottom": 534.0960006713867,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 529.2959976196289,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "regular-160-literal",
+      "page": 1,
+      "paragraph": 0,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 35.99603271484375,
+        "right": 125.49600219726562,
+        "bottom": 66.02001953125,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 55.20001220703125,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "regular-160-literal",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 66.02001953125,
+        "right": 125.49600219726562,
+        "bottom": 90.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 85.219970703125,
+      "offset": 19.199951171875
+    },
+    {
+      "name": "regular-160-literal",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 90.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 120.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 109.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-160-literal",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 120.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 144.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 139.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-160-literal",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 144.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 174.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 163.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-160-literal",
+      "page": 1,
+      "paragraph": 3,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 174.0260009765625,
+        "right": 125.49600219726562,
+        "bottom": 204.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 193.25,
+      "offset": 19.2239990234375
+    },
+    {
+      "name": "regular-160-literal",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 204.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 228.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 223.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-160-literal",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 228.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 258.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 247.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-160-literal",
+      "page": 1,
+      "paragraph": 5,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 258.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 288.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 277.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-160-literal",
+      "page": 1,
+      "paragraph": 6,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 288.0460205078125,
+        "right": 125.49600219726562,
+        "bottom": 318.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 307.25,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "regular-160-literal",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 318.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 342.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 337.2699890136719,
+      "offset": 19.199981689453125
+    },
+    {
+      "name": "regular-160-literal",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 342.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 372.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 361.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "regular-160-literal",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 372.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 396.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 391.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "regular-160-literal",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 396.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 426.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 415.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "regular-160-literal",
+      "page": 1,
+      "paragraph": 9,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 426.0760040283203,
+        "right": 125.49600219726562,
+        "bottom": 456.1000061035156,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 445.3000030517578,
+      "offset": 19.2239990234375
+    },
+    {
+      "name": "regular-160-literal",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 456.1000061035156,
+        "right": 125.49600219726562,
+        "bottom": 480.0999984741211,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 475.3000030517578,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "regular-160-literal",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 480.0960006713867,
+        "right": 125.49600219726562,
+        "bottom": 510.0960006713867,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 499.3000030517578,
+      "offset": 19.204002380371094
+    },
+    {
+      "name": "regular-160-literal",
+      "page": 1,
+      "paragraph": 11,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 510.0960006713867,
+        "right": 125.49600219726562,
+        "bottom": 534.0960006713867,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 529.2959976196289,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "regular-300-element",
+      "page": 1,
+      "paragraph": 0,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 35.99603271484375,
+        "right": 265.53399658203125,
+        "bottom": 66.02001953125,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 55.20001220703125,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "regular-300-element",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 66.02001953125,
+        "right": 265.53399658203125,
+        "bottom": 96.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 85.219970703125,
+      "offset": 19.199951171875
+    },
+    {
+      "name": "regular-300-element",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 96.01998901367188,
+        "right": 265.53399658203125,
+        "bottom": 126.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 115.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-300-element",
+      "page": 1,
+      "paragraph": 3,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 126.01998901367188,
+        "right": 265.53399658203125,
+        "bottom": 156.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 145.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-300-element",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 156.0260009765625,
+        "right": 265.53399658203125,
+        "bottom": 186.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 175.22000122070312,
+      "offset": 19.194000244140625
+    },
+    {
+      "name": "regular-300-element",
+      "page": 1,
+      "paragraph": 5,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 186.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 216.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 205.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-300-element",
+      "page": 1,
+      "paragraph": 6,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 216.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 246.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 235.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-300-element",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 246.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 276.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 265.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-300-element",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 276.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 306.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 295.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-300-element",
+      "page": 1,
+      "paragraph": 9,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 306.0460205078125,
+        "right": 265.53399658203125,
+        "bottom": 336.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 325.2699890136719,
+      "offset": 19.223968505859375
+    },
+    {
+      "name": "regular-300-element",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 336.07000732421875,
+        "right": 265.53399658203125,
+        "bottom": 366.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 355.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "regular-300-element",
+      "page": 1,
+      "paragraph": 11,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 366.07000732421875,
+        "right": 265.53399658203125,
+        "bottom": 390.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 385.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "regular-300-literal",
+      "page": 1,
+      "paragraph": 0,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 35.99603271484375,
+        "right": 265.53399658203125,
+        "bottom": 66.02001953125,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 55.20001220703125,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "regular-300-literal",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 66.02001953125,
+        "right": 265.53399658203125,
+        "bottom": 96.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 85.219970703125,
+      "offset": 19.199951171875
+    },
+    {
+      "name": "regular-300-literal",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 96.01998901367188,
+        "right": 265.53399658203125,
+        "bottom": 126.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 115.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-300-literal",
+      "page": 1,
+      "paragraph": 3,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 126.01998901367188,
+        "right": 265.53399658203125,
+        "bottom": 156.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 145.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-300-literal",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 156.0260009765625,
+        "right": 265.53399658203125,
+        "bottom": 186.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 175.22000122070312,
+      "offset": 19.194000244140625
+    },
+    {
+      "name": "regular-300-literal",
+      "page": 1,
+      "paragraph": 5,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 186.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 216.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 205.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-300-literal",
+      "page": 1,
+      "paragraph": 6,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 216.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 246.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 235.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-300-literal",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 246.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 276.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 265.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-300-literal",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 276.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 306.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 295.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "regular-300-literal",
+      "page": 1,
+      "paragraph": 9,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 306.0460205078125,
+        "right": 265.53399658203125,
+        "bottom": 336.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 325.2699890136719,
+      "offset": 19.223968505859375
+    },
+    {
+      "name": "regular-300-literal",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 336.07000732421875,
+        "right": 265.53399658203125,
+        "bottom": 366.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 355.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "regular-300-literal",
+      "page": 1,
+      "paragraph": 11,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 366.07000732421875,
+        "right": 265.53399658203125,
+        "bottom": 390.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 385.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "bold-160-element",
+      "page": 1,
+      "paragraph": 0,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 35.99603271484375,
+        "right": 125.49600219726562,
+        "bottom": 66.02001953125,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 55.20001220703125,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "bold-160-element",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 66.02001953125,
+        "right": 125.49600219726562,
+        "bottom": 90.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 85.219970703125,
+      "offset": 19.199951171875
+    },
+    {
+      "name": "bold-160-element",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 90.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 120.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 109.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-160-element",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 120.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 144.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 139.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-160-element",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 144.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 168.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 163.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-160-element",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 168.0260009765625,
+        "right": 125.49600219726562,
+        "bottom": 198.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 187.25,
+      "offset": 19.2239990234375
+    },
+    {
+      "name": "bold-160-element",
+      "page": 1,
+      "paragraph": 3,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 198.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 228.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 217.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-160-element",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 228.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 252.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 247.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-160-element",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 252.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 282.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 271.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-160-element",
+      "page": 1,
+      "paragraph": 5,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 282.0460205078125,
+        "right": 125.49600219726562,
+        "bottom": 312.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 301.25,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "bold-160-element",
+      "page": 1,
+      "paragraph": 6,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 312.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 342.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 331.2699890136719,
+      "offset": 19.199981689453125
+    },
+    {
+      "name": "bold-160-element",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 342.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 366.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 361.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "bold-160-element",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 366.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 396.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 385.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "bold-160-element",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 396.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 420.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 415.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "bold-160-element",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 420.0760040283203,
+        "right": 125.49600219726562,
+        "bottom": 444.1000061035156,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 439.3000030517578,
+      "offset": 19.2239990234375
+    },
+    {
+      "name": "bold-160-element",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 444.1000061035156,
+        "right": 125.49600219726562,
+        "bottom": 474.0999984741211,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 463.3000030517578,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "bold-160-element",
+      "page": 1,
+      "paragraph": 9,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 474.0960006713867,
+        "right": 125.49600219726562,
+        "bottom": 504.0960006713867,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 493.3000030517578,
+      "offset": 19.204002380371094
+    },
+    {
+      "name": "bold-160-element",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 504.0960006713867,
+        "right": 125.49600219726562,
+        "bottom": 528.0960006713867,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 523.2959976196289,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "bold-160-element",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 528.0960006713867,
+        "right": 125.49600219726562,
+        "bottom": 552.0960006713867,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 547.2960014343262,
+      "offset": 19.200000762939453
+    },
+    {
+      "name": "bold-160-element",
+      "page": 2,
+      "paragraph": 11,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 35.99603271484375,
+        "right": 125.49600219726562,
+        "bottom": 60.02001953125,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 55.20001220703125,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "bold-160-literal",
+      "page": 1,
+      "paragraph": 0,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 35.99603271484375,
+        "right": 125.49600219726562,
+        "bottom": 66.02001953125,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 55.20001220703125,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "bold-160-literal",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 66.02001953125,
+        "right": 125.49600219726562,
+        "bottom": 90.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 85.219970703125,
+      "offset": 19.199951171875
+    },
+    {
+      "name": "bold-160-literal",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 90.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 120.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 109.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-160-literal",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 120.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 144.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 139.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-160-literal",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 144.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 174.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 163.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-160-literal",
+      "page": 1,
+      "paragraph": 3,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 174.0260009765625,
+        "right": 125.49600219726562,
+        "bottom": 204.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 193.25,
+      "offset": 19.2239990234375
+    },
+    {
+      "name": "bold-160-literal",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 204.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 228.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 223.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-160-literal",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 228.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 258.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 247.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-160-literal",
+      "page": 1,
+      "paragraph": 5,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 258.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 288.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 277.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-160-literal",
+      "page": 1,
+      "paragraph": 6,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 288.0460205078125,
+        "right": 125.49600219726562,
+        "bottom": 318.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 307.25,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "bold-160-literal",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 318.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 342.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 337.2699890136719,
+      "offset": 19.199981689453125
+    },
+    {
+      "name": "bold-160-literal",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 342.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 372.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 361.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "bold-160-literal",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 372.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 396.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 391.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "bold-160-literal",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 396.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 426.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 415.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "bold-160-literal",
+      "page": 1,
+      "paragraph": 9,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 426.0760040283203,
+        "right": 125.49600219726562,
+        "bottom": 456.1000061035156,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 445.3000030517578,
+      "offset": 19.2239990234375
+    },
+    {
+      "name": "bold-160-literal",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 456.1000061035156,
+        "right": 125.49600219726562,
+        "bottom": 480.0999984741211,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 475.3000030517578,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "bold-160-literal",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 480.0960006713867,
+        "right": 125.49600219726562,
+        "bottom": 510.0960006713867,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 499.3000030517578,
+      "offset": 19.204002380371094
+    },
+    {
+      "name": "bold-160-literal",
+      "page": 1,
+      "paragraph": 11,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 510.0960006713867,
+        "right": 125.49600219726562,
+        "bottom": 534.0960006713867,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 529.2959976196289,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "bold-300-element",
+      "page": 1,
+      "paragraph": 0,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 35.99603271484375,
+        "right": 265.53399658203125,
+        "bottom": 66.02001953125,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 55.20001220703125,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "bold-300-element",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 66.02001953125,
+        "right": 265.53399658203125,
+        "bottom": 96.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 85.219970703125,
+      "offset": 19.199951171875
+    },
+    {
+      "name": "bold-300-element",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 96.01998901367188,
+        "right": 265.53399658203125,
+        "bottom": 126.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 115.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-300-element",
+      "page": 1,
+      "paragraph": 3,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 126.01998901367188,
+        "right": 265.53399658203125,
+        "bottom": 156.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 145.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-300-element",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 156.0260009765625,
+        "right": 265.53399658203125,
+        "bottom": 186.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 175.22000122070312,
+      "offset": 19.194000244140625
+    },
+    {
+      "name": "bold-300-element",
+      "page": 1,
+      "paragraph": 5,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 186.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 216.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 205.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-300-element",
+      "page": 1,
+      "paragraph": 6,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 216.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 246.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 235.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-300-element",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 246.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 276.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 265.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-300-element",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 276.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 306.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 295.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-300-element",
+      "page": 1,
+      "paragraph": 9,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 306.0460205078125,
+        "right": 265.53399658203125,
+        "bottom": 336.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 325.2699890136719,
+      "offset": 19.223968505859375
+    },
+    {
+      "name": "bold-300-element",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 336.07000732421875,
+        "right": 265.53399658203125,
+        "bottom": 366.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 355.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "bold-300-element",
+      "page": 1,
+      "paragraph": 11,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 366.07000732421875,
+        "right": 265.53399658203125,
+        "bottom": 390.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 385.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "bold-300-literal",
+      "page": 1,
+      "paragraph": 0,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 35.99603271484375,
+        "right": 265.53399658203125,
+        "bottom": 66.02001953125,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 55.20001220703125,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "bold-300-literal",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 66.02001953125,
+        "right": 265.53399658203125,
+        "bottom": 96.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 85.219970703125,
+      "offset": 19.199951171875
+    },
+    {
+      "name": "bold-300-literal",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 96.01998901367188,
+        "right": 265.53399658203125,
+        "bottom": 126.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 115.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-300-literal",
+      "page": 1,
+      "paragraph": 3,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 126.01998901367188,
+        "right": 265.53399658203125,
+        "bottom": 156.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 145.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-300-literal",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 156.0260009765625,
+        "right": 265.53399658203125,
+        "bottom": 186.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 175.22000122070312,
+      "offset": 19.194000244140625
+    },
+    {
+      "name": "bold-300-literal",
+      "page": 1,
+      "paragraph": 5,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 186.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 216.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 205.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-300-literal",
+      "page": 1,
+      "paragraph": 6,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 216.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 246.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 235.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-300-literal",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 246.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 276.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 265.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-300-literal",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 276.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 306.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 295.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "bold-300-literal",
+      "page": 1,
+      "paragraph": 9,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 306.0460205078125,
+        "right": 265.53399658203125,
+        "bottom": 336.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 325.2699890136719,
+      "offset": 19.223968505859375
+    },
+    {
+      "name": "bold-300-literal",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 336.07000732421875,
+        "right": 265.53399658203125,
+        "bottom": 366.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 355.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "bold-300-literal",
+      "page": 1,
+      "paragraph": 11,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 366.07000732421875,
+        "right": 265.53399658203125,
+        "bottom": 390.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 385.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "italic-160-element",
+      "page": 1,
+      "paragraph": 0,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 35.99603271484375,
+        "right": 125.49600219726562,
+        "bottom": 66.02001953125,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 55.20001220703125,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "italic-160-element",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 66.02001953125,
+        "right": 125.49600219726562,
+        "bottom": 90.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 85.219970703125,
+      "offset": 19.199951171875
+    },
+    {
+      "name": "italic-160-element",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 90.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 120.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 109.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-160-element",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 120.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 144.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 139.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-160-element",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 144.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 174.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 163.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-160-element",
+      "page": 1,
+      "paragraph": 3,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 174.0260009765625,
+        "right": 125.49600219726562,
+        "bottom": 204.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 193.25,
+      "offset": 19.2239990234375
+    },
+    {
+      "name": "italic-160-element",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 204.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 228.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 223.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-160-element",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 228.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 258.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 247.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-160-element",
+      "page": 1,
+      "paragraph": 5,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 258.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 288.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 277.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-160-element",
+      "page": 1,
+      "paragraph": 6,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 288.0460205078125,
+        "right": 125.49600219726562,
+        "bottom": 318.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 307.25,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "italic-160-element",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 318.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 342.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 337.2699890136719,
+      "offset": 19.199981689453125
+    },
+    {
+      "name": "italic-160-element",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 342.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 372.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 361.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "italic-160-element",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 372.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 396.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 391.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "italic-160-element",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 396.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 420.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 415.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "italic-160-element",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 420.0760040283203,
+        "right": 125.49600219726562,
+        "bottom": 450.1000061035156,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 439.3000030517578,
+      "offset": 19.2239990234375
+    },
+    {
+      "name": "italic-160-element",
+      "page": 1,
+      "paragraph": 9,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 450.1000061035156,
+        "right": 125.49600219726562,
+        "bottom": 480.0999984741211,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 469.3000030517578,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "italic-160-element",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 480.0960006713867,
+        "right": 125.49600219726562,
+        "bottom": 504.0960006713867,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 499.3000030517578,
+      "offset": 19.204002380371094
+    },
+    {
+      "name": "italic-160-element",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 504.0960006713867,
+        "right": 125.49600219726562,
+        "bottom": 534.0960006713867,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 523.2959976196289,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "italic-160-element",
+      "page": 1,
+      "paragraph": 11,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 534.0960006713867,
+        "right": 125.49600219726562,
+        "bottom": 558.0960006713867,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 553.2960014343262,
+      "offset": 19.200000762939453
+    },
+    {
+      "name": "italic-160-literal",
+      "page": 1,
+      "paragraph": 0,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 35.99603271484375,
+        "right": 125.49600219726562,
+        "bottom": 66.02001953125,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 55.20001220703125,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "italic-160-literal",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 66.02001953125,
+        "right": 125.49600219726562,
+        "bottom": 90.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 85.219970703125,
+      "offset": 19.199951171875
+    },
+    {
+      "name": "italic-160-literal",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 90.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 120.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 109.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-160-literal",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 120.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 144.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 139.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-160-literal",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 144.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 174.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 163.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-160-literal",
+      "page": 1,
+      "paragraph": 3,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 174.0260009765625,
+        "right": 125.49600219726562,
+        "bottom": 204.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 193.25,
+      "offset": 19.2239990234375
+    },
+    {
+      "name": "italic-160-literal",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 204.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 228.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 223.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-160-literal",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 228.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 258.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 247.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-160-literal",
+      "page": 1,
+      "paragraph": 5,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 258.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 288.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 277.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-160-literal",
+      "page": 1,
+      "paragraph": 6,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 288.0460205078125,
+        "right": 125.49600219726562,
+        "bottom": 318.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 307.25,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "italic-160-literal",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 318.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 342.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 337.2699890136719,
+      "offset": 19.199981689453125
+    },
+    {
+      "name": "italic-160-literal",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 342.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 372.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 361.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "italic-160-literal",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 372.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 396.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 391.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "italic-160-literal",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 396.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 426.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 415.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "italic-160-literal",
+      "page": 1,
+      "paragraph": 9,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 426.0760040283203,
+        "right": 125.49600219726562,
+        "bottom": 456.1000061035156,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 445.3000030517578,
+      "offset": 19.2239990234375
+    },
+    {
+      "name": "italic-160-literal",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 456.1000061035156,
+        "right": 125.49600219726562,
+        "bottom": 480.0999984741211,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 475.3000030517578,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "italic-160-literal",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 480.0960006713867,
+        "right": 125.49600219726562,
+        "bottom": 510.0960006713867,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 499.3000030517578,
+      "offset": 19.204002380371094
+    },
+    {
+      "name": "italic-160-literal",
+      "page": 1,
+      "paragraph": 11,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 510.0960006713867,
+        "right": 125.49600219726562,
+        "bottom": 534.0960006713867,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 529.2959976196289,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "italic-300-element",
+      "page": 1,
+      "paragraph": 0,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 35.99603271484375,
+        "right": 265.53399658203125,
+        "bottom": 66.02001953125,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 55.20001220703125,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "italic-300-element",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 66.02001953125,
+        "right": 265.53399658203125,
+        "bottom": 96.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 85.219970703125,
+      "offset": 19.199951171875
+    },
+    {
+      "name": "italic-300-element",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 96.01998901367188,
+        "right": 265.53399658203125,
+        "bottom": 126.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 115.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-300-element",
+      "page": 1,
+      "paragraph": 3,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 126.01998901367188,
+        "right": 265.53399658203125,
+        "bottom": 156.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 145.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-300-element",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 156.0260009765625,
+        "right": 265.53399658203125,
+        "bottom": 186.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 175.22000122070312,
+      "offset": 19.194000244140625
+    },
+    {
+      "name": "italic-300-element",
+      "page": 1,
+      "paragraph": 5,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 186.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 216.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 205.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-300-element",
+      "page": 1,
+      "paragraph": 6,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 216.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 246.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 235.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-300-element",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 246.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 276.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 265.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-300-element",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 276.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 306.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 295.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-300-element",
+      "page": 1,
+      "paragraph": 9,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 306.0460205078125,
+        "right": 265.53399658203125,
+        "bottom": 336.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 325.2699890136719,
+      "offset": 19.223968505859375
+    },
+    {
+      "name": "italic-300-element",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 336.07000732421875,
+        "right": 265.53399658203125,
+        "bottom": 366.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 355.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "italic-300-element",
+      "page": 1,
+      "paragraph": 11,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 366.07000732421875,
+        "right": 265.53399658203125,
+        "bottom": 390.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 385.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "italic-300-literal",
+      "page": 1,
+      "paragraph": 0,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 35.99603271484375,
+        "right": 265.53399658203125,
+        "bottom": 66.02001953125,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 55.20001220703125,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "italic-300-literal",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 66.02001953125,
+        "right": 265.53399658203125,
+        "bottom": 96.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 85.219970703125,
+      "offset": 19.199951171875
+    },
+    {
+      "name": "italic-300-literal",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 96.01998901367188,
+        "right": 265.53399658203125,
+        "bottom": 126.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 115.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-300-literal",
+      "page": 1,
+      "paragraph": 3,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 126.01998901367188,
+        "right": 265.53399658203125,
+        "bottom": 156.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 145.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-300-literal",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 156.0260009765625,
+        "right": 265.53399658203125,
+        "bottom": 186.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 175.22000122070312,
+      "offset": 19.194000244140625
+    },
+    {
+      "name": "italic-300-literal",
+      "page": 1,
+      "paragraph": 5,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 186.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 216.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 205.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-300-literal",
+      "page": 1,
+      "paragraph": 6,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 216.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 246.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 235.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-300-literal",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 246.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 276.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 265.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-300-literal",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 276.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 306.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 295.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "italic-300-literal",
+      "page": 1,
+      "paragraph": 9,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 306.0460205078125,
+        "right": 265.53399658203125,
+        "bottom": 336.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 325.2699890136719,
+      "offset": 19.223968505859375
+    },
+    {
+      "name": "italic-300-literal",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 336.07000732421875,
+        "right": 265.53399658203125,
+        "bottom": 366.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 355.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "italic-300-literal",
+      "page": 1,
+      "paragraph": 11,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 366.07000732421875,
+        "right": 265.53399658203125,
+        "bottom": 390.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 385.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 1,
+      "paragraph": 0,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 35.99603271484375,
+        "right": 125.49600219726562,
+        "bottom": 66.02001953125,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 55.20001220703125,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 66.02001953125,
+        "right": 125.49600219726562,
+        "bottom": 90.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 85.219970703125,
+      "offset": 19.199951171875
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 90.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 120.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 109.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 120.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 144.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 139.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 144.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 168.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 163.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 168.0260009765625,
+        "right": 125.49600219726562,
+        "bottom": 198.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 187.25,
+      "offset": 19.2239990234375
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 1,
+      "paragraph": 3,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 198.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 228.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 217.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 228.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 252.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 247.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 252.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 282.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 271.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 1,
+      "paragraph": 5,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 282.0460205078125,
+        "right": 125.49600219726562,
+        "bottom": 312.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 301.25,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 1,
+      "paragraph": 6,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 312.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 342.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 331.2699890136719,
+      "offset": 19.199981689453125
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 342.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 366.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 361.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 366.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 396.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 385.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 396.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 420.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 415.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 420.0760040283203,
+        "right": 125.49600219726562,
+        "bottom": 444.1000061035156,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 439.3000030517578,
+      "offset": 19.2239990234375
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 444.1000061035156,
+        "right": 125.49600219726562,
+        "bottom": 474.0999984741211,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 463.3000030517578,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 1,
+      "paragraph": 9,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 474.0960006713867,
+        "right": 125.49600219726562,
+        "bottom": 504.0960006713867,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 493.3000030517578,
+      "offset": 19.204002380371094
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 504.0960006713867,
+        "right": 125.49600219726562,
+        "bottom": 528.0960006713867,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 523.2959976196289,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 528.0960006713867,
+        "right": 125.49600219726562,
+        "bottom": 552.0960006713867,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 547.2960014343262,
+      "offset": 19.200000762939453
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 2,
+      "paragraph": 11,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 35.99603271484375,
+        "right": 125.49600219726562,
+        "bottom": 60.02001953125,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 55.20001220703125,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "boldItalic-160-literal",
+      "page": 1,
+      "paragraph": 0,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 35.99603271484375,
+        "right": 125.49600219726562,
+        "bottom": 66.02001953125,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 55.20001220703125,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "boldItalic-160-literal",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 66.02001953125,
+        "right": 125.49600219726562,
+        "bottom": 90.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 85.219970703125,
+      "offset": 19.199951171875
+    },
+    {
+      "name": "boldItalic-160-literal",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 90.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 120.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 109.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-160-literal",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 120.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 144.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 139.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-160-literal",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 144.01998901367188,
+        "right": 125.49600219726562,
+        "bottom": 174.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 163.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-160-literal",
+      "page": 1,
+      "paragraph": 3,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 174.0260009765625,
+        "right": 125.49600219726562,
+        "bottom": 204.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 193.25,
+      "offset": 19.2239990234375
+    },
+    {
+      "name": "boldItalic-160-literal",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 204.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 228.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 223.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-160-literal",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 228.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 258.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 247.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-160-literal",
+      "page": 1,
+      "paragraph": 5,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 258.04998779296875,
+        "right": 125.49600219726562,
+        "bottom": 288.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 277.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-160-literal",
+      "page": 1,
+      "paragraph": 6,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 288.0460205078125,
+        "right": 125.49600219726562,
+        "bottom": 318.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 307.25,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "boldItalic-160-literal",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 318.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 342.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 337.2699890136719,
+      "offset": 19.199981689453125
+    },
+    {
+      "name": "boldItalic-160-literal",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 342.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 372.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 361.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "boldItalic-160-literal",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 372.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 396.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 391.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "boldItalic-160-literal",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 396.07000732421875,
+        "right": 125.49600219726562,
+        "bottom": 426.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 415.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "boldItalic-160-literal",
+      "page": 1,
+      "paragraph": 9,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 426.0760040283203,
+        "right": 125.49600219726562,
+        "bottom": 456.1000061035156,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 445.3000030517578,
+      "offset": 19.2239990234375
+    },
+    {
+      "name": "boldItalic-160-literal",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 456.1000061035156,
+        "right": 125.49600219726562,
+        "bottom": 480.0999984741211,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 475.3000030517578,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "boldItalic-160-literal",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 480.0960006713867,
+        "right": 125.49600219726562,
+        "bottom": 510.0960006713867,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 499.3000030517578,
+      "offset": 19.204002380371094
+    },
+    {
+      "name": "boldItalic-160-literal",
+      "page": 1,
+      "paragraph": 11,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 510.0960006713867,
+        "right": 125.49600219726562,
+        "bottom": 534.0960006713867,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 529.2959976196289,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "boldItalic-300-element",
+      "page": 1,
+      "paragraph": 0,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 35.99603271484375,
+        "right": 265.53399658203125,
+        "bottom": 66.02001953125,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 55.20001220703125,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "boldItalic-300-element",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 66.02001953125,
+        "right": 265.53399658203125,
+        "bottom": 96.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 85.219970703125,
+      "offset": 19.199951171875
+    },
+    {
+      "name": "boldItalic-300-element",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 96.01998901367188,
+        "right": 265.53399658203125,
+        "bottom": 126.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 115.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-300-element",
+      "page": 1,
+      "paragraph": 3,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 126.01998901367188,
+        "right": 265.53399658203125,
+        "bottom": 156.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 145.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-300-element",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 156.0260009765625,
+        "right": 265.53399658203125,
+        "bottom": 186.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 175.22000122070312,
+      "offset": 19.194000244140625
+    },
+    {
+      "name": "boldItalic-300-element",
+      "page": 1,
+      "paragraph": 5,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 186.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 216.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 205.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-300-element",
+      "page": 1,
+      "paragraph": 6,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 216.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 246.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 235.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-300-element",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 246.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 276.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 265.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-300-element",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 276.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 306.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 295.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-300-element",
+      "page": 1,
+      "paragraph": 9,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 306.0460205078125,
+        "right": 265.53399658203125,
+        "bottom": 336.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 325.2699890136719,
+      "offset": 19.223968505859375
+    },
+    {
+      "name": "boldItalic-300-element",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 336.07000732421875,
+        "right": 265.53399658203125,
+        "bottom": 366.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 355.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "boldItalic-300-element",
+      "page": 1,
+      "paragraph": 11,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 366.07000732421875,
+        "right": 265.53399658203125,
+        "bottom": 390.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 385.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "boldItalic-300-literal",
+      "page": 1,
+      "paragraph": 0,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 35.99603271484375,
+        "right": 265.53399658203125,
+        "bottom": 66.02001953125,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 55.20001220703125,
+      "offset": 19.2039794921875
+    },
+    {
+      "name": "boldItalic-300-literal",
+      "page": 1,
+      "paragraph": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 66.02001953125,
+        "right": 265.53399658203125,
+        "bottom": 96.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 85.219970703125,
+      "offset": 19.199951171875
+    },
+    {
+      "name": "boldItalic-300-literal",
+      "page": 1,
+      "paragraph": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 96.01998901367188,
+        "right": 265.53399658203125,
+        "bottom": 126.01998901367188,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 115.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-300-literal",
+      "page": 1,
+      "paragraph": 3,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 126.01998901367188,
+        "right": 265.53399658203125,
+        "bottom": 156.01998901367188,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 145.22000122070312,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-300-literal",
+      "page": 1,
+      "paragraph": 4,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 156.0260009765625,
+        "right": 265.53399658203125,
+        "bottom": 186.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 175.22000122070312,
+      "offset": 19.194000244140625
+    },
+    {
+      "name": "boldItalic-300-literal",
+      "page": 1,
+      "paragraph": 5,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 186.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 216.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 205.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-300-literal",
+      "page": 1,
+      "paragraph": 6,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "micro\u00adscope",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 216.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 246.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 235.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-300-literal",
+      "page": 1,
+      "paragraph": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "antidisestab\u00adlishmentarianism",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 246.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 276.04998779296875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 265.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-300-literal",
+      "page": 1,
+      "paragraph": 8,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "alpha\u00adbeta\u00adgammadelta\u00adomega",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 276.04998779296875,
+        "right": 265.53399658203125,
+        "bottom": 306.04998779296875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 295.25,
+      "offset": 19.20001220703125
+    },
+    {
+      "name": "boldItalic-300-literal",
+      "page": 1,
+      "paragraph": 9,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "A\u00adB \u00adC D\u00ad",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 306.0460205078125,
+        "right": 265.53399658203125,
+        "bottom": 336.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 325.2699890136719,
+      "offset": 19.223968505859375
+    },
+    {
+      "name": "boldItalic-300-literal",
+      "page": 1,
+      "paragraph": 10,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "alpha\u00ad\u00adbetagammadelta",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 336.07000732421875,
+        "right": 265.53399658203125,
+        "bottom": 366.07000732421875,
+        "color": [
+          212,
+          238,
+          212,
+          255
+        ]
+      },
+      "baseline": 355.27000427246094,
+      "offset": 19.199996948242188
+    },
+    {
+      "name": "boldItalic-300-literal",
+      "page": 1,
+      "paragraph": 11,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "text": "A\u00adB A-B",
+      "background": {
+        "left": 34.58399963378906,
+        "top": 366.07000732421875,
+        "right": 265.53399658203125,
+        "bottom": 390.07000732421875,
+        "color": [
+          238,
+          212,
+          238,
+          255
+        ]
+      },
+      "baseline": 385.27000427246094,
+      "offset": 19.199996948242188
+    }
+  ],
+  "pages": [
+    {
+      "name": "regular-160-element",
+      "page": 1,
+      "glyphsIdentical": true,
+      "sourceHash": "4e045fea592889e3303278efd3d9aa738355b9d1eb322f40f8fdf33f25cc32a7",
+      "shadedHash": "07a9cf1f2c5ed25005487644a74825e53bb9640736f2b408df3e997b5975f7f0"
+    },
+    {
+      "name": "regular-160-literal",
+      "page": 1,
+      "glyphsIdentical": true,
+      "sourceHash": "10be14226be71fefdd923b56704b9b7ddde58a04ab276e50ca924d3639643def",
+      "shadedHash": "cb271977ca267b8f3885ff47c930dd14ae8592ee9362a2dad8dcd85c2956d1f3"
+    },
+    {
+      "name": "regular-300-element",
+      "page": 1,
+      "glyphsIdentical": true,
+      "sourceHash": "2e68fcd3db0660791ccd9b868c64f50e84810e1c0a18a09858f6e6ac809968c2",
+      "shadedHash": "2cbcf61ed81d60cf1c61c610f6ce412b13eaac24ca6c323db26f7cb9accb9ea7"
+    },
+    {
+      "name": "regular-300-literal",
+      "page": 1,
+      "glyphsIdentical": true,
+      "sourceHash": "da9ddbb45062b59917675ad3e09e784718ebb88450c8a46d05e1d4387a42e890",
+      "shadedHash": "8ede00ac37ec596724f5616e2e5c53a6b52b31f43900d0a0cee7440ac503581e"
+    },
+    {
+      "name": "bold-160-element",
+      "page": 1,
+      "glyphsIdentical": true,
+      "sourceHash": "5aa3a48c0362297719a8a80f12e97a121da18ff08bdfde31e39d9b760925629b",
+      "shadedHash": "d6cdad6e083819c2a88db62ebb8a31abb0789c64f36744a4870a672fa0dd0fb5"
+    },
+    {
+      "name": "bold-160-element",
+      "page": 2,
+      "glyphsIdentical": true,
+      "sourceHash": "5aa3a48c0362297719a8a80f12e97a121da18ff08bdfde31e39d9b760925629b",
+      "shadedHash": "d6cdad6e083819c2a88db62ebb8a31abb0789c64f36744a4870a672fa0dd0fb5"
+    },
+    {
+      "name": "bold-160-literal",
+      "page": 1,
+      "glyphsIdentical": true,
+      "sourceHash": "2c31e0f8b4b8c5e4e06dc2aef0dc73b770a067f0be5928690394303927797ccf",
+      "shadedHash": "a612b0f9e606ee7692512d662a64eca1ff4f4f29a02852933dc0e2201d2a875d"
+    },
+    {
+      "name": "bold-300-element",
+      "page": 1,
+      "glyphsIdentical": true,
+      "sourceHash": "890b98e89d3824e1d3a133bafc7e680b3939631897a71f63fac262fc83927f75",
+      "shadedHash": "a946535f519ea9aad64a1739d8e76f38356daca0132062cca9a75b5be3bfbb95"
+    },
+    {
+      "name": "bold-300-literal",
+      "page": 1,
+      "glyphsIdentical": true,
+      "sourceHash": "66ae40537c8f9b9b9d31403d2f4efbe6e453e9eb6c0c34677004ca77b90ac17b",
+      "shadedHash": "76ae0e22aacb95d341bd57dd28021b6e62069178e523a8d90ef1c7c2c62bc725"
+    },
+    {
+      "name": "italic-160-element",
+      "page": 1,
+      "glyphsIdentical": true,
+      "sourceHash": "b498f7b96a372b62ceb9fea906e9e0878e9d79740e47af24ea66937a7c170527",
+      "shadedHash": "d1bdda5507b85df330f47cebca4f9832ae9ba5df9f4316ea1b999a86c392ad64"
+    },
+    {
+      "name": "italic-160-literal",
+      "page": 1,
+      "glyphsIdentical": true,
+      "sourceHash": "a663c58d88b2107f1248b4e5b9ede288ef72b6425c332dbf5cac9909ec58d394",
+      "shadedHash": "f571cf54f68ad491e83ad31086d2a24f87699c99d046a86c702bb671f41700dc"
+    },
+    {
+      "name": "italic-300-element",
+      "page": 1,
+      "glyphsIdentical": true,
+      "sourceHash": "f125dc2a0d912843b28266d8948d15b60e90c3176538c2f430e3687229d8fc2d",
+      "shadedHash": "d56f61b9ae42d0a623545cf8df249858b95cac1e7c3a555b5d9216a6114ed750"
+    },
+    {
+      "name": "italic-300-literal",
+      "page": 1,
+      "glyphsIdentical": true,
+      "sourceHash": "4db231e9ae13f0de13c2ff7b43a5cbcf5e7414eb7f56bfa9fa7ec81cbe81be95",
+      "shadedHash": "9a7b647b3edeacfd252ba4b1d672eb96ddc6c0a49e0a49c88dcefc37fe14e4aa"
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 1,
+      "glyphsIdentical": true,
+      "sourceHash": "6ca83d26a415cc9ba5d65e4539f0e1ff589ca24ac139da0d4e39636d3a24ff88",
+      "shadedHash": "df30240e455732e7782bed3f3d45fab2b730045f2d716c1c665b2a9ad4b2bc15"
+    },
+    {
+      "name": "boldItalic-160-element",
+      "page": 2,
+      "glyphsIdentical": true,
+      "sourceHash": "6ca83d26a415cc9ba5d65e4539f0e1ff589ca24ac139da0d4e39636d3a24ff88",
+      "shadedHash": "df30240e455732e7782bed3f3d45fab2b730045f2d716c1c665b2a9ad4b2bc15"
+    },
+    {
+      "name": "boldItalic-160-literal",
+      "page": 1,
+      "glyphsIdentical": true,
+      "sourceHash": "57860e244129ecccdd764b912fd94a70de9ba7b2720123f1953944dcdef694a4",
+      "shadedHash": "52cc5f5b16d237d53d82be65cce118e61393ee0d57e6b8e2dc4d31f7d8be801c"
+    },
+    {
+      "name": "boldItalic-300-element",
+      "page": 1,
+      "glyphsIdentical": true,
+      "sourceHash": "3e6561fbd8e0a1b8469c0df3a10ccbc7969e7087d826350fab362a3f0212fb2d",
+      "shadedHash": "bb1940db1fb2a5253d938dea588935b990169a2d598c2b28e91f352986c85955"
+    },
+    {
+      "name": "boldItalic-300-literal",
+      "page": 1,
+      "glyphsIdentical": true,
+      "sourceHash": "2852bc0f21af93ccc9456ee7474980bcc79f30692235d0182bb876272d497eca",
+      "shadedHash": "3d4d0ba3e448982aa37e148a104fb0c8b3ee018c3a71b4ca6cc788bbc09d20b2"
+    }
+  ],
+  "minimum": 19.194000244140625,
+  "maximum": 19.2239990234375,
+  "nativeReceiptHash": "d6443e86c55eea69d05e936822f2938d3f3f33f30428d74f950eb91638f59af5",
+  "producerHash": "be1fad1b1952b836568fb28a57108ae6c906625340eef3b41afe0f2d914f5e80",
+  "scope": "Independent native exact24 line-box backgrounds across16 optional/literal controls; every source glyph matrix is identical after shading. Paragraph identities follow alternating source colors, including page continuations. No browser-fit offsets.",
+  "comparisonHash": "48edaf5946bcea66e4771802ff269c1994f5f51da891075243473c2d577a1f3f",
+  "provenance": "Project-authored fixtures measured in pinned Word; no font files or third-party document content."
+}

@@ -1,0 +1,1692 @@
+{
+  "rows": [
+    {
+      "name": "regular",
+      "sourceHash": "0ead7ae8b46419ab4fb9e12b9b116228e201eace78826ad977abc26ddfc4072f",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a1B A\u00a2B A\u00a3B A\u00a4B A\u00a5B A\u00a6B A\u00a7B",
+          "face": "regular",
+          "characters": [
+            "\u00a1",
+            "\u00a2",
+            "\u00a3",
+            "\u00a4",
+            "\u00a5",
+            "\u00a6",
+            "\u00a7"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a8B A\u00a9B A\u00aaB A\u00abB A\u00acB A\u00aeB A\u00afB",
+          "face": "regular",
+          "characters": [
+            "\u00a8",
+            "\u00a9",
+            "\u00aa",
+            "\u00ab",
+            "\u00ac",
+            "\u00ae",
+            "\u00af"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00b0B A\u00b1B A\u00b2B A\u00b3B A\u00b4B A\u00b5B A\u00b6B",
+          "face": "regular",
+          "characters": [
+            "\u00b0",
+            "\u00b1",
+            "\u00b2",
+            "\u00b3",
+            "\u00b4",
+            "\u00b5",
+            "\u00b6"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00b7B A\u00b8B A\u00b9B A\u00baB A\u00bbB A\u00bcB A\u00bdB",
+          "face": "regular",
+          "characters": [
+            "\u00b7",
+            "\u00b8",
+            "\u00b9",
+            "\u00ba",
+            "\u00bb",
+            "\u00bc",
+            "\u00bd"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00beB A\u00bfB A\u00c0B A\u00c1B A\u00c2B A\u00c3B A\u00c4B",
+          "face": "regular",
+          "characters": [
+            "\u00be",
+            "\u00bf",
+            "\u00c0",
+            "\u00c1",
+            "\u00c2",
+            "\u00c3",
+            "\u00c4"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00c5B A\u00c6B A\u00c7B A\u00c8B A\u00c9B A\u00caB A\u00cbB",
+          "face": "regular",
+          "characters": [
+            "\u00c5",
+            "\u00c6",
+            "\u00c7",
+            "\u00c8",
+            "\u00c9",
+            "\u00ca",
+            "\u00cb"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00ccB A\u00cdB A\u00ceB A\u00cfB A\u00d0B A\u00d1B A\u00d2B",
+          "face": "regular",
+          "characters": [
+            "\u00cc",
+            "\u00cd",
+            "\u00ce",
+            "\u00cf",
+            "\u00d0",
+            "\u00d1",
+            "\u00d2"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00d3B A\u00d4B A\u00d5B A\u00d6B A\u00d7B A\u00d8B A\u00d9B",
+          "face": "regular",
+          "characters": [
+            "\u00d3",
+            "\u00d4",
+            "\u00d5",
+            "\u00d6",
+            "\u00d7",
+            "\u00d8",
+            "\u00d9"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00daB A\u00dbB A\u00dcB A\u00ddB A\u00deB A\u00dfB A\u00e0B",
+          "face": "regular",
+          "characters": [
+            "\u00da",
+            "\u00db",
+            "\u00dc",
+            "\u00dd",
+            "\u00de",
+            "\u00df",
+            "\u00e0"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00e1B A\u00e2B A\u00e3B A\u00e4B A\u00e5B A\u00e6B A\u00e7B",
+          "face": "regular",
+          "characters": [
+            "\u00e1",
+            "\u00e2",
+            "\u00e3",
+            "\u00e4",
+            "\u00e5",
+            "\u00e6",
+            "\u00e7"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00e8B A\u00e9B A\u00eaB A\u00ebB A\u00ecB A\u00edB A\u00eeB",
+          "face": "regular",
+          "characters": [
+            "\u00e8",
+            "\u00e9",
+            "\u00ea",
+            "\u00eb",
+            "\u00ec",
+            "\u00ed",
+            "\u00ee"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00efB A\u00f0B A\u00f1B A\u00f2B A\u00f3B A\u00f4B A\u00f5B",
+          "face": "regular",
+          "characters": [
+            "\u00ef",
+            "\u00f0",
+            "\u00f1",
+            "\u00f2",
+            "\u00f3",
+            "\u00f4",
+            "\u00f5"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00f6B A\u00f7B A\u00f8B A\u00f9B A\u00faB A\u00fbB A\u00fcB",
+          "face": "regular",
+          "characters": [
+            "\u00f6",
+            "\u00f7",
+            "\u00f8",
+            "\u00f9",
+            "\u00fa",
+            "\u00fb",
+            "\u00fc"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00fdB A\u00feB A\u00ffB",
+          "face": "regular",
+          "characters": [
+            "\u00fd",
+            "\u00fe",
+            "\u00ff"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a1B A\u00a2B A\u00a3B A\u00a4B A\u00a5B A\u00a6B A\u00a7B",
+          "face": "regular",
+          "characters": [
+            "\u00a1",
+            "\u00a2",
+            "\u00a3",
+            "\u00a4",
+            "\u00a5",
+            "\u00a6",
+            "\u00a7"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a8B A\u00a9B A\u00aaB A\u00abB A\u00acB A\u00aeB A\u00afB",
+          "face": "regular",
+          "characters": [
+            "\u00a8",
+            "\u00a9",
+            "\u00aa",
+            "\u00ab",
+            "\u00ac",
+            "\u00ae",
+            "\u00af"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00b0B A\u00b1B A\u00b2B A\u00b3B A\u00b4B A\u00b5B A\u00b6B",
+          "face": "regular",
+          "characters": [
+            "\u00b0",
+            "\u00b1",
+            "\u00b2",
+            "\u00b3",
+            "\u00b4",
+            "\u00b5",
+            "\u00b6"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00b7B A\u00b8B A\u00b9B A\u00baB A\u00bbB A\u00bcB A\u00bdB",
+          "face": "regular",
+          "characters": [
+            "\u00b7",
+            "\u00b8",
+            "\u00b9",
+            "\u00ba",
+            "\u00bb",
+            "\u00bc",
+            "\u00bd"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00beB A\u00bfB A\u00c0B A\u00c1B A\u00c2B A\u00c3B A\u00c4B",
+          "face": "regular",
+          "characters": [
+            "\u00be",
+            "\u00bf",
+            "\u00c0",
+            "\u00c1",
+            "\u00c2",
+            "\u00c3",
+            "\u00c4"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00c5B A\u00c6B A\u00c7B A\u00c8B A\u00c9B A\u00caB A\u00cbB",
+          "face": "regular",
+          "characters": [
+            "\u00c5",
+            "\u00c6",
+            "\u00c7",
+            "\u00c8",
+            "\u00c9",
+            "\u00ca",
+            "\u00cb"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00ccB A\u00cdB A\u00ceB A\u00cfB A\u00d0B A\u00d1B A\u00d2B",
+          "face": "regular",
+          "characters": [
+            "\u00cc",
+            "\u00cd",
+            "\u00ce",
+            "\u00cf",
+            "\u00d0",
+            "\u00d1",
+            "\u00d2"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00d3B A\u00d4B A\u00d5B A\u00d6B A\u00d7B A\u00d8B A\u00d9B",
+          "face": "regular",
+          "characters": [
+            "\u00d3",
+            "\u00d4",
+            "\u00d5",
+            "\u00d6",
+            "\u00d7",
+            "\u00d8",
+            "\u00d9"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00daB A\u00dbB A\u00dcB A\u00ddB A\u00deB A\u00dfB A\u00e0B",
+          "face": "regular",
+          "characters": [
+            "\u00da",
+            "\u00db",
+            "\u00dc",
+            "\u00dd",
+            "\u00de",
+            "\u00df",
+            "\u00e0"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00e1B A\u00e2B A\u00e3B A\u00e4B A\u00e5B A\u00e6B A\u00e7B",
+          "face": "regular",
+          "characters": [
+            "\u00e1",
+            "\u00e2",
+            "\u00e3",
+            "\u00e4",
+            "\u00e5",
+            "\u00e6",
+            "\u00e7"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00e8B A\u00e9B A\u00eaB A\u00ebB A\u00ecB A\u00edB A\u00eeB",
+          "face": "regular",
+          "characters": [
+            "\u00e8",
+            "\u00e9",
+            "\u00ea",
+            "\u00eb",
+            "\u00ec",
+            "\u00ed",
+            "\u00ee"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00efB A\u00f0B A\u00f1B A\u00f2B A\u00f3B A\u00f4B A\u00f5B",
+          "face": "regular",
+          "characters": [
+            "\u00ef",
+            "\u00f0",
+            "\u00f1",
+            "\u00f2",
+            "\u00f3",
+            "\u00f4",
+            "\u00f5"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00f6B A\u00f7B A\u00f8B A\u00f9B A\u00faB A\u00fbB A\u00fcB",
+          "face": "regular",
+          "characters": [
+            "\u00f6",
+            "\u00f7",
+            "\u00f8",
+            "\u00f9",
+            "\u00fa",
+            "\u00fb",
+            "\u00fc"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00fdB A\u00feB A\u00ffB",
+          "face": "regular",
+          "characters": [
+            "\u00fd",
+            "\u00fe",
+            "\u00ff"
+          ]
+        }
+      ],
+      "path": "tests/fixtures/word-pdf-latin1/regular.docx",
+      "nativeSourcePdfHash": "4085b88b6c4e3fae5bef634c2b30e6e583282749171860d154bec383dd868ffb",
+      "nativeReopenedPdfHash": "39d74fdcaaf21667e21180961b5b175163d3748437c8d17c392d9367116d3fb8"
+    },
+    {
+      "name": "bold",
+      "sourceHash": "d838d2e9e82344a3ef9924650824c322a568f754d2e7c1855156a5c3f9b70afc",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a1B A\u00a2B A\u00a3B A\u00a4B A\u00a5B A\u00a6B A\u00a7B",
+          "face": "bold",
+          "characters": [
+            "\u00a1",
+            "\u00a2",
+            "\u00a3",
+            "\u00a4",
+            "\u00a5",
+            "\u00a6",
+            "\u00a7"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a8B A\u00a9B A\u00aaB A\u00abB A\u00acB A\u00aeB A\u00afB",
+          "face": "bold",
+          "characters": [
+            "\u00a8",
+            "\u00a9",
+            "\u00aa",
+            "\u00ab",
+            "\u00ac",
+            "\u00ae",
+            "\u00af"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00b0B A\u00b1B A\u00b2B A\u00b3B A\u00b4B A\u00b5B A\u00b6B",
+          "face": "bold",
+          "characters": [
+            "\u00b0",
+            "\u00b1",
+            "\u00b2",
+            "\u00b3",
+            "\u00b4",
+            "\u00b5",
+            "\u00b6"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00b7B A\u00b8B A\u00b9B A\u00baB A\u00bbB A\u00bcB A\u00bdB",
+          "face": "bold",
+          "characters": [
+            "\u00b7",
+            "\u00b8",
+            "\u00b9",
+            "\u00ba",
+            "\u00bb",
+            "\u00bc",
+            "\u00bd"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00beB A\u00bfB A\u00c0B A\u00c1B A\u00c2B A\u00c3B A\u00c4B",
+          "face": "bold",
+          "characters": [
+            "\u00be",
+            "\u00bf",
+            "\u00c0",
+            "\u00c1",
+            "\u00c2",
+            "\u00c3",
+            "\u00c4"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00c5B A\u00c6B A\u00c7B A\u00c8B A\u00c9B A\u00caB A\u00cbB",
+          "face": "bold",
+          "characters": [
+            "\u00c5",
+            "\u00c6",
+            "\u00c7",
+            "\u00c8",
+            "\u00c9",
+            "\u00ca",
+            "\u00cb"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00ccB A\u00cdB A\u00ceB A\u00cfB A\u00d0B A\u00d1B A\u00d2B",
+          "face": "bold",
+          "characters": [
+            "\u00cc",
+            "\u00cd",
+            "\u00ce",
+            "\u00cf",
+            "\u00d0",
+            "\u00d1",
+            "\u00d2"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00d3B A\u00d4B A\u00d5B A\u00d6B A\u00d7B A\u00d8B A\u00d9B",
+          "face": "bold",
+          "characters": [
+            "\u00d3",
+            "\u00d4",
+            "\u00d5",
+            "\u00d6",
+            "\u00d7",
+            "\u00d8",
+            "\u00d9"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00daB A\u00dbB A\u00dcB A\u00ddB A\u00deB A\u00dfB A\u00e0B",
+          "face": "bold",
+          "characters": [
+            "\u00da",
+            "\u00db",
+            "\u00dc",
+            "\u00dd",
+            "\u00de",
+            "\u00df",
+            "\u00e0"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00e1B A\u00e2B A\u00e3B A\u00e4B A\u00e5B A\u00e6B A\u00e7B",
+          "face": "bold",
+          "characters": [
+            "\u00e1",
+            "\u00e2",
+            "\u00e3",
+            "\u00e4",
+            "\u00e5",
+            "\u00e6",
+            "\u00e7"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00e8B A\u00e9B A\u00eaB A\u00ebB A\u00ecB A\u00edB A\u00eeB",
+          "face": "bold",
+          "characters": [
+            "\u00e8",
+            "\u00e9",
+            "\u00ea",
+            "\u00eb",
+            "\u00ec",
+            "\u00ed",
+            "\u00ee"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00efB A\u00f0B A\u00f1B A\u00f2B A\u00f3B A\u00f4B A\u00f5B",
+          "face": "bold",
+          "characters": [
+            "\u00ef",
+            "\u00f0",
+            "\u00f1",
+            "\u00f2",
+            "\u00f3",
+            "\u00f4",
+            "\u00f5"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00f6B A\u00f7B A\u00f8B A\u00f9B A\u00faB A\u00fbB A\u00fcB",
+          "face": "bold",
+          "characters": [
+            "\u00f6",
+            "\u00f7",
+            "\u00f8",
+            "\u00f9",
+            "\u00fa",
+            "\u00fb",
+            "\u00fc"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00fdB A\u00feB A\u00ffB",
+          "face": "bold",
+          "characters": [
+            "\u00fd",
+            "\u00fe",
+            "\u00ff"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a1B A\u00a2B A\u00a3B A\u00a4B A\u00a5B A\u00a6B A\u00a7B",
+          "face": "bold",
+          "characters": [
+            "\u00a1",
+            "\u00a2",
+            "\u00a3",
+            "\u00a4",
+            "\u00a5",
+            "\u00a6",
+            "\u00a7"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a8B A\u00a9B A\u00aaB A\u00abB A\u00acB A\u00aeB A\u00afB",
+          "face": "bold",
+          "characters": [
+            "\u00a8",
+            "\u00a9",
+            "\u00aa",
+            "\u00ab",
+            "\u00ac",
+            "\u00ae",
+            "\u00af"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00b0B A\u00b1B A\u00b2B A\u00b3B A\u00b4B A\u00b5B A\u00b6B",
+          "face": "bold",
+          "characters": [
+            "\u00b0",
+            "\u00b1",
+            "\u00b2",
+            "\u00b3",
+            "\u00b4",
+            "\u00b5",
+            "\u00b6"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00b7B A\u00b8B A\u00b9B A\u00baB A\u00bbB A\u00bcB A\u00bdB",
+          "face": "bold",
+          "characters": [
+            "\u00b7",
+            "\u00b8",
+            "\u00b9",
+            "\u00ba",
+            "\u00bb",
+            "\u00bc",
+            "\u00bd"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00beB A\u00bfB A\u00c0B A\u00c1B A\u00c2B A\u00c3B A\u00c4B",
+          "face": "bold",
+          "characters": [
+            "\u00be",
+            "\u00bf",
+            "\u00c0",
+            "\u00c1",
+            "\u00c2",
+            "\u00c3",
+            "\u00c4"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00c5B A\u00c6B A\u00c7B A\u00c8B A\u00c9B A\u00caB A\u00cbB",
+          "face": "bold",
+          "characters": [
+            "\u00c5",
+            "\u00c6",
+            "\u00c7",
+            "\u00c8",
+            "\u00c9",
+            "\u00ca",
+            "\u00cb"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00ccB A\u00cdB A\u00ceB A\u00cfB A\u00d0B A\u00d1B A\u00d2B",
+          "face": "bold",
+          "characters": [
+            "\u00cc",
+            "\u00cd",
+            "\u00ce",
+            "\u00cf",
+            "\u00d0",
+            "\u00d1",
+            "\u00d2"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00d3B A\u00d4B A\u00d5B A\u00d6B A\u00d7B A\u00d8B A\u00d9B",
+          "face": "bold",
+          "characters": [
+            "\u00d3",
+            "\u00d4",
+            "\u00d5",
+            "\u00d6",
+            "\u00d7",
+            "\u00d8",
+            "\u00d9"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00daB A\u00dbB A\u00dcB A\u00ddB A\u00deB A\u00dfB A\u00e0B",
+          "face": "bold",
+          "characters": [
+            "\u00da",
+            "\u00db",
+            "\u00dc",
+            "\u00dd",
+            "\u00de",
+            "\u00df",
+            "\u00e0"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00e1B A\u00e2B A\u00e3B A\u00e4B A\u00e5B A\u00e6B A\u00e7B",
+          "face": "bold",
+          "characters": [
+            "\u00e1",
+            "\u00e2",
+            "\u00e3",
+            "\u00e4",
+            "\u00e5",
+            "\u00e6",
+            "\u00e7"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00e8B A\u00e9B A\u00eaB A\u00ebB A\u00ecB A\u00edB A\u00eeB",
+          "face": "bold",
+          "characters": [
+            "\u00e8",
+            "\u00e9",
+            "\u00ea",
+            "\u00eb",
+            "\u00ec",
+            "\u00ed",
+            "\u00ee"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00efB A\u00f0B A\u00f1B A\u00f2B A\u00f3B A\u00f4B A\u00f5B",
+          "face": "bold",
+          "characters": [
+            "\u00ef",
+            "\u00f0",
+            "\u00f1",
+            "\u00f2",
+            "\u00f3",
+            "\u00f4",
+            "\u00f5"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00f6B A\u00f7B A\u00f8B A\u00f9B A\u00faB A\u00fbB A\u00fcB",
+          "face": "bold",
+          "characters": [
+            "\u00f6",
+            "\u00f7",
+            "\u00f8",
+            "\u00f9",
+            "\u00fa",
+            "\u00fb",
+            "\u00fc"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00fdB A\u00feB A\u00ffB",
+          "face": "bold",
+          "characters": [
+            "\u00fd",
+            "\u00fe",
+            "\u00ff"
+          ]
+        }
+      ],
+      "path": "tests/fixtures/word-pdf-latin1/bold.docx",
+      "nativeSourcePdfHash": "f3c75c20043197c520819e36e5dec8e06a3e81cf5f0ee0a1366f9c89b6234afb",
+      "nativeReopenedPdfHash": "7cd945f65ad6d87fe981f0f8b63a85a51f7c5b8e0cd27f0137f893942a7b8b2e"
+    },
+    {
+      "name": "italic",
+      "sourceHash": "7568baedbbe4ada3c0ba4fd1885d2813219196b2e883d984b6054d91528e4eec",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a1B A\u00a2B A\u00a3B A\u00a4B A\u00a5B A\u00a6B A\u00a7B",
+          "face": "italic",
+          "characters": [
+            "\u00a1",
+            "\u00a2",
+            "\u00a3",
+            "\u00a4",
+            "\u00a5",
+            "\u00a6",
+            "\u00a7"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a8B A\u00a9B A\u00aaB A\u00abB A\u00acB A\u00aeB A\u00afB",
+          "face": "italic",
+          "characters": [
+            "\u00a8",
+            "\u00a9",
+            "\u00aa",
+            "\u00ab",
+            "\u00ac",
+            "\u00ae",
+            "\u00af"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00b0B A\u00b1B A\u00b2B A\u00b3B A\u00b4B A\u00b5B A\u00b6B",
+          "face": "italic",
+          "characters": [
+            "\u00b0",
+            "\u00b1",
+            "\u00b2",
+            "\u00b3",
+            "\u00b4",
+            "\u00b5",
+            "\u00b6"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00b7B A\u00b8B A\u00b9B A\u00baB A\u00bbB A\u00bcB A\u00bdB",
+          "face": "italic",
+          "characters": [
+            "\u00b7",
+            "\u00b8",
+            "\u00b9",
+            "\u00ba",
+            "\u00bb",
+            "\u00bc",
+            "\u00bd"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00beB A\u00bfB A\u00c0B A\u00c1B A\u00c2B A\u00c3B A\u00c4B",
+          "face": "italic",
+          "characters": [
+            "\u00be",
+            "\u00bf",
+            "\u00c0",
+            "\u00c1",
+            "\u00c2",
+            "\u00c3",
+            "\u00c4"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00c5B A\u00c6B A\u00c7B A\u00c8B A\u00c9B A\u00caB A\u00cbB",
+          "face": "italic",
+          "characters": [
+            "\u00c5",
+            "\u00c6",
+            "\u00c7",
+            "\u00c8",
+            "\u00c9",
+            "\u00ca",
+            "\u00cb"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00ccB A\u00cdB A\u00ceB A\u00cfB A\u00d0B A\u00d1B A\u00d2B",
+          "face": "italic",
+          "characters": [
+            "\u00cc",
+            "\u00cd",
+            "\u00ce",
+            "\u00cf",
+            "\u00d0",
+            "\u00d1",
+            "\u00d2"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00d3B A\u00d4B A\u00d5B A\u00d6B A\u00d7B A\u00d8B A\u00d9B",
+          "face": "italic",
+          "characters": [
+            "\u00d3",
+            "\u00d4",
+            "\u00d5",
+            "\u00d6",
+            "\u00d7",
+            "\u00d8",
+            "\u00d9"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00daB A\u00dbB A\u00dcB A\u00ddB A\u00deB A\u00dfB A\u00e0B",
+          "face": "italic",
+          "characters": [
+            "\u00da",
+            "\u00db",
+            "\u00dc",
+            "\u00dd",
+            "\u00de",
+            "\u00df",
+            "\u00e0"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00e1B A\u00e2B A\u00e3B A\u00e4B A\u00e5B A\u00e6B A\u00e7B",
+          "face": "italic",
+          "characters": [
+            "\u00e1",
+            "\u00e2",
+            "\u00e3",
+            "\u00e4",
+            "\u00e5",
+            "\u00e6",
+            "\u00e7"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00e8B A\u00e9B A\u00eaB A\u00ebB A\u00ecB A\u00edB A\u00eeB",
+          "face": "italic",
+          "characters": [
+            "\u00e8",
+            "\u00e9",
+            "\u00ea",
+            "\u00eb",
+            "\u00ec",
+            "\u00ed",
+            "\u00ee"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00efB A\u00f0B A\u00f1B A\u00f2B A\u00f3B A\u00f4B A\u00f5B",
+          "face": "italic",
+          "characters": [
+            "\u00ef",
+            "\u00f0",
+            "\u00f1",
+            "\u00f2",
+            "\u00f3",
+            "\u00f4",
+            "\u00f5"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00f6B A\u00f7B A\u00f8B A\u00f9B A\u00faB A\u00fbB A\u00fcB",
+          "face": "italic",
+          "characters": [
+            "\u00f6",
+            "\u00f7",
+            "\u00f8",
+            "\u00f9",
+            "\u00fa",
+            "\u00fb",
+            "\u00fc"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00fdB A\u00feB A\u00ffB",
+          "face": "italic",
+          "characters": [
+            "\u00fd",
+            "\u00fe",
+            "\u00ff"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a1B A\u00a2B A\u00a3B A\u00a4B A\u00a5B A\u00a6B A\u00a7B",
+          "face": "italic",
+          "characters": [
+            "\u00a1",
+            "\u00a2",
+            "\u00a3",
+            "\u00a4",
+            "\u00a5",
+            "\u00a6",
+            "\u00a7"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a8B A\u00a9B A\u00aaB A\u00abB A\u00acB A\u00aeB A\u00afB",
+          "face": "italic",
+          "characters": [
+            "\u00a8",
+            "\u00a9",
+            "\u00aa",
+            "\u00ab",
+            "\u00ac",
+            "\u00ae",
+            "\u00af"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00b0B A\u00b1B A\u00b2B A\u00b3B A\u00b4B A\u00b5B A\u00b6B",
+          "face": "italic",
+          "characters": [
+            "\u00b0",
+            "\u00b1",
+            "\u00b2",
+            "\u00b3",
+            "\u00b4",
+            "\u00b5",
+            "\u00b6"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00b7B A\u00b8B A\u00b9B A\u00baB A\u00bbB A\u00bcB A\u00bdB",
+          "face": "italic",
+          "characters": [
+            "\u00b7",
+            "\u00b8",
+            "\u00b9",
+            "\u00ba",
+            "\u00bb",
+            "\u00bc",
+            "\u00bd"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00beB A\u00bfB A\u00c0B A\u00c1B A\u00c2B A\u00c3B A\u00c4B",
+          "face": "italic",
+          "characters": [
+            "\u00be",
+            "\u00bf",
+            "\u00c0",
+            "\u00c1",
+            "\u00c2",
+            "\u00c3",
+            "\u00c4"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00c5B A\u00c6B A\u00c7B A\u00c8B A\u00c9B A\u00caB A\u00cbB",
+          "face": "italic",
+          "characters": [
+            "\u00c5",
+            "\u00c6",
+            "\u00c7",
+            "\u00c8",
+            "\u00c9",
+            "\u00ca",
+            "\u00cb"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00ccB A\u00cdB A\u00ceB A\u00cfB A\u00d0B A\u00d1B A\u00d2B",
+          "face": "italic",
+          "characters": [
+            "\u00cc",
+            "\u00cd",
+            "\u00ce",
+            "\u00cf",
+            "\u00d0",
+            "\u00d1",
+            "\u00d2"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00d3B A\u00d4B A\u00d5B A\u00d6B A\u00d7B A\u00d8B A\u00d9B",
+          "face": "italic",
+          "characters": [
+            "\u00d3",
+            "\u00d4",
+            "\u00d5",
+            "\u00d6",
+            "\u00d7",
+            "\u00d8",
+            "\u00d9"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00daB A\u00dbB A\u00dcB A\u00ddB A\u00deB A\u00dfB A\u00e0B",
+          "face": "italic",
+          "characters": [
+            "\u00da",
+            "\u00db",
+            "\u00dc",
+            "\u00dd",
+            "\u00de",
+            "\u00df",
+            "\u00e0"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00e1B A\u00e2B A\u00e3B A\u00e4B A\u00e5B A\u00e6B A\u00e7B",
+          "face": "italic",
+          "characters": [
+            "\u00e1",
+            "\u00e2",
+            "\u00e3",
+            "\u00e4",
+            "\u00e5",
+            "\u00e6",
+            "\u00e7"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00e8B A\u00e9B A\u00eaB A\u00ebB A\u00ecB A\u00edB A\u00eeB",
+          "face": "italic",
+          "characters": [
+            "\u00e8",
+            "\u00e9",
+            "\u00ea",
+            "\u00eb",
+            "\u00ec",
+            "\u00ed",
+            "\u00ee"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00efB A\u00f0B A\u00f1B A\u00f2B A\u00f3B A\u00f4B A\u00f5B",
+          "face": "italic",
+          "characters": [
+            "\u00ef",
+            "\u00f0",
+            "\u00f1",
+            "\u00f2",
+            "\u00f3",
+            "\u00f4",
+            "\u00f5"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00f6B A\u00f7B A\u00f8B A\u00f9B A\u00faB A\u00fbB A\u00fcB",
+          "face": "italic",
+          "characters": [
+            "\u00f6",
+            "\u00f7",
+            "\u00f8",
+            "\u00f9",
+            "\u00fa",
+            "\u00fb",
+            "\u00fc"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00fdB A\u00feB A\u00ffB",
+          "face": "italic",
+          "characters": [
+            "\u00fd",
+            "\u00fe",
+            "\u00ff"
+          ]
+        }
+      ],
+      "path": "tests/fixtures/word-pdf-latin1/italic.docx",
+      "nativeSourcePdfHash": "36a781f201b6d173a19c41614f80e04447480fb55b332bd7cdec2ead8cc8b7e5",
+      "nativeReopenedPdfHash": "dd848857a2fcc9264ad9acc920103960b790b1b0124759b07c6b5f496846b395"
+    },
+    {
+      "name": "boldItalic",
+      "sourceHash": "e7489528cf8a78ea6474e4051c61710763e21bca85b6e7cc471dce02395c39c0",
+      "controls": [
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a1B A\u00a2B A\u00a3B A\u00a4B A\u00a5B A\u00a6B A\u00a7B",
+          "face": "boldItalic",
+          "characters": [
+            "\u00a1",
+            "\u00a2",
+            "\u00a3",
+            "\u00a4",
+            "\u00a5",
+            "\u00a6",
+            "\u00a7"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00a8B A\u00a9B A\u00aaB A\u00abB A\u00acB A\u00aeB A\u00afB",
+          "face": "boldItalic",
+          "characters": [
+            "\u00a8",
+            "\u00a9",
+            "\u00aa",
+            "\u00ab",
+            "\u00ac",
+            "\u00ae",
+            "\u00af"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00b0B A\u00b1B A\u00b2B A\u00b3B A\u00b4B A\u00b5B A\u00b6B",
+          "face": "boldItalic",
+          "characters": [
+            "\u00b0",
+            "\u00b1",
+            "\u00b2",
+            "\u00b3",
+            "\u00b4",
+            "\u00b5",
+            "\u00b6"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00b7B A\u00b8B A\u00b9B A\u00baB A\u00bbB A\u00bcB A\u00bdB",
+          "face": "boldItalic",
+          "characters": [
+            "\u00b7",
+            "\u00b8",
+            "\u00b9",
+            "\u00ba",
+            "\u00bb",
+            "\u00bc",
+            "\u00bd"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00beB A\u00bfB A\u00c0B A\u00c1B A\u00c2B A\u00c3B A\u00c4B",
+          "face": "boldItalic",
+          "characters": [
+            "\u00be",
+            "\u00bf",
+            "\u00c0",
+            "\u00c1",
+            "\u00c2",
+            "\u00c3",
+            "\u00c4"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00c5B A\u00c6B A\u00c7B A\u00c8B A\u00c9B A\u00caB A\u00cbB",
+          "face": "boldItalic",
+          "characters": [
+            "\u00c5",
+            "\u00c6",
+            "\u00c7",
+            "\u00c8",
+            "\u00c9",
+            "\u00ca",
+            "\u00cb"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00ccB A\u00cdB A\u00ceB A\u00cfB A\u00d0B A\u00d1B A\u00d2B",
+          "face": "boldItalic",
+          "characters": [
+            "\u00cc",
+            "\u00cd",
+            "\u00ce",
+            "\u00cf",
+            "\u00d0",
+            "\u00d1",
+            "\u00d2"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00d3B A\u00d4B A\u00d5B A\u00d6B A\u00d7B A\u00d8B A\u00d9B",
+          "face": "boldItalic",
+          "characters": [
+            "\u00d3",
+            "\u00d4",
+            "\u00d5",
+            "\u00d6",
+            "\u00d7",
+            "\u00d8",
+            "\u00d9"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00daB A\u00dbB A\u00dcB A\u00ddB A\u00deB A\u00dfB A\u00e0B",
+          "face": "boldItalic",
+          "characters": [
+            "\u00da",
+            "\u00db",
+            "\u00dc",
+            "\u00dd",
+            "\u00de",
+            "\u00df",
+            "\u00e0"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00e1B A\u00e2B A\u00e3B A\u00e4B A\u00e5B A\u00e6B A\u00e7B",
+          "face": "boldItalic",
+          "characters": [
+            "\u00e1",
+            "\u00e2",
+            "\u00e3",
+            "\u00e4",
+            "\u00e5",
+            "\u00e6",
+            "\u00e7"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00e8B A\u00e9B A\u00eaB A\u00ebB A\u00ecB A\u00edB A\u00eeB",
+          "face": "boldItalic",
+          "characters": [
+            "\u00e8",
+            "\u00e9",
+            "\u00ea",
+            "\u00eb",
+            "\u00ec",
+            "\u00ed",
+            "\u00ee"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00efB A\u00f0B A\u00f1B A\u00f2B A\u00f3B A\u00f4B A\u00f5B",
+          "face": "boldItalic",
+          "characters": [
+            "\u00ef",
+            "\u00f0",
+            "\u00f1",
+            "\u00f2",
+            "\u00f3",
+            "\u00f4",
+            "\u00f5"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00f6B A\u00f7B A\u00f8B A\u00f9B A\u00faB A\u00fbB A\u00fcB",
+          "face": "boldItalic",
+          "characters": [
+            "\u00f6",
+            "\u00f7",
+            "\u00f8",
+            "\u00f9",
+            "\u00fa",
+            "\u00fb",
+            "\u00fc"
+          ]
+        },
+        {
+          "family": "Arial",
+          "size": 10,
+          "text": "A\u00fdB A\u00feB A\u00ffB",
+          "face": "boldItalic",
+          "characters": [
+            "\u00fd",
+            "\u00fe",
+            "\u00ff"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a1B A\u00a2B A\u00a3B A\u00a4B A\u00a5B A\u00a6B A\u00a7B",
+          "face": "boldItalic",
+          "characters": [
+            "\u00a1",
+            "\u00a2",
+            "\u00a3",
+            "\u00a4",
+            "\u00a5",
+            "\u00a6",
+            "\u00a7"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00a8B A\u00a9B A\u00aaB A\u00abB A\u00acB A\u00aeB A\u00afB",
+          "face": "boldItalic",
+          "characters": [
+            "\u00a8",
+            "\u00a9",
+            "\u00aa",
+            "\u00ab",
+            "\u00ac",
+            "\u00ae",
+            "\u00af"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00b0B A\u00b1B A\u00b2B A\u00b3B A\u00b4B A\u00b5B A\u00b6B",
+          "face": "boldItalic",
+          "characters": [
+            "\u00b0",
+            "\u00b1",
+            "\u00b2",
+            "\u00b3",
+            "\u00b4",
+            "\u00b5",
+            "\u00b6"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00b7B A\u00b8B A\u00b9B A\u00baB A\u00bbB A\u00bcB A\u00bdB",
+          "face": "boldItalic",
+          "characters": [
+            "\u00b7",
+            "\u00b8",
+            "\u00b9",
+            "\u00ba",
+            "\u00bb",
+            "\u00bc",
+            "\u00bd"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00beB A\u00bfB A\u00c0B A\u00c1B A\u00c2B A\u00c3B A\u00c4B",
+          "face": "boldItalic",
+          "characters": [
+            "\u00be",
+            "\u00bf",
+            "\u00c0",
+            "\u00c1",
+            "\u00c2",
+            "\u00c3",
+            "\u00c4"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00c5B A\u00c6B A\u00c7B A\u00c8B A\u00c9B A\u00caB A\u00cbB",
+          "face": "boldItalic",
+          "characters": [
+            "\u00c5",
+            "\u00c6",
+            "\u00c7",
+            "\u00c8",
+            "\u00c9",
+            "\u00ca",
+            "\u00cb"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00ccB A\u00cdB A\u00ceB A\u00cfB A\u00d0B A\u00d1B A\u00d2B",
+          "face": "boldItalic",
+          "characters": [
+            "\u00cc",
+            "\u00cd",
+            "\u00ce",
+            "\u00cf",
+            "\u00d0",
+            "\u00d1",
+            "\u00d2"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00d3B A\u00d4B A\u00d5B A\u00d6B A\u00d7B A\u00d8B A\u00d9B",
+          "face": "boldItalic",
+          "characters": [
+            "\u00d3",
+            "\u00d4",
+            "\u00d5",
+            "\u00d6",
+            "\u00d7",
+            "\u00d8",
+            "\u00d9"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00daB A\u00dbB A\u00dcB A\u00ddB A\u00deB A\u00dfB A\u00e0B",
+          "face": "boldItalic",
+          "characters": [
+            "\u00da",
+            "\u00db",
+            "\u00dc",
+            "\u00dd",
+            "\u00de",
+            "\u00df",
+            "\u00e0"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00e1B A\u00e2B A\u00e3B A\u00e4B A\u00e5B A\u00e6B A\u00e7B",
+          "face": "boldItalic",
+          "characters": [
+            "\u00e1",
+            "\u00e2",
+            "\u00e3",
+            "\u00e4",
+            "\u00e5",
+            "\u00e6",
+            "\u00e7"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00e8B A\u00e9B A\u00eaB A\u00ebB A\u00ecB A\u00edB A\u00eeB",
+          "face": "boldItalic",
+          "characters": [
+            "\u00e8",
+            "\u00e9",
+            "\u00ea",
+            "\u00eb",
+            "\u00ec",
+            "\u00ed",
+            "\u00ee"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00efB A\u00f0B A\u00f1B A\u00f2B A\u00f3B A\u00f4B A\u00f5B",
+          "face": "boldItalic",
+          "characters": [
+            "\u00ef",
+            "\u00f0",
+            "\u00f1",
+            "\u00f2",
+            "\u00f3",
+            "\u00f4",
+            "\u00f5"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00f6B A\u00f7B A\u00f8B A\u00f9B A\u00faB A\u00fbB A\u00fcB",
+          "face": "boldItalic",
+          "characters": [
+            "\u00f6",
+            "\u00f7",
+            "\u00f8",
+            "\u00f9",
+            "\u00fa",
+            "\u00fb",
+            "\u00fc"
+          ]
+        },
+        {
+          "family": "Calibri",
+          "size": 11,
+          "text": "A\u00fdB A\u00feB A\u00ffB",
+          "face": "boldItalic",
+          "characters": [
+            "\u00fd",
+            "\u00fe",
+            "\u00ff"
+          ]
+        }
+      ],
+      "path": "tests/fixtures/word-pdf-latin1/boldItalic.docx",
+      "nativeSourcePdfHash": "21d0cbb9e55196a37701a5263d525cbe3e0450a759612ef60123fed2b8ac6788",
+      "nativeReopenedPdfHash": "30ca190770ae600050a09d892bf926e7a0c0542bca2549dec03bc3f3b2b23417"
+    }
+  ],
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "nativeReceiptHash": "9674547a8e912de16512c7e2d73fc49eaeeeee9ac1f236597cdba171bf1550a7",
+  "producerHash": "b1b48eb755397bcf1ab8d6948db6b83f6089f3b911d77cc277a884eab4d81f09",
+  "scope": "Pure authored Noffice fixtures: all94 printable Latin-1 codepoints except soft hyphen, two fonts/four faces=752 glyph controls. Native source/save/reopen and font identity captured before implementation; numeric full-page gates remain separate."
+}

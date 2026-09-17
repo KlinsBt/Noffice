@@ -1,0 +1,80 @@
+import { test, expect } from '@playwright/test';
+import fs from 'node:fs/promises';
+import { createHash } from 'node:crypto';
+import JSZip from 'jszip';
+import reference from './fixtures/native-word-paragraph-spacing.json' with { type: 'json' };
+import { wordStoryBuildHash } from './word-story-artifacts';
+
+for (const row of reference.rows) test(`Word paragraph spacing ${row.name}: controls, history, reload and actual files`, async ({ page }) => {
+  test.setTimeout(90000);
+  const run = process.env.NOFFICE_PARAGRAPH_SPACING_RUN || 'browser-v1';
+  if (!/^browser-v\d+$/.test(run)) throw Error('Invalid spacing evidence path');
+  const root = `.local/word-paragraph-spacing-modes/${run}/${row.name}`;
+  await fs.mkdir(root, { recursive: true });
+  const source = await fs.readFile('tests/fixtures/' + row.fixture);
+  const hash = (bytes: Buffer) => createHash('sha256').update(bytes).digest('hex');
+  expect(hash(source)).toBe(row.inputHash);
+  const errors: string[] = []; page.on('pageerror', error => errors.push(error.message));
+  const outputs: Record<string, string> = {}, checks: unknown[] = [];
+  await page.context().grantPermissions(['local-fonts']);
+  await page.goto('/');
+  await page.locator('input[type=file][multiple]').setInputFiles({ name: `paragraph-${row.name}.docx`, buffer: source, mimeType: 'application/vnd.openxmlformats-officedocument.wordprocessingml.document' });
+  const body = page.getByRole('textbox', { name: 'Document text', exact: true });
+  const paragraphs = body.locator(':scope > p');
+  await expect(paragraphs).toHaveCount(5);
+  const geometry = async (expected: number[]) => {
+    await expect(paragraphs).toHaveCount(5);
+    let positions: number[] = [];
+    await expect.poll(async () => {
+      positions = await paragraphs.evaluateAll(ps => ps.map(p => p.getBoundingClientRect().top * .75));
+      return Math.max(...positions.slice(1).map((value, i) => Math.abs(value - positions[i] - expected[i])));
+    }).toBeLessThanOrEqual(.15);
+    checks.push({ expected, positions });
+  };
+  const download = async (name: string, label = 'PDF file') => {
+    await page.getByRole('button', { name: 'Export', exact: true }).click();
+    const pending = page.waitForEvent('download');
+    await page.getByRole('button', { name: label, exact: true }).click();
+    await (await pending).saveAs(root + '/' + name); outputs[name] = hash(await fs.readFile(root + '/' + name));
+  };
+  await geometry(row.geometry.advances);
+  await download('source.pdf'); await download('original.docx', 'DOCX file Editable in Microsoft Word');
+  expect(await fs.readFile(root + '/original.docx')).toEqual(source);
+  await paragraphs.nth(2).click();
+  await page.getByRole('button', { name: 'Layout', exact: true }).click();
+  const before = page.getByRole('spinbutton', { name: 'Before paragraph', exact: true });
+  const after = page.getByRole('spinbutton', { name: 'After paragraph', exact: true });
+  await page.getByLabel('Before paragraph unit', { exact: true }).selectOption('points');
+  const prior = await before.inputValue();
+  await before.fill('-1'); await before.press('Enter');
+  await expect(page.getByRole('alert').filter({ hasText: 'Enter a spacing' })).toBeVisible();
+  expect(await paragraphs.nth(2).evaluate(p => p.style.marginTop)).toBe(prior + 'pt');
+  await before.fill('10'); await before.press('Enter'); await expect(before).toHaveValue('10');
+  await page.getByRole('button', { name: 'Home', exact: true }).click();
+  await page.getByRole('button', { name: 'Undo', exact: true }).click();
+  expect(await paragraphs.nth(2).evaluate(p => p.style.marginTop)).toBe(prior + 'pt');
+  await page.getByRole('button', { name: 'Redo', exact: true }).click();
+  await page.getByRole('button', { name: 'Layout', exact: true }).click();
+  await expect(before).toHaveValue('10');
+  await page.getByLabel('After paragraph unit', { exact: true }).selectOption('points');
+  await after.fill('6'); await after.press('Enter');
+  await page.getByRole('checkbox', { name: "Don't add space between paragraphs of the same style", exact: true }).uncheck();
+  await geometry([40, 50, 46, 40]);
+  await download('edited.docx', 'DOCX file Editable in Microsoft Word'); await download('edited.pdf');
+  await expect(page.getByText('Saved on this device', { exact: true })).toBeVisible();
+  await page.emulateMedia({ media: 'print' });
+  await page.pdf({ path: root + '/browser-print.pdf', preferCSSPageSize: true, printBackground: true });
+  await page.emulateMedia({ media: 'screen' }); outputs['browser-print.pdf'] = hash(await fs.readFile(root + '/browser-print.pdf'));
+  await page.reload(); await page.getByRole('button', { name: 'Recent files', exact: true }).click();
+  await page.getByRole('button', { name: `paragraph-${row.name}`, exact: true }).click();
+  await geometry([40, 50, 46, 40]); await download('reloaded.pdf');
+  const zip = await JSZip.loadAsync(await fs.readFile(root + '/edited.docx'));
+  const originalZip = await JSZip.loadAsync(source);
+  for (const name of ['word/styles.xml', 'word/settings.xml']) expect(await zip.file(name)!.async('string')).toBe(await originalZip.file(name)!.async('string'));
+  await page.goto('/'); await page.locator('input[type=file][multiple]').setInputFiles({ name: `spacing-return-${row.name}.docx`, buffer: await fs.readFile(root + '/edited.docx'), mimeType: 'application/vnd.openxmlformats-officedocument.wordprocessingml.document' });
+  await geometry([40, 50, 46, 40]); await download('reimported.pdf');
+  expect(errors).toEqual([]);
+  await fs.writeFile(root + '/browser-report.json', JSON.stringify({ sourceHash: row.inputHash, outputs, checks, errors,
+    buildHash: await wordStoryBuildHash(), testHash: hash(await fs.readFile('tests/word-paragraph-spacing.spec.ts')),
+    referenceHash: hash(await fs.readFile('tests/fixtures/native-word-paragraph-spacing.json')) }, null, 2));
+});

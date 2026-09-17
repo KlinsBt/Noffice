@@ -1,0 +1,519 @@
+{
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "sourceHash": "461d7770364e804a85b4f19f058443136d086cd822261f31339e7f56eeee0742",
+  "scriptHash": "552647a5c765b8173fba62b1ba96b90d2a32dad6a7978916afaa7619ca797aa2",
+  "rows": [
+    {
+      "stages": [
+        {
+          "docxHash": "d70b9dd0d9231516b1f8e96cc1af56028088789559accf10a9a232d7d161ee02",
+          "paragraphs": [
+            {
+              "text": "\r",
+              "characters": [
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\r"
+                }
+              ]
+            },
+            {
+              "text": "A\tB\r",
+              "characters": [
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "A"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\t"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "B"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\r"
+                }
+              ]
+            },
+            {
+              "text": "A\tB\r",
+              "characters": [
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "A"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\t"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "B"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\r"
+                }
+              ]
+            },
+            {
+              "text": "A\tB\r",
+              "characters": [
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "A"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\t"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "B"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\r"
+                }
+              ]
+            },
+            {
+              "text": "A\tB\r",
+              "characters": [
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "A"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\t"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "B"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\r"
+                }
+              ]
+            }
+          ],
+          "pdfHash": "9319d58c4200f1cad60c5d98fb7363f4bc11f8e951f83cf1027f48a88401af33",
+          "stage": "source"
+        },
+        {
+          "docxHash": "7519b79d8b05efa97c34dd8da8392b42f48bbd6fe4d55ffd3f82e521e7f4f3e5",
+          "paragraphs": [
+            {
+              "text": "A\tB\r",
+              "characters": [
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "A"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\t"
+                },
+                {
+                  "size": 20,
+                  "family": "Times New Roman",
+                  "text": "B"
+                },
+                {
+                  "size": 20,
+                  "family": "Times New Roman",
+                  "text": "\r"
+                }
+              ]
+            },
+            {
+              "text": "A\tB\r",
+              "characters": [
+                {
+                  "size": 20,
+                  "family": "Times New Roman",
+                  "text": "A"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\t"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "B"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\r"
+                }
+              ]
+            },
+            {
+              "text": "A\tB\r",
+              "characters": [
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "A"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\t"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "B"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\r"
+                }
+              ]
+            },
+            {
+              "text": "A\tB\r",
+              "characters": [
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "A"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\t"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "B"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\r"
+                }
+              ]
+            },
+            {
+              "text": "A\tB\r",
+              "characters": [
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "A"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\t"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "B"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\r"
+                }
+              ]
+            }
+          ],
+          "pdfHash": "1a2ba93eac2f57e2891edbdf00013558cba4cfee3251a6ad4a13921b5f41896b",
+          "stage": "expected"
+        }
+      ],
+      "name": "Headers",
+      "kind": "header"
+    },
+    {
+      "stages": [
+        {
+          "docxHash": "3a5dc36832e44eb63c3ea4d1b0fd2dd1524e6d54526834e50779f0b65f56d976",
+          "paragraphs": [
+            {
+              "text": "\r",
+              "characters": [
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\r"
+                }
+              ]
+            },
+            {
+              "text": "A\tB\r",
+              "characters": [
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "A"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\t"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "B"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\r"
+                }
+              ]
+            },
+            {
+              "text": "A\tB\r",
+              "characters": [
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "A"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\t"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "B"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\r"
+                }
+              ]
+            },
+            {
+              "text": "A\tB\r",
+              "characters": [
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "A"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\t"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "B"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\r"
+                }
+              ]
+            },
+            {
+              "text": "A\tB\r",
+              "characters": [
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "A"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\t"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "B"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\r"
+                }
+              ]
+            }
+          ],
+          "pdfHash": "abe080863f9e320a7ccb2b6fc6c7cd05fdab509f15b75a23720add0c84acf0e1",
+          "stage": "source"
+        },
+        {
+          "docxHash": "f609ee9b12203215e4055c216e856e29629c98103a27a9d552cc401af9015046",
+          "paragraphs": [
+            {
+              "text": "A\tB\r",
+              "characters": [
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "A"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\t"
+                },
+                {
+                  "size": 20,
+                  "family": "Times New Roman",
+                  "text": "B"
+                },
+                {
+                  "size": 20,
+                  "family": "Times New Roman",
+                  "text": "\r"
+                }
+              ]
+            },
+            {
+              "text": "A\tB\r",
+              "characters": [
+                {
+                  "size": 20,
+                  "family": "Times New Roman",
+                  "text": "A"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\t"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "B"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\r"
+                }
+              ]
+            },
+            {
+              "text": "A\tB\r",
+              "characters": [
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "A"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\t"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "B"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\r"
+                }
+              ]
+            },
+            {
+              "text": "A\tB\r",
+              "characters": [
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "A"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\t"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "B"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\r"
+                }
+              ]
+            },
+            {
+              "text": "A\tB\r",
+              "characters": [
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "A"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\t"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "B"
+                },
+                {
+                  "size": 10,
+                  "family": "Arial",
+                  "text": "\r"
+                }
+              ]
+            }
+          ],
+          "pdfHash": "e78211a3152178d3def9117aa69ebe6623dacbc25aadd0c91a417e51888e4541",
+          "stage": "expected"
+        }
+      ],
+      "name": "Footers",
+      "kind": "footer"
+    }
+  ],
+  "nativeReportHash": "6076f638d46716db5d170bb0b36636a194064aa597488a2aba0a681b05930ba5",
+  "scope": "Two synthetic MIT empty first-story paragraphs, independently filled and partially formatted in the pinned Word build. Sources derive from the existing authored Arial10 leader fixture; native expected PDFs and complete receipts remain local. Native COM insertion is distinct from UI typing evidence."
+}

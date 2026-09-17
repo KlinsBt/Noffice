@@ -1,0 +1,63 @@
+import { test, expect } from '@playwright/test';
+import fs from 'node:fs/promises';
+import { createHash } from 'node:crypto';
+import { wordStoryBuildHash } from './word-story-artifacts';
+
+for (const kind of ['header', 'footer'] as const) test(`Word ${kind} paragraph spacing: author line/Auto, edit, inner and outer history, reload and export`, async ({ page }) => {
+  test.setTimeout(90000);
+  const run = process.env.NOFFICE_PARAGRAPH_STORY_RUN || 'stories-browser-v1';
+  if (!/^stories-browser-v\d+$/.test(run)) throw Error('Invalid story-spacing evidence folder');
+  const root = `.local/word-paragraph-spacing-modes/${run}/${kind}`;
+  await fs.mkdir(root, { recursive: true });
+  const source = await fs.readFile('tests/fixtures/word-paragraph-spacing-line-before-no-fallback.docx');
+  const hash = (bytes: Buffer) => createHash('sha256').update(bytes).digest('hex');
+  const outputs: Record<string, string> = {}, errors: string[] = [];
+  page.on('pageerror', error => errors.push(error.message));
+  await page.context().grantPermissions(['local-fonts']); await page.goto('/');
+  await page.locator('input[type=file][multiple]').setInputFiles({ name: `story-spacing-${kind}.docx`, buffer: source, mimeType: 'application/vnd.openxmlformats-officedocument.wordprocessingml.document' });
+  const story = page.locator(`.word-page-story[data-word-story*="${kind}"]`).first();
+  await expect(story.locator('p')).toHaveCount(5);
+  const open = async () => {
+    await page.getByRole('button', { name: 'Insert', exact: true }).click();
+    await page.getByRole('button', { name: 'Headers and footers', exact: true }).click();
+    await page.getByRole('button', { name: new RegExp(`^Section 1 \\u2014 Default ${kind}`) }).click();
+    return page.getByRole('textbox', { name: 'Header or footer text', exact: true });
+  };
+  const editor = await open();
+  await editor.locator('p').nth(2).click();
+  await page.getByLabel('Before paragraph unit', { exact: true }).selectOption('lines');
+  const before = page.getByRole('spinbutton', { name: 'Before paragraph', exact: true });
+  await before.fill('327.68'); await before.press('Enter');
+  await expect(page.getByRole('alert').filter({ hasText: '327.67' })).toBeVisible();
+  await before.fill('1'); await before.press('Enter');
+  await page.getByLabel('After paragraph unit', { exact: true }).selectOption('auto');
+  await expect(page.getByRole('spinbutton', { name: 'After paragraph', exact: true })).toBeDisabled();
+  await editor.locator('p').nth(2).click(); await page.keyboard.press('Home'); await page.keyboard.press('Shift+ArrowRight');
+  await page.keyboard.insertText('Edited'); await expect(editor.locator('p').nth(2)).toHaveText('Edited\tB');
+  await page.keyboard.press('Control+z'); await expect(editor.locator('p').nth(2)).toHaveText('A\tB');
+  await page.keyboard.press('Control+y'); await expect(editor.locator('p').nth(2)).toHaveText('Edited\tB');
+  await page.getByRole('button', { name: 'Apply header or footer', exact: true }).click();
+  await expect(story.locator('p').nth(2)).toHaveText('Edited\tB');
+  await page.getByRole('button', { name: 'Home', exact: true }).click();
+  await page.getByRole('button', { name: 'Undo', exact: true }).click(); await expect(story.locator('p').nth(2)).toHaveText('A\tB');
+  await page.getByRole('button', { name: 'Redo', exact: true }).click(); await expect(story.locator('p').nth(2)).toHaveText('Edited\tB');
+  const download = async (name: string, label = 'PDF file') => {
+    await page.getByRole('button', { name: 'Export', exact: true }).click();
+    const pending = page.waitForEvent('download'); await page.getByRole('button', { name: label, exact: true }).click();
+    await (await pending).saveAs(root + '/' + name); outputs[name] = hash(await fs.readFile(root + '/' + name));
+  };
+  await download('edited.docx', 'DOCX file Editable in Microsoft Word'); await download('edited.pdf');
+  await expect(page.getByText('Saved on this device', { exact: true })).toBeVisible();
+  await page.reload(); await page.getByRole('button', { name: 'Recent files', exact: true }).click();
+  await page.getByRole('button', { name: `story-spacing-${kind}`, exact: true }).click();
+  await expect(story.locator('p').nth(2)).toHaveText('Edited\tB'); await download('reloaded.pdf');
+  const reopened = await open(); await reopened.locator('p').nth(2).click();
+  await expect(page.getByLabel('Before paragraph unit', { exact: true })).toHaveValue('lines'); await expect(before).toHaveValue('1');
+  await expect(page.getByLabel('After paragraph unit', { exact: true })).toHaveValue('auto');
+  await page.getByRole('button', { name: 'Cancel', exact: true }).click();
+  await page.goto('/'); await page.locator('input[type=file][multiple]').setInputFiles({ name: `story-reimport-${kind}.docx`, buffer: await fs.readFile(root + '/edited.docx'), mimeType: 'application/vnd.openxmlformats-officedocument.wordprocessingml.document' });
+  await expect(story.locator('p').nth(2)).toHaveText('Edited\tB'); await download('reimported.pdf');
+  expect(errors).toEqual([]);
+  await fs.writeFile(root + '/browser-report.json', JSON.stringify({ kind, sourceHash: hash(source), outputs, errors,
+    buildHash: await wordStoryBuildHash(), testHash: hash(await fs.readFile('tests/word-paragraph-spacing-story.spec.ts')) }, null, 2));
+});

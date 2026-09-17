@@ -1,0 +1,3757 @@
+# Powerpoint command acceptance checklist
+
+Source: [Microsoft Office 2016 control catalog](https://raw.githubusercontent.com/OfficeDev/office-fluent-ui-command-identifiers/b230a0df45036b2d5e8b49ebf368b3f90ada8d63/Office%202016/powerpointcontrols.xlsx), revision `b230a0df45036b2d5e8b49ebf368b3f90ada8d63`; SHA-256 `92fa5acaddfda6f89ba7532a3e0b217fd2e1e2c4a878c26f52644cd12adf6467`. Microsoft catalog data is covered by [its MIT license](LICENSE.microsoft.txt).
+
+Contains **3490 catalog placements** across **52 tab/context categories**. Repeated controls occur in multiple menus. Containers, galleries and context-menu entries are included; a catalog placement is not necessarily a separate feature. This fixes the acceptance baseline to Office 2016; newer Office features require additional inventory.
+
+Check a row only after its complete stated command behavior and applicable save/export, undo and error paths pass. Add evidence to TASKS.md or a linked scope report. Existing partial implementations do not automatically certify an entire Microsoft command, gallery or dialog. Unticked rows include partial implementations. This file is an acceptance inventory, not an app menu.
+
+## Quick Access Toolbar
+
+Catalog tab: `Quick Access Toolbar`.
+
+- [ ] `FileNewDefault` — button. <!-- source-row:2 -->
+- [ ] `FileOpenUsingBackstage` — button. <!-- source-row:3 -->
+- [ ] `FileSave` — button. <!-- source-row:4 -->
+- [ ] `FileSendAsAttachment` — button. <!-- source-row:5 -->
+- [ ] `FilePrintQuick` — button. <!-- source-row:6 -->
+- [ ] `PrintPreviewAndPrint` — button. <!-- source-row:7 -->
+- [ ] `Spelling` — button. <!-- source-row:8 -->
+- [ ] `Undo` — gallery. <!-- source-row:9 -->
+- [ ] `RedoOrRepeat` — button. <!-- source-row:10 -->
+- [ ] `SlideShowFromBeginning` — button. <!-- source-row:11 -->
+- [ ] `PointerModeOptions` — gallery. <!-- source-row:12 -->
+
+## Unassigned / tab containers
+
+Catalog tab: `Unassigned / tab containers`.
+
+- [ ] `TabHome` — tab. <!-- source-row:13 -->
+- [ ] `TabInsert` — tab. <!-- source-row:155 -->
+- [ ] `TabDesign` — tab. <!-- source-row:217 -->
+- [ ] `TabTransitions` — tab. <!-- source-row:238 -->
+- [ ] `TabAnimations` — tab. <!-- source-row:253 -->
+- [ ] `TabSlideShow` — tab. <!-- source-row:290 -->
+- [ ] `TabReview` — tab. <!-- source-row:318 -->
+- [ ] `TabView` — tab. <!-- source-row:365 -->
+- [ ] `TabDeveloper` — tab. <!-- source-row:403 -->
+- [ ] `TabAddIns` — tab. <!-- source-row:427 -->
+- [ ] `TabPrintPreview` — tab. <!-- source-row:431 -->
+- [ ] `TabMerge` — tab. <!-- source-row:448 -->
+- [ ] `TabGrayscale` — tab. <!-- source-row:469 -->
+- [ ] `TabBlackAndWhite` — tab. <!-- source-row:483 -->
+- [ ] `TabBroadcastPresentation` — tab. <!-- source-row:497 -->
+- [ ] `TabSlideMaster` — tab. <!-- source-row:511 -->
+- [ ] `TabHandoutMaster` — tab. <!-- source-row:555 -->
+- [ ] `TabNotesMaster` — tab. <!-- source-row:592 -->
+- [ ] `TabBackgroundRemoval` — tab. <!-- source-row:623 -->
+- [ ] `TabSlideMasterHome` — tab. <!-- source-row:631 -->
+- [ ] `TabSetSmartArtTools` — tabSet. <!-- source-row:1085 -->
+- [ ] `TabSmartArtToolsDesign` — tab. <!-- source-row:1086 -->
+- [ ] `TabSmartArtToolsFormat` — tab. <!-- source-row:1119 -->
+- [ ] `TabSetChartTools` — tabSet. <!-- source-row:1227 -->
+- [ ] `TabChartToolsDesignNew` — tab. <!-- source-row:1228 -->
+- [ ] `TabChartToolsFormatNew` — tab. <!-- source-row:1265 -->
+- [ ] `TabChartToolsDesign` — tab. <!-- source-row:1375 -->
+- [ ] `TabChartToolsLayout` — tab. <!-- source-row:1386 -->
+- [ ] `TabChartToolsFormat` — tab. <!-- source-row:1457 -->
+- [ ] `TabSetDrawingTools` — tabSet. <!-- source-row:1564 -->
+- [ ] `TabDrawingToolsFormat` — tab. <!-- source-row:1565 -->
+- [ ] `TabSetPictureTools` — tabSet. <!-- source-row:1679 -->
+- [ ] `TabPictureToolsFormat` — tab. <!-- source-row:1680 -->
+- [ ] `TabSetTableTools` — tabSet. <!-- source-row:1778 -->
+- [ ] `TabTableToolsDesign` — tab. <!-- source-row:1779 -->
+- [ ] `TabTableToolsLayout` — tab. <!-- source-row:1862 -->
+- [ ] `TabSetSoundTools` — tabSet. <!-- source-row:1928 -->
+- [ ] `TabSoundToolsOptions` — tab. <!-- source-row:1929 -->
+- [ ] `TabSetAudioTools` — tabSet. <!-- source-row:1967 -->
+- [ ] `TabAudioToolsFormat` — tab. <!-- source-row:1968 -->
+- [ ] `TabAudioToolsEdit` — tab. <!-- source-row:2066 -->
+- [ ] `TabSetVideoTools` — tabSet. <!-- source-row:2087 -->
+- [ ] `TabVideoToolsDesign` — tab. <!-- source-row:2088 -->
+- [ ] `TabVideoToolsEdit` — tab. <!-- source-row:2167 -->
+- [ ] `TabSetMovieTools` — tabSet. <!-- source-row:2185 -->
+- [ ] `TabMovieToolsOptions` — tab. <!-- source-row:2186 -->
+- [ ] `TabSetCDAudioTools` — tabSet. <!-- source-row:2226 -->
+- [ ] `TabCDAudioToolsOptions` — tab. <!-- source-row:2227 -->
+- [ ] `TabSetInkTools` — tabSet. <!-- source-row:2271 -->
+- [ ] `TabInkToolsPens` — tab. <!-- source-row:2272 -->
+- [ ] `TabSetEquationTools` — tabSet. <!-- source-row:2301 -->
+- [ ] `TabEquationToolsDesign` — tab. <!-- source-row:2302 -->
+- [ ] `NoTcid` — control. <!-- source-row:2324 -->
+- [ ] `TabInfo` — tab. <!-- source-row:2325 -->
+- [ ] `TabOfficeStart` — tab. <!-- source-row:2362 -->
+- [ ] `TabRecent` — tab. <!-- source-row:2364 -->
+- [ ] `FileSave` — button. <!-- source-row:2378 -->
+- [ ] `TabSave` — tab. <!-- source-row:2379 -->
+- [ ] `HistoryTab` — button. <!-- source-row:2389 -->
+- [ ] `TabPrint` — tab. <!-- source-row:2390 -->
+- [ ] `TabShare` — tab. <!-- source-row:2395 -->
+- [ ] `TabPublish` — tab. <!-- source-row:2418 -->
+- [ ] `FileClose` — button. <!-- source-row:2431 -->
+- [ ] `TabHelp` — tab. <!-- source-row:2432 -->
+- [ ] `ApplicationOptionsDialog` — button. <!-- source-row:2443 -->
+
+## Home / Start
+
+Catalog tab: `TabHome`.
+
+- [ ] `GroupClipboard` — group. <!-- source-row:14 -->
+- [ ] `PasteMenu` — splitButton; group `GroupClipboard`. <!-- source-row:15 -->
+- [ ] `Paste` — button; group `GroupClipboard`; menu `PasteMenu`. <!-- source-row:16 -->
+- [ ] `PasteGallery` — gallery; group `GroupClipboard`; menu `PasteMenu`. <!-- source-row:17 -->
+- [ ] `PasteSpecialDialog` — button; group `GroupClipboard`; menu `PasteMenu` → `PasteGallery`. <!-- source-row:18 -->
+- [ ] `Cut` — button; group `GroupClipboard`. <!-- source-row:19 -->
+- [ ] `CopySplitButton` — splitButton; group `GroupClipboard`. <!-- source-row:20 -->
+- [ ] `Copy` — button; group `GroupClipboard`; menu `CopySplitButton`. <!-- source-row:21 -->
+- [ ] `PasteDuplicate` — button; group `GroupClipboard`; menu `CopySplitButton`. <!-- source-row:22 -->
+- [ ] `FormatPainter` — control; group `GroupClipboard`. <!-- source-row:23 -->
+- [ ] `ShowClipboard` — button (dialogBoxLauncher); group `GroupClipboard`. <!-- source-row:24 -->
+- [ ] `GroupSlides` — group. <!-- source-row:25 -->
+- [ ] `SlideNewGallery` — gallery; group `GroupSlides`. <!-- source-row:26 -->
+- [ ] `DuplicateSelectedSlides` — button; group `GroupSlides`; menu `SlideNewGallery`. <!-- source-row:27 -->
+- [ ] `SlidesFromOutline` — button; group `GroupSlides`; menu `SlideNewGallery`. <!-- source-row:28 -->
+- [ ] `SlidesReuseSlides` — toggleButton; group `GroupSlides`; menu `SlideNewGallery`. <!-- source-row:29 -->
+- [ ] `SlideLayoutGallery` — gallery; group `GroupSlides`. <!-- source-row:30 -->
+- [ ] `SlideReset` — button; group `GroupSlides`. <!-- source-row:31 -->
+- [ ] `SectionMenu` — menu; group `GroupSlides`. <!-- source-row:32 -->
+- [ ] `SectionAdd` — button; group `GroupSlides`; menu `SectionMenu`. <!-- source-row:33 -->
+- [ ] `SectionRename` — button; group `GroupSlides`; menu `SectionMenu`. <!-- source-row:34 -->
+- [ ] `SectionMergeWithPrevious` — button; group `GroupSlides`; menu `SectionMenu`. <!-- source-row:35 -->
+- [ ] `SectionRemoveAll` — button; group `GroupSlides`; menu `SectionMenu`. <!-- source-row:36 -->
+- [ ] `SectionCollapseAll` — button; group `GroupSlides`; menu `SectionMenu`. <!-- source-row:37 -->
+- [ ] `SectionExpandAll` — button; group `GroupSlides`; menu `SectionMenu`. <!-- source-row:38 -->
+- [ ] `GroupFont` — group. <!-- source-row:39 -->
+- [ ] `Font` — comboBox; group `GroupFont`. <!-- source-row:40 -->
+- [ ] `FontSize` — comboBox; group `GroupFont`. <!-- source-row:41 -->
+- [ ] `FontSizeIncrease` — button; group `GroupFont`. <!-- source-row:42 -->
+- [ ] `FontSizeDecrease` — button; group `GroupFont`. <!-- source-row:43 -->
+- [ ] `ClearFormatting` — button; group `GroupFont`. <!-- source-row:44 -->
+- [ ] `Bold` — toggleButton; group `GroupFont`. <!-- source-row:45 -->
+- [ ] `Italic` — toggleButton; group `GroupFont`. <!-- source-row:46 -->
+- [ ] `Underline` — toggleButton; group `GroupFont`. <!-- source-row:47 -->
+- [ ] `Shadow` — toggleButton; group `GroupFont`. <!-- source-row:48 -->
+- [ ] `Strikethrough` — toggleButton; group `GroupFont`. <!-- source-row:49 -->
+- [ ] `CharacterSpacingGallery` — gallery; group `GroupFont`. <!-- source-row:50 -->
+- [ ] `ChangeCaseGallery` — gallery; group `GroupFont`. <!-- source-row:51 -->
+- [ ] `FontColorPicker` — gallery; group `GroupFont`. <!-- source-row:52 -->
+- [ ] `FontColorMoreColorsDialogPowerPoint` — button; group `GroupFont`; menu `FontColorPicker`. <!-- source-row:53 -->
+- [ ] `EyedropperFillText` — button; group `GroupFont`; menu `FontColorPicker`. <!-- source-row:54 -->
+- [ ] `FontDialogPowerPoint` — button (dialogBoxLauncher); group `GroupFont`. <!-- source-row:55 -->
+- [ ] `GroupParagraph` — group. <!-- source-row:56 -->
+- [ ] `BulletsGallery` — gallery; group `GroupParagraph`. <!-- source-row:57 -->
+- [ ] `BulletsAndNumberingBulletsDialog` — button; group `GroupParagraph`; menu `BulletsGallery`. <!-- source-row:58 -->
+- [ ] `NumberingGallery` — gallery; group `GroupParagraph`. <!-- source-row:59 -->
+- [ ] `BulletsAndNumberingNumberingDialog` — button; group `GroupParagraph`; menu `NumberingGallery`. <!-- source-row:60 -->
+- [ ] `IndentDecrease` — button; group `GroupParagraph`. <!-- source-row:61 -->
+- [ ] `IndentIncrease` — button; group `GroupParagraph`. <!-- source-row:62 -->
+- [ ] `LineSpacingGalleryPowerPoint` — gallery; group `GroupParagraph`. <!-- source-row:63 -->
+- [ ] `AlignLeft` — toggleButton; group `GroupParagraph`. <!-- source-row:64 -->
+- [ ] `AlignCenter` — toggleButton; group `GroupParagraph`. <!-- source-row:65 -->
+- [ ] `AlignRight` — toggleButton; group `GroupParagraph`. <!-- source-row:66 -->
+- [ ] `AlignJustify` — toggleButton; group `GroupParagraph`. <!-- source-row:67 -->
+- [ ] `AlignJustifyMenu` — menu; group `GroupParagraph`. <!-- source-row:68 -->
+- [ ] `AlignJustifyWithMixedLanguages` — toggleButton; group `GroupParagraph`; menu `AlignJustifyMenu`. <!-- source-row:69 -->
+- [ ] `AlignJustifyLow` — toggleButton; group `GroupParagraph`; menu `AlignJustifyMenu`. <!-- source-row:70 -->
+- [ ] `ParagraphDistributed` — toggleButton; group `GroupParagraph`. <!-- source-row:71 -->
+- [ ] `AlignJustifyThai` — toggleButton; group `GroupParagraph`. <!-- source-row:72 -->
+- [ ] `TextDirectionLeftToRight` — toggleButton; group `GroupParagraph`. <!-- source-row:73 -->
+- [ ] `TextDirectionRightToLeft` — toggleButton; group `GroupParagraph`. <!-- source-row:74 -->
+- [ ] `TableColumnsGallery` — gallery; group `GroupParagraph`. <!-- source-row:75 -->
+- [ ] `ParagraphMoreColumnsDialog` — button; group `GroupParagraph`; menu `TableColumnsGallery`. <!-- source-row:76 -->
+- [ ] `TextDirectionGallery` — gallery; group `GroupParagraph`. <!-- source-row:77 -->
+- [ ] `TextDirectionMoreOptionsDialog` — button; group `GroupParagraph`; menu `TextDirectionGallery`. <!-- source-row:78 -->
+- [ ] `TextAlignGallery` — gallery; group `GroupParagraph`. <!-- source-row:79 -->
+- [ ] `TextAlignMoreOptionsDialog` — button; group `GroupParagraph`; menu `TextAlignGallery`. <!-- source-row:80 -->
+- [ ] `ConvertToSmartArt` — gallery; group `GroupParagraph`. <!-- source-row:81 -->
+- [ ] `ConvertToSmartArtMoreSmartArtGraphicsDialog` — button; group `GroupParagraph`; menu `ConvertToSmartArt`. <!-- source-row:82 -->
+- [ ] `PowerPointParagraphDialog` — button (dialogBoxLauncher); group `GroupParagraph`. <!-- source-row:83 -->
+- [ ] `GroupDrawing` — group. <!-- source-row:84 -->
+- [ ] `GalleryAllShapesAndTextboxes` — gallery; group `GroupDrawing`. <!-- source-row:85 -->
+- [ ] `ObjectsArrangeMenu` — menu; group `GroupDrawing`. <!-- source-row:86 -->
+- [ ] `ObjectBringToFront` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu`. <!-- source-row:87 -->
+- [ ] `ObjectSendToBack` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu`. <!-- source-row:88 -->
+- [ ] `ObjectBringForward` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu`. <!-- source-row:89 -->
+- [ ] `ObjectSendBackward` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu`. <!-- source-row:90 -->
+- [ ] `ObjectsGroup` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu`. <!-- source-row:91 -->
+- [ ] `ObjectsUngroup` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu`. <!-- source-row:92 -->
+- [ ] `ObjectsRegroup` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu`. <!-- source-row:93 -->
+- [ ] `ObjectAlignMenu` — menu; group `GroupDrawing`; menu `ObjectsArrangeMenu`. <!-- source-row:94 -->
+- [ ] `ObjectsAlignLeftSmart` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectAlignMenu`. <!-- source-row:95 -->
+- [ ] `ObjectsAlignCenterHorizontalSmart` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectAlignMenu`. <!-- source-row:96 -->
+- [ ] `ObjectsAlignRightSmart` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectAlignMenu`. <!-- source-row:97 -->
+- [ ] `ObjectsAlignTopSmart` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectAlignMenu`. <!-- source-row:98 -->
+- [ ] `ObjectsAlignMiddleVerticalSmart` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectAlignMenu`. <!-- source-row:99 -->
+- [ ] `ObjectsAlignBottomSmart` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectAlignMenu`. <!-- source-row:100 -->
+- [ ] `AlignDistributeHorizontally` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectAlignMenu`. <!-- source-row:101 -->
+- [ ] `AlignDistributeVertically` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectAlignMenu`. <!-- source-row:102 -->
+- [ ] `ObjectsAlignRelativeToContainerSmart` — toggleButton; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectAlignMenu`. <!-- source-row:103 -->
+- [ ] `ObjectsAlignSelectedSmart` — toggleButton; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectAlignMenu`. <!-- source-row:104 -->
+- [ ] `ObjectRotateGallery` — gallery; group `GroupDrawing`; menu `ObjectsArrangeMenu`. <!-- source-row:105 -->
+- [ ] `ObjectRotationOptionsDialog` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectRotateGallery`. <!-- source-row:106 -->
+- [ ] `SelectionPane` — toggleButton; group `GroupDrawing`; menu `ObjectsArrangeMenu`. <!-- source-row:107 -->
+- [ ] `ShapeQuickStylesHome` — gallery; group `GroupDrawing`. <!-- source-row:108 -->
+- [ ] `ShapeStylesOtherThemeFillsGallery` — gallery; group `GroupDrawing`; menu `ShapeQuickStylesHome`. <!-- source-row:109 -->
+- [ ] `ShapeFillColorPicker` — gallery; group `GroupDrawing`. <!-- source-row:110 -->
+- [ ] `ObjectFillMoreColorsDialog` — button; group `GroupDrawing`; menu `ShapeFillColorPicker`. <!-- source-row:111 -->
+- [ ] `EyedropperFill` — button; group `GroupDrawing`; menu `ShapeFillColorPicker`. <!-- source-row:112 -->
+- [ ] `ObjectPictureFill` — button; group `GroupDrawing`; menu `ShapeFillColorPicker`. <!-- source-row:113 -->
+- [ ] `GradientGallery` — gallery; group `GroupDrawing`; menu `ShapeFillColorPicker`. <!-- source-row:114 -->
+- [ ] `ShapeFillMoreGradientsDialog` — button; group `GroupDrawing`; menu `ShapeFillColorPicker` → `GradientGallery`. <!-- source-row:115 -->
+- [ ] `ShapeFillTextureGallery` — gallery; group `GroupDrawing`; menu `ShapeFillColorPicker`. <!-- source-row:116 -->
+- [ ] `MoreTextureOptions` — button; group `GroupDrawing`; menu `ShapeFillColorPicker` → `ShapeFillTextureGallery`. <!-- source-row:117 -->
+- [ ] `ShapeOutlineColorPicker` — gallery; group `GroupDrawing`. <!-- source-row:118 -->
+- [ ] `ObjectBorderOutlineColorMoreColorsDialog` — button; group `GroupDrawing`; menu `ShapeOutlineColorPicker`. <!-- source-row:119 -->
+- [ ] `EyedropperOutline` — button; group `GroupDrawing`; menu `ShapeOutlineColorPicker`. <!-- source-row:120 -->
+- [ ] `OutlineWeightGallery` — gallery; group `GroupDrawing`; menu `ShapeOutlineColorPicker`. <!-- source-row:121 -->
+- [ ] `LineStylesDialog` — button; group `GroupDrawing`; menu `ShapeOutlineColorPicker` → `OutlineWeightGallery`. <!-- source-row:122 -->
+- [ ] `OutlineDashesGallery` — gallery; group `GroupDrawing`; menu `ShapeOutlineColorPicker`. <!-- source-row:123 -->
+- [ ] `LineStylesDialog` — button; group `GroupDrawing`; menu `ShapeOutlineColorPicker` → `OutlineDashesGallery`. <!-- source-row:124 -->
+- [ ] `ArrowStyleGallery` — gallery; group `GroupDrawing`; menu `ShapeOutlineColorPicker`. <!-- source-row:125 -->
+- [ ] `ArrowsMore` — button; group `GroupDrawing`; menu `ShapeOutlineColorPicker` → `ArrowStyleGallery`. <!-- source-row:126 -->
+- [ ] `ShapeEffectsMenu` — menu; group `GroupDrawing`. <!-- source-row:127 -->
+- [ ] `ObjectEffectPresetGallery` — gallery; group `GroupDrawing`; menu `ShapeEffectsMenu`. <!-- source-row:128 -->
+- [ ] `_3DBevelOptionsDialog` — button; group `GroupDrawing`; menu `ShapeEffectsMenu` → `ObjectEffectPresetGallery`. <!-- source-row:129 -->
+- [ ] `ObjectEffectShadowGallery` — gallery; group `GroupDrawing`; menu `ShapeEffectsMenu`. <!-- source-row:130 -->
+- [ ] `ShadowOptionsDialog` — button; group `GroupDrawing`; menu `ShapeEffectsMenu` → `ObjectEffectShadowGallery`. <!-- source-row:131 -->
+- [ ] `ReflectionGallery` — gallery; group `GroupDrawing`; menu `ShapeEffectsMenu`. <!-- source-row:132 -->
+- [ ] `ReflectionsMoreOptions` — button; group `GroupDrawing`; menu `ShapeEffectsMenu` → `ReflectionGallery`. <!-- source-row:133 -->
+- [ ] `ObjectEffectGlowGallery` — gallery; group `GroupDrawing`; menu `ShapeEffectsMenu`. <!-- source-row:134 -->
+- [ ] `GlowColorPicker` — gallery; group `GroupDrawing`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery`. <!-- source-row:135 -->
+- [ ] `GlowColorMoreColorsDialog` — button; group `GroupDrawing`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery` → `GlowColorPicker`. <!-- source-row:136 -->
+- [ ] `EyedropperGlow` — button; group `GroupDrawing`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery` → `GlowColorPicker`. <!-- source-row:137 -->
+- [ ] `GlowsMoreOptions` — button; group `GroupDrawing`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery`. <!-- source-row:138 -->
+- [ ] `ObjectEffectSoftEdgesGallery` — gallery; group `GroupDrawing`; menu `ShapeEffectsMenu`. <!-- source-row:139 -->
+- [ ] `SoftEdgesMoreOptions` — button; group `GroupDrawing`; menu `ShapeEffectsMenu` → `ObjectEffectSoftEdgesGallery`. <!-- source-row:140 -->
+- [ ] `BevelShapeGallery` — gallery; group `GroupDrawing`; menu `ShapeEffectsMenu`. <!-- source-row:141 -->
+- [ ] `_3DBevelOptionsDialog` — button; group `GroupDrawing`; menu `ShapeEffectsMenu` → `BevelShapeGallery`. <!-- source-row:142 -->
+- [ ] `_3DRotationGallery` — gallery; group `GroupDrawing`; menu `ShapeEffectsMenu`. <!-- source-row:143 -->
+- [ ] `_3DRotationOptionsDialog` — button; group `GroupDrawing`; menu `ShapeEffectsMenu` → `_3DRotationGallery`. <!-- source-row:144 -->
+- [ ] `ObjectFormatDialog` — button (dialogBoxLauncher); group `GroupDrawing`. <!-- source-row:145 -->
+- [ ] `GroupEditing` — group. <!-- source-row:146 -->
+- [ ] `FindDialog` — button; group `GroupEditing`. <!-- source-row:147 -->
+- [ ] `ReplaceMenu` — splitButton; group `GroupEditing`. <!-- source-row:148 -->
+- [ ] `ReplaceDialog` — button; group `GroupEditing`; menu `ReplaceMenu`. <!-- source-row:149 -->
+- [ ] `FontsReplaceFonts` — button; group `GroupEditing`; menu `ReplaceMenu`. <!-- source-row:150 -->
+- [ ] `SelectMenu` — menu; group `GroupEditing`. <!-- source-row:151 -->
+- [ ] `SelectAll` — button; group `GroupEditing`; menu `SelectMenu`. <!-- source-row:152 -->
+- [ ] `ObjectsSelect` — toggleButton; group `GroupEditing`; menu `SelectMenu`. <!-- source-row:153 -->
+- [ ] `SelectionPane` — toggleButton; group `GroupEditing`; menu `SelectMenu`. <!-- source-row:154 -->
+
+## Insert / Einfügen
+
+Catalog tab: `TabInsert`.
+
+- [ ] `GroupSlides2` — group. <!-- source-row:156 -->
+- [ ] `SlideNewGalleryInsert` — gallery; group `GroupSlides2`. <!-- source-row:157 -->
+- [ ] `DuplicateSelectedSlides` — button; group `GroupSlides2`; menu `SlideNewGalleryInsert`. <!-- source-row:158 -->
+- [ ] `SlidesFromOutline` — button; group `GroupSlides2`; menu `SlideNewGalleryInsert`. <!-- source-row:159 -->
+- [ ] `SlidesReuseSlides` — toggleButton; group `GroupSlides2`; menu `SlideNewGalleryInsert`. <!-- source-row:160 -->
+- [ ] `GroupInsertTables` — group. <!-- source-row:161 -->
+- [ ] `TableInsertGallery` — gallery; group `GroupInsertTables`. <!-- source-row:162 -->
+- [ ] `TableInsert` — button; group `GroupInsertTables`; menu `TableInsertGallery`. <!-- source-row:163 -->
+- [ ] `TableDrawTable` — toggleButton; group `GroupInsertTables`; menu `TableInsertGallery`. <!-- source-row:164 -->
+- [ ] `ExcelSpreadsheetInsert` — button; group `GroupInsertTables`; menu `TableInsertGallery`. <!-- source-row:165 -->
+- [ ] `GroupImages` — group. <!-- source-row:166 -->
+- [ ] `PictureInsertFromFilePowerPoint` — button; group `GroupImages`. <!-- source-row:167 -->
+- [ ] `ClipArtInsertDialog` — button; group `GroupImages`. <!-- source-row:168 -->
+- [ ] `ScreenshotInsertGallery` — gallery; group `GroupImages`. <!-- source-row:169 -->
+- [ ] `ScreenClipping` — button; group `GroupImages`; menu `ScreenshotInsertGallery`. <!-- source-row:170 -->
+- [ ] `PhotoAlbumInsertMenu` — splitButton; group `GroupImages`. <!-- source-row:171 -->
+- [ ] `PhotoAlbumInsert` — button; group `GroupImages`; menu `PhotoAlbumInsertMenu`. <!-- source-row:172 -->
+- [ ] `PhotoAlbumEdit` — button; group `GroupImages`; menu `PhotoAlbumInsertMenu`. <!-- source-row:173 -->
+- [ ] `GroupInsertIllustrations` — group. <!-- source-row:174 -->
+- [ ] `ShapesInsertGallery` — gallery; group `GroupInsertIllustrations`. <!-- source-row:175 -->
+- [ ] `SmartArtInsert` — button; group `GroupInsertIllustrations`. <!-- source-row:176 -->
+- [ ] `ChartInsert` — button; group `GroupInsertIllustrations`. <!-- source-row:177 -->
+- [ ] `GroupOfficeExtension` — group. <!-- source-row:178 -->
+- [ ] `OfficeExtensionsAppStore` — button; group `GroupOfficeExtension`. <!-- source-row:179 -->
+- [ ] `OfficeExtensionsGallery2` — gallery; group `GroupOfficeExtension`. <!-- source-row:180 -->
+- [ ] `OfficeExtensionsDialog` — button; group `GroupOfficeExtension`; menu `OfficeExtensionsGallery2`. <!-- source-row:181 -->
+- [ ] `OfficeExtensionsManageOtherAddins` — button; group `GroupOfficeExtension`; menu `OfficeExtensionsGallery2`. <!-- source-row:182 -->
+- [ ] `OfficeExtensionsFeaturedApp1` — button; group `GroupOfficeExtension`. <!-- source-row:183 -->
+- [ ] `OfficeExtensionsFeaturedApp2` — button; group `GroupOfficeExtension`. <!-- source-row:184 -->
+- [ ] `OfficeExtensionsFeaturedApp3` — button; group `GroupOfficeExtension`. <!-- source-row:185 -->
+- [ ] `OfficeExtensionsFeaturedApp4` — button; group `GroupOfficeExtension`. <!-- source-row:186 -->
+- [ ] `OfficeExtensionsFeaturedApp5` — button; group `GroupOfficeExtension`. <!-- source-row:187 -->
+- [ ] `OfficeExtensionsFeaturedApp6` — button; group `GroupOfficeExtension`. <!-- source-row:188 -->
+- [ ] `GroupInsertLinks` — group. <!-- source-row:189 -->
+- [ ] `HyperlinkInsert` — button; group `GroupInsertLinks`. <!-- source-row:190 -->
+- [ ] `ActionInsert` — button; group `GroupInsertLinks`. <!-- source-row:191 -->
+- [ ] `GroupInsertComments` — group. <!-- source-row:192 -->
+- [ ] `InsertNewComment` — button; group `GroupInsertComments`. <!-- source-row:193 -->
+- [ ] `GroupInsertText` — group. <!-- source-row:194 -->
+- [ ] `TextBoxInsert` — toggleButton; group `GroupInsertText`. <!-- source-row:195 -->
+- [ ] `TextBoxInsertMenu` — splitButton; group `GroupInsertText`. <!-- source-row:196 -->
+- [ ] `TextBoxInsertHorizontal` — toggleButton; group `GroupInsertText`; menu `TextBoxInsertMenu`. <!-- source-row:197 -->
+- [ ] `TextBoxInsertVertical` — toggleButton; group `GroupInsertText`; menu `TextBoxInsertMenu`. <!-- source-row:198 -->
+- [ ] `HeaderFooterInsert` — button; group `GroupInsertText`. <!-- source-row:199 -->
+- [ ] `WordArtInsertGallery` — gallery; group `GroupInsertText`. <!-- source-row:200 -->
+- [ ] `DateAndTimeInsert` — button; group `GroupInsertText`. <!-- source-row:201 -->
+- [ ] `NumberInsert` — button; group `GroupInsertText`. <!-- source-row:202 -->
+- [ ] `OleObjectctInsert` — button; group `GroupInsertText`. <!-- source-row:203 -->
+- [ ] `GroupInsertSymbols` — group. <!-- source-row:204 -->
+- [ ] `InsertBuildingBlocksEquationsGallery` — gallery; group `GroupInsertSymbols`. <!-- source-row:205 -->
+- [ ] `EquationInsertNew` — button; group `GroupInsertSymbols`; menu `InsertBuildingBlocksEquationsGallery`. <!-- source-row:206 -->
+- [ ] `InkEquation` — button; group `GroupInsertSymbols`; menu `InsertBuildingBlocksEquationsGallery`. <!-- source-row:207 -->
+- [ ] `SymbolInsert` — button; group `GroupInsertSymbols`. <!-- source-row:208 -->
+- [ ] `GroupInsertMediaClips` — group. <!-- source-row:209 -->
+- [ ] `MovieInsert02` — menu; group `GroupInsertMediaClips`. <!-- source-row:210 -->
+- [ ] `MovieFromClipOrganizerInsert` — button; group `GroupInsertMediaClips`; menu `MovieInsert02`. <!-- source-row:211 -->
+- [ ] `MovieFromFileInsert` — button; group `GroupInsertMediaClips`; menu `MovieInsert02`. <!-- source-row:212 -->
+- [ ] `SoundInsertMenu02` — menu; group `GroupInsertMediaClips`. <!-- source-row:213 -->
+- [ ] `SoundInsertFromFile` — button; group `GroupInsertMediaClips`; menu `SoundInsertMenu02`. <!-- source-row:214 -->
+- [ ] `SoundRecord` — button; group `GroupInsertMediaClips`; menu `SoundInsertMenu02`. <!-- source-row:215 -->
+- [ ] `ObjectScreenRecording` — button; group `GroupInsertMediaClips`. <!-- source-row:216 -->
+
+## TabDesign
+
+Catalog tab: `TabDesign`.
+
+- [ ] `GroupSlideThemes` — group. <!-- source-row:218 -->
+- [ ] `SlideThemesGallery` — gallery; group `GroupSlideThemes`. <!-- source-row:219 -->
+- [ ] `ThemeSearchOfficeOnlinePowerPoint` — button; group `GroupSlideThemes`; menu `SlideThemesGallery`. <!-- source-row:220 -->
+- [ ] `ThemeBrowseForThemesPowerPoint` — button; group `GroupSlideThemes`; menu `SlideThemesGallery`. <!-- source-row:221 -->
+- [ ] `ThemeSaveCurrentPowerPoint` — button; group `GroupSlideThemes`; menu `SlideThemesGallery`. <!-- source-row:222 -->
+- [ ] `GroupThemeVariants` — group. <!-- source-row:223 -->
+- [ ] `ThemeVariantsGallery` — gallery; group `GroupThemeVariants`. <!-- source-row:224 -->
+- [ ] `ThemeColorsGallery` — gallery; group `GroupThemeVariants`; menu `ThemeVariantsGallery`. <!-- source-row:225 -->
+- [ ] `ThemeColorsCreateNew` — button; group `GroupThemeVariants`; menu `ThemeVariantsGallery` → `ThemeColorsGallery`. <!-- source-row:226 -->
+- [ ] `ThemeColorsReset` — button; group `GroupThemeVariants`; menu `ThemeVariantsGallery` → `ThemeColorsGallery`. <!-- source-row:227 -->
+- [ ] `ThemeFontsGallery` — gallery; group `GroupThemeVariants`; menu `ThemeVariantsGallery`. <!-- source-row:228 -->
+- [ ] `ThemeFontsCreateNew` — button; group `GroupThemeVariants`; menu `ThemeVariantsGallery` → `ThemeFontsGallery`. <!-- source-row:229 -->
+- [ ] `ThemeEffectsGallery` — gallery; group `GroupThemeVariants`; menu `ThemeVariantsGallery`. <!-- source-row:230 -->
+- [ ] `SlideBackgroundStylesGallery` — gallery; group `GroupThemeVariants`; menu `ThemeVariantsGallery`. <!-- source-row:231 -->
+- [ ] `SlideBackgroundFormatDialog` — button; group `GroupThemeVariants`; menu `ThemeVariantsGallery` → `SlideBackgroundStylesGallery`. <!-- source-row:232 -->
+- [ ] `SlideBackgroundReset` — button; group `GroupThemeVariants`; menu `ThemeVariantsGallery` → `SlideBackgroundStylesGallery`. <!-- source-row:233 -->
+- [ ] `GroupCustomizeThemeOptions` — group. <!-- source-row:234 -->
+- [ ] `PowerPointPageSetup` — gallery; group `GroupCustomizeThemeOptions`. <!-- source-row:235 -->
+- [ ] `CustomSlideSize` — button; group `GroupCustomizeThemeOptions`; menu `PowerPointPageSetup`. <!-- source-row:236 -->
+- [ ] `LaunchFormatBackground` — button; group `GroupCustomizeThemeOptions`. <!-- source-row:237 -->
+
+## TabTransitions
+
+Catalog tab: `TabTransitions`.
+
+- [ ] `GroupPreviewTransitions` — group. <!-- source-row:239 -->
+- [ ] `TransitionPreview` — button; group `GroupPreviewTransitions`. <!-- source-row:240 -->
+- [ ] `GroupTransitionToThisSlide` — group. <!-- source-row:241 -->
+- [ ] `AnimationTransitionGallery` — gallery; group `GroupTransitionToThisSlide`. <!-- source-row:242 -->
+- [ ] `AnimationTransitionVariantGallery` — gallery; group `GroupTransitionToThisSlide`. <!-- source-row:243 -->
+- [ ] `GroupTransitionStyles` — group. <!-- source-row:244 -->
+- [ ] `AnimationTransitionSoundGallery` — dropDown; group `GroupTransitionStyles`. <!-- source-row:245 -->
+- [ ] `TransitionSoundLoopUntilNextSound` — toggleButton; group `GroupTransitionStyles`; menu `AnimationTransitionSoundGallery`. <!-- source-row:246 -->
+- [ ] `TransitionDuration` — control; group `GroupTransitionStyles`. <!-- source-row:247 -->
+- [ ] `SlideTransitionApplyToAll` — button; group `GroupTransitionStyles`. <!-- source-row:248 -->
+- [ ] `AdvanceSlideLabel` — labelControl; group `GroupTransitionStyles`. <!-- source-row:249 -->
+- [ ] `SlideTransitionOnMouseClick` — checkBox; group `GroupTransitionStyles`. <!-- source-row:250 -->
+- [ ] `SlideTransitionAutomaticallyAfter` — checkBox; group `GroupTransitionStyles`. <!-- source-row:251 -->
+- [ ] `TransitionTimeAutomaticallyAfter` — control; group `GroupTransitionStyles`. <!-- source-row:252 -->
+
+## TabAnimations
+
+Catalog tab: `TabAnimations`.
+
+- [ ] `GroupPreview` — group. <!-- source-row:254 -->
+- [ ] `AnimationPreviewMenu` — splitButton; group `GroupPreview`. <!-- source-row:255 -->
+- [ ] `AnimationPreview` — button; group `GroupPreview`; menu `AnimationPreviewMenu`. <!-- source-row:256 -->
+- [ ] `AnimationAutoPreview` — toggleButton; group `GroupPreview`; menu `AnimationPreviewMenu`. <!-- source-row:257 -->
+- [ ] `GroupAnimations` — group. <!-- source-row:258 -->
+- [ ] `AnimationGallery` — gallery; group `GroupAnimations`. <!-- source-row:259 -->
+- [ ] `AnimationCustomEntranceDialog` — button; group `GroupAnimations`; menu `AnimationGallery`. <!-- source-row:260 -->
+- [ ] `AnimationCustomEmphasisDialog` — button; group `GroupAnimations`; menu `AnimationGallery`. <!-- source-row:261 -->
+- [ ] `AnimationCustomExitDialog` — button; group `GroupAnimations`; menu `AnimationGallery`. <!-- source-row:262 -->
+- [ ] `AnimationCustomPathDialog` — button; group `GroupAnimations`; menu `AnimationGallery`. <!-- source-row:263 -->
+- [ ] `AnimationCustomActionVerbDialog` — button; group `GroupAnimations`; menu `AnimationGallery`. <!-- source-row:264 -->
+- [ ] `EffectOptionsMenu` — menu; group `GroupAnimations`. <!-- source-row:265 -->
+- [ ] `EffectOptionsGallery` — gallery; group `GroupAnimations`; menu `EffectOptionsMenu`. <!-- source-row:266 -->
+- [ ] `EffectOptionsColorsGallery` — gallery; group `GroupAnimations`; menu `EffectOptionsMenu`. <!-- source-row:267 -->
+- [ ] `AnimationChangeGallery` — gallery; group `GroupAnimations`; menu `EffectOptionsMenu`. <!-- source-row:268 -->
+- [ ] `BuildOrderChangeGallery` — gallery; group `GroupAnimations`; menu `EffectOptionsMenu`. <!-- source-row:269 -->
+- [ ] `EffectOptionsDialog` — button (dialogBoxLauncher); group `GroupAnimations`. <!-- source-row:270 -->
+- [ ] `GroupAnimationCustom` — group. <!-- source-row:271 -->
+- [ ] `AnimationAddGallery` — gallery; group `GroupAnimationCustom`. <!-- source-row:272 -->
+- [ ] `AnimationCustomAddEntranceDialog` — button; group `GroupAnimationCustom`; menu `AnimationAddGallery`. <!-- source-row:273 -->
+- [ ] `AnimationCustomAddEmphasisDialog` — button; group `GroupAnimationCustom`; menu `AnimationAddGallery`. <!-- source-row:274 -->
+- [ ] `AnimationCustomAddExitDialog` — button; group `GroupAnimationCustom`; menu `AnimationAddGallery`. <!-- source-row:275 -->
+- [ ] `AnimationCustomAddPathDialog` — button; group `GroupAnimationCustom`; menu `AnimationAddGallery`. <!-- source-row:276 -->
+- [ ] `AnimationCustomAddActionVerbDialog` — button; group `GroupAnimationCustom`; menu `AnimationAddGallery`. <!-- source-row:277 -->
+- [ ] `AnimationCustom` — toggleButton; group `GroupAnimationCustom`. <!-- source-row:278 -->
+- [ ] `AnimationTriggerAddMenu` — menu; group `GroupAnimationCustom`. <!-- source-row:279 -->
+- [ ] `AnimationTriggerAddOnClick` — gallery; group `GroupAnimationCustom`; menu `AnimationTriggerAddMenu`. <!-- source-row:280 -->
+- [ ] `AnimationTriggerAddOnMediaBookmark` — gallery; group `GroupAnimationCustom`; menu `AnimationTriggerAddMenu`. <!-- source-row:281 -->
+- [ ] `AnimationPainter` — control; group `GroupAnimationCustom`. <!-- source-row:282 -->
+- [ ] `GroupAnimationTiming` — group. <!-- source-row:283 -->
+- [ ] `AnimationStartDropdown` — dropDown; group `GroupAnimationTiming`. <!-- source-row:284 -->
+- [ ] `AnimationDuration` — control; group `GroupAnimationTiming`. <!-- source-row:285 -->
+- [ ] `AnimationDelay` — control; group `GroupAnimationTiming`. <!-- source-row:286 -->
+- [ ] `AnimationReorderLabel` — labelControl; group `GroupAnimationTiming`. <!-- source-row:287 -->
+- [ ] `AnimationMoveEarlier` — button; group `GroupAnimationTiming`. <!-- source-row:288 -->
+- [ ] `AnimationMoveLater` — button; group `GroupAnimationTiming`. <!-- source-row:289 -->
+
+## TabSlideShow
+
+Catalog tab: `TabSlideShow`.
+
+- [ ] `GroupSlideShowStart` — group. <!-- source-row:291 -->
+- [ ] `SlideShowFromBeginning` — button; group `GroupSlideShowStart`. <!-- source-row:292 -->
+- [ ] `SlideShowFromCurrent` — button; group `GroupSlideShowStart`. <!-- source-row:293 -->
+- [ ] `SlideshowBroadcastMenu` — splitButton; group `GroupSlideShowStart`. <!-- source-row:294 -->
+- [ ] `BroadcastSlideShow` — button; group `GroupSlideShowStart`; menu `SlideshowBroadcastMenu`. <!-- source-row:295 -->
+- [ ] `BroadcastSlideShowLync` — button; group `GroupSlideShowStart`; menu `SlideshowBroadcastMenu`. <!-- source-row:296 -->
+- [ ] `BroadcastSlideShowOfficeHosted` — button; group `GroupSlideShowStart`; menu `SlideshowBroadcastMenu`. <!-- source-row:297 -->
+- [ ] `BroadcastSlideShowGeneric` — button; group `GroupSlideShowStart`; menu `SlideshowBroadcastMenu`. <!-- source-row:298 -->
+- [ ] `SlideShowCustomMenu` — menu; group `GroupSlideShowStart`. <!-- source-row:299 -->
+- [ ] `GroupSlideShowSetup` — group. <!-- source-row:300 -->
+- [ ] `SlideShowSetUpDialog` — button; group `GroupSlideShowSetup`. <!-- source-row:301 -->
+- [ ] `SlideHide` — toggleButton; group `GroupSlideShowSetup`. <!-- source-row:302 -->
+- [ ] `SlideShowRehearseTimings` — button; group `GroupSlideShowSetup`. <!-- source-row:303 -->
+- [ ] `RecordSlideShowMenu` — splitButton; group `GroupSlideShowSetup`. <!-- source-row:304 -->
+- [ ] `RecordNarration` — button; group `GroupSlideShowSetup`; menu `RecordSlideShowMenu`. <!-- source-row:305 -->
+- [ ] `RecordNarrationFromCurrentSlide` — button; group `GroupSlideShowSetup`; menu `RecordSlideShowMenu`. <!-- source-row:306 -->
+- [ ] `SlideShowClearMenu` — menu; group `GroupSlideShowSetup`; menu `RecordSlideShowMenu`. <!-- source-row:307 -->
+- [ ] `SlideShowClearCurrentSlideTiming` — button; group `GroupSlideShowSetup`; menu `RecordSlideShowMenu` → `SlideShowClearMenu`. <!-- source-row:308 -->
+- [ ] `SlideShowClearAllSlidesTimings` — button; group `GroupSlideShowSetup`; menu `RecordSlideShowMenu` → `SlideShowClearMenu`. <!-- source-row:309 -->
+- [ ] `SlideShowClearCurrentSlideNarration` — button; group `GroupSlideShowSetup`; menu `RecordSlideShowMenu` → `SlideShowClearMenu`. <!-- source-row:310 -->
+- [ ] `SlideShowClearAllSlidesNarrations` — button; group `GroupSlideShowSetup`; menu `RecordSlideShowMenu` → `SlideShowClearMenu`. <!-- source-row:311 -->
+- [ ] `SlideShowPlayNarrations` — checkBox; group `GroupSlideShowSetup`. <!-- source-row:312 -->
+- [ ] `SlideShowUseRehearsedTimings` — checkBox; group `GroupSlideShowSetup`. <!-- source-row:313 -->
+- [ ] `MediaControlsShow` — checkBox; group `GroupSlideShowSetup`. <!-- source-row:314 -->
+- [ ] `GroupMonitors` — group. <!-- source-row:315 -->
+- [ ] `SlideShowShowPresentationOnGallery` — dropDown; group `GroupMonitors`. <!-- source-row:316 -->
+- [ ] `SlideShowUsePresenterView` — checkBox; group `GroupMonitors`. <!-- source-row:317 -->
+
+## TabReview
+
+Catalog tab: `TabReview`.
+
+- [ ] `GroupProofing` — group. <!-- source-row:319 -->
+- [ ] `Spelling` — button; group `GroupProofing`. <!-- source-row:320 -->
+- [ ] `Thesaurus` — button; group `GroupProofing`. <!-- source-row:321 -->
+- [ ] `GroupInsights` — group. <!-- source-row:322 -->
+- [ ] `Insights` — button; group `GroupInsights`. <!-- source-row:323 -->
+- [ ] `GroupLanguage` — group. <!-- source-row:324 -->
+- [ ] `TranslateMenu` — menu; group `GroupLanguage`. <!-- source-row:325 -->
+- [ ] `TranslateSelected` — button; group `GroupLanguage`; menu `TranslateMenu`. <!-- source-row:326 -->
+- [ ] `MiniTranslator` — toggleButton; group `GroupLanguage`; menu `TranslateMenu`. <!-- source-row:327 -->
+- [ ] `TranslationLanguageOptions` — button; group `GroupLanguage`; menu `TranslateMenu`. <!-- source-row:328 -->
+- [ ] `HangulHanjaConversionPowerPoint` — button; group `GroupLanguage`. <!-- source-row:329 -->
+- [ ] `LanguageCommands` — menu; group `GroupLanguage`. <!-- source-row:330 -->
+- [ ] `SetLanguage` — button; group `GroupLanguage`; menu `LanguageCommands`. <!-- source-row:331 -->
+- [ ] `LanguagePreferences` — button; group `GroupLanguage`; menu `LanguageCommands`. <!-- source-row:332 -->
+- [ ] `GroupChineseTranslation` — group. <!-- source-row:333 -->
+- [ ] `TranslateToSimplifiedChinese` — button; group `GroupChineseTranslation`. <!-- source-row:334 -->
+- [ ] `TranslateToTraditionalChinese` — button; group `GroupChineseTranslation`. <!-- source-row:335 -->
+- [ ] `ChineseTranslationDialog` — button; group `GroupChineseTranslation`. <!-- source-row:336 -->
+- [ ] `GroupComments` — group. <!-- source-row:337 -->
+- [ ] `ReviewNewComment` — button; group `GroupComments`. <!-- source-row:338 -->
+- [ ] `ReviewDeleteCommentsMenuPowerPoint` — splitButton; group `GroupComments`. <!-- source-row:339 -->
+- [ ] `ReviewDeleteCommentPowerPoint` — button; group `GroupComments`; menu `ReviewDeleteCommentsMenuPowerPoint`. <!-- source-row:340 -->
+- [ ] `ReviewDeleteAllMarkupOnSlide` — button; group `GroupComments`; menu `ReviewDeleteCommentsMenuPowerPoint`. <!-- source-row:341 -->
+- [ ] `ReviewDeleteAllMarkupInPresentation` — button; group `GroupComments`; menu `ReviewDeleteCommentsMenuPowerPoint`. <!-- source-row:342 -->
+- [ ] `ReviewPreviousCommentPowerPoint` — button; group `GroupComments`. <!-- source-row:343 -->
+- [ ] `ReviewNextCommentPowerPoint` — button; group `GroupComments`. <!-- source-row:344 -->
+- [ ] `ShowCommentsMenu` — splitButton; group `GroupComments`. <!-- source-row:345 -->
+- [ ] `CommentsPaneSplitButton` — toggleButton; group `GroupComments`; menu `ShowCommentsMenu`. <!-- source-row:346 -->
+- [ ] `CommentsPane` — toggleButton; group `GroupComments`; menu `ShowCommentsMenu`. <!-- source-row:347 -->
+- [ ] `ReviewShowOrHideMarkup` — toggleButton; group `GroupComments`; menu `ShowCommentsMenu`. <!-- source-row:348 -->
+- [ ] `GroupReviewCompare` — group. <!-- source-row:349 -->
+- [ ] `ReviewCompareAndMerge` — button; group `GroupReviewCompare`. <!-- source-row:350 -->
+- [ ] `ReviewRevisionAcceptMenu` — splitButton; group `GroupReviewCompare`. <!-- source-row:351 -->
+- [ ] `ReviewRevisionAccept` — button; group `GroupReviewCompare`; menu `ReviewRevisionAcceptMenu`. <!-- source-row:352 -->
+- [ ] `ReviewSlideRevisionAccept` — button; group `GroupReviewCompare`; menu `ReviewRevisionAcceptMenu`. <!-- source-row:353 -->
+- [ ] `ReviewPresentationRevisionAccept` — button; group `GroupReviewCompare`; menu `ReviewRevisionAcceptMenu`. <!-- source-row:354 -->
+- [ ] `ReviewRevisionRejectMenu` — splitButton; group `GroupReviewCompare`. <!-- source-row:355 -->
+- [ ] `ReviewRevisionReject` — button; group `GroupReviewCompare`; menu `ReviewRevisionRejectMenu`. <!-- source-row:356 -->
+- [ ] `ReviewSlideRevisionReject` — button; group `GroupReviewCompare`; menu `ReviewRevisionRejectMenu`. <!-- source-row:357 -->
+- [ ] `ReviewPresentationRevisionReject` — button; group `GroupReviewCompare`; menu `ReviewRevisionRejectMenu`. <!-- source-row:358 -->
+- [ ] `ReviewPreviousChange` — button; group `GroupReviewCompare`. <!-- source-row:359 -->
+- [ ] `ReviewNextChange` — button; group `GroupReviewCompare`. <!-- source-row:360 -->
+- [ ] `ReviewReviewingPanePowerPoint` — toggleButton; group `GroupReviewCompare`. <!-- source-row:361 -->
+- [ ] `ReviewEndReviewPowerPoint` — button; group `GroupReviewCompare`. <!-- source-row:362 -->
+- [ ] `GroupInk` — group. <!-- source-row:363 -->
+- [ ] `InkingStart` — button; group `GroupInk`. <!-- source-row:364 -->
+
+## View / Ansicht
+
+Catalog tab: `TabView`.
+
+- [ ] `GroupPresentationViews` — group. <!-- source-row:366 -->
+- [ ] `ViewThumbnailViewPowerPoint` — toggleButton; group `GroupPresentationViews`. <!-- source-row:367 -->
+- [ ] `ViewOutlineViewPowerPoint` — toggleButton; group `GroupPresentationViews`. <!-- source-row:368 -->
+- [ ] `ViewSlideSorterView` — toggleButton; group `GroupPresentationViews`. <!-- source-row:369 -->
+- [ ] `ViewNotesPageView` — toggleButton; group `GroupPresentationViews`. <!-- source-row:370 -->
+- [ ] `ViewSlideShowReadingView` — button; group `GroupPresentationViews`. <!-- source-row:371 -->
+- [ ] `GroupMasterViews` — group. <!-- source-row:372 -->
+- [ ] `ViewSlideMasterView` — toggleButton; group `GroupMasterViews`. <!-- source-row:373 -->
+- [ ] `ViewHandoutMasterView` — toggleButton; group `GroupMasterViews`. <!-- source-row:374 -->
+- [ ] `ViewNotesMasterView` — toggleButton; group `GroupMasterViews`. <!-- source-row:375 -->
+- [ ] `GroupViewShowHide` — group. <!-- source-row:376 -->
+- [ ] `ViewRulerPowerPoint` — checkBox; group `GroupViewShowHide`. <!-- source-row:377 -->
+- [ ] `ViewGridlinesPowerPoint` — checkBox; group `GroupViewShowHide`. <!-- source-row:378 -->
+- [ ] `GuidesShowHide` — checkBox; group `GroupViewShowHide`. <!-- source-row:379 -->
+- [ ] `ShowNotes` — toggleButton; group `GroupViewShowHide`. <!-- source-row:380 -->
+- [ ] `GridSettings` — button (dialogBoxLauncher); group `GroupViewShowHide`. <!-- source-row:381 -->
+- [ ] `GroupViewDirection` — group. <!-- source-row:382 -->
+- [ ] `ViewDirectionMenu` — menu; group `GroupViewDirection`. <!-- source-row:383 -->
+- [ ] `ViewDirectionLeftToRight` — toggleButton; group `GroupViewDirection`; menu `ViewDirectionMenu`. <!-- source-row:384 -->
+- [ ] `ViewDirectionRightToLeft` — toggleButton; group `GroupViewDirection`; menu `ViewDirectionMenu`. <!-- source-row:385 -->
+- [ ] `GroupZoom` — group. <!-- source-row:386 -->
+- [ ] `ZoomDialog` — button; group `GroupZoom`. <!-- source-row:387 -->
+- [ ] `ZoomFitToWindow` — button; group `GroupZoom`. <!-- source-row:388 -->
+- [ ] `GroupColorGrayscale` — group. <!-- source-row:389 -->
+- [ ] `ViewDisplayInHighContrast` — toggleButton; group `GroupColorGrayscale`. <!-- source-row:390 -->
+- [ ] `ViewDisplayInColor` — toggleButton; group `GroupColorGrayscale`. <!-- source-row:391 -->
+- [ ] `ViewDisplayInGrayscale` — toggleButton; group `GroupColorGrayscale`. <!-- source-row:392 -->
+- [ ] `ViewDisplayInPureBlackAndWhite` — toggleButton; group `GroupColorGrayscale`. <!-- source-row:393 -->
+- [ ] `GroupWindow` — group. <!-- source-row:394 -->
+- [ ] `WindowNew` — button; group `GroupWindow`. <!-- source-row:395 -->
+- [ ] `WindowsArrangeAll` — button; group `GroupWindow`. <!-- source-row:396 -->
+- [ ] `WindowsCascade` — button; group `GroupWindow`. <!-- source-row:397 -->
+- [ ] `WindowMoveSplit` — button; group `GroupWindow`. <!-- source-row:398 -->
+- [ ] `WindowSwitchWindowsMenuPowerPoint` — menu; group `GroupWindow`. <!-- source-row:399 -->
+- [ ] `WindowMoreWindowsDialog` — toggleButton; group `GroupWindow`; menu `WindowSwitchWindowsMenuPowerPoint`. <!-- source-row:400 -->
+- [ ] `GroupMacros` — group. <!-- source-row:401 -->
+- [ ] `MacroPlay` — button; group `GroupMacros`. <!-- source-row:402 -->
+
+## TabDeveloper
+
+Catalog tab: `TabDeveloper`.
+
+- [ ] `GroupCode` — group. <!-- source-row:404 -->
+- [ ] `VisualBasic` — button; group `GroupCode`. <!-- source-row:405 -->
+- [ ] `MacroPlay` — button; group `GroupCode`. <!-- source-row:406 -->
+- [ ] `MacroSecurity` — button; group `GroupCode`. <!-- source-row:407 -->
+- [ ] `GroupAddins` — group. <!-- source-row:408 -->
+- [ ] `OfficeExtensionsGallery3` — button; group `GroupAddins`. <!-- source-row:409 -->
+- [ ] `AddInManager` — button; group `GroupAddins`. <!-- source-row:410 -->
+- [ ] `ComAddInsDialog` — button; group `GroupAddins`. <!-- source-row:411 -->
+- [ ] `GroupControls` — group. <!-- source-row:412 -->
+- [ ] `ActiveXLabel` — button; group `GroupControls`. <!-- source-row:413 -->
+- [ ] `ActiveXTextBox` — button; group `GroupControls`. <!-- source-row:414 -->
+- [ ] `ActiveXSpinButton` — button; group `GroupControls`. <!-- source-row:415 -->
+- [ ] `ActiveXButton` — button; group `GroupControls`. <!-- source-row:416 -->
+- [ ] `ActiveXImage` — button; group `GroupControls`. <!-- source-row:417 -->
+- [ ] `ActiveXScrollBar` — button; group `GroupControls`. <!-- source-row:418 -->
+- [ ] `ActiveXCheckBox` — button; group `GroupControls`. <!-- source-row:419 -->
+- [ ] `ActiveXRadioButton` — button; group `GroupControls`. <!-- source-row:420 -->
+- [ ] `ActiveXComboBox` — button; group `GroupControls`. <!-- source-row:421 -->
+- [ ] `ActiveXListBox` — button; group `GroupControls`. <!-- source-row:422 -->
+- [ ] `ActiveXToggleButton` — button; group `GroupControls`. <!-- source-row:423 -->
+- [ ] `MoreControlsDialog` — button; group `GroupControls`. <!-- source-row:424 -->
+- [ ] `ControlProperties` — button; group `GroupControls`. <!-- source-row:425 -->
+- [ ] `ViewVisualBasicCode` — button; group `GroupControls`. <!-- source-row:426 -->
+
+## TabAddIns
+
+Catalog tab: `TabAddIns`.
+
+- [ ] `GroupAddInsMenuCommands` — group. <!-- source-row:428 -->
+- [ ] `GroupAddInsToolbarCommands` — group. <!-- source-row:429 -->
+- [ ] `GroupAddInsCustomToolbars` — group. <!-- source-row:430 -->
+
+## TabPrintPreview
+
+Catalog tab: `TabPrintPreview`.
+
+- [ ] `GroupPrintPreviewPrint` — group. <!-- source-row:432 -->
+- [ ] `PrintPreviewAndPrint` — button; group `GroupPrintPreviewPrint`. <!-- source-row:433 -->
+- [ ] `PrintOptionsMenu` — menu; group `GroupPrintPreviewPrint`. <!-- source-row:434 -->
+- [ ] `GroupPrintPreviewPageSetup` — group. <!-- source-row:435 -->
+- [ ] `PrintWhatLabel` — labelControl; group `GroupPrintPreviewPageSetup`. <!-- source-row:436 -->
+- [ ] `PrintWhat` — dropDown; group `GroupPrintPreviewPageSetup`. <!-- source-row:437 -->
+- [ ] `PageOrientationGallery` — menu; group `GroupPrintPreviewPageSetup`. <!-- source-row:438 -->
+- [ ] `PageOrientationPortrait` — toggleButton; group `GroupPrintPreviewPageSetup`; menu `PageOrientationGallery`. <!-- source-row:439 -->
+- [ ] `PageOrientationLandscape` — toggleButton; group `GroupPrintPreviewPageSetup`; menu `PageOrientationGallery`. <!-- source-row:440 -->
+- [ ] `GroupZoom` — group. <!-- source-row:441 -->
+- [ ] `ZoomDialog` — button; group `GroupZoom`. <!-- source-row:442 -->
+- [ ] `ZoomFitToWindow` — button; group `GroupZoom`. <!-- source-row:443 -->
+- [ ] `GroupPrintPreviewPreview` — group. <!-- source-row:444 -->
+- [ ] `PageNext` — button; group `GroupPrintPreviewPreview`. <!-- source-row:445 -->
+- [ ] `PagePrevious` — button; group `GroupPrintPreviewPreview`. <!-- source-row:446 -->
+- [ ] `PrintPreviewClose` — button; group `GroupPrintPreviewPreview`. <!-- source-row:447 -->
+
+## TabMerge
+
+Catalog tab: `TabMerge`.
+
+- [ ] `GroupResolutions` — group. <!-- source-row:449 -->
+- [ ] `ReviewRevisionAcceptMenu` — splitButton; group `GroupResolutions`. <!-- source-row:450 -->
+- [ ] `ReviewRevisionAccept` — button; group `GroupResolutions`; menu `ReviewRevisionAcceptMenu`. <!-- source-row:451 -->
+- [ ] `ReviewSlideRevisionAccept` — button; group `GroupResolutions`; menu `ReviewRevisionAcceptMenu`. <!-- source-row:452 -->
+- [ ] `ReviewPresentationRevisionAccept` — button; group `GroupResolutions`; menu `ReviewRevisionAcceptMenu`. <!-- source-row:453 -->
+- [ ] `ReviewRevisionRejectMenu` — splitButton; group `GroupResolutions`. <!-- source-row:454 -->
+- [ ] `ReviewRevisionReject` — button; group `GroupResolutions`; menu `ReviewRevisionRejectMenu`. <!-- source-row:455 -->
+- [ ] `ReviewSlideRevisionReject` — button; group `GroupResolutions`; menu `ReviewRevisionRejectMenu`. <!-- source-row:456 -->
+- [ ] `ReviewPresentationRevisionReject` — button; group `GroupResolutions`; menu `ReviewRevisionRejectMenu`. <!-- source-row:457 -->
+- [ ] `ReviewPreviousChange` — button; group `GroupResolutions`. <!-- source-row:458 -->
+- [ ] `ReviewNextChange` — button; group `GroupResolutions`. <!-- source-row:459 -->
+- [ ] `GroupShowHideChanges` — group. <!-- source-row:460 -->
+- [ ] `ReviewShowChanges` — menu; group `GroupShowHideChanges`. <!-- source-row:461 -->
+- [ ] `ReviewShowOnlyConflicts` — toggleButton; group `GroupShowHideChanges`; menu `ReviewShowChanges`. <!-- source-row:462 -->
+- [ ] `ReviewShowAllChanges` — toggleButton; group `GroupShowHideChanges`; menu `ReviewShowChanges`. <!-- source-row:463 -->
+- [ ] `ReviewReviewingPanePowerPoint` — toggleButton; group `GroupShowHideChanges`. <!-- source-row:464 -->
+- [ ] `GroupAnimationPreview` — group. <!-- source-row:465 -->
+- [ ] `AnimationPreview` — button; group `GroupAnimationPreview`. <!-- source-row:466 -->
+- [ ] `GroupMergeViewClose` — group. <!-- source-row:467 -->
+- [ ] `MergeViewClose` — button; group `GroupMergeViewClose`. <!-- source-row:468 -->
+
+## TabGrayscale
+
+Catalog tab: `TabGrayscale`.
+
+- [ ] `GroupColorModeSetting` — group. <!-- source-row:470 -->
+- [ ] `BlackAndWhiteAutomatic` — toggleButton; group `GroupColorModeSetting`. <!-- source-row:471 -->
+- [ ] `BlackAndWhiteGrayscale` — toggleButton; group `GroupColorModeSetting`. <!-- source-row:472 -->
+- [ ] `BlackAndWhiteLightGrayscale` — toggleButton; group `GroupColorModeSetting`. <!-- source-row:473 -->
+- [ ] `BlackAndWhiteInverseGrayscale` — toggleButton; group `GroupColorModeSetting`. <!-- source-row:474 -->
+- [ ] `BlackAndWhiteGrayWithWhiteFill` — toggleButton; group `GroupColorModeSetting`. <!-- source-row:475 -->
+- [ ] `BlackAndWhiteBlackWithGrayscaleFill` — toggleButton; group `GroupColorModeSetting`. <!-- source-row:476 -->
+- [ ] `BlackAndWhiteBlackWithWhiteFill` — toggleButton; group `GroupColorModeSetting`. <!-- source-row:477 -->
+- [ ] `BlackAndWhiteBlack` — toggleButton; group `GroupColorModeSetting`. <!-- source-row:478 -->
+- [ ] `BlackAndWhiteWhite` — toggleButton; group `GroupColorModeSetting`. <!-- source-row:479 -->
+- [ ] `BlackAndWhiteDontShow` — toggleButton; group `GroupColorModeSetting`. <!-- source-row:480 -->
+- [ ] `GroupColorModeClose` — group. <!-- source-row:481 -->
+- [ ] `ViewBackToColorView` — toggleButton; group `GroupColorModeClose`. <!-- source-row:482 -->
+
+## TabBlackAndWhite
+
+Catalog tab: `TabBlackAndWhite`.
+
+- [ ] `GroupColorModeSetting` — group. <!-- source-row:484 -->
+- [ ] `BlackAndWhiteAutomatic` — toggleButton; group `GroupColorModeSetting`. <!-- source-row:485 -->
+- [ ] `BlackAndWhiteGrayscale` — toggleButton; group `GroupColorModeSetting`. <!-- source-row:486 -->
+- [ ] `BlackAndWhiteLightGrayscale` — toggleButton; group `GroupColorModeSetting`. <!-- source-row:487 -->
+- [ ] `BlackAndWhiteInverseGrayscale` — toggleButton; group `GroupColorModeSetting`. <!-- source-row:488 -->
+- [ ] `BlackAndWhiteGrayWithWhiteFill` — toggleButton; group `GroupColorModeSetting`. <!-- source-row:489 -->
+- [ ] `BlackAndWhiteBlackWithGrayscaleFill` — toggleButton; group `GroupColorModeSetting`. <!-- source-row:490 -->
+- [ ] `BlackAndWhiteBlackWithWhiteFill` — toggleButton; group `GroupColorModeSetting`. <!-- source-row:491 -->
+- [ ] `BlackAndWhiteBlack` — toggleButton; group `GroupColorModeSetting`. <!-- source-row:492 -->
+- [ ] `BlackAndWhiteWhite` — toggleButton; group `GroupColorModeSetting`. <!-- source-row:493 -->
+- [ ] `BlackAndWhiteDontShow` — toggleButton; group `GroupColorModeSetting`. <!-- source-row:494 -->
+- [ ] `GroupColorModeClose` — group. <!-- source-row:495 -->
+- [ ] `ViewBackToColorView` — toggleButton; group `GroupColorModeClose`. <!-- source-row:496 -->
+
+## TabBroadcastPresentation
+
+Catalog tab: `TabBroadcastPresentation`.
+
+- [ ] `GroupBroadcastResume` — group. <!-- source-row:498 -->
+- [ ] `BroadcastFromBeginning` — button; group `GroupBroadcastResume`. <!-- source-row:499 -->
+- [ ] `BroadcastFromCurrent` — button; group `GroupBroadcastResume`. <!-- source-row:500 -->
+- [ ] `GroupMonitors` — group. <!-- source-row:501 -->
+- [ ] `SlideShowShowPresentationOnGallery` — dropDown; group `GroupMonitors`. <!-- source-row:502 -->
+- [ ] `SlideShowUsePresenterView` — checkBox; group `GroupMonitors`. <!-- source-row:503 -->
+- [ ] `GroupBroadcastBroadcast` — group. <!-- source-row:504 -->
+- [ ] `BroadcastNotesSplitButton` — splitButton; group `GroupBroadcastBroadcast`. <!-- source-row:505 -->
+- [ ] `BroadcastNotes` — button; group `GroupBroadcastBroadcast`; menu `BroadcastNotesSplitButton`. <!-- source-row:506 -->
+- [ ] `OpenMeetingNotes` — button; group `GroupBroadcastBroadcast`; menu `BroadcastNotesSplitButton`. <!-- source-row:507 -->
+- [ ] `ShareNotesWithMeeting` — button; group `GroupBroadcastBroadcast`; menu `BroadcastNotesSplitButton`. <!-- source-row:508 -->
+- [ ] `BroadcastSendInvitation` — button; group `GroupBroadcastBroadcast`. <!-- source-row:509 -->
+- [ ] `BroadcastEnd` — button; group `GroupBroadcastBroadcast`. <!-- source-row:510 -->
+
+## TabSlideMaster
+
+Catalog tab: `TabSlideMaster`.
+
+- [ ] `GroupMasterEdit` — group. <!-- source-row:512 -->
+- [ ] `SlideNew` — button; group `GroupMasterEdit`. <!-- source-row:513 -->
+- [ ] `SlideMasterInsertLayout` — button; group `GroupMasterEdit`. <!-- source-row:514 -->
+- [ ] `SlideDelete` — button; group `GroupMasterEdit`. <!-- source-row:515 -->
+- [ ] `SlideMasterRenameMaster` — button; group `GroupMasterEdit`. <!-- source-row:516 -->
+- [ ] `SlideMasterPreserveMaster` — toggleButton; group `GroupMasterEdit`. <!-- source-row:517 -->
+- [ ] `GroupMasterLayout` — group. <!-- source-row:518 -->
+- [ ] `SlideMasterMasterLayout` — button; group `GroupMasterLayout`. <!-- source-row:519 -->
+- [ ] `SlideMasterInsertPlaceholderMenu` — splitButton; group `GroupMasterLayout`. <!-- source-row:520 -->
+- [ ] `SlideMasterContentPlaceholderInsert` — button; group `GroupMasterLayout`; menu `SlideMasterInsertPlaceholderMenu`. <!-- source-row:521 -->
+- [ ] `SlideMasterVerticalContentPlaceholderInsert` — button; group `GroupMasterLayout`; menu `SlideMasterInsertPlaceholderMenu`. <!-- source-row:522 -->
+- [ ] `SlideMasterTextPlaceholderInsert` — button; group `GroupMasterLayout`; menu `SlideMasterInsertPlaceholderMenu`. <!-- source-row:523 -->
+- [ ] `SlideMasterVerticalTextPlaceholderInsert` — button; group `GroupMasterLayout`; menu `SlideMasterInsertPlaceholderMenu`. <!-- source-row:524 -->
+- [ ] `SlideMasterPicturePlaceholderInsert` — button; group `GroupMasterLayout`; menu `SlideMasterInsertPlaceholderMenu`. <!-- source-row:525 -->
+- [ ] `SlideMasterChartPlaceholderInsert` — button; group `GroupMasterLayout`; menu `SlideMasterInsertPlaceholderMenu`. <!-- source-row:526 -->
+- [ ] `SlideMasterTablePlaceholderInsert` — button; group `GroupMasterLayout`; menu `SlideMasterInsertPlaceholderMenu`. <!-- source-row:527 -->
+- [ ] `SlideMasterDiagramPlaceholderInsert` — button; group `GroupMasterLayout`; menu `SlideMasterInsertPlaceholderMenu`. <!-- source-row:528 -->
+- [ ] `SlideMasterMediaPlaceholderInsert` — button; group `GroupMasterLayout`; menu `SlideMasterInsertPlaceholderMenu`. <!-- source-row:529 -->
+- [ ] `SlideMasterClipArtPlaceholderInsert` — button; group `GroupMasterLayout`; menu `SlideMasterInsertPlaceholderMenu`. <!-- source-row:530 -->
+- [ ] `SlideMasterShowTitle` — checkBox; group `GroupMasterLayout`. <!-- source-row:531 -->
+- [ ] `SlideMasterShowFooters` — checkBox; group `GroupMasterLayout`. <!-- source-row:532 -->
+- [ ] `GroupMasterEditTheme` — group. <!-- source-row:533 -->
+- [ ] `SlideThemesGallery` — gallery; group `GroupMasterEditTheme`. <!-- source-row:534 -->
+- [ ] `ThemeSearchOfficeOnlinePowerPoint` — button; group `GroupMasterEditTheme`; menu `SlideThemesGallery`. <!-- source-row:535 -->
+- [ ] `ThemeBrowseForThemesPowerPoint` — button; group `GroupMasterEditTheme`; menu `SlideThemesGallery`. <!-- source-row:536 -->
+- [ ] `ThemeSaveCurrentPowerPoint` — button; group `GroupMasterEditTheme`; menu `SlideThemesGallery`. <!-- source-row:537 -->
+- [ ] `GroupBackground` — group. <!-- source-row:538 -->
+- [ ] `ThemeColorsGallery` — gallery; group `GroupBackground`. <!-- source-row:539 -->
+- [ ] `ThemeColorsCreateNew` — button; group `GroupBackground`; menu `ThemeColorsGallery`. <!-- source-row:540 -->
+- [ ] `ThemeColorsReset` — button; group `GroupBackground`; menu `ThemeColorsGallery`. <!-- source-row:541 -->
+- [ ] `ThemeFontsGallery` — gallery; group `GroupBackground`. <!-- source-row:542 -->
+- [ ] `ThemeFontsCreateNew` — button; group `GroupBackground`; menu `ThemeFontsGallery`. <!-- source-row:543 -->
+- [ ] `ThemeEffectsGallery` — gallery; group `GroupBackground`. <!-- source-row:544 -->
+- [ ] `SlideBackgroundStylesGallery` — gallery; group `GroupBackground`. <!-- source-row:545 -->
+- [ ] `SlideBackgroundFormatDialog` — button; group `GroupBackground`; menu `SlideBackgroundStylesGallery`. <!-- source-row:546 -->
+- [ ] `SlideBackgroundReset` — button; group `GroupBackground`; menu `SlideBackgroundStylesGallery`. <!-- source-row:547 -->
+- [ ] `SlideBackgroundHideGraphics` — checkBox; group `GroupBackground`. <!-- source-row:548 -->
+- [ ] `SlideBackgroundFormatDialog` — button (dialogBoxLauncher); group `GroupBackground`. <!-- source-row:549 -->
+- [ ] `GroupSlideSize` — group. <!-- source-row:550 -->
+- [ ] `PowerPointPageSetup` — gallery; group `GroupSlideSize`. <!-- source-row:551 -->
+- [ ] `CustomSlideSize` — button; group `GroupSlideSize`; menu `PowerPointPageSetup`. <!-- source-row:552 -->
+- [ ] `GroupMasterClose` — group. <!-- source-row:553 -->
+- [ ] `MasterViewClose` — button; group `GroupMasterClose`. <!-- source-row:554 -->
+
+## TabHandoutMaster
+
+Catalog tab: `TabHandoutMaster`.
+
+- [ ] `GroupPageSetupHandoutMaster` — group. <!-- source-row:556 -->
+- [ ] `HandoutOrientation` — gallery; group `GroupPageSetupHandoutMaster`. <!-- source-row:557 -->
+- [ ] `PowerPointPageSetup` — gallery; group `GroupPageSetupHandoutMaster`. <!-- source-row:558 -->
+- [ ] `CustomSlideSize` — button; group `GroupPageSetupHandoutMaster`; menu `PowerPointPageSetup`. <!-- source-row:559 -->
+- [ ] `SlidesPerPageGallery` — menu; group `GroupPageSetupHandoutMaster`. <!-- source-row:560 -->
+- [ ] `SlidesPerPage1Slide` — toggleButton; group `GroupPageSetupHandoutMaster`; menu `SlidesPerPageGallery`. <!-- source-row:561 -->
+- [ ] `SlidesPerPage2Slides` — toggleButton; group `GroupPageSetupHandoutMaster`; menu `SlidesPerPageGallery`. <!-- source-row:562 -->
+- [ ] `SlidesPerPage3Slides` — toggleButton; group `GroupPageSetupHandoutMaster`; menu `SlidesPerPageGallery`. <!-- source-row:563 -->
+- [ ] `SlidesPerPage4Slides` — toggleButton; group `GroupPageSetupHandoutMaster`; menu `SlidesPerPageGallery`. <!-- source-row:564 -->
+- [ ] `SlidesPerPage6Slides` — toggleButton; group `GroupPageSetupHandoutMaster`; menu `SlidesPerPageGallery`. <!-- source-row:565 -->
+- [ ] `SlidesPerPage9Slides` — toggleButton; group `GroupPageSetupHandoutMaster`; menu `SlidesPerPageGallery`. <!-- source-row:566 -->
+- [ ] `SlidesPerPageSlideOutline` — toggleButton; group `GroupPageSetupHandoutMaster`; menu `SlidesPerPageGallery`. <!-- source-row:567 -->
+- [ ] `GroupPlaceholdersHandoutMaster` — group. <!-- source-row:568 -->
+- [ ] `MasterShowHeader` — checkBox; group `GroupPlaceholdersHandoutMaster`. <!-- source-row:569 -->
+- [ ] `MasterShowFooter` — checkBox; group `GroupPlaceholdersHandoutMaster`. <!-- source-row:570 -->
+- [ ] `MasterShowDate` — checkBox; group `GroupPlaceholdersHandoutMaster`. <!-- source-row:571 -->
+- [ ] `MasterShowPageNumber` — checkBox; group `GroupPlaceholdersHandoutMaster`. <!-- source-row:572 -->
+- [ ] `GroupMasterEditTheme` — group. <!-- source-row:573 -->
+- [ ] `SlideThemesGallery` — gallery; group `GroupMasterEditTheme`. <!-- source-row:574 -->
+- [ ] `ThemeSearchOfficeOnlinePowerPoint` — button; group `GroupMasterEditTheme`; menu `SlideThemesGallery`. <!-- source-row:575 -->
+- [ ] `ThemeBrowseForThemesPowerPoint` — button; group `GroupMasterEditTheme`; menu `SlideThemesGallery`. <!-- source-row:576 -->
+- [ ] `ThemeSaveCurrentPowerPoint` — button; group `GroupMasterEditTheme`; menu `SlideThemesGallery`. <!-- source-row:577 -->
+- [ ] `GroupBackground` — group. <!-- source-row:578 -->
+- [ ] `ThemeColorsGallery` — gallery; group `GroupBackground`. <!-- source-row:579 -->
+- [ ] `ThemeColorsCreateNew` — button; group `GroupBackground`; menu `ThemeColorsGallery`. <!-- source-row:580 -->
+- [ ] `ThemeColorsReset` — button; group `GroupBackground`; menu `ThemeColorsGallery`. <!-- source-row:581 -->
+- [ ] `ThemeFontsGallery` — gallery; group `GroupBackground`. <!-- source-row:582 -->
+- [ ] `ThemeFontsCreateNew` — button; group `GroupBackground`; menu `ThemeFontsGallery`. <!-- source-row:583 -->
+- [ ] `ThemeEffectsGallery` — gallery; group `GroupBackground`. <!-- source-row:584 -->
+- [ ] `SlideBackgroundStylesGallery` — gallery; group `GroupBackground`. <!-- source-row:585 -->
+- [ ] `SlideBackgroundFormatDialog` — button; group `GroupBackground`; menu `SlideBackgroundStylesGallery`. <!-- source-row:586 -->
+- [ ] `SlideBackgroundReset` — button; group `GroupBackground`; menu `SlideBackgroundStylesGallery`. <!-- source-row:587 -->
+- [ ] `SlideBackgroundHideGraphics` — checkBox; group `GroupBackground`. <!-- source-row:588 -->
+- [ ] `SlideBackgroundFormatDialog` — button (dialogBoxLauncher); group `GroupBackground`. <!-- source-row:589 -->
+- [ ] `GroupMasterClose` — group. <!-- source-row:590 -->
+- [ ] `MasterViewClose` — button; group `GroupMasterClose`. <!-- source-row:591 -->
+
+## TabNotesMaster
+
+Catalog tab: `TabNotesMaster`.
+
+- [ ] `GroupPageSetupNotesMaster` — group. <!-- source-row:593 -->
+- [ ] `MasterNotesPageOrientation` — gallery; group `GroupPageSetupNotesMaster`. <!-- source-row:594 -->
+- [ ] `PowerPointPageSetup` — gallery; group `GroupPageSetupNotesMaster`. <!-- source-row:595 -->
+- [ ] `CustomSlideSize` — button; group `GroupPageSetupNotesMaster`; menu `PowerPointPageSetup`. <!-- source-row:596 -->
+- [ ] `GroupPlaceholdersNotesMaster` — group. <!-- source-row:597 -->
+- [ ] `MasterShowHeader` — checkBox; group `GroupPlaceholdersNotesMaster`. <!-- source-row:598 -->
+- [ ] `MasterShowSlideImage` — checkBox; group `GroupPlaceholdersNotesMaster`. <!-- source-row:599 -->
+- [ ] `MasterShowFooter` — checkBox; group `GroupPlaceholdersNotesMaster`. <!-- source-row:600 -->
+- [ ] `MasterShowDate` — checkBox; group `GroupPlaceholdersNotesMaster`. <!-- source-row:601 -->
+- [ ] `MasterShowBody` — checkBox; group `GroupPlaceholdersNotesMaster`. <!-- source-row:602 -->
+- [ ] `MasterShowPageNumber` — checkBox; group `GroupPlaceholdersNotesMaster`. <!-- source-row:603 -->
+- [ ] `GroupMasterEditTheme` — group. <!-- source-row:604 -->
+- [ ] `SlideThemesGallery` — gallery; group `GroupMasterEditTheme`. <!-- source-row:605 -->
+- [ ] `ThemeSearchOfficeOnlinePowerPoint` — button; group `GroupMasterEditTheme`; menu `SlideThemesGallery`. <!-- source-row:606 -->
+- [ ] `ThemeBrowseForThemesPowerPoint` — button; group `GroupMasterEditTheme`; menu `SlideThemesGallery`. <!-- source-row:607 -->
+- [ ] `ThemeSaveCurrentPowerPoint` — button; group `GroupMasterEditTheme`; menu `SlideThemesGallery`. <!-- source-row:608 -->
+- [ ] `GroupBackground` — group. <!-- source-row:609 -->
+- [ ] `ThemeColorsGallery` — gallery; group `GroupBackground`. <!-- source-row:610 -->
+- [ ] `ThemeColorsCreateNew` — button; group `GroupBackground`; menu `ThemeColorsGallery`. <!-- source-row:611 -->
+- [ ] `ThemeColorsReset` — button; group `GroupBackground`; menu `ThemeColorsGallery`. <!-- source-row:612 -->
+- [ ] `ThemeFontsGallery` — gallery; group `GroupBackground`. <!-- source-row:613 -->
+- [ ] `ThemeFontsCreateNew` — button; group `GroupBackground`; menu `ThemeFontsGallery`. <!-- source-row:614 -->
+- [ ] `ThemeEffectsGallery` — gallery; group `GroupBackground`. <!-- source-row:615 -->
+- [ ] `SlideBackgroundStylesGallery` — gallery; group `GroupBackground`. <!-- source-row:616 -->
+- [ ] `SlideBackgroundFormatDialog` — button; group `GroupBackground`; menu `SlideBackgroundStylesGallery`. <!-- source-row:617 -->
+- [ ] `SlideBackgroundReset` — button; group `GroupBackground`; menu `SlideBackgroundStylesGallery`. <!-- source-row:618 -->
+- [ ] `SlideBackgroundHideGraphics` — checkBox; group `GroupBackground`. <!-- source-row:619 -->
+- [ ] `SlideBackgroundFormatDialog` — button (dialogBoxLauncher); group `GroupBackground`. <!-- source-row:620 -->
+- [ ] `GroupMasterClose` — group. <!-- source-row:621 -->
+- [ ] `MasterViewClose` — button; group `GroupMasterClose`. <!-- source-row:622 -->
+
+## TabBackgroundRemoval
+
+Catalog tab: `TabBackgroundRemoval`.
+
+- [ ] `GroupBackgroundRemovalMode` — group. <!-- source-row:624 -->
+- [ ] `PictureBackgroundRemovalMarkForeground` — toggleButton; group `GroupBackgroundRemovalMode`. <!-- source-row:625 -->
+- [ ] `PictureBackgroundRemovalMarkBackground` — toggleButton; group `GroupBackgroundRemovalMode`. <!-- source-row:626 -->
+- [ ] `PictureBackgroundRemovalMarkDelete` — toggleButton; group `GroupBackgroundRemovalMode`. <!-- source-row:627 -->
+- [ ] `GroupBackgroundRemovalClose` — group. <!-- source-row:628 -->
+- [ ] `BackgroundRemovalClose` — button; group `GroupBackgroundRemovalClose`. <!-- source-row:629 -->
+- [ ] `KeepBackgroundRemoval` — button; group `GroupBackgroundRemovalClose`. <!-- source-row:630 -->
+
+## TabSlideMasterHome
+
+Catalog tab: `TabSlideMasterHome`.
+
+- [ ] `GroupClipboard` — group. <!-- source-row:632 -->
+- [ ] `PasteMenu` — splitButton; group `GroupClipboard`. <!-- source-row:633 -->
+- [ ] `Paste` — button; group `GroupClipboard`; menu `PasteMenu`. <!-- source-row:634 -->
+- [ ] `PasteGallery` — gallery; group `GroupClipboard`; menu `PasteMenu`. <!-- source-row:635 -->
+- [ ] `PasteSpecialDialog` — button; group `GroupClipboard`; menu `PasteMenu` → `PasteGallery`. <!-- source-row:636 -->
+- [ ] `Cut` — button; group `GroupClipboard`. <!-- source-row:637 -->
+- [ ] `CopySplitButton` — splitButton; group `GroupClipboard`. <!-- source-row:638 -->
+- [ ] `Copy` — button; group `GroupClipboard`; menu `CopySplitButton`. <!-- source-row:639 -->
+- [ ] `PasteDuplicate` — button; group `GroupClipboard`; menu `CopySplitButton`. <!-- source-row:640 -->
+- [ ] `FormatPainter` — control; group `GroupClipboard`. <!-- source-row:641 -->
+- [ ] `ShowClipboard` — button (dialogBoxLauncher); group `GroupClipboard`. <!-- source-row:642 -->
+- [ ] `GroupMasterSlides` — group. <!-- source-row:643 -->
+- [ ] `SlideNewGallery` — gallery; group `GroupMasterSlides`. <!-- source-row:644 -->
+- [ ] `DuplicateSelectedSlides` — button; group `GroupMasterSlides`; menu `SlideNewGallery`. <!-- source-row:645 -->
+- [ ] `SlidesFromOutline` — button; group `GroupMasterSlides`; menu `SlideNewGallery`. <!-- source-row:646 -->
+- [ ] `SlidesReuseSlides` — toggleButton; group `GroupMasterSlides`; menu `SlideNewGallery`. <!-- source-row:647 -->
+- [ ] `SlideLayoutGallery` — gallery; group `GroupMasterSlides`. <!-- source-row:648 -->
+- [ ] `SlideReset` — button; group `GroupMasterSlides`. <!-- source-row:649 -->
+- [ ] `SlideDelete` — button; group `GroupMasterSlides`. <!-- source-row:650 -->
+- [ ] `GroupFont` — group. <!-- source-row:651 -->
+- [ ] `Font` — comboBox; group `GroupFont`. <!-- source-row:652 -->
+- [ ] `FontSize` — comboBox; group `GroupFont`. <!-- source-row:653 -->
+- [ ] `FontSizeIncrease` — button; group `GroupFont`. <!-- source-row:654 -->
+- [ ] `FontSizeDecrease` — button; group `GroupFont`. <!-- source-row:655 -->
+- [ ] `ClearFormatting` — button; group `GroupFont`. <!-- source-row:656 -->
+- [ ] `Bold` — toggleButton; group `GroupFont`. <!-- source-row:657 -->
+- [ ] `Italic` — toggleButton; group `GroupFont`. <!-- source-row:658 -->
+- [ ] `Underline` — toggleButton; group `GroupFont`. <!-- source-row:659 -->
+- [ ] `Shadow` — toggleButton; group `GroupFont`. <!-- source-row:660 -->
+- [ ] `Strikethrough` — toggleButton; group `GroupFont`. <!-- source-row:661 -->
+- [ ] `CharacterSpacingGallery` — gallery; group `GroupFont`. <!-- source-row:662 -->
+- [ ] `ChangeCaseGallery` — gallery; group `GroupFont`. <!-- source-row:663 -->
+- [ ] `FontColorPicker` — gallery; group `GroupFont`. <!-- source-row:664 -->
+- [ ] `FontColorMoreColorsDialogPowerPoint` — button; group `GroupFont`; menu `FontColorPicker`. <!-- source-row:665 -->
+- [ ] `EyedropperFillText` — button; group `GroupFont`; menu `FontColorPicker`. <!-- source-row:666 -->
+- [ ] `FontDialogPowerPoint` — button (dialogBoxLauncher); group `GroupFont`. <!-- source-row:667 -->
+- [ ] `GroupParagraph` — group. <!-- source-row:668 -->
+- [ ] `BulletsGallery` — gallery; group `GroupParagraph`. <!-- source-row:669 -->
+- [ ] `BulletsAndNumberingBulletsDialog` — button; group `GroupParagraph`; menu `BulletsGallery`. <!-- source-row:670 -->
+- [ ] `NumberingGallery` — gallery; group `GroupParagraph`. <!-- source-row:671 -->
+- [ ] `BulletsAndNumberingNumberingDialog` — button; group `GroupParagraph`; menu `NumberingGallery`. <!-- source-row:672 -->
+- [ ] `IndentDecrease` — button; group `GroupParagraph`. <!-- source-row:673 -->
+- [ ] `IndentIncrease` — button; group `GroupParagraph`. <!-- source-row:674 -->
+- [ ] `LineSpacingGalleryPowerPoint` — gallery; group `GroupParagraph`. <!-- source-row:675 -->
+- [ ] `AlignLeft` — toggleButton; group `GroupParagraph`. <!-- source-row:676 -->
+- [ ] `AlignCenter` — toggleButton; group `GroupParagraph`. <!-- source-row:677 -->
+- [ ] `AlignRight` — toggleButton; group `GroupParagraph`. <!-- source-row:678 -->
+- [ ] `AlignJustify` — toggleButton; group `GroupParagraph`. <!-- source-row:679 -->
+- [ ] `AlignJustifyMenu` — menu; group `GroupParagraph`. <!-- source-row:680 -->
+- [ ] `AlignJustifyWithMixedLanguages` — toggleButton; group `GroupParagraph`; menu `AlignJustifyMenu`. <!-- source-row:681 -->
+- [ ] `AlignJustifyLow` — toggleButton; group `GroupParagraph`; menu `AlignJustifyMenu`. <!-- source-row:682 -->
+- [ ] `ParagraphDistributed` — toggleButton; group `GroupParagraph`. <!-- source-row:683 -->
+- [ ] `AlignJustifyThai` — toggleButton; group `GroupParagraph`. <!-- source-row:684 -->
+- [ ] `TextDirectionLeftToRight` — toggleButton; group `GroupParagraph`. <!-- source-row:685 -->
+- [ ] `TextDirectionRightToLeft` — toggleButton; group `GroupParagraph`. <!-- source-row:686 -->
+- [ ] `TableColumnsGallery` — gallery; group `GroupParagraph`. <!-- source-row:687 -->
+- [ ] `ParagraphMoreColumnsDialog` — button; group `GroupParagraph`; menu `TableColumnsGallery`. <!-- source-row:688 -->
+- [ ] `TextDirectionGallery` — gallery; group `GroupParagraph`. <!-- source-row:689 -->
+- [ ] `TextDirectionMoreOptionsDialog` — button; group `GroupParagraph`; menu `TextDirectionGallery`. <!-- source-row:690 -->
+- [ ] `TextAlignGallery` — gallery; group `GroupParagraph`. <!-- source-row:691 -->
+- [ ] `TextAlignMoreOptionsDialog` — button; group `GroupParagraph`; menu `TextAlignGallery`. <!-- source-row:692 -->
+- [ ] `ConvertToSmartArt` — gallery; group `GroupParagraph`. <!-- source-row:693 -->
+- [ ] `ConvertToSmartArtMoreSmartArtGraphicsDialog` — button; group `GroupParagraph`; menu `ConvertToSmartArt`. <!-- source-row:694 -->
+- [ ] `PowerPointParagraphDialog` — button (dialogBoxLauncher); group `GroupParagraph`. <!-- source-row:695 -->
+- [ ] `GroupDrawing` — group. <!-- source-row:696 -->
+- [ ] `GalleryAllShapesAndTextboxes` — gallery; group `GroupDrawing`. <!-- source-row:697 -->
+- [ ] `ObjectsArrangeMenu` — menu; group `GroupDrawing`. <!-- source-row:698 -->
+- [ ] `ObjectBringToFront` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu`. <!-- source-row:699 -->
+- [ ] `ObjectSendToBack` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu`. <!-- source-row:700 -->
+- [ ] `ObjectBringForward` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu`. <!-- source-row:701 -->
+- [ ] `ObjectSendBackward` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu`. <!-- source-row:702 -->
+- [ ] `ObjectsGroup` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu`. <!-- source-row:703 -->
+- [ ] `ObjectsUngroup` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu`. <!-- source-row:704 -->
+- [ ] `ObjectsRegroup` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu`. <!-- source-row:705 -->
+- [ ] `ObjectAlignMenu` — menu; group `GroupDrawing`; menu `ObjectsArrangeMenu`. <!-- source-row:706 -->
+- [ ] `ObjectsAlignLeftSmart` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectAlignMenu`. <!-- source-row:707 -->
+- [ ] `ObjectsAlignCenterHorizontalSmart` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectAlignMenu`. <!-- source-row:708 -->
+- [ ] `ObjectsAlignRightSmart` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectAlignMenu`. <!-- source-row:709 -->
+- [ ] `ObjectsAlignTopSmart` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectAlignMenu`. <!-- source-row:710 -->
+- [ ] `ObjectsAlignMiddleVerticalSmart` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectAlignMenu`. <!-- source-row:711 -->
+- [ ] `ObjectsAlignBottomSmart` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectAlignMenu`. <!-- source-row:712 -->
+- [ ] `AlignDistributeHorizontally` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectAlignMenu`. <!-- source-row:713 -->
+- [ ] `AlignDistributeVertically` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectAlignMenu`. <!-- source-row:714 -->
+- [ ] `ObjectsAlignRelativeToContainerSmart` — toggleButton; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectAlignMenu`. <!-- source-row:715 -->
+- [ ] `ObjectsAlignSelectedSmart` — toggleButton; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectAlignMenu`. <!-- source-row:716 -->
+- [ ] `ObjectRotateGallery` — gallery; group `GroupDrawing`; menu `ObjectsArrangeMenu`. <!-- source-row:717 -->
+- [ ] `ObjectRotationOptionsDialog` — button; group `GroupDrawing`; menu `ObjectsArrangeMenu` → `ObjectRotateGallery`. <!-- source-row:718 -->
+- [ ] `SelectionPane` — toggleButton; group `GroupDrawing`; menu `ObjectsArrangeMenu`. <!-- source-row:719 -->
+- [ ] `ShapeQuickStylesHome` — gallery; group `GroupDrawing`. <!-- source-row:720 -->
+- [ ] `ShapeStylesOtherThemeFillsGallery` — gallery; group `GroupDrawing`; menu `ShapeQuickStylesHome`. <!-- source-row:721 -->
+- [ ] `ShapeFillColorPicker` — gallery; group `GroupDrawing`. <!-- source-row:722 -->
+- [ ] `ObjectFillMoreColorsDialog` — button; group `GroupDrawing`; menu `ShapeFillColorPicker`. <!-- source-row:723 -->
+- [ ] `EyedropperFill` — button; group `GroupDrawing`; menu `ShapeFillColorPicker`. <!-- source-row:724 -->
+- [ ] `ObjectPictureFill` — button; group `GroupDrawing`; menu `ShapeFillColorPicker`. <!-- source-row:725 -->
+- [ ] `GradientGallery` — gallery; group `GroupDrawing`; menu `ShapeFillColorPicker`. <!-- source-row:726 -->
+- [ ] `ShapeFillMoreGradientsDialog` — button; group `GroupDrawing`; menu `ShapeFillColorPicker` → `GradientGallery`. <!-- source-row:727 -->
+- [ ] `ShapeFillTextureGallery` — gallery; group `GroupDrawing`; menu `ShapeFillColorPicker`. <!-- source-row:728 -->
+- [ ] `MoreTextureOptions` — button; group `GroupDrawing`; menu `ShapeFillColorPicker` → `ShapeFillTextureGallery`. <!-- source-row:729 -->
+- [ ] `ShapeOutlineColorPicker` — gallery; group `GroupDrawing`. <!-- source-row:730 -->
+- [ ] `ObjectBorderOutlineColorMoreColorsDialog` — button; group `GroupDrawing`; menu `ShapeOutlineColorPicker`. <!-- source-row:731 -->
+- [ ] `EyedropperOutline` — button; group `GroupDrawing`; menu `ShapeOutlineColorPicker`. <!-- source-row:732 -->
+- [ ] `OutlineWeightGallery` — gallery; group `GroupDrawing`; menu `ShapeOutlineColorPicker`. <!-- source-row:733 -->
+- [ ] `LineStylesDialog` — button; group `GroupDrawing`; menu `ShapeOutlineColorPicker` → `OutlineWeightGallery`. <!-- source-row:734 -->
+- [ ] `OutlineDashesGallery` — gallery; group `GroupDrawing`; menu `ShapeOutlineColorPicker`. <!-- source-row:735 -->
+- [ ] `LineStylesDialog` — button; group `GroupDrawing`; menu `ShapeOutlineColorPicker` → `OutlineDashesGallery`. <!-- source-row:736 -->
+- [ ] `ArrowStyleGallery` — gallery; group `GroupDrawing`; menu `ShapeOutlineColorPicker`. <!-- source-row:737 -->
+- [ ] `ArrowsMore` — button; group `GroupDrawing`; menu `ShapeOutlineColorPicker` → `ArrowStyleGallery`. <!-- source-row:738 -->
+- [ ] `ShapeEffectsMenu` — menu; group `GroupDrawing`. <!-- source-row:739 -->
+- [ ] `ObjectEffectPresetGallery` — gallery; group `GroupDrawing`; menu `ShapeEffectsMenu`. <!-- source-row:740 -->
+- [ ] `_3DBevelOptionsDialog` — button; group `GroupDrawing`; menu `ShapeEffectsMenu` → `ObjectEffectPresetGallery`. <!-- source-row:741 -->
+- [ ] `ObjectEffectShadowGallery` — gallery; group `GroupDrawing`; menu `ShapeEffectsMenu`. <!-- source-row:742 -->
+- [ ] `ShadowOptionsDialog` — button; group `GroupDrawing`; menu `ShapeEffectsMenu` → `ObjectEffectShadowGallery`. <!-- source-row:743 -->
+- [ ] `ReflectionGallery` — gallery; group `GroupDrawing`; menu `ShapeEffectsMenu`. <!-- source-row:744 -->
+- [ ] `ReflectionsMoreOptions` — button; group `GroupDrawing`; menu `ShapeEffectsMenu` → `ReflectionGallery`. <!-- source-row:745 -->
+- [ ] `ObjectEffectGlowGallery` — gallery; group `GroupDrawing`; menu `ShapeEffectsMenu`. <!-- source-row:746 -->
+- [ ] `GlowColorPicker` — gallery; group `GroupDrawing`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery`. <!-- source-row:747 -->
+- [ ] `GlowColorMoreColorsDialog` — button; group `GroupDrawing`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery` → `GlowColorPicker`. <!-- source-row:748 -->
+- [ ] `EyedropperGlow` — button; group `GroupDrawing`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery` → `GlowColorPicker`. <!-- source-row:749 -->
+- [ ] `GlowsMoreOptions` — button; group `GroupDrawing`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery`. <!-- source-row:750 -->
+- [ ] `ObjectEffectSoftEdgesGallery` — gallery; group `GroupDrawing`; menu `ShapeEffectsMenu`. <!-- source-row:751 -->
+- [ ] `SoftEdgesMoreOptions` — button; group `GroupDrawing`; menu `ShapeEffectsMenu` → `ObjectEffectSoftEdgesGallery`. <!-- source-row:752 -->
+- [ ] `BevelShapeGallery` — gallery; group `GroupDrawing`; menu `ShapeEffectsMenu`. <!-- source-row:753 -->
+- [ ] `_3DBevelOptionsDialog` — button; group `GroupDrawing`; menu `ShapeEffectsMenu` → `BevelShapeGallery`. <!-- source-row:754 -->
+- [ ] `_3DRotationGallery` — gallery; group `GroupDrawing`; menu `ShapeEffectsMenu`. <!-- source-row:755 -->
+- [ ] `_3DRotationOptionsDialog` — button; group `GroupDrawing`; menu `ShapeEffectsMenu` → `_3DRotationGallery`. <!-- source-row:756 -->
+- [ ] `ObjectFormatDialog` — button (dialogBoxLauncher); group `GroupDrawing`. <!-- source-row:757 -->
+- [ ] `GroupEditing` — group. <!-- source-row:758 -->
+- [ ] `FindDialog` — button; group `GroupEditing`. <!-- source-row:759 -->
+- [ ] `ReplaceMenu` — splitButton; group `GroupEditing`. <!-- source-row:760 -->
+- [ ] `ReplaceDialog` — button; group `GroupEditing`; menu `ReplaceMenu`. <!-- source-row:761 -->
+- [ ] `FontsReplaceFonts` — button; group `GroupEditing`; menu `ReplaceMenu`. <!-- source-row:762 -->
+- [ ] `SelectMenu` — menu; group `GroupEditing`. <!-- source-row:763 -->
+- [ ] `SelectAll` — button; group `GroupEditing`; menu `SelectMenu`. <!-- source-row:764 -->
+- [ ] `ObjectsSelect` — toggleButton; group `GroupEditing`; menu `SelectMenu`. <!-- source-row:765 -->
+- [ ] `SelectionPane` — toggleButton; group `GroupEditing`; menu `SelectMenu`. <!-- source-row:766 -->
+
+## None (Not in the Ribbon)
+
+Catalog tab: `None (Not in the Ribbon)`.
+
+- [ ] `FileOpenUsingBackstage` — button. <!-- source-row:767 -->
+- [ ] `FileSave` — button. <!-- source-row:768 -->
+- [ ] `SaveAndReview` — button. <!-- source-row:769 -->
+- [ ] `FileSendAsAttachment` — button. <!-- source-row:770 -->
+- [ ] `FilePrintQuick` — button. <!-- source-row:771 -->
+- [ ] `PrintPreviewAndPrint` — button. <!-- source-row:772 -->
+- [ ] `Spelling` — button. <!-- source-row:773 -->
+- [ ] `Undo` — gallery. <!-- source-row:774 -->
+- [ ] `RedoOrRepeat` — button. <!-- source-row:775 -->
+- [ ] `SlideShowFromBeginning` — button. <!-- source-row:776 -->
+- [ ] `AccessibilityChecker` — button. <!-- source-row:777 -->
+- [ ] `FileOpenRecentFile` — button. <!-- source-row:778 -->
+- [ ] `PointerModeOptions` — gallery. <!-- source-row:779 -->
+- [ ] `FilePermissionRestrictAs` — button. <!-- source-row:780 -->
+- [ ] `MdiChildSystemMenu` — menu. <!-- source-row:781 -->
+- [ ] `MinimizeRibbon` — toggleButton. <!-- source-row:782 -->
+- [ ] `Help` — button. <!-- source-row:783 -->
+- [ ] `WindowMinimize` — button. <!-- source-row:784 -->
+- [ ] `WindowRestore` — button. <!-- source-row:785 -->
+- [ ] `WindowClose` — button. <!-- source-row:786 -->
+- [ ] `HideRibbon` — toggleButton. <!-- source-row:787 -->
+- [ ] `PasteAsHyperlink` — button. <!-- source-row:788 -->
+- [ ] `PasteDuplicate` — button. <!-- source-row:789 -->
+- [ ] `PasteBitmap` — button. <!-- source-row:790 -->
+- [ ] `PasteGif` — button. <!-- source-row:791 -->
+- [ ] `PastePng` — button. <!-- source-row:792 -->
+- [ ] `PasteJpeg` — button. <!-- source-row:793 -->
+- [ ] `PasteInk` — button. <!-- source-row:794 -->
+- [ ] `PasteTextOnly` — button. <!-- source-row:795 -->
+- [ ] `PasteAsPicture` — button. <!-- source-row:796 -->
+- [ ] `PasteSourceFormatting` — button. <!-- source-row:797 -->
+- [ ] `PasteDestinationTheme` — button. <!-- source-row:798 -->
+- [ ] `PasteExcelChartSourceFormatting` — button. <!-- source-row:799 -->
+- [ ] `PasteExcelChartDestinationTheme` — button. <!-- source-row:800 -->
+- [ ] `PasteLinkedExcelChartSourceFormatting` — button. <!-- source-row:801 -->
+- [ ] `PasteLinkedExcelChartDestinationTheme` — button. <!-- source-row:802 -->
+- [ ] `PasteAsEmbedded` — button. <!-- source-row:803 -->
+- [ ] `PasteExcelTableSourceFormatting` — button. <!-- source-row:804 -->
+- [ ] `PasteExcelTableDestinationTableStyle` — button. <!-- source-row:805 -->
+- [ ] `FileSaveACopy` — button. <!-- source-row:806 -->
+- [ ] `FileDiscardCachedChanges` — button. <!-- source-row:807 -->
+- [ ] `ReopenFromServer` — button. <!-- source-row:808 -->
+- [ ] `AnimationTransitionSpeedGallery` — dropDown. <!-- source-row:810 -->
+- [ ] `ViewMessageBar` — checkBox. <!-- source-row:811 -->
+- [ ] `ExportToVideo` — button. <!-- source-row:812 -->
+- [ ] `ZoomClassic` — gallery. <!-- source-row:813 -->
+- [ ] `ShapeRectangle` — toggleButton. <!-- source-row:814 -->
+- [ ] `ContrastMore` — button. <!-- source-row:815 -->
+- [ ] `SlideShowPreviousSlide` — button. <!-- source-row:816 -->
+- [ ] `Redo` — gallery. <!-- source-row:817 -->
+- [ ] `BrightnessMore` — button. <!-- source-row:818 -->
+- [ ] `BordersShadingDialog` — button. <!-- source-row:819 -->
+- [ ] `TableInsertDialog` — button. <!-- source-row:820 -->
+- [ ] `ShapeOval` — toggleButton. <!-- source-row:821 -->
+- [ ] `SlideShowNextSlide` — button. <!-- source-row:822 -->
+- [ ] `BrightnessLess` — button. <!-- source-row:823 -->
+- [ ] `ContrastLess` — button. <!-- source-row:824 -->
+- [ ] `ShapeElbowConnectorArrow` — toggleButton. <!-- source-row:825 -->
+- [ ] `ObjectRotateLeft90` — button. <!-- source-row:826 -->
+- [ ] `ShapeStraightConnectorArrow` — toggleButton. <!-- source-row:827 -->
+- [ ] `ShadowNudgeLeftClassic` — button. <!-- source-row:828 -->
+- [ ] `ShadowNudgeDownClassic` — button. <!-- source-row:829 -->
+- [ ] `ShapeElbowConnector` — toggleButton. <!-- source-row:830 -->
+- [ ] `ShadowNudgeRightClassic` — button. <!-- source-row:831 -->
+- [ ] `ShadowNudgeUpClassic` — button. <!-- source-row:832 -->
+- [ ] `ObjectSetShapeDefaults` — button. <!-- source-row:833 -->
+- [ ] `ShapeRoundedRectangle` — toggleButton. <!-- source-row:834 -->
+- [ ] `ShapeStraightConnector` — toggleButton. <!-- source-row:835 -->
+- [ ] `ObjectFlipHorizontal` — button. <!-- source-row:836 -->
+- [ ] `ShapeRightArrow` — toggleButton. <!-- source-row:837 -->
+- [ ] `LinksUpdate` — button. <!-- source-row:838 -->
+- [ ] `OutlineDemote` — button. <!-- source-row:839 -->
+- [ ] `ObjectRotateFree` — button. <!-- source-row:840 -->
+- [ ] `Subscript` — toggleButton. <!-- source-row:841 -->
+- [ ] `SlideShowCustom` — button. <!-- source-row:842 -->
+- [ ] `ShapeDownArrow` — toggleButton. <!-- source-row:843 -->
+- [ ] `ObjectFlipVertical` — button. <!-- source-row:844 -->
+- [ ] `Superscript` — toggleButton. <!-- source-row:845 -->
+- [ ] `ObjectRotateRight90` — button. <!-- source-row:846 -->
+- [ ] `OutlinePromote` — button. <!-- source-row:847 -->
+- [ ] `OutlineShowTextFormatting` — toggleButton. <!-- source-row:848 -->
+- [ ] `ShadowOnOrOffClassic` — button. <!-- source-row:849 -->
+- [ ] `ShapeRoundedRectangularCallout` — toggleButton. <!-- source-row:850 -->
+- [ ] `Clear` — button. <!-- source-row:851 -->
+- [ ] `PasteApplyStyle` — button. <!-- source-row:852 -->
+- [ ] `ShapeIsoscelesTriangle` — toggleButton. <!-- source-row:853 -->
+- [ ] `WordArtVerticalText` — button. <!-- source-row:854 -->
+- [ ] `SlideShowResumeShow` — button. <!-- source-row:855 -->
+- [ ] `ShapesMoreShapes` — button. <!-- source-row:856 -->
+- [ ] `AutoCorrect` — button. <!-- source-row:857 -->
+- [ ] `ViewFullScreenView` — button. <!-- source-row:858 -->
+- [ ] `OutlineMoveUp` — button. <!-- source-row:859 -->
+- [ ] `ShapeLeftBrace` — toggleButton. <!-- source-row:860 -->
+- [ ] `ObjectNudgeDown` — button. <!-- source-row:861 -->
+- [ ] `ShapeRightBrace` — toggleButton. <!-- source-row:862 -->
+- [ ] `PickUpStyle` — button. <!-- source-row:863 -->
+- [ ] `InsertTab` — button. <!-- source-row:864 -->
+- [ ] `About` — button. <!-- source-row:865 -->
+- [ ] `PropertySheet` — button. <!-- source-row:866 -->
+- [ ] `ObjectNudgeLeft` — button. <!-- source-row:867 -->
+- [ ] `CreateHandoutsInWord` — button. <!-- source-row:868 -->
+- [ ] `ObjectNudgeUp` — button. <!-- source-row:869 -->
+- [ ] `ShapeArc` — toggleButton. <!-- source-row:870 -->
+- [ ] `OutlineMoveDown` — button. <!-- source-row:871 -->
+- [ ] `OleConvert` — button. <!-- source-row:872 -->
+- [ ] `ObjectNudgeRight` — button. <!-- source-row:873 -->
+- [ ] `ShapeStar` — toggleButton. <!-- source-row:874 -->
+- [ ] `WebPagePreview` — button. <!-- source-row:875 -->
+- [ ] `OutlineCollapse` — button. <!-- source-row:876 -->
+- [ ] `OutlineExpandAll` — button. <!-- source-row:877 -->
+- [ ] `SnapToGrid` — toggleButton. <!-- source-row:878 -->
+- [ ] `ObjectsMultiSelect` — button. <!-- source-row:879 -->
+- [ ] `CheckForUpdates` — button. <!-- source-row:880 -->
+- [ ] `NextPane` — button. <!-- source-row:881 -->
+- [ ] `WebGoBack` — button. <!-- source-row:882 -->
+- [ ] `OutlineExpand` — button. <!-- source-row:883 -->
+- [ ] `SnapToShapes` — toggleButton. <!-- source-row:884 -->
+- [ ] `ViewSlideView` — toggleButton. <!-- source-row:885 -->
+- [ ] `CollapseAll` — button. <!-- source-row:886 -->
+- [ ] `ExchangeFolder` — button. <!-- source-row:887 -->
+- [ ] `ContactUs` — button. <!-- source-row:888 -->
+- [ ] `WebGoForward` — button. <!-- source-row:889 -->
+- [ ] `DocumentLocation` — comboBox. <!-- source-row:890 -->
+- [ ] `DrawingCanvasFit` — button. <!-- source-row:891 -->
+- [ ] `CombineCharacters` — toggleButton. <!-- source-row:892 -->
+- [ ] `ChangeCaseToggle` — button. <!-- source-row:893 -->
+- [ ] `ViewOutlineView` — toggleButton. <!-- source-row:894 -->
+- [ ] `DrawingCanvasScale` — button. <!-- source-row:895 -->
+- [ ] `DrawingCanvasExpand` — button. <!-- source-row:896 -->
+- [ ] `BaselineRaise` — button. <!-- source-row:897 -->
+- [ ] `OutlineThumbnailsShowHide` — button. <!-- source-row:898 -->
+- [ ] `BaselineLower` — button. <!-- source-row:899 -->
+- [ ] `SlideShowInAWindow` — button. <!-- source-row:900 -->
+- [ ] `WindowFitToPage` — button. <!-- source-row:901 -->
+- [ ] `OutlookTaskCreate` — button. <!-- source-row:902 -->
+- [ ] `FindNext` — button. <!-- source-row:903 -->
+- [ ] `GoToProperty` — button. <!-- source-row:904 -->
+- [ ] `LinkBreak` — button. <!-- source-row:905 -->
+- [ ] `LinkChange` — button. <!-- source-row:906 -->
+- [ ] `CharacterFormattingReset` — button. <!-- source-row:907 -->
+- [ ] `WebOptionsDialog` — button. <!-- source-row:908 -->
+- [ ] `DrawingCanvasResize` — button. <!-- source-row:909 -->
+- [ ] `QuickAccessToolbarCustomization` — button. <!-- source-row:910 -->
+- [ ] `RibbonCustomization` — button. <!-- source-row:911 -->
+- [ ] `AlternativeText` — button. <!-- source-row:912 -->
+- [ ] `AdvancedFileProperties` — button. <!-- source-row:913 -->
+- [ ] `HyperlinkOpen` — button. <!-- source-row:914 -->
+- [ ] `HyperlinkCopy` — button. <!-- source-row:915 -->
+- [ ] `HyperlinkRemove` — button. <!-- source-row:916 -->
+- [ ] `SoundMaximumFileSize` — control. <!-- source-row:917 -->
+- [ ] `InkingStart` — button. <!-- source-row:918 -->
+- [ ] `InkToolsClose` — button. <!-- source-row:919 -->
+- [ ] `ShapesUnion` — button. <!-- source-row:920 -->
+- [ ] `ShapesIntersect` — button. <!-- source-row:921 -->
+- [ ] `ShapesFragment` — button. <!-- source-row:922 -->
+- [ ] `ShapesCombine` — button. <!-- source-row:923 -->
+- [ ] `ShapesSubtract` — button. <!-- source-row:924 -->
+- [ ] `ClipArtInsert` — toggleButton. <!-- source-row:925 -->
+- [ ] `ReviewEditComment` — button. <!-- source-row:926 -->
+- [ ] `CombineShapesMenu` — menu. <!-- source-row:927 -->
+- [ ] `ShapesUnion` — button; group `None (Not in the Ribbon)`; menu `CombineShapesMenu`. <!-- source-row:928 -->
+- [ ] `ShapesCombine` — button; group `None (Not in the Ribbon)`; menu `CombineShapesMenu`. <!-- source-row:929 -->
+- [ ] `ShapesFragment` — button; group `None (Not in the Ribbon)`; menu `CombineShapesMenu`. <!-- source-row:930 -->
+- [ ] `ShapesIntersect` — button; group `None (Not in the Ribbon)`; menu `CombineShapesMenu`. <!-- source-row:931 -->
+- [ ] `ShapesSubtract` — button; group `None (Not in the Ribbon)`; menu `CombineShapesMenu`. <!-- source-row:932 -->
+- [ ] `PictureBrightnessGallery` — gallery. <!-- source-row:933 -->
+- [ ] `PictureCorrectionsDialog` — button; group `None (Not in the Ribbon)`; menu `PictureBrightnessGallery`. <!-- source-row:934 -->
+- [ ] `PictureContrastGallery` — gallery. <!-- source-row:935 -->
+- [ ] `PictureCorrectionsDialog` — button; group `None (Not in the Ribbon)`; menu `PictureContrastGallery`. <!-- source-row:936 -->
+- [ ] `PictureCorrectionsReset` — button. <!-- source-row:937 -->
+- [ ] `PictureColorReset` — button. <!-- source-row:938 -->
+- [ ] `PictureArtisticEffectsReset` — button. <!-- source-row:939 -->
+- [ ] `ShapeConvertToFreeform` — button. <!-- source-row:940 -->
+- [ ] `ViewSlideShowView` — button. <!-- source-row:941 -->
+- [ ] `CDAudioPlayTrack` — button. <!-- source-row:942 -->
+- [ ] `PlaybackTipPlay` — button. <!-- source-row:943 -->
+- [ ] `ObjectBringToFrontMenu` — splitButton. <!-- source-row:944 -->
+- [ ] `ObjectBringToFront` — button; group `None (Not in the Ribbon)`; menu `ObjectBringToFrontMenu`. <!-- source-row:945 -->
+- [ ] `ObjectBringForward` — button; group `None (Not in the Ribbon)`; menu `ObjectBringToFrontMenu`. <!-- source-row:946 -->
+- [ ] `ObjectSendToBackMenu` — splitButton. <!-- source-row:947 -->
+- [ ] `ObjectSendToBack` — button; group `None (Not in the Ribbon)`; menu `ObjectSendToBackMenu`. <!-- source-row:948 -->
+- [ ] `ObjectSendBackward` — button; group `None (Not in the Ribbon)`; menu `ObjectSendToBackMenu`. <!-- source-row:949 -->
+- [ ] `MovieInsert` — splitButton. <!-- source-row:950 -->
+- [ ] `VideoInsert` — button; group `None (Not in the Ribbon)`; menu `MovieInsert`. <!-- source-row:951 -->
+- [ ] `MovieFromFileInsert` — button; group `None (Not in the Ribbon)`; menu `MovieInsert`. <!-- source-row:952 -->
+- [ ] `VideoInsertFromOnline` — button; group `None (Not in the Ribbon)`; menu `MovieInsert`. <!-- source-row:953 -->
+- [ ] `MovieFromClipOrganizerInsert` — button; group `None (Not in the Ribbon)`; menu `MovieInsert`. <!-- source-row:954 -->
+- [ ] `SoundInsertMenu` — splitButton. <!-- source-row:955 -->
+- [ ] `AudioInsert` — button; group `None (Not in the Ribbon)`; menu `SoundInsertMenu`. <!-- source-row:956 -->
+- [ ] `SoundInsertFromFile` — button; group `None (Not in the Ribbon)`; menu `SoundInsertMenu`. <!-- source-row:957 -->
+- [ ] `SoundInsertFromClipOrganizer` — button; group `None (Not in the Ribbon)`; menu `SoundInsertMenu`. <!-- source-row:958 -->
+- [ ] `SoundRecord` — button; group `None (Not in the Ribbon)`; menu `SoundInsertMenu`. <!-- source-row:959 -->
+- [ ] `SlideShowResolutionGallery` — dropDown. <!-- source-row:960 -->
+- [ ] `InsertMovieDialog` — button. <!-- source-row:961 -->
+- [ ] `FileOpen` — button. <!-- source-row:962 -->
+- [ ] `Collaborate` — button. <!-- source-row:963 -->
+- [ ] `GroupPermission` — group. <!-- source-row:964 -->
+- [ ] `ReviewProtectPresentationMenu` — menu; group `GroupPermission`. <!-- source-row:965 -->
+- [ ] `FilePermissionUnrestricted` — toggleButton; group `GroupPermission`; menu `ReviewProtectPresentationMenu`. <!-- source-row:966 -->
+- [ ] `FilePermissionDoNotDistribute` — toggleButton; group `GroupPermission`; menu `ReviewProtectPresentationMenu`. <!-- source-row:967 -->
+- [ ] `GroupInsertBarcode` — group. <!-- source-row:968 -->
+- [ ] `BarcodeInsert` — button; group `GroupInsertBarcode`. <!-- source-row:969 -->
+- [ ] `LabelInsert` — button; group `GroupInsertBarcode`. <!-- source-row:970 -->
+- [ ] `PictureInsertFromFilePowerPoint` — button. <!-- source-row:971 -->
+- [ ] `TableDrawTable` — toggleButton. <!-- source-row:972 -->
+- [ ] `SlideNewGallery` — gallery. <!-- source-row:973 -->
+- [ ] `DuplicateSelectedSlides` — button; group `None (Not in the Ribbon)`; menu `SlideNewGallery`. <!-- source-row:974 -->
+- [ ] `SlidesFromOutline` — button; group `None (Not in the Ribbon)`; menu `SlideNewGallery`. <!-- source-row:975 -->
+- [ ] `SlidesReuseSlides` — toggleButton; group `None (Not in the Ribbon)`; menu `SlideNewGallery`. <!-- source-row:976 -->
+- [ ] `ObjectFormatDialog` — button. <!-- source-row:977 -->
+- [ ] `ObjectSizeAndPositionDialog` — button. <!-- source-row:978 -->
+- [ ] `AnimationCustom` — toggleButton. <!-- source-row:979 -->
+- [ ] `TextBoxInsert` — toggleButton. <!-- source-row:980 -->
+- [ ] `TextBoxInsertVertical` — toggleButton. <!-- source-row:981 -->
+- [ ] `SlideBackgroundFormatDialog` — button. <!-- source-row:982 -->
+- [ ] `SlideLayoutGallery` — gallery. <!-- source-row:983 -->
+- [ ] `ActionInsert` — button. <!-- source-row:984 -->
+- [ ] `ObjectBringToFront` — button. <!-- source-row:985 -->
+- [ ] `ObjectSendToBack` — button. <!-- source-row:986 -->
+- [ ] `ObjectBringForward` — button. <!-- source-row:987 -->
+- [ ] `ObjectSendBackward` — button. <!-- source-row:988 -->
+- [ ] `ObjectsGroup` — button. <!-- source-row:989 -->
+- [ ] `ObjectsUngroup` — button. <!-- source-row:990 -->
+- [ ] `ObjectsRegroup` — button. <!-- source-row:991 -->
+- [ ] `FileSaveAs` — button. <!-- source-row:992 -->
+- [ ] `MacroPlay` — button. <!-- source-row:993 -->
+- [ ] `FormatPainter` — control. <!-- source-row:994 -->
+- [ ] `FileNewDefault` — button. <!-- source-row:995 -->
+- [ ] `FontSize` — comboBox. <!-- source-row:996 -->
+- [ ] `FontColorPicker` — gallery. <!-- source-row:997 -->
+- [ ] `FontColorMoreColorsDialogPowerPoint` — button; group `None (Not in the Ribbon)`; menu `FontColorPicker`. <!-- source-row:998 -->
+- [ ] `EyedropperFillText` — button; group `None (Not in the Ribbon)`; menu `FontColorPicker`. <!-- source-row:999 -->
+- [ ] `Font` — comboBox. <!-- source-row:1000 -->
+- [ ] `FontSizeDecrease` — button. <!-- source-row:1001 -->
+- [ ] `FontSizeIncrease` — button. <!-- source-row:1002 -->
+- [ ] `Cut` — button. <!-- source-row:1003 -->
+- [ ] `Paste` — button. <!-- source-row:1004 -->
+- [ ] `Copy` — button. <!-- source-row:1005 -->
+- [ ] `ShapesInsertGallery` — gallery. <!-- source-row:1006 -->
+- [ ] `WordArtInsertGallery` — gallery. <!-- source-row:1007 -->
+- [ ] `AnimationTransitionGallery` — gallery. <!-- source-row:1008 -->
+- [ ] `SlideShowFromCurrent` — button. <!-- source-row:1009 -->
+- [ ] `ViewSlideMasterView` — toggleButton. <!-- source-row:1010 -->
+- [ ] `ViewSlideSorterView` — toggleButton. <!-- source-row:1011 -->
+- [ ] `BulletsGallery` — gallery. <!-- source-row:1012 -->
+- [ ] `BulletsAndNumberingBulletsDialog` — button; group `None (Not in the Ribbon)`; menu `BulletsGallery`. <!-- source-row:1013 -->
+- [ ] `AnimationGallery` — gallery. <!-- source-row:1014 -->
+- [ ] `AnimationCustomEntranceDialog` — button; group `None (Not in the Ribbon)`; menu `AnimationGallery`. <!-- source-row:1015 -->
+- [ ] `AnimationCustomEmphasisDialog` — button; group `None (Not in the Ribbon)`; menu `AnimationGallery`. <!-- source-row:1016 -->
+- [ ] `AnimationCustomExitDialog` — button; group `None (Not in the Ribbon)`; menu `AnimationGallery`. <!-- source-row:1017 -->
+- [ ] `AnimationCustomPathDialog` — button; group `None (Not in the Ribbon)`; menu `AnimationGallery`. <!-- source-row:1018 -->
+- [ ] `AnimationCustomActionVerbDialog` — button; group `None (Not in the Ribbon)`; menu `AnimationGallery`. <!-- source-row:1019 -->
+- [ ] `AnimationAddGallery` — gallery. <!-- source-row:1020 -->
+- [ ] `AnimationCustomAddEntranceDialog` — button; group `None (Not in the Ribbon)`; menu `AnimationAddGallery`. <!-- source-row:1021 -->
+- [ ] `AnimationCustomAddEmphasisDialog` — button; group `None (Not in the Ribbon)`; menu `AnimationAddGallery`. <!-- source-row:1022 -->
+- [ ] `AnimationCustomAddExitDialog` — button; group `None (Not in the Ribbon)`; menu `AnimationAddGallery`. <!-- source-row:1023 -->
+- [ ] `AnimationCustomAddPathDialog` — button; group `None (Not in the Ribbon)`; menu `AnimationAddGallery`. <!-- source-row:1024 -->
+- [ ] `AnimationCustomAddActionVerbDialog` — button; group `None (Not in the Ribbon)`; menu `AnimationAddGallery`. <!-- source-row:1025 -->
+- [ ] `TableInsertGallery` — gallery. <!-- source-row:1026 -->
+- [ ] `TableInsert` — button; group `None (Not in the Ribbon)`; menu `TableInsertGallery`. <!-- source-row:1027 -->
+- [ ] `TableDrawTable` — toggleButton; group `None (Not in the Ribbon)`; menu `TableInsertGallery`. <!-- source-row:1028 -->
+- [ ] `ExcelSpreadsheetInsert` — button; group `None (Not in the Ribbon)`; menu `TableInsertGallery`. <!-- source-row:1029 -->
+- [ ] `UpgradePresentation` — button. <!-- source-row:1030 -->
+- [ ] `FileExit` — button. <!-- source-row:1031 -->
+- [ ] `FileNew` — button. <!-- source-row:1032 -->
+- [ ] `ApplicationOptionsDialog` — button. <!-- source-row:1033 -->
+- [ ] `FileStartWorkflow` — button. <!-- source-row:1034 -->
+- [ ] `LeaveReader` — button. <!-- source-row:1035 -->
+- [ ] `FilePrint` — button. <!-- source-row:1036 -->
+- [ ] `FilePrepareMenu` — menu. <!-- source-row:1037 -->
+- [ ] `FileProperties` — toggleButton; group `None (Not in the Ribbon)`; menu `FilePrepareMenu`. <!-- source-row:1038 -->
+- [ ] `FileDocumentInspect` — button; group `None (Not in the Ribbon)`; menu `FilePrepareMenu`. <!-- source-row:1039 -->
+- [ ] `FileDocumentEncrypt` — toggleButton; group `None (Not in the Ribbon)`; menu `FilePrepareMenu`. <!-- source-row:1040 -->
+- [ ] `FilePermissionView` — button; group `None (Not in the Ribbon)`; menu `FilePrepareMenu`. <!-- source-row:1041 -->
+- [ ] `FilePermissionRestrictMenu` — menu; group `None (Not in the Ribbon)`; menu `FilePrepareMenu`. <!-- source-row:1042 -->
+- [ ] `FilePermissionUnrestricted` — toggleButton; group `None (Not in the Ribbon)`; menu `FilePrepareMenu` → `FilePermissionRestrictMenu`. <!-- source-row:1043 -->
+- [ ] `FilePermissionDoNotDistribute` — toggleButton; group `None (Not in the Ribbon)`; menu `FilePrepareMenu` → `FilePermissionRestrictMenu`. <!-- source-row:1044 -->
+- [ ] `FileAddDigitalSignature` — button; group `None (Not in the Ribbon)`; menu `FilePrepareMenu`. <!-- source-row:1045 -->
+- [ ] `FileViewDigitalSignatures` — toggleButton; group `None (Not in the Ribbon)`; menu `FilePrepareMenu`. <!-- source-row:1046 -->
+- [ ] `FileMarkAsFinal` — toggleButton; group `None (Not in the Ribbon)`; menu `FilePrepareMenu`. <!-- source-row:1047 -->
+- [ ] `FileCompatibilityCheckerPowerPoint` — button; group `None (Not in the Ribbon)`; menu `FilePrepareMenu`. <!-- source-row:1048 -->
+- [ ] `FileLinksToFiles` — button; group `None (Not in the Ribbon)`; menu `FilePrepareMenu`. <!-- source-row:1049 -->
+- [ ] `MenuPublish` — menu. <!-- source-row:1050 -->
+- [ ] `FilePackageForCD` — button; group `None (Not in the Ribbon)`; menu `MenuPublish`. <!-- source-row:1051 -->
+- [ ] `FilePublishSlides` — button; group `None (Not in the Ribbon)`; menu `MenuPublish`. <!-- source-row:1052 -->
+- [ ] `CreateHandoutsInWord` — button; group `None (Not in the Ribbon)`; menu `MenuPublish`. <!-- source-row:1053 -->
+- [ ] `FileSaveToDocumentManagementServer` — button; group `None (Not in the Ribbon)`; menu `MenuPublish`. <!-- source-row:1054 -->
+- [ ] `FilePrintMenu` — splitButton. <!-- source-row:1055 -->
+- [ ] `PrintPreviewAndPrint` — button; group `None (Not in the Ribbon)`; menu `FilePrintMenu`. <!-- source-row:1056 -->
+- [ ] `FilePrintQuick` — button; group `None (Not in the Ribbon)`; menu `FilePrintMenu`. <!-- source-row:1057 -->
+- [ ] `FilePrintPreview` — toggleButton; group `None (Not in the Ribbon)`; menu `FilePrintMenu`. <!-- source-row:1058 -->
+- [ ] `FileSaveAsMenu` — splitButton. <!-- source-row:1059 -->
+- [ ] `FileSaveAs` — button; group `None (Not in the Ribbon)`; menu `FileSaveAsMenu`. <!-- source-row:1060 -->
+- [ ] `FileSaveAsPowerPointPptx` — button; group `None (Not in the Ribbon)`; menu `FileSaveAsMenu`. <!-- source-row:1061 -->
+- [ ] `FileSaveAsPowerPointPpsx` — button; group `None (Not in the Ribbon)`; menu `FileSaveAsMenu`. <!-- source-row:1062 -->
+- [ ] `FileSaveAsPowerPoint97_2003` — button; group `None (Not in the Ribbon)`; menu `FileSaveAsMenu`. <!-- source-row:1063 -->
+- [ ] `FileSaveAsPowerPointOpenDocumentPresentation` — button; group `None (Not in the Ribbon)`; menu `FileSaveAsMenu`. <!-- source-row:1064 -->
+- [ ] `AdvertisePublishAs` — button; group `None (Not in the Ribbon)`; menu `FileSaveAsMenu`. <!-- source-row:1065 -->
+- [ ] `FileSaveAsPdfOrXps` — button; group `None (Not in the Ribbon)`; menu `FileSaveAsMenu`. <!-- source-row:1066 -->
+- [ ] `FileSaveAsOtherFormats` — button; group `None (Not in the Ribbon)`; menu `FileSaveAsMenu`. <!-- source-row:1067 -->
+- [ ] `FileSendMenu` — menu. <!-- source-row:1068 -->
+- [ ] `FileSendAsAttachment` — button; group `None (Not in the Ribbon)`; menu `FileSendMenu`. <!-- source-row:1069 -->
+- [ ] `FileEmailAsPdfEmailAttachment` — button; group `None (Not in the Ribbon)`; menu `FileSendMenu`. <!-- source-row:1070 -->
+- [ ] `FileEmailAsXpsEmailAttachment` — button; group `None (Not in the Ribbon)`; menu `FileSendMenu`. <!-- source-row:1071 -->
+- [ ] `FileInternetFax` — button; group `None (Not in the Ribbon)`; menu `FileSendMenu`. <!-- source-row:1072 -->
+- [ ] `BroadcastSlideShowBackstage` — button; group `None (Not in the Ribbon)`; menu `FileSendMenu`. <!-- source-row:1073 -->
+- [ ] `BroadcastResume` — button; group `None (Not in the Ribbon)`; menu `FileSendMenu`. <!-- source-row:1074 -->
+- [ ] `FileServerTasksMenu` — menu. <!-- source-row:1075 -->
+- [ ] `FileCheckIn` — button; group `None (Not in the Ribbon)`; menu `FileServerTasksMenu`. <!-- source-row:1076 -->
+- [ ] `FileCheckOut` — button; group `None (Not in the Ribbon)`; menu `FileServerTasksMenu`. <!-- source-row:1077 -->
+- [ ] `FileCheckOutDiscard` — button; group `None (Not in the Ribbon)`; menu `FileServerTasksMenu`. <!-- source-row:1078 -->
+- [ ] `FileVersionHistory` — button; group `None (Not in the Ribbon)`; menu `FileServerTasksMenu`. <!-- source-row:1079 -->
+- [ ] `FileWorkflowTasks` — button; group `None (Not in the Ribbon)`; menu `FileServerTasksMenu`. <!-- source-row:1080 -->
+- [ ] `ReviewProtectPresentationMenu` — menu. <!-- source-row:1081 -->
+- [ ] `FilePermissionUnrestricted` — toggleButton; group `None (Not in the Ribbon)`; menu `ReviewProtectPresentationMenu`. <!-- source-row:1082 -->
+- [ ] `FilePermissionDoNotDistribute` — toggleButton; group `None (Not in the Ribbon)`; menu `ReviewProtectPresentationMenu`. <!-- source-row:1083 -->
+- [ ] `ChartShowData` — button. <!-- source-row:1084 -->
+
+## TabSmartArtToolsDesign
+
+Catalog tab: `TabSmartArtToolsDesign`.
+
+- [ ] `GroupSmartArtCreateGraphic` — group. <!-- source-row:1087 -->
+- [ ] `SmartArtAddShapeSplitMenu` — splitButton; group `GroupSmartArtCreateGraphic`. <!-- source-row:1088 -->
+- [ ] `SmartArtAddShape` — button; group `GroupSmartArtCreateGraphic`; menu `SmartArtAddShapeSplitMenu`. <!-- source-row:1089 -->
+- [ ] `SmartArtAddShapeAfter` — button; group `GroupSmartArtCreateGraphic`; menu `SmartArtAddShapeSplitMenu`. <!-- source-row:1090 -->
+- [ ] `SmartArtAddShapeBefore` — button; group `GroupSmartArtCreateGraphic`; menu `SmartArtAddShapeSplitMenu`. <!-- source-row:1091 -->
+- [ ] `SmartArtAddShapeAbove` — button; group `GroupSmartArtCreateGraphic`; menu `SmartArtAddShapeSplitMenu`. <!-- source-row:1092 -->
+- [ ] `SmartArtAddShapeBelow` — button; group `GroupSmartArtCreateGraphic`; menu `SmartArtAddShapeSplitMenu`. <!-- source-row:1093 -->
+- [ ] `SmartArtAddAssistant` — button; group `GroupSmartArtCreateGraphic`; menu `SmartArtAddShapeSplitMenu`. <!-- source-row:1094 -->
+- [ ] `SmartArtAddBullet` — button; group `GroupSmartArtCreateGraphic`. <!-- source-row:1095 -->
+- [ ] `SmartArtTextPane` — toggleButton; group `GroupSmartArtCreateGraphic`. <!-- source-row:1096 -->
+- [ ] `SmartArtPromote` — button; group `GroupSmartArtCreateGraphic`. <!-- source-row:1097 -->
+- [ ] `SmartArtDemote` — button; group `GroupSmartArtCreateGraphic`. <!-- source-row:1098 -->
+- [ ] `SmartArtRightToLeft` — toggleButton; group `GroupSmartArtCreateGraphic`. <!-- source-row:1099 -->
+- [ ] `SmartArtReorderUp` — button; group `GroupSmartArtCreateGraphic`. <!-- source-row:1100 -->
+- [ ] `SmartArtReorderDown` — button; group `GroupSmartArtCreateGraphic`. <!-- source-row:1101 -->
+- [ ] `SmartArtOrganizationChartMenu` — menu; group `GroupSmartArtCreateGraphic`. <!-- source-row:1102 -->
+- [ ] `SmartArtOrganizationChartStandard` — button; group `GroupSmartArtCreateGraphic`; menu `SmartArtOrganizationChartMenu`. <!-- source-row:1103 -->
+- [ ] `SmartArtOrganizationChartBoth` — button; group `GroupSmartArtCreateGraphic`; menu `SmartArtOrganizationChartMenu`. <!-- source-row:1104 -->
+- [ ] `SmartArtOrganizationChartLeftHanging` — button; group `GroupSmartArtCreateGraphic`; menu `SmartArtOrganizationChartMenu`. <!-- source-row:1105 -->
+- [ ] `SmartArtOrganizationChartRightHanging` — button; group `GroupSmartArtCreateGraphic`; menu `SmartArtOrganizationChartMenu`. <!-- source-row:1106 -->
+- [ ] `GroupSmartArtLayouts` — group. <!-- source-row:1107 -->
+- [ ] `SmartArtLayoutGallery` — gallery; group `GroupSmartArtLayouts`. <!-- source-row:1108 -->
+- [ ] `SmartArtMoreLayoutsDialog` — button; group `GroupSmartArtLayouts`; menu `SmartArtLayoutGallery`. <!-- source-row:1109 -->
+- [ ] `GroupSmartArtQuickStyles` — group. <!-- source-row:1110 -->
+- [ ] `SmartArtChangeColorsGallery` — gallery; group `GroupSmartArtQuickStyles`. <!-- source-row:1111 -->
+- [ ] `SmartArtRecolorImages` — toggleButton; group `GroupSmartArtQuickStyles`; menu `SmartArtChangeColorsGallery`. <!-- source-row:1112 -->
+- [ ] `SmartArtStylesGallery` — gallery; group `GroupSmartArtQuickStyles`. <!-- source-row:1113 -->
+- [ ] `GroupSmartArtReset` — group. <!-- source-row:1114 -->
+- [ ] `SmartArtResetGraphic` — button; group `GroupSmartArtReset`. <!-- source-row:1115 -->
+- [ ] `ConvertSmartArtMenu` — menu; group `GroupSmartArtReset`. <!-- source-row:1116 -->
+- [ ] `SmartArtConvedrtToText` — button; group `GroupSmartArtReset`; menu `ConvertSmartArtMenu`. <!-- source-row:1117 -->
+- [ ] `SmartArtConvertToShapes` — button; group `GroupSmartArtReset`; menu `ConvertSmartArtMenu`. <!-- source-row:1118 -->
+
+## TabSmartArtToolsFormat
+
+Catalog tab: `TabSmartArtToolsFormat`.
+
+- [ ] `GroupSmartArtShapes` — group. <!-- source-row:1120 -->
+- [ ] `SmartArtEditIn2D` — toggleButton; group `GroupSmartArtShapes`. <!-- source-row:1121 -->
+- [ ] `ShapeChangeShapeGallery` — gallery; group `GroupSmartArtShapes`. <!-- source-row:1122 -->
+- [ ] `SmartArtLargerShape` — button; group `GroupSmartArtShapes`. <!-- source-row:1123 -->
+- [ ] `SmartArtSmallerShape` — button; group `GroupSmartArtShapes`. <!-- source-row:1124 -->
+- [ ] `GroupShapeStyles` — group. <!-- source-row:1125 -->
+- [ ] `ShapeStylesGallery` — gallery; group `GroupShapeStyles`. <!-- source-row:1126 -->
+- [ ] `ShapeStylesOtherThemeFillsGallery` — gallery; group `GroupShapeStyles`; menu `ShapeStylesGallery`. <!-- source-row:1127 -->
+- [ ] `ShapeFillColorPicker` — gallery; group `GroupShapeStyles`. <!-- source-row:1128 -->
+- [ ] `ObjectFillMoreColorsDialog` — button; group `GroupShapeStyles`; menu `ShapeFillColorPicker`. <!-- source-row:1129 -->
+- [ ] `EyedropperFill` — button; group `GroupShapeStyles`; menu `ShapeFillColorPicker`. <!-- source-row:1130 -->
+- [ ] `ObjectPictureFill` — button; group `GroupShapeStyles`; menu `ShapeFillColorPicker`. <!-- source-row:1131 -->
+- [ ] `GradientGallery` — gallery; group `GroupShapeStyles`; menu `ShapeFillColorPicker`. <!-- source-row:1132 -->
+- [ ] `ShapeFillMoreGradientsDialog` — button; group `GroupShapeStyles`; menu `ShapeFillColorPicker` → `GradientGallery`. <!-- source-row:1133 -->
+- [ ] `ShapeFillTextureGallery` — gallery; group `GroupShapeStyles`; menu `ShapeFillColorPicker`. <!-- source-row:1134 -->
+- [ ] `MoreTextureOptions` — button; group `GroupShapeStyles`; menu `ShapeFillColorPicker` → `ShapeFillTextureGallery`. <!-- source-row:1135 -->
+- [ ] `ShapeOutlineColorPicker` — gallery; group `GroupShapeStyles`. <!-- source-row:1136 -->
+- [ ] `ObjectBorderOutlineColorMoreColorsDialog` — button; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker`. <!-- source-row:1137 -->
+- [ ] `EyedropperOutline` — button; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker`. <!-- source-row:1138 -->
+- [ ] `OutlineWeightGallery` — gallery; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker`. <!-- source-row:1139 -->
+- [ ] `LineStylesDialog` — button; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker` → `OutlineWeightGallery`. <!-- source-row:1140 -->
+- [ ] `OutlineDashesGallery` — gallery; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker`. <!-- source-row:1141 -->
+- [ ] `LineStylesDialog` — button; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker` → `OutlineDashesGallery`. <!-- source-row:1142 -->
+- [ ] `ArrowStyleGallery` — gallery; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker`. <!-- source-row:1143 -->
+- [ ] `ArrowsMore` — button; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker` → `ArrowStyleGallery`. <!-- source-row:1144 -->
+- [ ] `ShapeEffectsMenu` — menu; group `GroupShapeStyles`. <!-- source-row:1145 -->
+- [ ] `ObjectEffectPresetGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1146 -->
+- [ ] `_3DBevelOptionsDialog` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectPresetGallery`. <!-- source-row:1147 -->
+- [ ] `ObjectEffectShadowGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1148 -->
+- [ ] `ShadowOptionsDialog` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectShadowGallery`. <!-- source-row:1149 -->
+- [ ] `ReflectionGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1150 -->
+- [ ] `ReflectionsMoreOptions` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ReflectionGallery`. <!-- source-row:1151 -->
+- [ ] `ObjectEffectGlowGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1152 -->
+- [ ] `GlowColorPicker` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery`. <!-- source-row:1153 -->
+- [ ] `GlowColorMoreColorsDialog` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery` → `GlowColorPicker`. <!-- source-row:1154 -->
+- [ ] `EyedropperGlow` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery` → `GlowColorPicker`. <!-- source-row:1155 -->
+- [ ] `GlowsMoreOptions` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery`. <!-- source-row:1156 -->
+- [ ] `ObjectEffectSoftEdgesGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1157 -->
+- [ ] `SoftEdgesMoreOptions` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectSoftEdgesGallery`. <!-- source-row:1158 -->
+- [ ] `BevelShapeGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1159 -->
+- [ ] `_3DBevelOptionsDialog` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `BevelShapeGallery`. <!-- source-row:1160 -->
+- [ ] `_3DRotationGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1161 -->
+- [ ] `_3DRotationOptionsDialog` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `_3DRotationGallery`. <!-- source-row:1162 -->
+- [ ] `ObjectFormatDialog` — button (dialogBoxLauncher); group `GroupShapeStyles`. <!-- source-row:1163 -->
+- [ ] `GroupWordArtStyles` — group. <!-- source-row:1164 -->
+- [ ] `TextStylesGallery` — gallery; group `GroupWordArtStyles`. <!-- source-row:1165 -->
+- [ ] `WordArtClear` — button; group `GroupWordArtStyles`; menu `TextStylesGallery`. <!-- source-row:1166 -->
+- [ ] `TextFillColorPicker` — gallery; group `GroupWordArtStyles`. <!-- source-row:1167 -->
+- [ ] `TextFillColorMoreColorsDialog` — button; group `GroupWordArtStyles`; menu `TextFillColorPicker`. <!-- source-row:1168 -->
+- [ ] `EyedropperFillText` — button; group `GroupWordArtStyles`; menu `TextFillColorPicker`. <!-- source-row:1169 -->
+- [ ] `TextPictureFill` — button; group `GroupWordArtStyles`; menu `TextFillColorPicker`. <!-- source-row:1170 -->
+- [ ] `TextFillGradientGallery` — gallery; group `GroupWordArtStyles`; menu `TextFillColorPicker`. <!-- source-row:1171 -->
+- [ ] `TextFillMoreGradientsDialog` — button; group `GroupWordArtStyles`; menu `TextFillColorPicker` → `TextFillGradientGallery`. <!-- source-row:1172 -->
+- [ ] `TextFillTextureGallery` — gallery; group `GroupWordArtStyles`; menu `TextFillColorPicker`. <!-- source-row:1173 -->
+- [ ] `TextFillMoreTextures` — button; group `GroupWordArtStyles`; menu `TextFillColorPicker` → `TextFillTextureGallery`. <!-- source-row:1174 -->
+- [ ] `TextOutlineColorPicker` — gallery; group `GroupWordArtStyles`. <!-- source-row:1175 -->
+- [ ] `TextOutlineColorMoreColorsDialog` — button; group `GroupWordArtStyles`; menu `TextOutlineColorPicker`. <!-- source-row:1176 -->
+- [ ] `EyedropperOutlineText` — button; group `GroupWordArtStyles`; menu `TextOutlineColorPicker`. <!-- source-row:1177 -->
+- [ ] `TextOutlineWeightGallery` — gallery; group `GroupWordArtStyles`; menu `TextOutlineColorPicker`. <!-- source-row:1178 -->
+- [ ] `TextOutlineMoreLinesDialog` — button; group `GroupWordArtStyles`; menu `TextOutlineColorPicker` → `TextOutlineWeightGallery`. <!-- source-row:1179 -->
+- [ ] `TextOutlineDashesGallery` — gallery; group `GroupWordArtStyles`; menu `TextOutlineColorPicker`. <!-- source-row:1180 -->
+- [ ] `TextOutlineMoreLinesDialog` — button; group `GroupWordArtStyles`; menu `TextOutlineColorPicker` → `TextOutlineDashesGallery`. <!-- source-row:1181 -->
+- [ ] `TextEffectsMenu` — menu; group `GroupWordArtStyles`. <!-- source-row:1182 -->
+- [ ] `TextEffectShadowGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1183 -->
+- [ ] `TextEffectsMoreShadowsDialog` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffectShadowGallery`. <!-- source-row:1184 -->
+- [ ] `TextReflectionGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1185 -->
+- [ ] `TextEffectsReflectionsMoreOptions` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextReflectionGallery`. <!-- source-row:1186 -->
+- [ ] `TextEffectGlowGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1187 -->
+- [ ] `TextGlowColorPicker` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffectGlowGallery`. <!-- source-row:1188 -->
+- [ ] `TextGlowColorMoreColorsDialog` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffectGlowGallery` → `TextGlowColorPicker`. <!-- source-row:1189 -->
+- [ ] `EyedropperGlowText` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffectGlowGallery` → `TextGlowColorPicker`. <!-- source-row:1190 -->
+- [ ] `TextEffectsGlowsMoreOptions` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffectGlowGallery`. <!-- source-row:1191 -->
+- [ ] `BevelTextGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1192 -->
+- [ ] `TextEffectsBevelMore3DOptionsDialog` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `BevelTextGallery`. <!-- source-row:1193 -->
+- [ ] `TextEffects3DRotationGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1194 -->
+- [ ] `TextEffects3DRotationOptionsDialog` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffects3DRotationGallery`. <!-- source-row:1195 -->
+- [ ] `TextEffectTransformGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1196 -->
+- [ ] `WordArtFormatDialog` — button (dialogBoxLauncher); group `GroupWordArtStyles`. <!-- source-row:1197 -->
+- [ ] `GroupArrange` — group. <!-- source-row:1198 -->
+- [ ] `ObjectBringForwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:1199 -->
+- [ ] `ObjectBringForward` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:1200 -->
+- [ ] `ObjectBringToFront` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:1201 -->
+- [ ] `ObjectSendBackwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:1202 -->
+- [ ] `ObjectSendBackward` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:1203 -->
+- [ ] `ObjectSendToBack` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:1204 -->
+- [ ] `SelectionPane` — toggleButton; group `GroupArrange`. <!-- source-row:1205 -->
+- [ ] `ObjectAlignMenu` — menu; group `GroupArrange`. <!-- source-row:1206 -->
+- [ ] `ObjectsAlignLeftSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1207 -->
+- [ ] `ObjectsAlignCenterHorizontalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1208 -->
+- [ ] `ObjectsAlignRightSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1209 -->
+- [ ] `ObjectsAlignTopSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1210 -->
+- [ ] `ObjectsAlignMiddleVerticalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1211 -->
+- [ ] `ObjectsAlignBottomSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1212 -->
+- [ ] `AlignDistributeHorizontally` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1213 -->
+- [ ] `AlignDistributeVertically` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1214 -->
+- [ ] `ObjectsAlignRelativeToContainerSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1215 -->
+- [ ] `ObjectsAlignSelectedSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1216 -->
+- [ ] `ObjectsGroupMenu` — menu; group `GroupArrange`. <!-- source-row:1217 -->
+- [ ] `ObjectsGroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:1218 -->
+- [ ] `ObjectsRegroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:1219 -->
+- [ ] `ObjectsUngroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:1220 -->
+- [ ] `ObjectRotateGallery` — gallery; group `GroupArrange`. <!-- source-row:1221 -->
+- [ ] `ObjectRotationOptionsDialog` — button; group `GroupArrange`; menu `ObjectRotateGallery`. <!-- source-row:1222 -->
+- [ ] `GroupSmartArtSize` — group. <!-- source-row:1223 -->
+- [ ] `ShapeHeight` — control; group `GroupSmartArtSize`. <!-- source-row:1224 -->
+- [ ] `ShapeWidth` — control; group `GroupSmartArtSize`. <!-- source-row:1225 -->
+- [ ] `ObjectSizeAndPositionDialog` — button (dialogBoxLauncher); group `GroupSmartArtSize`. <!-- source-row:1226 -->
+
+## TabChartToolsDesignNew
+
+Catalog tab: `TabChartToolsDesignNew`.
+
+- [ ] `GroupChartLayouts` — group. <!-- source-row:1229 -->
+- [ ] `AddChartElementMenu` — menu; group `GroupChartLayouts`. <!-- source-row:1230 -->
+- [ ] `ChartAxesGallery` — gallery; group `GroupChartLayouts`; menu `AddChartElementMenu`. <!-- source-row:1231 -->
+- [ ] `ChartAxesOptionsDialog` — button; group `GroupChartLayouts`; menu `AddChartElementMenu` → `ChartAxesGallery`. <!-- source-row:1232 -->
+- [ ] `ChartAxisTitlesGallery` — gallery; group `GroupChartLayouts`; menu `AddChartElementMenu`. <!-- source-row:1233 -->
+- [ ] `ChartAxesTitlesOptionsDialog` — button; group `GroupChartLayouts`; menu `AddChartElementMenu` → `ChartAxisTitlesGallery`. <!-- source-row:1234 -->
+- [ ] `ChartTitle` — gallery; group `GroupChartLayouts`; menu `AddChartElementMenu`. <!-- source-row:1235 -->
+- [ ] `ChartTitleOptionsDialog` — button; group `GroupChartLayouts`; menu `AddChartElementMenu` → `ChartTitle`. <!-- source-row:1236 -->
+- [ ] `ChartDataLabel` — gallery; group `GroupChartLayouts`; menu `AddChartElementMenu`. <!-- source-row:1237 -->
+- [ ] `ChartDataLabelDialog` — button; group `GroupChartLayouts`; menu `AddChartElementMenu` → `ChartDataLabel`. <!-- source-row:1238 -->
+- [ ] `ChartDataTable` — gallery; group `GroupChartLayouts`; menu `AddChartElementMenu`. <!-- source-row:1239 -->
+- [ ] `ChartDataTableOptionsDialog` — button; group `GroupChartLayouts`; menu `AddChartElementMenu` → `ChartDataTable`. <!-- source-row:1240 -->
+- [ ] `ChartErrorBars` — gallery; group `GroupChartLayouts`; menu `AddChartElementMenu`. <!-- source-row:1241 -->
+- [ ] `ChartErrorBarsOptionsDialog` — button; group `GroupChartLayouts`; menu `AddChartElementMenu` → `ChartErrorBars`. <!-- source-row:1242 -->
+- [ ] `ChartGridlinesGallery` — gallery; group `GroupChartLayouts`; menu `AddChartElementMenu`. <!-- source-row:1243 -->
+- [ ] `ChartGridlineOptionsDialog` — button; group `GroupChartLayouts`; menu `AddChartElementMenu` → `ChartGridlinesGallery`. <!-- source-row:1244 -->
+- [ ] `ChartLegend` — gallery; group `GroupChartLayouts`; menu `AddChartElementMenu`. <!-- source-row:1245 -->
+- [ ] `ChartLegendOptionsDialogDialog` — button; group `GroupChartLayouts`; menu `AddChartElementMenu` → `ChartLegend`. <!-- source-row:1246 -->
+- [ ] `ChartLines` — gallery; group `GroupChartLayouts`; menu `AddChartElementMenu`. <!-- source-row:1247 -->
+- [ ] `ChartTrendline` — gallery; group `GroupChartLayouts`; menu `AddChartElementMenu`. <!-- source-row:1248 -->
+- [ ] `ChartTrendlineOptionsDialog` — button; group `GroupChartLayouts`; menu `AddChartElementMenu` → `ChartTrendline`. <!-- source-row:1249 -->
+- [ ] `ChartUpDownBars` — gallery; group `GroupChartLayouts`; menu `AddChartElementMenu`. <!-- source-row:1250 -->
+- [ ] `ChartUpDownBarsOptionsDialog` — button; group `GroupChartLayouts`; menu `AddChartElementMenu` → `ChartUpDownBars`. <!-- source-row:1251 -->
+- [ ] `ChartLayoutGallery` — gallery; group `GroupChartLayouts`. <!-- source-row:1252 -->
+- [ ] `GroupChartStyles` — group. <!-- source-row:1253 -->
+- [ ] `ChartColorsGallery` — gallery; group `GroupChartStyles`. <!-- source-row:1254 -->
+- [ ] `ChartStylesGallery` — gallery; group `GroupChartStyles`. <!-- source-row:1255 -->
+- [ ] `GroupChartData` — group. <!-- source-row:1256 -->
+- [ ] `ChartSwitchRowColumn` — button; group `GroupChartData`. <!-- source-row:1257 -->
+- [ ] `ChartEditDataSource` — button; group `GroupChartData`. <!-- source-row:1258 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `GroupChartData`. <!-- source-row:1259 -->
+- [ ] `ChartShowDataGrid` — button; group `GroupChartData`; menu `ChartEditDataMenu`. <!-- source-row:1260 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `GroupChartData`; menu `ChartEditDataMenu`. <!-- source-row:1261 -->
+- [ ] `ChartRefresh` — button; group `GroupChartData`. <!-- source-row:1262 -->
+- [ ] `GroupChartType` — group. <!-- source-row:1263 -->
+- [ ] `ChartChangeType` — button; group `GroupChartType`. <!-- source-row:1264 -->
+
+## TabChartToolsFormatNew
+
+Catalog tab: `TabChartToolsFormatNew`.
+
+- [ ] `GroupChartCurrentSelection` — group. <!-- source-row:1266 -->
+- [ ] `ChartElementSelector` — comboBox; group `GroupChartCurrentSelection`. <!-- source-row:1267 -->
+- [ ] `ChartFormatSelection` — button; group `GroupChartCurrentSelection`. <!-- source-row:1268 -->
+- [ ] `ChartResetToMatchStyle` — button; group `GroupChartCurrentSelection`. <!-- source-row:1269 -->
+- [ ] `GroupShapesChart` — group. <!-- source-row:1270 -->
+- [ ] `ShapesInsertGallery` — gallery; group `GroupShapesChart`. <!-- source-row:1271 -->
+- [ ] `ShapeChangeShapeGallery` — gallery; group `GroupShapesChart`. <!-- source-row:1272 -->
+- [ ] `GroupShapeStyles` — group. <!-- source-row:1273 -->
+- [ ] `ShapeStylesGallery` — gallery; group `GroupShapeStyles`. <!-- source-row:1274 -->
+- [ ] `ShapeStylesOtherThemeFillsGallery` — gallery; group `GroupShapeStyles`; menu `ShapeStylesGallery`. <!-- source-row:1275 -->
+- [ ] `ShapeFillColorPicker` — gallery; group `GroupShapeStyles`. <!-- source-row:1276 -->
+- [ ] `ObjectFillMoreColorsDialog` — button; group `GroupShapeStyles`; menu `ShapeFillColorPicker`. <!-- source-row:1277 -->
+- [ ] `EyedropperFill` — button; group `GroupShapeStyles`; menu `ShapeFillColorPicker`. <!-- source-row:1278 -->
+- [ ] `ObjectPictureFill` — button; group `GroupShapeStyles`; menu `ShapeFillColorPicker`. <!-- source-row:1279 -->
+- [ ] `GradientGallery` — gallery; group `GroupShapeStyles`; menu `ShapeFillColorPicker`. <!-- source-row:1280 -->
+- [ ] `ShapeFillMoreGradientsDialog` — button; group `GroupShapeStyles`; menu `ShapeFillColorPicker` → `GradientGallery`. <!-- source-row:1281 -->
+- [ ] `ShapeFillTextureGallery` — gallery; group `GroupShapeStyles`; menu `ShapeFillColorPicker`. <!-- source-row:1282 -->
+- [ ] `MoreTextureOptions` — button; group `GroupShapeStyles`; menu `ShapeFillColorPicker` → `ShapeFillTextureGallery`. <!-- source-row:1283 -->
+- [ ] `ShapeOutlineColorPicker` — gallery; group `GroupShapeStyles`. <!-- source-row:1284 -->
+- [ ] `ObjectBorderOutlineColorMoreColorsDialog` — button; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker`. <!-- source-row:1285 -->
+- [ ] `EyedropperOutline` — button; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker`. <!-- source-row:1286 -->
+- [ ] `OutlineWeightGallery` — gallery; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker`. <!-- source-row:1287 -->
+- [ ] `LineStylesDialog` — button; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker` → `OutlineWeightGallery`. <!-- source-row:1288 -->
+- [ ] `OutlineDashesGallery` — gallery; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker`. <!-- source-row:1289 -->
+- [ ] `LineStylesDialog` — button; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker` → `OutlineDashesGallery`. <!-- source-row:1290 -->
+- [ ] `ArrowStyleGallery` — gallery; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker`. <!-- source-row:1291 -->
+- [ ] `ArrowsMore` — button; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker` → `ArrowStyleGallery`. <!-- source-row:1292 -->
+- [ ] `ShapeEffectsMenu` — menu; group `GroupShapeStyles`. <!-- source-row:1293 -->
+- [ ] `ObjectEffectPresetGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1294 -->
+- [ ] `_3DBevelOptionsDialog` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectPresetGallery`. <!-- source-row:1295 -->
+- [ ] `ObjectEffectShadowGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1296 -->
+- [ ] `ShadowOptionsDialog` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectShadowGallery`. <!-- source-row:1297 -->
+- [ ] `ReflectionGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1298 -->
+- [ ] `ReflectionsMoreOptions` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ReflectionGallery`. <!-- source-row:1299 -->
+- [ ] `ObjectEffectGlowGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1300 -->
+- [ ] `GlowColorPicker` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery`. <!-- source-row:1301 -->
+- [ ] `GlowColorMoreColorsDialog` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery` → `GlowColorPicker`. <!-- source-row:1302 -->
+- [ ] `EyedropperGlow` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery` → `GlowColorPicker`. <!-- source-row:1303 -->
+- [ ] `GlowsMoreOptions` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery`. <!-- source-row:1304 -->
+- [ ] `ObjectEffectSoftEdgesGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1305 -->
+- [ ] `SoftEdgesMoreOptions` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectSoftEdgesGallery`. <!-- source-row:1306 -->
+- [ ] `BevelShapeGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1307 -->
+- [ ] `_3DBevelOptionsDialog` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `BevelShapeGallery`. <!-- source-row:1308 -->
+- [ ] `_3DRotationGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1309 -->
+- [ ] `_3DRotationOptionsDialog` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `_3DRotationGallery`. <!-- source-row:1310 -->
+- [ ] `ObjectFormatDialog` — button (dialogBoxLauncher); group `GroupShapeStyles`. <!-- source-row:1311 -->
+- [ ] `GroupWordArtStyles` — group. <!-- source-row:1312 -->
+- [ ] `TextStylesGallery` — gallery; group `GroupWordArtStyles`. <!-- source-row:1313 -->
+- [ ] `WordArtClear` — button; group `GroupWordArtStyles`; menu `TextStylesGallery`. <!-- source-row:1314 -->
+- [ ] `TextFillColorPicker` — gallery; group `GroupWordArtStyles`. <!-- source-row:1315 -->
+- [ ] `TextFillColorMoreColorsDialog` — button; group `GroupWordArtStyles`; menu `TextFillColorPicker`. <!-- source-row:1316 -->
+- [ ] `EyedropperFillText` — button; group `GroupWordArtStyles`; menu `TextFillColorPicker`. <!-- source-row:1317 -->
+- [ ] `TextPictureFill` — button; group `GroupWordArtStyles`; menu `TextFillColorPicker`. <!-- source-row:1318 -->
+- [ ] `TextFillGradientGallery` — gallery; group `GroupWordArtStyles`; menu `TextFillColorPicker`. <!-- source-row:1319 -->
+- [ ] `TextFillMoreGradientsDialog` — button; group `GroupWordArtStyles`; menu `TextFillColorPicker` → `TextFillGradientGallery`. <!-- source-row:1320 -->
+- [ ] `TextFillTextureGallery` — gallery; group `GroupWordArtStyles`; menu `TextFillColorPicker`. <!-- source-row:1321 -->
+- [ ] `TextFillMoreTextures` — button; group `GroupWordArtStyles`; menu `TextFillColorPicker` → `TextFillTextureGallery`. <!-- source-row:1322 -->
+- [ ] `TextOutlineColorPicker` — gallery; group `GroupWordArtStyles`. <!-- source-row:1323 -->
+- [ ] `TextOutlineColorMoreColorsDialog` — button; group `GroupWordArtStyles`; menu `TextOutlineColorPicker`. <!-- source-row:1324 -->
+- [ ] `EyedropperOutlineText` — button; group `GroupWordArtStyles`; menu `TextOutlineColorPicker`. <!-- source-row:1325 -->
+- [ ] `TextOutlineWeightGallery` — gallery; group `GroupWordArtStyles`; menu `TextOutlineColorPicker`. <!-- source-row:1326 -->
+- [ ] `TextOutlineMoreLinesDialog` — button; group `GroupWordArtStyles`; menu `TextOutlineColorPicker` → `TextOutlineWeightGallery`. <!-- source-row:1327 -->
+- [ ] `TextOutlineDashesGallery` — gallery; group `GroupWordArtStyles`; menu `TextOutlineColorPicker`. <!-- source-row:1328 -->
+- [ ] `TextOutlineMoreLinesDialog` — button; group `GroupWordArtStyles`; menu `TextOutlineColorPicker` → `TextOutlineDashesGallery`. <!-- source-row:1329 -->
+- [ ] `TextEffectsMenu` — menu; group `GroupWordArtStyles`. <!-- source-row:1330 -->
+- [ ] `TextEffectShadowGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1331 -->
+- [ ] `TextEffectsMoreShadowsDialog` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffectShadowGallery`. <!-- source-row:1332 -->
+- [ ] `TextReflectionGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1333 -->
+- [ ] `TextEffectsReflectionsMoreOptions` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextReflectionGallery`. <!-- source-row:1334 -->
+- [ ] `TextEffectGlowGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1335 -->
+- [ ] `TextGlowColorPicker` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffectGlowGallery`. <!-- source-row:1336 -->
+- [ ] `TextGlowColorMoreColorsDialog` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffectGlowGallery` → `TextGlowColorPicker`. <!-- source-row:1337 -->
+- [ ] `EyedropperGlowText` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffectGlowGallery` → `TextGlowColorPicker`. <!-- source-row:1338 -->
+- [ ] `TextEffectsGlowsMoreOptions` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffectGlowGallery`. <!-- source-row:1339 -->
+- [ ] `BevelTextGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1340 -->
+- [ ] `TextEffectsBevelMore3DOptionsDialog` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `BevelTextGallery`. <!-- source-row:1341 -->
+- [ ] `TextEffects3DRotationGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1342 -->
+- [ ] `TextEffects3DRotationOptionsDialog` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffects3DRotationGallery`. <!-- source-row:1343 -->
+- [ ] `TextEffectTransformGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1344 -->
+- [ ] `WordArtFormatDialog` — button (dialogBoxLauncher); group `GroupWordArtStyles`. <!-- source-row:1345 -->
+- [ ] `GroupArrange` — group. <!-- source-row:1346 -->
+- [ ] `ObjectBringForwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:1347 -->
+- [ ] `ObjectBringForward` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:1348 -->
+- [ ] `ObjectBringToFront` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:1349 -->
+- [ ] `ObjectSendBackwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:1350 -->
+- [ ] `ObjectSendBackward` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:1351 -->
+- [ ] `ObjectSendToBack` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:1352 -->
+- [ ] `SelectionPane` — toggleButton; group `GroupArrange`. <!-- source-row:1353 -->
+- [ ] `ObjectAlignMenu` — menu; group `GroupArrange`. <!-- source-row:1354 -->
+- [ ] `ObjectsAlignLeftSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1355 -->
+- [ ] `ObjectsAlignCenterHorizontalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1356 -->
+- [ ] `ObjectsAlignRightSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1357 -->
+- [ ] `ObjectsAlignTopSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1358 -->
+- [ ] `ObjectsAlignMiddleVerticalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1359 -->
+- [ ] `ObjectsAlignBottomSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1360 -->
+- [ ] `AlignDistributeHorizontally` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1361 -->
+- [ ] `AlignDistributeVertically` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1362 -->
+- [ ] `ObjectsAlignRelativeToContainerSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1363 -->
+- [ ] `ObjectsAlignSelectedSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1364 -->
+- [ ] `ObjectsGroupMenu` — menu; group `GroupArrange`. <!-- source-row:1365 -->
+- [ ] `ObjectsGroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:1366 -->
+- [ ] `ObjectsRegroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:1367 -->
+- [ ] `ObjectsUngroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:1368 -->
+- [ ] `ObjectRotateGallery` — gallery; group `GroupArrange`. <!-- source-row:1369 -->
+- [ ] `ObjectRotationOptionsDialog` — button; group `GroupArrange`; menu `ObjectRotateGallery`. <!-- source-row:1370 -->
+- [ ] `GroupSize` — group. <!-- source-row:1371 -->
+- [ ] `ShapeHeight` — control; group `GroupSize`. <!-- source-row:1372 -->
+- [ ] `ShapeWidth` — control; group `GroupSize`. <!-- source-row:1373 -->
+- [ ] `ObjectSizeAndPositionDialog` — button (dialogBoxLauncher); group `GroupSize`. <!-- source-row:1374 -->
+
+## TabChartToolsDesign
+
+Catalog tab: `TabChartToolsDesign`.
+
+- [ ] `GroupChartData` — group. <!-- source-row:1376 -->
+- [ ] `ChartSwitchRowColumn` — button; group `GroupChartData`. <!-- source-row:1377 -->
+- [ ] `ChartEditDataSource` — button; group `GroupChartData`. <!-- source-row:1378 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `GroupChartData`. <!-- source-row:1379 -->
+- [ ] `ChartShowDataGrid` — button; group `GroupChartData`; menu `ChartEditDataMenu`. <!-- source-row:1380 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `GroupChartData`; menu `ChartEditDataMenu`. <!-- source-row:1381 -->
+- [ ] `ChartRefresh` — button; group `GroupChartData`. <!-- source-row:1382 -->
+- [ ] `GroupChartStyles` — group. <!-- source-row:1383 -->
+- [ ] `ChartColorsGallery` — gallery; group `GroupChartStyles`. <!-- source-row:1384 -->
+- [ ] `ChartStylesGallery` — gallery; group `GroupChartStyles`. <!-- source-row:1385 -->
+
+## TabChartToolsLayout
+
+Catalog tab: `TabChartToolsLayout`.
+
+- [ ] `GroupChartCurrentSelection` — group. <!-- source-row:1387 -->
+- [ ] `ChartElementSelector` — comboBox; group `GroupChartCurrentSelection`. <!-- source-row:1388 -->
+- [ ] `ChartFormatSelection` — button; group `GroupChartCurrentSelection`. <!-- source-row:1389 -->
+- [ ] `ChartResetToMatchStyle` — button; group `GroupChartCurrentSelection`. <!-- source-row:1390 -->
+- [ ] `GroupChartShapes` — group. <!-- source-row:1391 -->
+- [ ] `PictureInsertFromFile` — button; group `GroupChartShapes`. <!-- source-row:1392 -->
+- [ ] `ShapesInsertGallery` — gallery; group `GroupChartShapes`. <!-- source-row:1393 -->
+- [ ] `TextBoxInsert` — toggleButton; group `GroupChartShapes`. <!-- source-row:1394 -->
+- [ ] `TextBoxInsertMenu` — splitButton; group `GroupChartShapes`. <!-- source-row:1395 -->
+- [ ] `TextBoxInsertHorizontal` — toggleButton; group `GroupChartShapes`; menu `TextBoxInsertMenu`. <!-- source-row:1396 -->
+- [ ] `TextBoxInsertVertical` — toggleButton; group `GroupChartShapes`; menu `TextBoxInsertMenu`. <!-- source-row:1397 -->
+- [ ] `GroupChartLabels` — group. <!-- source-row:1398 -->
+- [ ] `ChartTitle` — gallery; group `GroupChartLabels`. <!-- source-row:1399 -->
+- [ ] `ChartTitleOptionsDialog` — button; group `GroupChartLabels`; menu `ChartTitle`. <!-- source-row:1400 -->
+- [ ] `ChartAxisTitles` — menu; group `GroupChartLabels`. <!-- source-row:1401 -->
+- [ ] `ChartPrimaryHorizontalAxisTitle` — gallery; group `GroupChartLabels`; menu `ChartAxisTitles`. <!-- source-row:1402 -->
+- [ ] `ChartPrimaryHorizontalAxisTitleOptionsDialog` — button; group `GroupChartLabels`; menu `ChartAxisTitles` → `ChartPrimaryHorizontalAxisTitle`. <!-- source-row:1403 -->
+- [ ] `ChartPrimaryVerticalAxisTitle` — gallery; group `GroupChartLabels`; menu `ChartAxisTitles`. <!-- source-row:1404 -->
+- [ ] `ChartPrimaryVerticalAxisTitleOptionsDialog` — button; group `GroupChartLabels`; menu `ChartAxisTitles` → `ChartPrimaryVerticalAxisTitle`. <!-- source-row:1405 -->
+- [ ] `ChartSecondaryHorizontalAxisTitle` — gallery; group `GroupChartLabels`; menu `ChartAxisTitles`. <!-- source-row:1406 -->
+- [ ] `ChartSecondaryHorizontalAxisTitleOptionsDialog` — button; group `GroupChartLabels`; menu `ChartAxisTitles` → `ChartSecondaryHorizontalAxisTitle`. <!-- source-row:1407 -->
+- [ ] `ChartSecondaryVerticalAxisTitle` — gallery; group `GroupChartLabels`; menu `ChartAxisTitles`. <!-- source-row:1408 -->
+- [ ] `ChartSecondaryVerticalAxisTitleOptionsDialog` — button; group `GroupChartLabels`; menu `ChartAxisTitles` → `ChartSecondaryVerticalAxisTitle`. <!-- source-row:1409 -->
+- [ ] `ChartDepthAxisTitle` — gallery; group `GroupChartLabels`; menu `ChartAxisTitles`. <!-- source-row:1410 -->
+- [ ] `ChartDepthAxisTitleOptionsDialog` — button; group `GroupChartLabels`; menu `ChartAxisTitles` → `ChartDepthAxisTitle`. <!-- source-row:1411 -->
+- [ ] `ChartLegend` — gallery; group `GroupChartLabels`. <!-- source-row:1412 -->
+- [ ] `ChartLegendOptionsDialogDialog` — button; group `GroupChartLabels`; menu `ChartLegend`. <!-- source-row:1413 -->
+- [ ] `ChartDataLabel` — gallery; group `GroupChartLabels`. <!-- source-row:1414 -->
+- [ ] `ChartDataLabelDialog` — button; group `GroupChartLabels`; menu `ChartDataLabel`. <!-- source-row:1415 -->
+- [ ] `ChartDataTable` — gallery; group `GroupChartLabels`. <!-- source-row:1416 -->
+- [ ] `ChartDataTableOptionsDialog` — button; group `GroupChartLabels`; menu `ChartDataTable`. <!-- source-row:1417 -->
+- [ ] `GroupChartAxes` — group. <!-- source-row:1418 -->
+- [ ] `ChartAxes` — menu; group `GroupChartAxes`. <!-- source-row:1419 -->
+- [ ] `ChartPrimaryHorizontalAxis` — gallery; group `GroupChartAxes`; menu `ChartAxes`. <!-- source-row:1420 -->
+- [ ] `ChartPrimaryHorizontalAxisOptionsDialog` — button; group `GroupChartAxes`; menu `ChartAxes` → `ChartPrimaryHorizontalAxis`. <!-- source-row:1421 -->
+- [ ] `ChartPrimaryVerticalAxis` — gallery; group `GroupChartAxes`; menu `ChartAxes`. <!-- source-row:1422 -->
+- [ ] `ChartPrimaryVerticalAxisOptionsDialog` — button; group `GroupChartAxes`; menu `ChartAxes` → `ChartPrimaryVerticalAxis`. <!-- source-row:1423 -->
+- [ ] `ChartSecondaryHorizontalAxis` — gallery; group `GroupChartAxes`; menu `ChartAxes`. <!-- source-row:1424 -->
+- [ ] `ChartSecondaryHorizontalAxisOption` — button; group `GroupChartAxes`; menu `ChartAxes` → `ChartSecondaryHorizontalAxis`. <!-- source-row:1425 -->
+- [ ] `ChartSecondaryVerticalAxis` — gallery; group `GroupChartAxes`; menu `ChartAxes`. <!-- source-row:1426 -->
+- [ ] `ChartSecondaryVerticalAxisOptionsDialog` — button; group `GroupChartAxes`; menu `ChartAxes` → `ChartSecondaryVerticalAxis`. <!-- source-row:1427 -->
+- [ ] `ChartDepthAxis` — gallery; group `GroupChartAxes`; menu `ChartAxes`. <!-- source-row:1428 -->
+- [ ] `ChartDepthAxisOptionsDialog` — button; group `GroupChartAxes`; menu `ChartAxes` → `ChartDepthAxis`. <!-- source-row:1429 -->
+- [ ] `ChartGridlines` — menu; group `GroupChartAxes`. <!-- source-row:1430 -->
+- [ ] `ChartPrimaryHorizontalGridlines` — gallery; group `GroupChartAxes`; menu `ChartGridlines`. <!-- source-row:1431 -->
+- [ ] `ChartPrimaryHorizontalGridlinesOptionsDialog` — button; group `GroupChartAxes`; menu `ChartGridlines` → `ChartPrimaryHorizontalGridlines`. <!-- source-row:1432 -->
+- [ ] `ChartPrimaryVerticalGridlines` — gallery; group `GroupChartAxes`; menu `ChartGridlines`. <!-- source-row:1433 -->
+- [ ] `ChartPrimaryVerticalGridlinesOptionsDialog` — button; group `GroupChartAxes`; menu `ChartGridlines` → `ChartPrimaryVerticalGridlines`. <!-- source-row:1434 -->
+- [ ] `ChartSecondaryHorizontalGridlines` — gallery; group `GroupChartAxes`; menu `ChartGridlines`. <!-- source-row:1435 -->
+- [ ] `ChartSecondaryHorizontalGridlinesOptionsDialog` — button; group `GroupChartAxes`; menu `ChartGridlines` → `ChartSecondaryHorizontalGridlines`. <!-- source-row:1436 -->
+- [ ] `ChartSecondaryVerticalGridlines` — gallery; group `GroupChartAxes`; menu `ChartGridlines`. <!-- source-row:1437 -->
+- [ ] `ChartSecondaryVerticalGridlinesOptionsDialog` — button; group `GroupChartAxes`; menu `ChartGridlines` → `ChartSecondaryVerticalGridlines`. <!-- source-row:1438 -->
+- [ ] `ChartDepthGridlines` — gallery; group `GroupChartAxes`; menu `ChartGridlines`. <!-- source-row:1439 -->
+- [ ] `ChartDepthGridlinesOptionsDialog` — button; group `GroupChartAxes`; menu `ChartGridlines` → `ChartDepthGridlines`. <!-- source-row:1440 -->
+- [ ] `GroupChartBackground` — group. <!-- source-row:1441 -->
+- [ ] `ChartPlotArea` — gallery; group `GroupChartBackground`. <!-- source-row:1442 -->
+- [ ] `ChartPlotAreaOptionsDialog` — button; group `GroupChartBackground`; menu `ChartPlotArea`. <!-- source-row:1443 -->
+- [ ] `ChartWall` — gallery; group `GroupChartBackground`. <!-- source-row:1444 -->
+- [ ] `ChartWallOptionsDialog` — button; group `GroupChartBackground`; menu `ChartWall`. <!-- source-row:1445 -->
+- [ ] `ChartFloor` — gallery; group `GroupChartBackground`. <!-- source-row:1446 -->
+- [ ] `ChartFloorOptionsDialog` — button; group `GroupChartBackground`; menu `ChartFloor`. <!-- source-row:1447 -->
+- [ ] `Chart3DView` — button; group `GroupChartBackground`. <!-- source-row:1448 -->
+- [ ] `GroupChartAnalysis` — group. <!-- source-row:1449 -->
+- [ ] `ChartTrendline` — gallery; group `GroupChartAnalysis`. <!-- source-row:1450 -->
+- [ ] `ChartTrendlineOptionsDialog` — button; group `GroupChartAnalysis`; menu `ChartTrendline`. <!-- source-row:1451 -->
+- [ ] `ChartLines` — gallery; group `GroupChartAnalysis`. <!-- source-row:1452 -->
+- [ ] `ChartUpDownBars` — gallery; group `GroupChartAnalysis`. <!-- source-row:1453 -->
+- [ ] `ChartUpDownBarsOptionsDialog` — button; group `GroupChartAnalysis`; menu `ChartUpDownBars`. <!-- source-row:1454 -->
+- [ ] `ChartErrorBars` — gallery; group `GroupChartAnalysis`. <!-- source-row:1455 -->
+- [ ] `ChartErrorBarsOptionsDialog` — button; group `GroupChartAnalysis`; menu `ChartErrorBars`. <!-- source-row:1456 -->
+
+## TabChartToolsFormat
+
+Catalog tab: `TabChartToolsFormat`.
+
+- [ ] `GroupChartCurrentSelection` — group. <!-- source-row:1458 -->
+- [ ] `ChartElementSelector` — comboBox; group `GroupChartCurrentSelection`. <!-- source-row:1459 -->
+- [ ] `ChartFormatSelection` — button; group `GroupChartCurrentSelection`. <!-- source-row:1460 -->
+- [ ] `ChartResetToMatchStyle` — button; group `GroupChartCurrentSelection`. <!-- source-row:1461 -->
+- [ ] `GroupShapeStyles` — group. <!-- source-row:1462 -->
+- [ ] `ShapeStylesGallery` — gallery; group `GroupShapeStyles`. <!-- source-row:1463 -->
+- [ ] `ShapeStylesOtherThemeFillsGallery` — gallery; group `GroupShapeStyles`; menu `ShapeStylesGallery`. <!-- source-row:1464 -->
+- [ ] `ShapeFillColorPicker` — gallery; group `GroupShapeStyles`. <!-- source-row:1465 -->
+- [ ] `ObjectFillMoreColorsDialog` — button; group `GroupShapeStyles`; menu `ShapeFillColorPicker`. <!-- source-row:1466 -->
+- [ ] `EyedropperFill` — button; group `GroupShapeStyles`; menu `ShapeFillColorPicker`. <!-- source-row:1467 -->
+- [ ] `ObjectPictureFill` — button; group `GroupShapeStyles`; menu `ShapeFillColorPicker`. <!-- source-row:1468 -->
+- [ ] `GradientGallery` — gallery; group `GroupShapeStyles`; menu `ShapeFillColorPicker`. <!-- source-row:1469 -->
+- [ ] `ShapeFillMoreGradientsDialog` — button; group `GroupShapeStyles`; menu `ShapeFillColorPicker` → `GradientGallery`. <!-- source-row:1470 -->
+- [ ] `ShapeFillTextureGallery` — gallery; group `GroupShapeStyles`; menu `ShapeFillColorPicker`. <!-- source-row:1471 -->
+- [ ] `MoreTextureOptions` — button; group `GroupShapeStyles`; menu `ShapeFillColorPicker` → `ShapeFillTextureGallery`. <!-- source-row:1472 -->
+- [ ] `ShapeOutlineColorPicker` — gallery; group `GroupShapeStyles`. <!-- source-row:1473 -->
+- [ ] `ObjectBorderOutlineColorMoreColorsDialog` — button; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker`. <!-- source-row:1474 -->
+- [ ] `EyedropperOutline` — button; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker`. <!-- source-row:1475 -->
+- [ ] `OutlineWeightGallery` — gallery; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker`. <!-- source-row:1476 -->
+- [ ] `LineStylesDialog` — button; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker` → `OutlineWeightGallery`. <!-- source-row:1477 -->
+- [ ] `OutlineDashesGallery` — gallery; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker`. <!-- source-row:1478 -->
+- [ ] `LineStylesDialog` — button; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker` → `OutlineDashesGallery`. <!-- source-row:1479 -->
+- [ ] `ArrowStyleGallery` — gallery; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker`. <!-- source-row:1480 -->
+- [ ] `ArrowsMore` — button; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker` → `ArrowStyleGallery`. <!-- source-row:1481 -->
+- [ ] `ShapeEffectsMenu` — menu; group `GroupShapeStyles`. <!-- source-row:1482 -->
+- [ ] `ObjectEffectPresetGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1483 -->
+- [ ] `_3DBevelOptionsDialog` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectPresetGallery`. <!-- source-row:1484 -->
+- [ ] `ObjectEffectShadowGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1485 -->
+- [ ] `ShadowOptionsDialog` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectShadowGallery`. <!-- source-row:1486 -->
+- [ ] `ReflectionGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1487 -->
+- [ ] `ReflectionsMoreOptions` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ReflectionGallery`. <!-- source-row:1488 -->
+- [ ] `ObjectEffectGlowGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1489 -->
+- [ ] `GlowColorPicker` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery`. <!-- source-row:1490 -->
+- [ ] `GlowColorMoreColorsDialog` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery` → `GlowColorPicker`. <!-- source-row:1491 -->
+- [ ] `EyedropperGlow` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery` → `GlowColorPicker`. <!-- source-row:1492 -->
+- [ ] `GlowsMoreOptions` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery`. <!-- source-row:1493 -->
+- [ ] `ObjectEffectSoftEdgesGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1494 -->
+- [ ] `SoftEdgesMoreOptions` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectSoftEdgesGallery`. <!-- source-row:1495 -->
+- [ ] `BevelShapeGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1496 -->
+- [ ] `_3DBevelOptionsDialog` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `BevelShapeGallery`. <!-- source-row:1497 -->
+- [ ] `_3DRotationGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1498 -->
+- [ ] `_3DRotationOptionsDialog` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `_3DRotationGallery`. <!-- source-row:1499 -->
+- [ ] `ObjectFormatDialog` — button (dialogBoxLauncher); group `GroupShapeStyles`. <!-- source-row:1500 -->
+- [ ] `GroupWordArtStyles` — group. <!-- source-row:1501 -->
+- [ ] `TextStylesGallery` — gallery; group `GroupWordArtStyles`. <!-- source-row:1502 -->
+- [ ] `WordArtClear` — button; group `GroupWordArtStyles`; menu `TextStylesGallery`. <!-- source-row:1503 -->
+- [ ] `TextFillColorPicker` — gallery; group `GroupWordArtStyles`. <!-- source-row:1504 -->
+- [ ] `TextFillColorMoreColorsDialog` — button; group `GroupWordArtStyles`; menu `TextFillColorPicker`. <!-- source-row:1505 -->
+- [ ] `EyedropperFillText` — button; group `GroupWordArtStyles`; menu `TextFillColorPicker`. <!-- source-row:1506 -->
+- [ ] `TextPictureFill` — button; group `GroupWordArtStyles`; menu `TextFillColorPicker`. <!-- source-row:1507 -->
+- [ ] `TextFillGradientGallery` — gallery; group `GroupWordArtStyles`; menu `TextFillColorPicker`. <!-- source-row:1508 -->
+- [ ] `TextFillMoreGradientsDialog` — button; group `GroupWordArtStyles`; menu `TextFillColorPicker` → `TextFillGradientGallery`. <!-- source-row:1509 -->
+- [ ] `TextFillTextureGallery` — gallery; group `GroupWordArtStyles`; menu `TextFillColorPicker`. <!-- source-row:1510 -->
+- [ ] `TextFillMoreTextures` — button; group `GroupWordArtStyles`; menu `TextFillColorPicker` → `TextFillTextureGallery`. <!-- source-row:1511 -->
+- [ ] `TextOutlineColorPicker` — gallery; group `GroupWordArtStyles`. <!-- source-row:1512 -->
+- [ ] `TextOutlineColorMoreColorsDialog` — button; group `GroupWordArtStyles`; menu `TextOutlineColorPicker`. <!-- source-row:1513 -->
+- [ ] `EyedropperOutlineText` — button; group `GroupWordArtStyles`; menu `TextOutlineColorPicker`. <!-- source-row:1514 -->
+- [ ] `TextOutlineWeightGallery` — gallery; group `GroupWordArtStyles`; menu `TextOutlineColorPicker`. <!-- source-row:1515 -->
+- [ ] `TextOutlineMoreLinesDialog` — button; group `GroupWordArtStyles`; menu `TextOutlineColorPicker` → `TextOutlineWeightGallery`. <!-- source-row:1516 -->
+- [ ] `TextOutlineDashesGallery` — gallery; group `GroupWordArtStyles`; menu `TextOutlineColorPicker`. <!-- source-row:1517 -->
+- [ ] `TextOutlineMoreLinesDialog` — button; group `GroupWordArtStyles`; menu `TextOutlineColorPicker` → `TextOutlineDashesGallery`. <!-- source-row:1518 -->
+- [ ] `TextEffectsMenu` — menu; group `GroupWordArtStyles`. <!-- source-row:1519 -->
+- [ ] `TextEffectShadowGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1520 -->
+- [ ] `TextEffectsMoreShadowsDialog` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffectShadowGallery`. <!-- source-row:1521 -->
+- [ ] `TextReflectionGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1522 -->
+- [ ] `TextEffectsReflectionsMoreOptions` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextReflectionGallery`. <!-- source-row:1523 -->
+- [ ] `TextEffectGlowGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1524 -->
+- [ ] `TextGlowColorPicker` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffectGlowGallery`. <!-- source-row:1525 -->
+- [ ] `TextGlowColorMoreColorsDialog` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffectGlowGallery` → `TextGlowColorPicker`. <!-- source-row:1526 -->
+- [ ] `EyedropperGlowText` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffectGlowGallery` → `TextGlowColorPicker`. <!-- source-row:1527 -->
+- [ ] `TextEffectsGlowsMoreOptions` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffectGlowGallery`. <!-- source-row:1528 -->
+- [ ] `BevelTextGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1529 -->
+- [ ] `TextEffectsBevelMore3DOptionsDialog` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `BevelTextGallery`. <!-- source-row:1530 -->
+- [ ] `TextEffects3DRotationGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1531 -->
+- [ ] `TextEffects3DRotationOptionsDialog` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffects3DRotationGallery`. <!-- source-row:1532 -->
+- [ ] `TextEffectTransformGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1533 -->
+- [ ] `WordArtFormatDialog` — button (dialogBoxLauncher); group `GroupWordArtStyles`. <!-- source-row:1534 -->
+- [ ] `GroupArrange` — group. <!-- source-row:1535 -->
+- [ ] `ObjectBringForwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:1536 -->
+- [ ] `ObjectBringForward` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:1537 -->
+- [ ] `ObjectBringToFront` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:1538 -->
+- [ ] `ObjectSendBackwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:1539 -->
+- [ ] `ObjectSendBackward` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:1540 -->
+- [ ] `ObjectSendToBack` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:1541 -->
+- [ ] `SelectionPane` — toggleButton; group `GroupArrange`. <!-- source-row:1542 -->
+- [ ] `ObjectAlignMenu` — menu; group `GroupArrange`. <!-- source-row:1543 -->
+- [ ] `ObjectsAlignLeftSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1544 -->
+- [ ] `ObjectsAlignCenterHorizontalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1545 -->
+- [ ] `ObjectsAlignRightSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1546 -->
+- [ ] `ObjectsAlignTopSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1547 -->
+- [ ] `ObjectsAlignMiddleVerticalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1548 -->
+- [ ] `ObjectsAlignBottomSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1549 -->
+- [ ] `AlignDistributeHorizontally` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1550 -->
+- [ ] `AlignDistributeVertically` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1551 -->
+- [ ] `ObjectsAlignRelativeToContainerSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1552 -->
+- [ ] `ObjectsAlignSelectedSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1553 -->
+- [ ] `ObjectsGroupMenu` — menu; group `GroupArrange`. <!-- source-row:1554 -->
+- [ ] `ObjectsGroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:1555 -->
+- [ ] `ObjectsRegroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:1556 -->
+- [ ] `ObjectsUngroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:1557 -->
+- [ ] `ObjectRotateGallery` — gallery; group `GroupArrange`. <!-- source-row:1558 -->
+- [ ] `ObjectRotationOptionsDialog` — button; group `GroupArrange`; menu `ObjectRotateGallery`. <!-- source-row:1559 -->
+- [ ] `GroupSize` — group. <!-- source-row:1560 -->
+- [ ] `ShapeHeight` — control; group `GroupSize`. <!-- source-row:1561 -->
+- [ ] `ShapeWidth` — control; group `GroupSize`. <!-- source-row:1562 -->
+- [ ] `ObjectSizeAndPositionDialog` — button (dialogBoxLauncher); group `GroupSize`. <!-- source-row:1563 -->
+
+## TabDrawingToolsFormat
+
+Catalog tab: `TabDrawingToolsFormat`.
+
+- [ ] `GroupShapes` — group. <!-- source-row:1566 -->
+- [ ] `ShapesInsertGallery` — gallery; group `GroupShapes`. <!-- source-row:1567 -->
+- [ ] `ObjectEditShapeMenu` — menu; group `GroupShapes`. <!-- source-row:1568 -->
+- [ ] `ShapeChangeShapeGallery` — gallery; group `GroupShapes`; menu `ObjectEditShapeMenu`. <!-- source-row:1569 -->
+- [ ] `ObjectEditPoints` — toggleButton; group `GroupShapes`; menu `ObjectEditShapeMenu`. <!-- source-row:1570 -->
+- [ ] `ShapeRerouteConnectors` — toggleButton; group `GroupShapes`; menu `ObjectEditShapeMenu`. <!-- source-row:1571 -->
+- [ ] `TextBoxInsert` — toggleButton; group `GroupShapes`. <!-- source-row:1572 -->
+- [ ] `TextBoxInsertMenu` — splitButton; group `GroupShapes`. <!-- source-row:1573 -->
+- [ ] `TextBoxInsertHorizontal` — toggleButton; group `GroupShapes`; menu `TextBoxInsertMenu`. <!-- source-row:1574 -->
+- [ ] `TextBoxInsertVertical` — toggleButton; group `GroupShapes`; menu `TextBoxInsertMenu`. <!-- source-row:1575 -->
+- [ ] `CombineShapesGallery` — gallery; group `GroupShapes`. <!-- source-row:1576 -->
+- [ ] `GroupShapeStyles` — group. <!-- source-row:1577 -->
+- [ ] `ShapeStylesGallery` — gallery; group `GroupShapeStyles`. <!-- source-row:1578 -->
+- [ ] `ShapeStylesOtherThemeFillsGallery` — gallery; group `GroupShapeStyles`; menu `ShapeStylesGallery`. <!-- source-row:1579 -->
+- [ ] `ShapeFillColorPicker` — gallery; group `GroupShapeStyles`. <!-- source-row:1580 -->
+- [ ] `ObjectFillMoreColorsDialog` — button; group `GroupShapeStyles`; menu `ShapeFillColorPicker`. <!-- source-row:1581 -->
+- [ ] `EyedropperFill` — button; group `GroupShapeStyles`; menu `ShapeFillColorPicker`. <!-- source-row:1582 -->
+- [ ] `ObjectPictureFill` — button; group `GroupShapeStyles`; menu `ShapeFillColorPicker`. <!-- source-row:1583 -->
+- [ ] `GradientGallery` — gallery; group `GroupShapeStyles`; menu `ShapeFillColorPicker`. <!-- source-row:1584 -->
+- [ ] `ShapeFillMoreGradientsDialog` — button; group `GroupShapeStyles`; menu `ShapeFillColorPicker` → `GradientGallery`. <!-- source-row:1585 -->
+- [ ] `ShapeFillTextureGallery` — gallery; group `GroupShapeStyles`; menu `ShapeFillColorPicker`. <!-- source-row:1586 -->
+- [ ] `MoreTextureOptions` — button; group `GroupShapeStyles`; menu `ShapeFillColorPicker` → `ShapeFillTextureGallery`. <!-- source-row:1587 -->
+- [ ] `ShapeOutlineColorPicker` — gallery; group `GroupShapeStyles`. <!-- source-row:1588 -->
+- [ ] `ObjectBorderOutlineColorMoreColorsDialog` — button; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker`. <!-- source-row:1589 -->
+- [ ] `EyedropperOutline` — button; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker`. <!-- source-row:1590 -->
+- [ ] `OutlineWeightGallery` — gallery; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker`. <!-- source-row:1591 -->
+- [ ] `LineStylesDialog` — button; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker` → `OutlineWeightGallery`. <!-- source-row:1592 -->
+- [ ] `OutlineDashesGallery` — gallery; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker`. <!-- source-row:1593 -->
+- [ ] `LineStylesDialog` — button; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker` → `OutlineDashesGallery`. <!-- source-row:1594 -->
+- [ ] `ArrowStyleGallery` — gallery; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker`. <!-- source-row:1595 -->
+- [ ] `ArrowsMore` — button; group `GroupShapeStyles`; menu `ShapeOutlineColorPicker` → `ArrowStyleGallery`. <!-- source-row:1596 -->
+- [ ] `ShapeEffectsMenu` — menu; group `GroupShapeStyles`. <!-- source-row:1597 -->
+- [ ] `ObjectEffectPresetGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1598 -->
+- [ ] `_3DBevelOptionsDialog` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectPresetGallery`. <!-- source-row:1599 -->
+- [ ] `ObjectEffectShadowGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1600 -->
+- [ ] `ShadowOptionsDialog` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectShadowGallery`. <!-- source-row:1601 -->
+- [ ] `ReflectionGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1602 -->
+- [ ] `ReflectionsMoreOptions` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ReflectionGallery`. <!-- source-row:1603 -->
+- [ ] `ObjectEffectGlowGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1604 -->
+- [ ] `GlowColorPicker` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery`. <!-- source-row:1605 -->
+- [ ] `GlowColorMoreColorsDialog` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery` → `GlowColorPicker`. <!-- source-row:1606 -->
+- [ ] `EyedropperGlow` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery` → `GlowColorPicker`. <!-- source-row:1607 -->
+- [ ] `GlowsMoreOptions` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectGlowGallery`. <!-- source-row:1608 -->
+- [ ] `ObjectEffectSoftEdgesGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1609 -->
+- [ ] `SoftEdgesMoreOptions` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `ObjectEffectSoftEdgesGallery`. <!-- source-row:1610 -->
+- [ ] `BevelShapeGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1611 -->
+- [ ] `_3DBevelOptionsDialog` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `BevelShapeGallery`. <!-- source-row:1612 -->
+- [ ] `_3DRotationGallery` — gallery; group `GroupShapeStyles`; menu `ShapeEffectsMenu`. <!-- source-row:1613 -->
+- [ ] `_3DRotationOptionsDialog` — button; group `GroupShapeStyles`; menu `ShapeEffectsMenu` → `_3DRotationGallery`. <!-- source-row:1614 -->
+- [ ] `ObjectFormatDialog` — button (dialogBoxLauncher); group `GroupShapeStyles`. <!-- source-row:1615 -->
+- [ ] `GroupWordArtStyles` — group. <!-- source-row:1616 -->
+- [ ] `TextStylesGallery` — gallery; group `GroupWordArtStyles`. <!-- source-row:1617 -->
+- [ ] `WordArtClear` — button; group `GroupWordArtStyles`; menu `TextStylesGallery`. <!-- source-row:1618 -->
+- [ ] `TextFillColorPicker` — gallery; group `GroupWordArtStyles`. <!-- source-row:1619 -->
+- [ ] `TextFillColorMoreColorsDialog` — button; group `GroupWordArtStyles`; menu `TextFillColorPicker`. <!-- source-row:1620 -->
+- [ ] `EyedropperFillText` — button; group `GroupWordArtStyles`; menu `TextFillColorPicker`. <!-- source-row:1621 -->
+- [ ] `TextPictureFill` — button; group `GroupWordArtStyles`; menu `TextFillColorPicker`. <!-- source-row:1622 -->
+- [ ] `TextFillGradientGallery` — gallery; group `GroupWordArtStyles`; menu `TextFillColorPicker`. <!-- source-row:1623 -->
+- [ ] `TextFillMoreGradientsDialog` — button; group `GroupWordArtStyles`; menu `TextFillColorPicker` → `TextFillGradientGallery`. <!-- source-row:1624 -->
+- [ ] `TextFillTextureGallery` — gallery; group `GroupWordArtStyles`; menu `TextFillColorPicker`. <!-- source-row:1625 -->
+- [ ] `TextFillMoreTextures` — button; group `GroupWordArtStyles`; menu `TextFillColorPicker` → `TextFillTextureGallery`. <!-- source-row:1626 -->
+- [ ] `TextOutlineColorPicker` — gallery; group `GroupWordArtStyles`. <!-- source-row:1627 -->
+- [ ] `TextOutlineColorMoreColorsDialog` — button; group `GroupWordArtStyles`; menu `TextOutlineColorPicker`. <!-- source-row:1628 -->
+- [ ] `EyedropperOutlineText` — button; group `GroupWordArtStyles`; menu `TextOutlineColorPicker`. <!-- source-row:1629 -->
+- [ ] `TextOutlineWeightGallery` — gallery; group `GroupWordArtStyles`; menu `TextOutlineColorPicker`. <!-- source-row:1630 -->
+- [ ] `TextOutlineMoreLinesDialog` — button; group `GroupWordArtStyles`; menu `TextOutlineColorPicker` → `TextOutlineWeightGallery`. <!-- source-row:1631 -->
+- [ ] `TextOutlineDashesGallery` — gallery; group `GroupWordArtStyles`; menu `TextOutlineColorPicker`. <!-- source-row:1632 -->
+- [ ] `TextOutlineMoreLinesDialog` — button; group `GroupWordArtStyles`; menu `TextOutlineColorPicker` → `TextOutlineDashesGallery`. <!-- source-row:1633 -->
+- [ ] `TextEffectsMenu` — menu; group `GroupWordArtStyles`. <!-- source-row:1634 -->
+- [ ] `TextEffectShadowGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1635 -->
+- [ ] `TextEffectsMoreShadowsDialog` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffectShadowGallery`. <!-- source-row:1636 -->
+- [ ] `TextReflectionGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1637 -->
+- [ ] `TextEffectsReflectionsMoreOptions` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextReflectionGallery`. <!-- source-row:1638 -->
+- [ ] `TextEffectGlowGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1639 -->
+- [ ] `TextGlowColorPicker` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffectGlowGallery`. <!-- source-row:1640 -->
+- [ ] `TextGlowColorMoreColorsDialog` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffectGlowGallery` → `TextGlowColorPicker`. <!-- source-row:1641 -->
+- [ ] `EyedropperGlowText` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffectGlowGallery` → `TextGlowColorPicker`. <!-- source-row:1642 -->
+- [ ] `TextEffectsGlowsMoreOptions` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffectGlowGallery`. <!-- source-row:1643 -->
+- [ ] `BevelTextGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1644 -->
+- [ ] `TextEffectsBevelMore3DOptionsDialog` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `BevelTextGallery`. <!-- source-row:1645 -->
+- [ ] `TextEffects3DRotationGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1646 -->
+- [ ] `TextEffects3DRotationOptionsDialog` — button; group `GroupWordArtStyles`; menu `TextEffectsMenu` → `TextEffects3DRotationGallery`. <!-- source-row:1647 -->
+- [ ] `TextEffectTransformGallery` — gallery; group `GroupWordArtStyles`; menu `TextEffectsMenu`. <!-- source-row:1648 -->
+- [ ] `WordArtFormatDialog` — button (dialogBoxLauncher); group `GroupWordArtStyles`. <!-- source-row:1649 -->
+- [ ] `GroupArrange` — group. <!-- source-row:1650 -->
+- [ ] `ObjectBringForwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:1651 -->
+- [ ] `ObjectBringForward` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:1652 -->
+- [ ] `ObjectBringToFront` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:1653 -->
+- [ ] `ObjectSendBackwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:1654 -->
+- [ ] `ObjectSendBackward` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:1655 -->
+- [ ] `ObjectSendToBack` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:1656 -->
+- [ ] `SelectionPane` — toggleButton; group `GroupArrange`. <!-- source-row:1657 -->
+- [ ] `ObjectAlignMenu` — menu; group `GroupArrange`. <!-- source-row:1658 -->
+- [ ] `ObjectsAlignLeftSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1659 -->
+- [ ] `ObjectsAlignCenterHorizontalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1660 -->
+- [ ] `ObjectsAlignRightSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1661 -->
+- [ ] `ObjectsAlignTopSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1662 -->
+- [ ] `ObjectsAlignMiddleVerticalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1663 -->
+- [ ] `ObjectsAlignBottomSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1664 -->
+- [ ] `AlignDistributeHorizontally` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1665 -->
+- [ ] `AlignDistributeVertically` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1666 -->
+- [ ] `ObjectsAlignRelativeToContainerSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1667 -->
+- [ ] `ObjectsAlignSelectedSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1668 -->
+- [ ] `ObjectsGroupMenu` — menu; group `GroupArrange`. <!-- source-row:1669 -->
+- [ ] `ObjectsGroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:1670 -->
+- [ ] `ObjectsRegroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:1671 -->
+- [ ] `ObjectsUngroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:1672 -->
+- [ ] `ObjectRotateGallery` — gallery; group `GroupArrange`. <!-- source-row:1673 -->
+- [ ] `ObjectRotationOptionsDialog` — button; group `GroupArrange`; menu `ObjectRotateGallery`. <!-- source-row:1674 -->
+- [ ] `GroupSize` — group. <!-- source-row:1675 -->
+- [ ] `ShapeHeight` — control; group `GroupSize`. <!-- source-row:1676 -->
+- [ ] `ShapeWidth` — control; group `GroupSize`. <!-- source-row:1677 -->
+- [ ] `ObjectSizeAndPositionDialog` — button (dialogBoxLauncher); group `GroupSize`. <!-- source-row:1678 -->
+
+## TabPictureToolsFormat
+
+Catalog tab: `TabPictureToolsFormat`.
+
+- [ ] `GroupPictureTools` — group. <!-- source-row:1681 -->
+- [ ] `PictureBackgroundRemoval` — toggleButton; group `GroupPictureTools`. <!-- source-row:1682 -->
+- [ ] `PictureCorrectionsMenu` — menu; group `GroupPictureTools`. <!-- source-row:1683 -->
+- [ ] `PictureSharpenSoftenGallery` — gallery; group `GroupPictureTools`; menu `PictureCorrectionsMenu`. <!-- source-row:1684 -->
+- [ ] `PictureBrightnessAndContrastGallery` — gallery; group `GroupPictureTools`; menu `PictureCorrectionsMenu`. <!-- source-row:1685 -->
+- [ ] `PictureCorrectionsDialog` — button; group `GroupPictureTools`; menu `PictureCorrectionsMenu`. <!-- source-row:1686 -->
+- [ ] `PictureColorMenu` — menu; group `GroupPictureTools`. <!-- source-row:1687 -->
+- [ ] `PictureSaturationGallery` — gallery; group `GroupPictureTools`; menu `PictureColorMenu`. <!-- source-row:1688 -->
+- [ ] `PictureColorTempertatureGallery` — gallery; group `GroupPictureTools`; menu `PictureColorMenu`. <!-- source-row:1689 -->
+- [ ] `PictureRecolorGallery` — gallery; group `GroupPictureTools`; menu `PictureColorMenu`. <!-- source-row:1690 -->
+- [ ] `RecolorColorPicker` — gallery; group `GroupPictureTools`; menu `PictureColorMenu`. <!-- source-row:1691 -->
+- [ ] `PictureRecolorMoreColorsDialog` — button; group `GroupPictureTools`; menu `PictureColorMenu` → `RecolorColorPicker`. <!-- source-row:1692 -->
+- [ ] `EyedropperRecolor` — button; group `GroupPictureTools`; menu `PictureColorMenu` → `RecolorColorPicker`. <!-- source-row:1693 -->
+- [ ] `PictureSetTransparentColor` — toggleButton; group `GroupPictureTools`; menu `PictureColorMenu`. <!-- source-row:1694 -->
+- [ ] `PictureColorDialog` — button; group `GroupPictureTools`; menu `PictureColorMenu`. <!-- source-row:1695 -->
+- [ ] `PictureArtisticEffectsGallery` — gallery; group `GroupPictureTools`. <!-- source-row:1696 -->
+- [ ] `ArtisticEffectsDialog` — button; group `GroupPictureTools`; menu `PictureArtisticEffectsGallery`. <!-- source-row:1697 -->
+- [ ] `PicturesCompress` — button; group `GroupPictureTools`. <!-- source-row:1698 -->
+- [ ] `PictureChange` — button; group `GroupPictureTools`. <!-- source-row:1699 -->
+- [ ] `PictureResetSplitButton` — splitButton; group `GroupPictureTools`. <!-- source-row:1700 -->
+- [ ] `PictureReset` — button; group `GroupPictureTools`; menu `PictureResetSplitButton`. <!-- source-row:1701 -->
+- [ ] `PictureResetAndSize` — button; group `GroupPictureTools`; menu `PictureResetSplitButton`. <!-- source-row:1702 -->
+- [ ] `GroupPictureStyles` — group. <!-- source-row:1703 -->
+- [ ] `PictureStylesGallery` — gallery; group `GroupPictureStyles`. <!-- source-row:1704 -->
+- [ ] `OutlineColorPicker` — gallery; group `GroupPictureStyles`. <!-- source-row:1705 -->
+- [ ] `ObjectBorderOutlineColorMoreColorsDialog` — button; group `GroupPictureStyles`; menu `OutlineColorPicker`. <!-- source-row:1706 -->
+- [ ] `EyedropperOutline` — button; group `GroupPictureStyles`; menu `OutlineColorPicker`. <!-- source-row:1707 -->
+- [ ] `OutlineWeightGallery` — gallery; group `GroupPictureStyles`; menu `OutlineColorPicker`. <!-- source-row:1708 -->
+- [ ] `LineStylesDialog` — button; group `GroupPictureStyles`; menu `OutlineColorPicker` → `OutlineWeightGallery`. <!-- source-row:1709 -->
+- [ ] `OutlineDashesGallery` — gallery; group `GroupPictureStyles`; menu `OutlineColorPicker`. <!-- source-row:1710 -->
+- [ ] `LineStylesDialog` — button; group `GroupPictureStyles`; menu `OutlineColorPicker` → `OutlineDashesGallery`. <!-- source-row:1711 -->
+- [ ] `PictureEffectsMenu` — menu; group `GroupPictureStyles`. <!-- source-row:1712 -->
+- [ ] `PictureEffectsPresetGallery` — gallery; group `GroupPictureStyles`; menu `PictureEffectsMenu`. <!-- source-row:1713 -->
+- [ ] `_3DBevelOptionsDialog` — button; group `GroupPictureStyles`; menu `PictureEffectsMenu` → `PictureEffectsPresetGallery`. <!-- source-row:1714 -->
+- [ ] `PictureEffectsShadowGallery` — gallery; group `GroupPictureStyles`; menu `PictureEffectsMenu`. <!-- source-row:1715 -->
+- [ ] `ShadowOptionsDialog` — button; group `GroupPictureStyles`; menu `PictureEffectsMenu` → `PictureEffectsShadowGallery`. <!-- source-row:1716 -->
+- [ ] `PictureReflectionGallery` — gallery; group `GroupPictureStyles`; menu `PictureEffectsMenu`. <!-- source-row:1717 -->
+- [ ] `ReflectionsMoreOptions` — button; group `GroupPictureStyles`; menu `PictureEffectsMenu` → `PictureReflectionGallery`. <!-- source-row:1718 -->
+- [ ] `PictureEffectsGlowGallery` — gallery; group `GroupPictureStyles`; menu `PictureEffectsMenu`. <!-- source-row:1719 -->
+- [ ] `GlowColorPicker` — gallery; group `GroupPictureStyles`; menu `PictureEffectsMenu` → `PictureEffectsGlowGallery`. <!-- source-row:1720 -->
+- [ ] `GlowColorMoreColorsDialog` — button; group `GroupPictureStyles`; menu `PictureEffectsMenu` → `PictureEffectsGlowGallery` → `GlowColorPicker`. <!-- source-row:1721 -->
+- [ ] `EyedropperGlow` — button; group `GroupPictureStyles`; menu `PictureEffectsMenu` → `PictureEffectsGlowGallery` → `GlowColorPicker`. <!-- source-row:1722 -->
+- [ ] `GlowsMoreOptions` — button; group `GroupPictureStyles`; menu `PictureEffectsMenu` → `PictureEffectsGlowGallery`. <!-- source-row:1723 -->
+- [ ] `PictureEffectsSoftEdgesGallery` — gallery; group `GroupPictureStyles`; menu `PictureEffectsMenu`. <!-- source-row:1724 -->
+- [ ] `SoftEdgesMoreOptions` — button; group `GroupPictureStyles`; menu `PictureEffectsMenu` → `PictureEffectsSoftEdgesGallery`. <!-- source-row:1725 -->
+- [ ] `_3DBevelPictureTopGallery` — gallery; group `GroupPictureStyles`; menu `PictureEffectsMenu`. <!-- source-row:1726 -->
+- [ ] `_3DBevelOptionsDialog` — button; group `GroupPictureStyles`; menu `PictureEffectsMenu` → `_3DBevelPictureTopGallery`. <!-- source-row:1727 -->
+- [ ] `PictureRotationGallery` — gallery; group `GroupPictureStyles`; menu `PictureEffectsMenu`. <!-- source-row:1728 -->
+- [ ] `_3DRotationOptionsDialog` — button; group `GroupPictureStyles`; menu `PictureEffectsMenu` → `PictureRotationGallery`. <!-- source-row:1729 -->
+- [ ] `PicturesConvertToSmartArt` — gallery; group `GroupPictureStyles`. <!-- source-row:1730 -->
+- [ ] `ObjectFormatDialog` — button (dialogBoxLauncher); group `GroupPictureStyles`. <!-- source-row:1731 -->
+- [ ] `GroupArrange` — group. <!-- source-row:1732 -->
+- [ ] `ObjectBringForwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:1733 -->
+- [ ] `ObjectBringForward` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:1734 -->
+- [ ] `ObjectBringToFront` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:1735 -->
+- [ ] `ObjectSendBackwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:1736 -->
+- [ ] `ObjectSendBackward` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:1737 -->
+- [ ] `ObjectSendToBack` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:1738 -->
+- [ ] `SelectionPane` — toggleButton; group `GroupArrange`. <!-- source-row:1739 -->
+- [ ] `ObjectAlignMenu` — menu; group `GroupArrange`. <!-- source-row:1740 -->
+- [ ] `ObjectsAlignLeftSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1741 -->
+- [ ] `ObjectsAlignCenterHorizontalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1742 -->
+- [ ] `ObjectsAlignRightSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1743 -->
+- [ ] `ObjectsAlignTopSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1744 -->
+- [ ] `ObjectsAlignMiddleVerticalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1745 -->
+- [ ] `ObjectsAlignBottomSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1746 -->
+- [ ] `AlignDistributeHorizontally` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1747 -->
+- [ ] `AlignDistributeVertically` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1748 -->
+- [ ] `ObjectsAlignRelativeToContainerSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1749 -->
+- [ ] `ObjectsAlignSelectedSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1750 -->
+- [ ] `ObjectsGroupMenu` — menu; group `GroupArrange`. <!-- source-row:1751 -->
+- [ ] `ObjectsGroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:1752 -->
+- [ ] `ObjectsRegroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:1753 -->
+- [ ] `ObjectsUngroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:1754 -->
+- [ ] `ObjectRotateGallery` — gallery; group `GroupArrange`. <!-- source-row:1755 -->
+- [ ] `ObjectRotationOptionsDialog` — button; group `GroupArrange`; menu `ObjectRotateGallery`. <!-- source-row:1756 -->
+- [ ] `GroupPictureSize` — group. <!-- source-row:1757 -->
+- [ ] `PictureCropTools` — splitButton; group `GroupPictureSize`. <!-- source-row:1758 -->
+- [ ] `PictureCrop` — toggleButton; group `GroupPictureSize`; menu `PictureCropTools`. <!-- source-row:1759 -->
+- [ ] `PictureShapeGallery` — gallery; group `GroupPictureSize`; menu `PictureCropTools`. <!-- source-row:1760 -->
+- [ ] `PictureCropAspectRatioMenu` — menu; group `GroupPictureSize`; menu `PictureCropTools`. <!-- source-row:1761 -->
+- [ ] `PictureCropAspectRatio1To1` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:1762 -->
+- [ ] `PictureCropAspectRatio2To3` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:1763 -->
+- [ ] `PictureCropAspectRatio3To4` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:1764 -->
+- [ ] `PictureCropAspectRatio3To5` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:1765 -->
+- [ ] `PictureCropAspectRatio4To5` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:1766 -->
+- [ ] `PictureCropAspectRatio3To2` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:1767 -->
+- [ ] `PictureCropAspectRatio4To3` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:1768 -->
+- [ ] `PictureCropAspectRatio5To3` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:1769 -->
+- [ ] `PictureCropAspectRatio5To4` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:1770 -->
+- [ ] `PictureCropAspectRatio16To9` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:1771 -->
+- [ ] `PictureCropAspectRatio16To10` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:1772 -->
+- [ ] `PictureFillCrop` — button; group `GroupPictureSize`; menu `PictureCropTools`. <!-- source-row:1773 -->
+- [ ] `PictureFitCrop` — button; group `GroupPictureSize`; menu `PictureCropTools`. <!-- source-row:1774 -->
+- [ ] `ShapeHeight` — control; group `GroupPictureSize`. <!-- source-row:1775 -->
+- [ ] `ShapeWidth` — control; group `GroupPictureSize`. <!-- source-row:1776 -->
+- [ ] `ObjectSizeAndPositionDialog` — button (dialogBoxLauncher); group `GroupPictureSize`. <!-- source-row:1777 -->
+
+## TabTableToolsDesign
+
+Catalog tab: `TabTableToolsDesign`.
+
+- [ ] `GroupTableStyleOptionsPowerPoint` — group. <!-- source-row:1780 -->
+- [ ] `TableStyleFirstRowPowerPoint` — checkBox; group `GroupTableStyleOptionsPowerPoint`. <!-- source-row:1781 -->
+- [ ] `TableStyleTotalRowPowerPoint` — checkBox; group `GroupTableStyleOptionsPowerPoint`. <!-- source-row:1782 -->
+- [ ] `TableStyleBandedRowsPowerPoint` — checkBox; group `GroupTableStyleOptionsPowerPoint`. <!-- source-row:1783 -->
+- [ ] `TableStyleFirstColumnPowerPoint` — checkBox; group `GroupTableStyleOptionsPowerPoint`. <!-- source-row:1784 -->
+- [ ] `TableStyleLastColumnPowerPoint` — checkBox; group `GroupTableStyleOptionsPowerPoint`. <!-- source-row:1785 -->
+- [ ] `TableStyleBandedColumnsPowerPoint` — checkBox; group `GroupTableStyleOptionsPowerPoint`. <!-- source-row:1786 -->
+- [ ] `GroupTableStylesPowerPoint` — group. <!-- source-row:1787 -->
+- [ ] `TableStylesGallery` — gallery; group `GroupTableStylesPowerPoint`. <!-- source-row:1788 -->
+- [ ] `TableStyleClearTable` — button; group `GroupTableStylesPowerPoint`; menu `TableStylesGallery`. <!-- source-row:1789 -->
+- [ ] `ShadingColorPicker` — gallery; group `GroupTableStylesPowerPoint`. <!-- source-row:1790 -->
+- [ ] `ObjectFillMoreColorsDialog` — button; group `GroupTableStylesPowerPoint`; menu `ShadingColorPicker`. <!-- source-row:1791 -->
+- [ ] `EyedropperFill` — button; group `GroupTableStylesPowerPoint`; menu `ShadingColorPicker`. <!-- source-row:1792 -->
+- [ ] `ObjectPictureFill` — button; group `GroupTableStylesPowerPoint`; menu `ShadingColorPicker`. <!-- source-row:1793 -->
+- [ ] `GradientGallery` — gallery; group `GroupTableStylesPowerPoint`; menu `ShadingColorPicker`. <!-- source-row:1794 -->
+- [ ] `ShapeFillMoreGradientsDialog` — button; group `GroupTableStylesPowerPoint`; menu `ShadingColorPicker` → `GradientGallery`. <!-- source-row:1795 -->
+- [ ] `ShapeFillTextureGallery` — gallery; group `GroupTableStylesPowerPoint`; menu `ShadingColorPicker`. <!-- source-row:1796 -->
+- [ ] `MoreTextureOptions` — button; group `GroupTableStylesPowerPoint`; menu `ShadingColorPicker` → `ShapeFillTextureGallery`. <!-- source-row:1797 -->
+- [ ] `TableBackgroundGallery` — gallery; group `GroupTableStylesPowerPoint`; menu `ShadingColorPicker`. <!-- source-row:1798 -->
+- [ ] `TableFillColorMoreColorsDialog` — button; group `GroupTableStylesPowerPoint`; menu `ShadingColorPicker` → `TableBackgroundGallery`. <!-- source-row:1799 -->
+- [ ] `EyedropperFill` — button; group `GroupTableStylesPowerPoint`; menu `ShadingColorPicker` → `TableBackgroundGallery`. <!-- source-row:1800 -->
+- [ ] `TableBackgroundPictureFill` — button; group `GroupTableStylesPowerPoint`; menu `ShadingColorPicker` → `TableBackgroundGallery`. <!-- source-row:1801 -->
+- [ ] `TableBordersMenu` — splitButton; group `GroupTableStylesPowerPoint`. <!-- source-row:1802 -->
+- [ ] `BorderNone` — toggleButton; group `GroupTableStylesPowerPoint`; menu `TableBordersMenu`. <!-- source-row:1803 -->
+- [ ] `BordersAll` — toggleButton; group `GroupTableStylesPowerPoint`; menu `TableBordersMenu`. <!-- source-row:1804 -->
+- [ ] `BorderOutside` — toggleButton; group `GroupTableStylesPowerPoint`; menu `TableBordersMenu`. <!-- source-row:1805 -->
+- [ ] `BorderInside` — toggleButton; group `GroupTableStylesPowerPoint`; menu `TableBordersMenu`. <!-- source-row:1806 -->
+- [ ] `BorderTop` — toggleButton; group `GroupTableStylesPowerPoint`; menu `TableBordersMenu`. <!-- source-row:1807 -->
+- [ ] `BorderBottom` — toggleButton; group `GroupTableStylesPowerPoint`; menu `TableBordersMenu`. <!-- source-row:1808 -->
+- [ ] `BorderLeft` — toggleButton; group `GroupTableStylesPowerPoint`; menu `TableBordersMenu`. <!-- source-row:1809 -->
+- [ ] `BorderRight` — toggleButton; group `GroupTableStylesPowerPoint`; menu `TableBordersMenu`. <!-- source-row:1810 -->
+- [ ] `BorderInsideHorizontal` — toggleButton; group `GroupTableStylesPowerPoint`; menu `TableBordersMenu`. <!-- source-row:1811 -->
+- [ ] `BorderInsideVertical` — toggleButton; group `GroupTableStylesPowerPoint`; menu `TableBordersMenu`. <!-- source-row:1812 -->
+- [ ] `BorderDiagonalDown` — toggleButton; group `GroupTableStylesPowerPoint`; menu `TableBordersMenu`. <!-- source-row:1813 -->
+- [ ] `BorderDiagonalUp` — toggleButton; group `GroupTableStylesPowerPoint`; menu `TableBordersMenu`. <!-- source-row:1814 -->
+- [ ] `TableEffectsMenu` — menu; group `GroupTableStylesPowerPoint`. <!-- source-row:1815 -->
+- [ ] `TableEffectsCellBevelGallery` — gallery; group `GroupTableStylesPowerPoint`; menu `TableEffectsMenu`. <!-- source-row:1816 -->
+- [ ] `ObjectEffectShadowGallery` — gallery; group `GroupTableStylesPowerPoint`; menu `TableEffectsMenu`. <!-- source-row:1817 -->
+- [ ] `ShadowOptionsDialog` — button; group `GroupTableStylesPowerPoint`; menu `TableEffectsMenu` → `ObjectEffectShadowGallery`. <!-- source-row:1818 -->
+- [ ] `ReflectionGallery` — gallery; group `GroupTableStylesPowerPoint`; menu `TableEffectsMenu`. <!-- source-row:1819 -->
+- [ ] `ReflectionsMoreOptions` — button; group `GroupTableStylesPowerPoint`; menu `TableEffectsMenu` → `ReflectionGallery`. <!-- source-row:1820 -->
+- [ ] `GroupTextStylesTable` — group. <!-- source-row:1821 -->
+- [ ] `TableTextStylesGallery` — gallery; group `GroupTextStylesTable`. <!-- source-row:1822 -->
+- [ ] `WordArtClear` — button; group `GroupTextStylesTable`; menu `TableTextStylesGallery`. <!-- source-row:1823 -->
+- [ ] `TextFillColorPicker` — gallery; group `GroupTextStylesTable`. <!-- source-row:1824 -->
+- [ ] `TextFillColorMoreColorsDialog` — button; group `GroupTextStylesTable`; menu `TextFillColorPicker`. <!-- source-row:1825 -->
+- [ ] `EyedropperFillText` — button; group `GroupTextStylesTable`; menu `TextFillColorPicker`. <!-- source-row:1826 -->
+- [ ] `TextPictureFill` — button; group `GroupTextStylesTable`; menu `TextFillColorPicker`. <!-- source-row:1827 -->
+- [ ] `TextFillGradientGallery` — gallery; group `GroupTextStylesTable`; menu `TextFillColorPicker`. <!-- source-row:1828 -->
+- [ ] `TextFillMoreGradientsDialog` — button; group `GroupTextStylesTable`; menu `TextFillColorPicker` → `TextFillGradientGallery`. <!-- source-row:1829 -->
+- [ ] `TextFillTextureGallery` — gallery; group `GroupTextStylesTable`; menu `TextFillColorPicker`. <!-- source-row:1830 -->
+- [ ] `TextFillMoreTextures` — button; group `GroupTextStylesTable`; menu `TextFillColorPicker` → `TextFillTextureGallery`. <!-- source-row:1831 -->
+- [ ] `TextOutlineColorPicker` — gallery; group `GroupTextStylesTable`. <!-- source-row:1832 -->
+- [ ] `TextOutlineColorMoreColorsDialog` — button; group `GroupTextStylesTable`; menu `TextOutlineColorPicker`. <!-- source-row:1833 -->
+- [ ] `EyedropperOutlineText` — button; group `GroupTextStylesTable`; menu `TextOutlineColorPicker`. <!-- source-row:1834 -->
+- [ ] `TextOutlineWeightGallery` — gallery; group `GroupTextStylesTable`; menu `TextOutlineColorPicker`. <!-- source-row:1835 -->
+- [ ] `TextOutlineMoreLinesDialog` — button; group `GroupTextStylesTable`; menu `TextOutlineColorPicker` → `TextOutlineWeightGallery`. <!-- source-row:1836 -->
+- [ ] `TextOutlineDashesGallery` — gallery; group `GroupTextStylesTable`; menu `TextOutlineColorPicker`. <!-- source-row:1837 -->
+- [ ] `TextOutlineMoreLinesDialog` — button; group `GroupTextStylesTable`; menu `TextOutlineColorPicker` → `TextOutlineDashesGallery`. <!-- source-row:1838 -->
+- [ ] `TextEffectsMenu` — menu; group `GroupTextStylesTable`. <!-- source-row:1839 -->
+- [ ] `TextEffectShadowGallery` — gallery; group `GroupTextStylesTable`; menu `TextEffectsMenu`. <!-- source-row:1840 -->
+- [ ] `TextEffectsMoreShadowsDialog` — button; group `GroupTextStylesTable`; menu `TextEffectsMenu` → `TextEffectShadowGallery`. <!-- source-row:1841 -->
+- [ ] `TextReflectionGallery` — gallery; group `GroupTextStylesTable`; menu `TextEffectsMenu`. <!-- source-row:1842 -->
+- [ ] `TextEffectsReflectionsMoreOptions` — button; group `GroupTextStylesTable`; menu `TextEffectsMenu` → `TextReflectionGallery`. <!-- source-row:1843 -->
+- [ ] `TextEffectGlowGallery` — gallery; group `GroupTextStylesTable`; menu `TextEffectsMenu`. <!-- source-row:1844 -->
+- [ ] `TextGlowColorPicker` — gallery; group `GroupTextStylesTable`; menu `TextEffectsMenu` → `TextEffectGlowGallery`. <!-- source-row:1845 -->
+- [ ] `TextGlowColorMoreColorsDialog` — button; group `GroupTextStylesTable`; menu `TextEffectsMenu` → `TextEffectGlowGallery` → `TextGlowColorPicker`. <!-- source-row:1846 -->
+- [ ] `EyedropperGlowText` — button; group `GroupTextStylesTable`; menu `TextEffectsMenu` → `TextEffectGlowGallery` → `TextGlowColorPicker`. <!-- source-row:1847 -->
+- [ ] `TextEffectsGlowsMoreOptions` — button; group `GroupTextStylesTable`; menu `TextEffectsMenu` → `TextEffectGlowGallery`. <!-- source-row:1848 -->
+- [ ] `BevelTextGallery` — gallery; group `GroupTextStylesTable`; menu `TextEffectsMenu`. <!-- source-row:1849 -->
+- [ ] `TextEffectsBevelMore3DOptionsDialog` — button; group `GroupTextStylesTable`; menu `TextEffectsMenu` → `BevelTextGallery`. <!-- source-row:1850 -->
+- [ ] `TextEffects3DRotationGallery` — gallery; group `GroupTextStylesTable`; menu `TextEffectsMenu`. <!-- source-row:1851 -->
+- [ ] `TextEffects3DRotationOptionsDialog` — button; group `GroupTextStylesTable`; menu `TextEffectsMenu` → `TextEffects3DRotationGallery`. <!-- source-row:1852 -->
+- [ ] `TextEffectTransformGallery` — gallery; group `GroupTextStylesTable`; menu `TextEffectsMenu`. <!-- source-row:1853 -->
+- [ ] `WordArtFormatDialog` — button (dialogBoxLauncher); group `GroupTextStylesTable`. <!-- source-row:1854 -->
+- [ ] `GroupDrawBorders` — group. <!-- source-row:1855 -->
+- [ ] `TableDrawBorderPenStyle` — dropDown; group `GroupDrawBorders`. <!-- source-row:1856 -->
+- [ ] `TableDrawBorderPenWeight` — dropDown; group `GroupDrawBorders`. <!-- source-row:1857 -->
+- [ ] `TableBorderPenColorPicker` — gallery; group `GroupDrawBorders`. <!-- source-row:1858 -->
+- [ ] `TableBorderColorMoreColorsDialog` — button; group `GroupDrawBorders`; menu `TableBorderPenColorPicker`. <!-- source-row:1859 -->
+- [ ] `TableDrawTable` — toggleButton; group `GroupDrawBorders`. <!-- source-row:1860 -->
+- [ ] `TableEraser` — toggleButton; group `GroupDrawBorders`. <!-- source-row:1861 -->
+
+## TabTableToolsLayout
+
+Catalog tab: `TabTableToolsLayout`.
+
+- [ ] `GroupTable` — group. <!-- source-row:1863 -->
+- [ ] `TableSelectMenuPowerPoint` — menu; group `GroupTable`. <!-- source-row:1864 -->
+- [ ] `TableSelect` — button; group `GroupTable`; menu `TableSelectMenuPowerPoint`. <!-- source-row:1865 -->
+- [ ] `TableColumnSelect` — button; group `GroupTable`; menu `TableSelectMenuPowerPoint`. <!-- source-row:1866 -->
+- [ ] `TableRowSelect` — button; group `GroupTable`; menu `TableSelectMenuPowerPoint`. <!-- source-row:1867 -->
+- [ ] `TableShowGridlines` — toggleButton; group `GroupTable`. <!-- source-row:1868 -->
+- [ ] `GroupTableRowsAndColumns` — group. <!-- source-row:1869 -->
+- [ ] `TableDeleteRowsAndColumnsMenuWord` — menu; group `GroupTableRowsAndColumns`. <!-- source-row:1870 -->
+- [ ] `TableDeleteColumns` — button; group `GroupTableRowsAndColumns`; menu `TableDeleteRowsAndColumnsMenuWord`. <!-- source-row:1871 -->
+- [ ] `TableDeleteRows` — button; group `GroupTableRowsAndColumns`; menu `TableDeleteRowsAndColumnsMenuWord`. <!-- source-row:1872 -->
+- [ ] `TableDelete` — button; group `GroupTableRowsAndColumns`; menu `TableDeleteRowsAndColumnsMenuWord`. <!-- source-row:1873 -->
+- [ ] `TableInsertRowsAbove` — button; group `GroupTableRowsAndColumns`. <!-- source-row:1874 -->
+- [ ] `TableInsertRowsBelow` — button; group `GroupTableRowsAndColumns`. <!-- source-row:1875 -->
+- [ ] `TableInsertColumnsLeft` — button; group `GroupTableRowsAndColumns`. <!-- source-row:1876 -->
+- [ ] `TableInsertColumnsRight` — button; group `GroupTableRowsAndColumns`. <!-- source-row:1877 -->
+- [ ] `GroupMerge` — group. <!-- source-row:1878 -->
+- [ ] `MergeCells` — button; group `GroupMerge`. <!-- source-row:1879 -->
+- [ ] `SplitCells` — button; group `GroupMerge`. <!-- source-row:1880 -->
+- [ ] `GroupTableCellSize` — group. <!-- source-row:1881 -->
+- [ ] `TableRowHeight` — control; group `GroupTableCellSize`. <!-- source-row:1882 -->
+- [ ] `TableColumnWidth` — control; group `GroupTableCellSize`. <!-- source-row:1883 -->
+- [ ] `TableRowsDistribute` — button; group `GroupTableCellSize`. <!-- source-row:1884 -->
+- [ ] `TableColumnsDistribute` — button; group `GroupTableCellSize`. <!-- source-row:1885 -->
+- [ ] `GroupAlignment` — group. <!-- source-row:1886 -->
+- [ ] `AlignLeft` — toggleButton; group `GroupAlignment`. <!-- source-row:1887 -->
+- [ ] `AlignCenter` — toggleButton; group `GroupAlignment`. <!-- source-row:1888 -->
+- [ ] `AlignRight` — toggleButton; group `GroupAlignment`. <!-- source-row:1889 -->
+- [ ] `TableCellAlignTop` — toggleButton; group `GroupAlignment`. <!-- source-row:1890 -->
+- [ ] `TableCellAlignCenterVertically` — toggleButton; group `GroupAlignment`. <!-- source-row:1891 -->
+- [ ] `TableCellAlignBottom` — toggleButton; group `GroupAlignment`. <!-- source-row:1892 -->
+- [ ] `TableSetLeftToRight` — toggleButton; group `GroupAlignment`. <!-- source-row:1893 -->
+- [ ] `TableSetRightToLeft` — toggleButton; group `GroupAlignment`. <!-- source-row:1894 -->
+- [ ] `TextDirectionGallery` — gallery; group `GroupAlignment`. <!-- source-row:1895 -->
+- [ ] `TextDirectionMoreOptionsDialog` — button; group `GroupAlignment`; menu `TextDirectionGallery`. <!-- source-row:1896 -->
+- [ ] `TableCellMarginsGallery` — gallery; group `GroupAlignment`. <!-- source-row:1897 -->
+- [ ] `TableCellCustomMarginsDialog` — button; group `GroupAlignment`; menu `TableCellMarginsGallery`. <!-- source-row:1898 -->
+- [ ] `GroupTableSize` — group. <!-- source-row:1899 -->
+- [ ] `TableHeight` — control; group `GroupTableSize`. <!-- source-row:1900 -->
+- [ ] `TableWidth` — control; group `GroupTableSize`. <!-- source-row:1901 -->
+- [ ] `TableLockAspectRatio` — checkBox; group `GroupTableSize`. <!-- source-row:1902 -->
+- [ ] `GroupArrange` — group. <!-- source-row:1903 -->
+- [ ] `ObjectBringForwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:1904 -->
+- [ ] `ObjectBringForward` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:1905 -->
+- [ ] `ObjectBringToFront` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:1906 -->
+- [ ] `ObjectSendBackwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:1907 -->
+- [ ] `ObjectSendBackward` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:1908 -->
+- [ ] `ObjectSendToBack` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:1909 -->
+- [ ] `SelectionPane` — toggleButton; group `GroupArrange`. <!-- source-row:1910 -->
+- [ ] `ObjectAlignMenu` — menu; group `GroupArrange`. <!-- source-row:1911 -->
+- [ ] `ObjectsAlignLeftSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1912 -->
+- [ ] `ObjectsAlignCenterHorizontalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1913 -->
+- [ ] `ObjectsAlignRightSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1914 -->
+- [ ] `ObjectsAlignTopSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1915 -->
+- [ ] `ObjectsAlignMiddleVerticalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1916 -->
+- [ ] `ObjectsAlignBottomSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1917 -->
+- [ ] `AlignDistributeHorizontally` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1918 -->
+- [ ] `AlignDistributeVertically` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1919 -->
+- [ ] `ObjectsAlignRelativeToContainerSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1920 -->
+- [ ] `ObjectsAlignSelectedSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1921 -->
+- [ ] `ObjectsGroupMenu` — menu; group `GroupArrange`. <!-- source-row:1922 -->
+- [ ] `ObjectsGroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:1923 -->
+- [ ] `ObjectsRegroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:1924 -->
+- [ ] `ObjectsUngroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:1925 -->
+- [ ] `ObjectRotateGallery` — gallery; group `GroupArrange`. <!-- source-row:1926 -->
+- [ ] `ObjectRotationOptionsDialog` — button; group `GroupArrange`; menu `ObjectRotateGallery`. <!-- source-row:1927 -->
+
+## TabSoundToolsOptions
+
+Catalog tab: `TabSoundToolsOptions`.
+
+- [ ] `GroupPlay` — group. <!-- source-row:1930 -->
+- [ ] `MoviePlay` — button; group `GroupPlay`. <!-- source-row:1931 -->
+- [ ] `GroupSoundOptions` — group. <!-- source-row:1932 -->
+- [ ] `SlideShowVolume` — gallery; group `GroupSoundOptions`. <!-- source-row:1933 -->
+- [ ] `MediaClipToolsHideDuringShow` — checkBox; group `GroupSoundOptions`. <!-- source-row:1934 -->
+- [ ] `MediaClipLoopUntilStopped` — checkBox; group `GroupSoundOptions`. <!-- source-row:1935 -->
+- [ ] `SoundPlaySoundGallery` — dropDown; group `GroupSoundOptions`. <!-- source-row:1936 -->
+- [ ] `ObjectEditDialog` — button (dialogBoxLauncher); group `GroupSoundOptions`. <!-- source-row:1937 -->
+- [ ] `GroupArrange` — group. <!-- source-row:1938 -->
+- [ ] `ObjectBringForwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:1939 -->
+- [ ] `ObjectBringForward` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:1940 -->
+- [ ] `ObjectBringToFront` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:1941 -->
+- [ ] `ObjectSendBackwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:1942 -->
+- [ ] `ObjectSendBackward` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:1943 -->
+- [ ] `ObjectSendToBack` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:1944 -->
+- [ ] `SelectionPane` — toggleButton; group `GroupArrange`. <!-- source-row:1945 -->
+- [ ] `ObjectAlignMenu` — menu; group `GroupArrange`. <!-- source-row:1946 -->
+- [ ] `ObjectsAlignLeftSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1947 -->
+- [ ] `ObjectsAlignCenterHorizontalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1948 -->
+- [ ] `ObjectsAlignRightSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1949 -->
+- [ ] `ObjectsAlignTopSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1950 -->
+- [ ] `ObjectsAlignMiddleVerticalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1951 -->
+- [ ] `ObjectsAlignBottomSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1952 -->
+- [ ] `AlignDistributeHorizontally` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1953 -->
+- [ ] `AlignDistributeVertically` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1954 -->
+- [ ] `ObjectsAlignRelativeToContainerSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1955 -->
+- [ ] `ObjectsAlignSelectedSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:1956 -->
+- [ ] `ObjectsGroupMenu` — menu; group `GroupArrange`. <!-- source-row:1957 -->
+- [ ] `ObjectsGroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:1958 -->
+- [ ] `ObjectsRegroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:1959 -->
+- [ ] `ObjectsUngroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:1960 -->
+- [ ] `ObjectRotateGallery` — gallery; group `GroupArrange`. <!-- source-row:1961 -->
+- [ ] `ObjectRotationOptionsDialog` — button; group `GroupArrange`; menu `ObjectRotateGallery`. <!-- source-row:1962 -->
+- [ ] `GroupSize` — group. <!-- source-row:1963 -->
+- [ ] `ShapeHeight` — control; group `GroupSize`. <!-- source-row:1964 -->
+- [ ] `ShapeWidth` — control; group `GroupSize`. <!-- source-row:1965 -->
+- [ ] `ObjectSizeAndPositionDialog` — button (dialogBoxLauncher); group `GroupSize`. <!-- source-row:1966 -->
+
+## TabAudioToolsFormat
+
+Catalog tab: `TabAudioToolsFormat`.
+
+- [ ] `GroupAudioToolsAdjust` — group. <!-- source-row:1969 -->
+- [ ] `PictureBackgroundRemoval` — toggleButton; group `GroupAudioToolsAdjust`. <!-- source-row:1970 -->
+- [ ] `PictureCorrectionsMenu` — menu; group `GroupAudioToolsAdjust`. <!-- source-row:1971 -->
+- [ ] `PictureSharpenSoftenGallery` — gallery; group `GroupAudioToolsAdjust`; menu `PictureCorrectionsMenu`. <!-- source-row:1972 -->
+- [ ] `PictureBrightnessAndContrastGallery` — gallery; group `GroupAudioToolsAdjust`; menu `PictureCorrectionsMenu`. <!-- source-row:1973 -->
+- [ ] `PictureCorrectionsDialog` — button; group `GroupAudioToolsAdjust`; menu `PictureCorrectionsMenu`. <!-- source-row:1974 -->
+- [ ] `PictureColorMenu` — menu; group `GroupAudioToolsAdjust`. <!-- source-row:1975 -->
+- [ ] `PictureSaturationGallery` — gallery; group `GroupAudioToolsAdjust`; menu `PictureColorMenu`. <!-- source-row:1976 -->
+- [ ] `PictureColorTempertatureGallery` — gallery; group `GroupAudioToolsAdjust`; menu `PictureColorMenu`. <!-- source-row:1977 -->
+- [ ] `PictureRecolorGallery` — gallery; group `GroupAudioToolsAdjust`; menu `PictureColorMenu`. <!-- source-row:1978 -->
+- [ ] `RecolorColorPicker` — gallery; group `GroupAudioToolsAdjust`; menu `PictureColorMenu`. <!-- source-row:1979 -->
+- [ ] `PictureRecolorMoreColorsDialog` — button; group `GroupAudioToolsAdjust`; menu `PictureColorMenu` → `RecolorColorPicker`. <!-- source-row:1980 -->
+- [ ] `EyedropperRecolor` — button; group `GroupAudioToolsAdjust`; menu `PictureColorMenu` → `RecolorColorPicker`. <!-- source-row:1981 -->
+- [ ] `PictureSetTransparentColor` — toggleButton; group `GroupAudioToolsAdjust`; menu `PictureColorMenu`. <!-- source-row:1982 -->
+- [ ] `PictureColorDialog` — button; group `GroupAudioToolsAdjust`; menu `PictureColorMenu`. <!-- source-row:1983 -->
+- [ ] `PictureArtisticEffectsGallery` — gallery; group `GroupAudioToolsAdjust`. <!-- source-row:1984 -->
+- [ ] `ArtisticEffectsDialog` — button; group `GroupAudioToolsAdjust`; menu `PictureArtisticEffectsGallery`. <!-- source-row:1985 -->
+- [ ] `PicturesCompress` — button; group `GroupAudioToolsAdjust`. <!-- source-row:1986 -->
+- [ ] `PictureChange` — button; group `GroupAudioToolsAdjust`. <!-- source-row:1987 -->
+- [ ] `PictureResetSplitButton` — splitButton; group `GroupAudioToolsAdjust`. <!-- source-row:1988 -->
+- [ ] `PictureReset` — button; group `GroupAudioToolsAdjust`; menu `PictureResetSplitButton`. <!-- source-row:1989 -->
+- [ ] `PictureResetAndSize` — button; group `GroupAudioToolsAdjust`; menu `PictureResetSplitButton`. <!-- source-row:1990 -->
+- [ ] `GroupPictureStyles` — group. <!-- source-row:1991 -->
+- [ ] `PictureStylesGallery` — gallery; group `GroupPictureStyles`. <!-- source-row:1992 -->
+- [ ] `OutlineColorPicker` — gallery; group `GroupPictureStyles`. <!-- source-row:1993 -->
+- [ ] `ObjectBorderOutlineColorMoreColorsDialog` — button; group `GroupPictureStyles`; menu `OutlineColorPicker`. <!-- source-row:1994 -->
+- [ ] `EyedropperOutline` — button; group `GroupPictureStyles`; menu `OutlineColorPicker`. <!-- source-row:1995 -->
+- [ ] `OutlineWeightGallery` — gallery; group `GroupPictureStyles`; menu `OutlineColorPicker`. <!-- source-row:1996 -->
+- [ ] `LineStylesDialog` — button; group `GroupPictureStyles`; menu `OutlineColorPicker` → `OutlineWeightGallery`. <!-- source-row:1997 -->
+- [ ] `OutlineDashesGallery` — gallery; group `GroupPictureStyles`; menu `OutlineColorPicker`. <!-- source-row:1998 -->
+- [ ] `LineStylesDialog` — button; group `GroupPictureStyles`; menu `OutlineColorPicker` → `OutlineDashesGallery`. <!-- source-row:1999 -->
+- [ ] `PictureEffectsMenu` — menu; group `GroupPictureStyles`. <!-- source-row:2000 -->
+- [ ] `PictureEffectsPresetGallery` — gallery; group `GroupPictureStyles`; menu `PictureEffectsMenu`. <!-- source-row:2001 -->
+- [ ] `_3DBevelOptionsDialog` — button; group `GroupPictureStyles`; menu `PictureEffectsMenu` → `PictureEffectsPresetGallery`. <!-- source-row:2002 -->
+- [ ] `PictureEffectsShadowGallery` — gallery; group `GroupPictureStyles`; menu `PictureEffectsMenu`. <!-- source-row:2003 -->
+- [ ] `ShadowOptionsDialog` — button; group `GroupPictureStyles`; menu `PictureEffectsMenu` → `PictureEffectsShadowGallery`. <!-- source-row:2004 -->
+- [ ] `PictureReflectionGallery` — gallery; group `GroupPictureStyles`; menu `PictureEffectsMenu`. <!-- source-row:2005 -->
+- [ ] `ReflectionsMoreOptions` — button; group `GroupPictureStyles`; menu `PictureEffectsMenu` → `PictureReflectionGallery`. <!-- source-row:2006 -->
+- [ ] `PictureEffectsGlowGallery` — gallery; group `GroupPictureStyles`; menu `PictureEffectsMenu`. <!-- source-row:2007 -->
+- [ ] `GlowColorPicker` — gallery; group `GroupPictureStyles`; menu `PictureEffectsMenu` → `PictureEffectsGlowGallery`. <!-- source-row:2008 -->
+- [ ] `GlowColorMoreColorsDialog` — button; group `GroupPictureStyles`; menu `PictureEffectsMenu` → `PictureEffectsGlowGallery` → `GlowColorPicker`. <!-- source-row:2009 -->
+- [ ] `EyedropperGlow` — button; group `GroupPictureStyles`; menu `PictureEffectsMenu` → `PictureEffectsGlowGallery` → `GlowColorPicker`. <!-- source-row:2010 -->
+- [ ] `GlowsMoreOptions` — button; group `GroupPictureStyles`; menu `PictureEffectsMenu` → `PictureEffectsGlowGallery`. <!-- source-row:2011 -->
+- [ ] `PictureEffectsSoftEdgesGallery` — gallery; group `GroupPictureStyles`; menu `PictureEffectsMenu`. <!-- source-row:2012 -->
+- [ ] `SoftEdgesMoreOptions` — button; group `GroupPictureStyles`; menu `PictureEffectsMenu` → `PictureEffectsSoftEdgesGallery`. <!-- source-row:2013 -->
+- [ ] `_3DBevelPictureTopGallery` — gallery; group `GroupPictureStyles`; menu `PictureEffectsMenu`. <!-- source-row:2014 -->
+- [ ] `_3DBevelOptionsDialog` — button; group `GroupPictureStyles`; menu `PictureEffectsMenu` → `_3DBevelPictureTopGallery`. <!-- source-row:2015 -->
+- [ ] `PictureRotationGallery` — gallery; group `GroupPictureStyles`; menu `PictureEffectsMenu`. <!-- source-row:2016 -->
+- [ ] `_3DRotationOptionsDialog` — button; group `GroupPictureStyles`; menu `PictureEffectsMenu` → `PictureRotationGallery`. <!-- source-row:2017 -->
+- [ ] `PicturesConvertToSmartArt` — gallery; group `GroupPictureStyles`. <!-- source-row:2018 -->
+- [ ] `ObjectFormatDialog` — button (dialogBoxLauncher); group `GroupPictureStyles`. <!-- source-row:2019 -->
+- [ ] `GroupArrange` — group. <!-- source-row:2020 -->
+- [ ] `ObjectBringForwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:2021 -->
+- [ ] `ObjectBringForward` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:2022 -->
+- [ ] `ObjectBringToFront` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:2023 -->
+- [ ] `ObjectSendBackwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:2024 -->
+- [ ] `ObjectSendBackward` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:2025 -->
+- [ ] `ObjectSendToBack` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:2026 -->
+- [ ] `SelectionPane` — toggleButton; group `GroupArrange`. <!-- source-row:2027 -->
+- [ ] `ObjectAlignMenu` — menu; group `GroupArrange`. <!-- source-row:2028 -->
+- [ ] `ObjectsAlignLeftSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2029 -->
+- [ ] `ObjectsAlignCenterHorizontalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2030 -->
+- [ ] `ObjectsAlignRightSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2031 -->
+- [ ] `ObjectsAlignTopSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2032 -->
+- [ ] `ObjectsAlignMiddleVerticalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2033 -->
+- [ ] `ObjectsAlignBottomSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2034 -->
+- [ ] `AlignDistributeHorizontally` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2035 -->
+- [ ] `AlignDistributeVertically` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2036 -->
+- [ ] `ObjectsAlignRelativeToContainerSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2037 -->
+- [ ] `ObjectsAlignSelectedSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2038 -->
+- [ ] `ObjectsGroupMenu` — menu; group `GroupArrange`. <!-- source-row:2039 -->
+- [ ] `ObjectsGroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:2040 -->
+- [ ] `ObjectsRegroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:2041 -->
+- [ ] `ObjectsUngroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:2042 -->
+- [ ] `ObjectRotateGallery` — gallery; group `GroupArrange`. <!-- source-row:2043 -->
+- [ ] `ObjectRotationOptionsDialog` — button; group `GroupArrange`; menu `ObjectRotateGallery`. <!-- source-row:2044 -->
+- [ ] `GroupPictureSize` — group. <!-- source-row:2045 -->
+- [ ] `PictureCropTools` — splitButton; group `GroupPictureSize`. <!-- source-row:2046 -->
+- [ ] `PictureCrop` — toggleButton; group `GroupPictureSize`; menu `PictureCropTools`. <!-- source-row:2047 -->
+- [ ] `PictureShapeGallery` — gallery; group `GroupPictureSize`; menu `PictureCropTools`. <!-- source-row:2048 -->
+- [ ] `PictureCropAspectRatioMenu` — menu; group `GroupPictureSize`; menu `PictureCropTools`. <!-- source-row:2049 -->
+- [ ] `PictureCropAspectRatio1To1` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:2050 -->
+- [ ] `PictureCropAspectRatio2To3` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:2051 -->
+- [ ] `PictureCropAspectRatio3To4` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:2052 -->
+- [ ] `PictureCropAspectRatio3To5` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:2053 -->
+- [ ] `PictureCropAspectRatio4To5` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:2054 -->
+- [ ] `PictureCropAspectRatio3To2` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:2055 -->
+- [ ] `PictureCropAspectRatio4To3` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:2056 -->
+- [ ] `PictureCropAspectRatio5To3` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:2057 -->
+- [ ] `PictureCropAspectRatio5To4` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:2058 -->
+- [ ] `PictureCropAspectRatio16To9` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:2059 -->
+- [ ] `PictureCropAspectRatio16To10` — button; group `GroupPictureSize`; menu `PictureCropTools` → `PictureCropAspectRatioMenu`. <!-- source-row:2060 -->
+- [ ] `PictureFillCrop` — button; group `GroupPictureSize`; menu `PictureCropTools`. <!-- source-row:2061 -->
+- [ ] `PictureFitCrop` — button; group `GroupPictureSize`; menu `PictureCropTools`. <!-- source-row:2062 -->
+- [ ] `ShapeHeight` — control; group `GroupPictureSize`. <!-- source-row:2063 -->
+- [ ] `ShapeWidth` — control; group `GroupPictureSize`. <!-- source-row:2064 -->
+- [ ] `ObjectSizeAndPositionDialog` — button (dialogBoxLauncher); group `GroupPictureSize`. <!-- source-row:2065 -->
+
+## TabAudioToolsEdit
+
+Catalog tab: `TabAudioToolsEdit`.
+
+- [ ] `GroupMediaPreview` — group. <!-- source-row:2067 -->
+- [ ] `MediaPlayPreview` — button; group `GroupMediaPreview`. <!-- source-row:2068 -->
+- [ ] `GroupAudioBookmark` — group. <!-- source-row:2069 -->
+- [ ] `AudioBookmarkAdd` — button; group `GroupAudioBookmark`. <!-- source-row:2070 -->
+- [ ] `AudioBookmarkRemove` — button; group `GroupAudioBookmark`. <!-- source-row:2071 -->
+- [ ] `GroupAudioEditing` — group. <!-- source-row:2072 -->
+- [ ] `AudioToolsTrim` — button; group `GroupAudioEditing`. <!-- source-row:2073 -->
+- [ ] `FadeDurationLabel` — labelControl; group `GroupAudioEditing`. <!-- source-row:2074 -->
+- [ ] `AudioFadeInTime` — control; group `GroupAudioEditing`. <!-- source-row:2075 -->
+- [ ] `AudioFadeOutTime` — control; group `GroupAudioEditing`. <!-- source-row:2076 -->
+- [ ] `GroupAudioOptions` — group. <!-- source-row:2077 -->
+- [ ] `AudioVolumeGallery` — gallery; group `GroupAudioOptions`. <!-- source-row:2078 -->
+- [ ] `AudioStartGallery` — dropDown; group `GroupAudioOptions`. <!-- source-row:2079 -->
+- [ ] `MediaClipPlayAcrossSlides` — checkBox; group `GroupAudioOptions`. <!-- source-row:2080 -->
+- [ ] `MediaClipLoopUntilStopped` — checkBox; group `GroupAudioOptions`. <!-- source-row:2081 -->
+- [ ] `MediaClipToolsHideDuringShow` — checkBox; group `GroupAudioOptions`. <!-- source-row:2082 -->
+- [ ] `MovieRewindAfterPlaying` — checkBox; group `GroupAudioOptions`. <!-- source-row:2083 -->
+- [ ] `GroupAudioStyles` — group. <!-- source-row:2084 -->
+- [ ] `NoAudioStyle` — toggleButton; group `GroupAudioStyles`. <!-- source-row:2085 -->
+- [ ] `PlayInBackground` — toggleButton; group `GroupAudioStyles`. <!-- source-row:2086 -->
+
+## TabVideoToolsDesign
+
+Catalog tab: `TabVideoToolsDesign`.
+
+- [ ] `GroupMediaPreview` — group. <!-- source-row:2089 -->
+- [ ] `MediaPlayPreview` — button; group `GroupMediaPreview`. <!-- source-row:2090 -->
+- [ ] `GroupVideoToolsAdjust` — group. <!-- source-row:2091 -->
+- [ ] `VideoCorrectionsMenu` — menu; group `GroupVideoToolsAdjust`. <!-- source-row:2092 -->
+- [ ] `PictureBrightnessAndContrastGallery` — gallery; group `GroupVideoToolsAdjust`; menu `VideoCorrectionsMenu`. <!-- source-row:2093 -->
+- [ ] `VideoCorrectionsDialog` — button; group `GroupVideoToolsAdjust`; menu `VideoCorrectionsMenu`. <!-- source-row:2094 -->
+- [ ] `VideoColorMenu` — menu; group `GroupVideoToolsAdjust`. <!-- source-row:2095 -->
+- [ ] `PictureRecolorGallery` — gallery; group `GroupVideoToolsAdjust`; menu `VideoColorMenu`. <!-- source-row:2096 -->
+- [ ] `RecolorColorPicker` — gallery; group `GroupVideoToolsAdjust`; menu `VideoColorMenu`. <!-- source-row:2097 -->
+- [ ] `PictureRecolorMoreColorsDialog` — button; group `GroupVideoToolsAdjust`; menu `VideoColorMenu` → `RecolorColorPicker`. <!-- source-row:2098 -->
+- [ ] `EyedropperRecolor` — button; group `GroupVideoToolsAdjust`; menu `VideoColorMenu` → `RecolorColorPicker`. <!-- source-row:2099 -->
+- [ ] `VideoColorDialog` — button; group `GroupVideoToolsAdjust`; menu `VideoColorMenu`. <!-- source-row:2100 -->
+- [ ] `VideoPosterFrameGallery` — menu; group `GroupVideoToolsAdjust`. <!-- source-row:2101 -->
+- [ ] `VideoPosterFrameCurrent` — button; group `GroupVideoToolsAdjust`; menu `VideoPosterFrameGallery`. <!-- source-row:2102 -->
+- [ ] `VideoPosterFrameFromFile` — button; group `GroupVideoToolsAdjust`; menu `VideoPosterFrameGallery`. <!-- source-row:2103 -->
+- [ ] `VideoPosterFrameReset` — button; group `GroupVideoToolsAdjust`; menu `VideoPosterFrameGallery`. <!-- source-row:2104 -->
+- [ ] `VideoDesignResetSplitButton` — splitButton; group `GroupVideoToolsAdjust`. <!-- source-row:2105 -->
+- [ ] `VideoToolsDesignReset` — button; group `GroupVideoToolsAdjust`; menu `VideoDesignResetSplitButton`. <!-- source-row:2106 -->
+- [ ] `VideoDesignResetAndSize` — button; group `GroupVideoToolsAdjust`; menu `VideoDesignResetSplitButton`. <!-- source-row:2107 -->
+- [ ] `GroupVideoStyles` — group. <!-- source-row:2108 -->
+- [ ] `VideoStylesGallery` — gallery; group `GroupVideoStyles`. <!-- source-row:2109 -->
+- [ ] `VideoShapeGallery` — gallery; group `GroupVideoStyles`. <!-- source-row:2110 -->
+- [ ] `VideoBorderGallery` — gallery; group `GroupVideoStyles`. <!-- source-row:2111 -->
+- [ ] `ObjectBorderOutlineColorMoreColorsDialog` — button; group `GroupVideoStyles`; menu `VideoBorderGallery`. <!-- source-row:2112 -->
+- [ ] `EyedropperOutline` — button; group `GroupVideoStyles`; menu `VideoBorderGallery`. <!-- source-row:2113 -->
+- [ ] `OutlineWeightGallery` — gallery; group `GroupVideoStyles`; menu `VideoBorderGallery`. <!-- source-row:2114 -->
+- [ ] `LineStylesDialog` — button; group `GroupVideoStyles`; menu `VideoBorderGallery` → `OutlineWeightGallery`. <!-- source-row:2115 -->
+- [ ] `OutlineDashesGallery` — gallery; group `GroupVideoStyles`; menu `VideoBorderGallery`. <!-- source-row:2116 -->
+- [ ] `LineStylesDialog` — button; group `GroupVideoStyles`; menu `VideoBorderGallery` → `OutlineDashesGallery`. <!-- source-row:2117 -->
+- [ ] `VideoEffectsGallery` — menu; group `GroupVideoStyles`. <!-- source-row:2118 -->
+- [ ] `PictureEffectsPresetGallery` — gallery; group `GroupVideoStyles`; menu `VideoEffectsGallery`. <!-- source-row:2119 -->
+- [ ] `_3DBevelOptionsDialog` — button; group `GroupVideoStyles`; menu `VideoEffectsGallery` → `PictureEffectsPresetGallery`. <!-- source-row:2120 -->
+- [ ] `PictureEffectsShadowGallery` — gallery; group `GroupVideoStyles`; menu `VideoEffectsGallery`. <!-- source-row:2121 -->
+- [ ] `ShadowOptionsDialog` — button; group `GroupVideoStyles`; menu `VideoEffectsGallery` → `PictureEffectsShadowGallery`. <!-- source-row:2122 -->
+- [ ] `PictureReflectionGallery` — gallery; group `GroupVideoStyles`; menu `VideoEffectsGallery`. <!-- source-row:2123 -->
+- [ ] `ReflectionsMoreOptions` — button; group `GroupVideoStyles`; menu `VideoEffectsGallery` → `PictureReflectionGallery`. <!-- source-row:2124 -->
+- [ ] `PictureEffectsGlowGallery` — gallery; group `GroupVideoStyles`; menu `VideoEffectsGallery`. <!-- source-row:2125 -->
+- [ ] `GlowColorPicker` — gallery; group `GroupVideoStyles`; menu `VideoEffectsGallery` → `PictureEffectsGlowGallery`. <!-- source-row:2126 -->
+- [ ] `GlowColorMoreColorsDialog` — button; group `GroupVideoStyles`; menu `VideoEffectsGallery` → `PictureEffectsGlowGallery` → `GlowColorPicker`. <!-- source-row:2127 -->
+- [ ] `EyedropperGlow` — button; group `GroupVideoStyles`; menu `VideoEffectsGallery` → `PictureEffectsGlowGallery` → `GlowColorPicker`. <!-- source-row:2128 -->
+- [ ] `GlowsMoreOptions` — button; group `GroupVideoStyles`; menu `VideoEffectsGallery` → `PictureEffectsGlowGallery`. <!-- source-row:2129 -->
+- [ ] `PictureEffectsSoftEdgesGallery` — gallery; group `GroupVideoStyles`; menu `VideoEffectsGallery`. <!-- source-row:2130 -->
+- [ ] `SoftEdgesMoreOptions` — button; group `GroupVideoStyles`; menu `VideoEffectsGallery` → `PictureEffectsSoftEdgesGallery`. <!-- source-row:2131 -->
+- [ ] `_3DBevelPictureTopGallery` — gallery; group `GroupVideoStyles`; menu `VideoEffectsGallery`. <!-- source-row:2132 -->
+- [ ] `_3DBevelOptionsDialog` — button; group `GroupVideoStyles`; menu `VideoEffectsGallery` → `_3DBevelPictureTopGallery`. <!-- source-row:2133 -->
+- [ ] `PictureRotationGallery` — gallery; group `GroupVideoStyles`; menu `VideoEffectsGallery`. <!-- source-row:2134 -->
+- [ ] `_3DRotationOptionsDialog` — button; group `GroupVideoStyles`; menu `VideoEffectsGallery` → `PictureRotationGallery`. <!-- source-row:2135 -->
+- [ ] `ObjectFormatDialog` — button (dialogBoxLauncher); group `GroupVideoStyles`. <!-- source-row:2136 -->
+- [ ] `GroupArrange` — group. <!-- source-row:2137 -->
+- [ ] `ObjectBringForwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:2138 -->
+- [ ] `ObjectBringForward` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:2139 -->
+- [ ] `ObjectBringToFront` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:2140 -->
+- [ ] `ObjectSendBackwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:2141 -->
+- [ ] `ObjectSendBackward` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:2142 -->
+- [ ] `ObjectSendToBack` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:2143 -->
+- [ ] `SelectionPane` — toggleButton; group `GroupArrange`. <!-- source-row:2144 -->
+- [ ] `ObjectAlignMenu` — menu; group `GroupArrange`. <!-- source-row:2145 -->
+- [ ] `ObjectsAlignLeftSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2146 -->
+- [ ] `ObjectsAlignCenterHorizontalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2147 -->
+- [ ] `ObjectsAlignRightSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2148 -->
+- [ ] `ObjectsAlignTopSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2149 -->
+- [ ] `ObjectsAlignMiddleVerticalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2150 -->
+- [ ] `ObjectsAlignBottomSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2151 -->
+- [ ] `AlignDistributeHorizontally` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2152 -->
+- [ ] `AlignDistributeVertically` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2153 -->
+- [ ] `ObjectsAlignRelativeToContainerSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2154 -->
+- [ ] `ObjectsAlignSelectedSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2155 -->
+- [ ] `ObjectsGroupMenu` — menu; group `GroupArrange`. <!-- source-row:2156 -->
+- [ ] `ObjectsGroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:2157 -->
+- [ ] `ObjectsRegroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:2158 -->
+- [ ] `ObjectsUngroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:2159 -->
+- [ ] `ObjectRotateGallery` — gallery; group `GroupArrange`. <!-- source-row:2160 -->
+- [ ] `ObjectRotationOptionsDialog` — button; group `GroupArrange`; menu `ObjectRotateGallery`. <!-- source-row:2161 -->
+- [ ] `GroupVideoSize` — group. <!-- source-row:2162 -->
+- [ ] `VideoCrop` — toggleButton; group `GroupVideoSize`. <!-- source-row:2163 -->
+- [ ] `VideoHeight` — control; group `GroupVideoSize`. <!-- source-row:2164 -->
+- [ ] `VideoWidth` — control; group `GroupVideoSize`. <!-- source-row:2165 -->
+- [ ] `ObjectSizeAndPositionDialog` — button (dialogBoxLauncher); group `GroupVideoSize`. <!-- source-row:2166 -->
+
+## TabVideoToolsEdit
+
+Catalog tab: `TabVideoToolsEdit`.
+
+- [ ] `GroupMediaPreview` — group. <!-- source-row:2168 -->
+- [ ] `MediaPlayPreview` — button; group `GroupMediaPreview`. <!-- source-row:2169 -->
+- [ ] `GroupVideoBookmark` — group. <!-- source-row:2170 -->
+- [ ] `VideoBookmarkAdd` — button; group `GroupVideoBookmark`. <!-- source-row:2171 -->
+- [ ] `VideoBookmarkRemove` — button; group `GroupVideoBookmark`. <!-- source-row:2172 -->
+- [ ] `GroupVideoEditing` — group. <!-- source-row:2173 -->
+- [ ] `VideoToolsTrim` — button; group `GroupVideoEditing`. <!-- source-row:2174 -->
+- [ ] `FadeDurationLabel` — labelControl; group `GroupVideoEditing`. <!-- source-row:2175 -->
+- [ ] `VideoFadeInTime` — control; group `GroupVideoEditing`. <!-- source-row:2176 -->
+- [ ] `VideoFadeOutTime` — control; group `GroupVideoEditing`. <!-- source-row:2177 -->
+- [ ] `GroupVideoOptions` — group. <!-- source-row:2178 -->
+- [ ] `VideoVolumeGallery` — gallery; group `GroupVideoOptions`. <!-- source-row:2179 -->
+- [ ] `VideoStartGallery` — dropDown; group `GroupVideoOptions`. <!-- source-row:2180 -->
+- [ ] `MoviePlayFullScreen` — checkBox; group `GroupVideoOptions`. <!-- source-row:2181 -->
+- [ ] `MediaClipToolsHideDuringShowVideo` — checkBox; group `GroupVideoOptions`. <!-- source-row:2182 -->
+- [ ] `MediaClipLoopUntilStopped` — checkBox; group `GroupVideoOptions`. <!-- source-row:2183 -->
+- [ ] `MovieRewindAfterPlaying` — checkBox; group `GroupVideoOptions`. <!-- source-row:2184 -->
+
+## TabMovieToolsOptions
+
+Catalog tab: `TabMovieToolsOptions`.
+
+- [ ] `GroupPlay` — group. <!-- source-row:2187 -->
+- [ ] `MoviePlay` — button; group `GroupPlay`. <!-- source-row:2188 -->
+- [ ] `GroupMovieOptions` — group. <!-- source-row:2189 -->
+- [ ] `SlideShowVolume` — gallery; group `GroupMovieOptions`. <!-- source-row:2190 -->
+- [ ] `MoviePlayAutomatically` — dropDown; group `GroupMovieOptions`. <!-- source-row:2191 -->
+- [ ] `MediaClipToolsHideDuringShow` — checkBox; group `GroupMovieOptions`. <!-- source-row:2192 -->
+- [ ] `MoviePlayFullScreen` — checkBox; group `GroupMovieOptions`. <!-- source-row:2193 -->
+- [ ] `MediaClipLoopUntilStopped` — checkBox; group `GroupMovieOptions`. <!-- source-row:2194 -->
+- [ ] `MovieRewindAfterPlaying` — checkBox; group `GroupMovieOptions`. <!-- source-row:2195 -->
+- [ ] `ObjectEditDialog` — button (dialogBoxLauncher); group `GroupMovieOptions`. <!-- source-row:2196 -->
+- [ ] `GroupArrange` — group. <!-- source-row:2197 -->
+- [ ] `ObjectBringForwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:2198 -->
+- [ ] `ObjectBringForward` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:2199 -->
+- [ ] `ObjectBringToFront` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:2200 -->
+- [ ] `ObjectSendBackwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:2201 -->
+- [ ] `ObjectSendBackward` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:2202 -->
+- [ ] `ObjectSendToBack` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:2203 -->
+- [ ] `SelectionPane` — toggleButton; group `GroupArrange`. <!-- source-row:2204 -->
+- [ ] `ObjectAlignMenu` — menu; group `GroupArrange`. <!-- source-row:2205 -->
+- [ ] `ObjectsAlignLeftSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2206 -->
+- [ ] `ObjectsAlignCenterHorizontalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2207 -->
+- [ ] `ObjectsAlignRightSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2208 -->
+- [ ] `ObjectsAlignTopSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2209 -->
+- [ ] `ObjectsAlignMiddleVerticalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2210 -->
+- [ ] `ObjectsAlignBottomSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2211 -->
+- [ ] `AlignDistributeHorizontally` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2212 -->
+- [ ] `AlignDistributeVertically` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2213 -->
+- [ ] `ObjectsAlignRelativeToContainerSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2214 -->
+- [ ] `ObjectsAlignSelectedSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2215 -->
+- [ ] `ObjectsGroupMenu` — menu; group `GroupArrange`. <!-- source-row:2216 -->
+- [ ] `ObjectsGroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:2217 -->
+- [ ] `ObjectsRegroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:2218 -->
+- [ ] `ObjectsUngroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:2219 -->
+- [ ] `ObjectRotateGallery` — gallery; group `GroupArrange`. <!-- source-row:2220 -->
+- [ ] `ObjectRotationOptionsDialog` — button; group `GroupArrange`; menu `ObjectRotateGallery`. <!-- source-row:2221 -->
+- [ ] `GroupSize` — group. <!-- source-row:2222 -->
+- [ ] `ShapeHeight` — control; group `GroupSize`. <!-- source-row:2223 -->
+- [ ] `ShapeWidth` — control; group `GroupSize`. <!-- source-row:2224 -->
+- [ ] `ObjectSizeAndPositionDialog` — button (dialogBoxLauncher); group `GroupSize`. <!-- source-row:2225 -->
+
+## TabCDAudioToolsOptions
+
+Catalog tab: `TabCDAudioToolsOptions`.
+
+- [ ] `GroupPlay` — group. <!-- source-row:2228 -->
+- [ ] `MoviePlay` — button; group `GroupPlay`. <!-- source-row:2229 -->
+- [ ] `GroupCDAudioSetup` — group. <!-- source-row:2230 -->
+- [ ] `SlideShowVolume` — gallery; group `GroupCDAudioSetup`. <!-- source-row:2231 -->
+- [ ] `CDAudioStartPlayingLabel` — labelControl; group `GroupCDAudioSetup`. <!-- source-row:2232 -->
+- [ ] `CDAudioStartTrack` — control; group `GroupCDAudioSetup`. <!-- source-row:2233 -->
+- [ ] `CDAudioStartTime` — control; group `GroupCDAudioSetup`. <!-- source-row:2234 -->
+- [ ] `CDAudioStopPlayingLabel` — labelControl; group `GroupCDAudioSetup`. <!-- source-row:2235 -->
+- [ ] `CDAudioStopTrack` — control; group `GroupCDAudioSetup`. <!-- source-row:2236 -->
+- [ ] `CDAudioStopTime` — control; group `GroupCDAudioSetup`. <!-- source-row:2237 -->
+- [ ] `CDAudioPlayTrackAutomatically` — dropDown; group `GroupCDAudioSetup`. <!-- source-row:2238 -->
+- [ ] `MediaClipLoopUntilStoppedAudio` — checkBox; group `GroupCDAudioSetup`. <!-- source-row:2239 -->
+- [ ] `MediaClipToolsHideDuringShowAudio` — checkBox; group `GroupCDAudioSetup`. <!-- source-row:2240 -->
+- [ ] `ObjectEditDialog` — button (dialogBoxLauncher); group `GroupCDAudioSetup`. <!-- source-row:2241 -->
+- [ ] `GroupArrange` — group. <!-- source-row:2242 -->
+- [ ] `ObjectBringForwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:2243 -->
+- [ ] `ObjectBringForward` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:2244 -->
+- [ ] `ObjectBringToFront` — button; group `GroupArrange`; menu `ObjectBringForwardMenu`. <!-- source-row:2245 -->
+- [ ] `ObjectSendBackwardMenu` — splitButton; group `GroupArrange`. <!-- source-row:2246 -->
+- [ ] `ObjectSendBackward` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:2247 -->
+- [ ] `ObjectSendToBack` — button; group `GroupArrange`; menu `ObjectSendBackwardMenu`. <!-- source-row:2248 -->
+- [ ] `SelectionPane` — toggleButton; group `GroupArrange`. <!-- source-row:2249 -->
+- [ ] `ObjectAlignMenu` — menu; group `GroupArrange`. <!-- source-row:2250 -->
+- [ ] `ObjectsAlignLeftSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2251 -->
+- [ ] `ObjectsAlignCenterHorizontalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2252 -->
+- [ ] `ObjectsAlignRightSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2253 -->
+- [ ] `ObjectsAlignTopSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2254 -->
+- [ ] `ObjectsAlignMiddleVerticalSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2255 -->
+- [ ] `ObjectsAlignBottomSmart` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2256 -->
+- [ ] `AlignDistributeHorizontally` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2257 -->
+- [ ] `AlignDistributeVertically` — button; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2258 -->
+- [ ] `ObjectsAlignRelativeToContainerSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2259 -->
+- [ ] `ObjectsAlignSelectedSmart` — toggleButton; group `GroupArrange`; menu `ObjectAlignMenu`. <!-- source-row:2260 -->
+- [ ] `ObjectsGroupMenu` — menu; group `GroupArrange`. <!-- source-row:2261 -->
+- [ ] `ObjectsGroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:2262 -->
+- [ ] `ObjectsRegroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:2263 -->
+- [ ] `ObjectsUngroup` — button; group `GroupArrange`; menu `ObjectsGroupMenu`. <!-- source-row:2264 -->
+- [ ] `ObjectRotateGallery` — gallery; group `GroupArrange`. <!-- source-row:2265 -->
+- [ ] `ObjectRotationOptionsDialog` — button; group `GroupArrange`; menu `ObjectRotateGallery`. <!-- source-row:2266 -->
+- [ ] `GroupSize` — group. <!-- source-row:2267 -->
+- [ ] `ShapeHeight` — control; group `GroupSize`. <!-- source-row:2268 -->
+- [ ] `ShapeWidth` — control; group `GroupSize`. <!-- source-row:2269 -->
+- [ ] `ObjectSizeAndPositionDialog` — button (dialogBoxLauncher); group `GroupSize`. <!-- source-row:2270 -->
+
+## TabInkToolsPens
+
+Catalog tab: `TabInkToolsPens`.
+
+- [ ] `GroupPensWrite` — group. <!-- source-row:2273 -->
+- [ ] `InkBallpointPen` — toggleButton; group `GroupPensWrite`. <!-- source-row:2274 -->
+- [ ] `InkHighlighter` — toggleButton; group `GroupPensWrite`. <!-- source-row:2275 -->
+- [ ] `InkEraserMenu` — splitButton; group `GroupPensWrite`. <!-- source-row:2276 -->
+- [ ] `CurrentEraser` — toggleButton; group `GroupPensWrite`; menu `InkEraserMenu`. <!-- source-row:2277 -->
+- [ ] `InkEraser` — toggleButton; group `GroupPensWrite`; menu `InkEraserMenu`. <!-- source-row:2278 -->
+- [ ] `PointEraserSmall` — toggleButton; group `GroupPensWrite`; menu `InkEraserMenu`. <!-- source-row:2279 -->
+- [ ] `PointEraserMedium` — toggleButton; group `GroupPensWrite`; menu `InkEraserMenu`. <!-- source-row:2280 -->
+- [ ] `LassoSelect` — toggleButton; group `GroupPensWrite`. <!-- source-row:2281 -->
+- [ ] `ObjectsSelect` — toggleButton; group `GroupPensWrite`. <!-- source-row:2282 -->
+- [ ] `GroupPens` — group. <!-- source-row:2283 -->
+- [ ] `PensGallery` — gallery; group `GroupPens`. <!-- source-row:2284 -->
+- [ ] `PenAddFavorite` — button; group `GroupPens`; menu `PensGallery`. <!-- source-row:2285 -->
+- [ ] `InkColorPicker` — gallery; group `GroupPens`. <!-- source-row:2286 -->
+- [ ] `InkColorMoreColorsDialog` — button; group `GroupPens`; menu `InkColorPicker`. <!-- source-row:2287 -->
+- [ ] `EyedropperOutline` — button; group `GroupPens`; menu `InkColorPicker`. <!-- source-row:2288 -->
+- [ ] `LineThickness` — gallery; group `GroupPens`. <!-- source-row:2289 -->
+- [ ] `LineStylesDialog` — button; group `GroupPens`; menu `LineThickness`. <!-- source-row:2290 -->
+- [ ] `GroupDiagramming` — group. <!-- source-row:2291 -->
+- [ ] `DiagrammingOnline` — toggleButton; group `GroupDiagramming`. <!-- source-row:2292 -->
+- [ ] `GroupInkSelect` — group. <!-- source-row:2293 -->
+- [ ] `ObjectsSelect` — toggleButton; group `GroupInkSelect`. <!-- source-row:2294 -->
+- [ ] `GroupInkFormat` — group. <!-- source-row:2295 -->
+- [ ] `ObjectsSelect` — toggleButton; group `GroupInkFormat`. <!-- source-row:2296 -->
+- [ ] `GroupInkPens` — group. <!-- source-row:2297 -->
+- [ ] `InkFeltTipPen` — toggleButton; group `GroupInkPens`. <!-- source-row:2298 -->
+- [ ] `GroupInkClose` — group. <!-- source-row:2299 -->
+- [ ] `InkStopInkingReadingView` — button; group `GroupInkClose`. <!-- source-row:2300 -->
+
+## TabEquationToolsDesign
+
+Catalog tab: `TabEquationToolsDesign`.
+
+- [ ] `GroupEquationTools` — group. <!-- source-row:2303 -->
+- [ ] `EquationInsertGallery` — gallery; group `GroupEquationTools`. <!-- source-row:2304 -->
+- [ ] `InkEquation` — button; group `GroupEquationTools`. <!-- source-row:2305 -->
+- [ ] `EquationProfessional` — button; group `GroupEquationTools`. <!-- source-row:2306 -->
+- [ ] `EquationLinearFormat` — button; group `GroupEquationTools`. <!-- source-row:2307 -->
+- [ ] `EquationNormalText` — toggleButton; group `GroupEquationTools`. <!-- source-row:2308 -->
+- [ ] `EquationOptions` — button (dialogBoxLauncher); group `GroupEquationTools`. <!-- source-row:2309 -->
+- [ ] `GroupEquationSymbols` — group. <!-- source-row:2310 -->
+- [ ] `EquationSymbolsInsertGallery` — gallery; group `GroupEquationSymbols`. <!-- source-row:2311 -->
+- [ ] `GroupEquationStructures` — group. <!-- source-row:2312 -->
+- [ ] `EquationFractionGallery` — gallery; group `GroupEquationStructures`. <!-- source-row:2313 -->
+- [ ] `EquationScriptGallery` — gallery; group `GroupEquationStructures`. <!-- source-row:2314 -->
+- [ ] `EquationRadicalGallery` — gallery; group `GroupEquationStructures`. <!-- source-row:2315 -->
+- [ ] `EquationIntegralGallery` — gallery; group `GroupEquationStructures`. <!-- source-row:2316 -->
+- [ ] `EquationLargeOperatorGallery` — gallery; group `GroupEquationStructures`. <!-- source-row:2317 -->
+- [ ] `EquationDelimiterGallery` — gallery; group `GroupEquationStructures`. <!-- source-row:2318 -->
+- [ ] `EquationFunctionGallery` — gallery; group `GroupEquationStructures`. <!-- source-row:2319 -->
+- [ ] `EquationAccentGallery` — gallery; group `GroupEquationStructures`. <!-- source-row:2320 -->
+- [ ] `EquationLimitGallery` — gallery; group `GroupEquationStructures`. <!-- source-row:2321 -->
+- [ ] `EquationOperatorGallery` — gallery; group `GroupEquationStructures`. <!-- source-row:2322 -->
+- [ ] `EquationMatrixGallery` — gallery; group `GroupEquationStructures`. <!-- source-row:2323 -->
+
+## TabInfo
+
+Catalog tab: `TabInfo`.
+
+- [ ] `GroupUploadErrors` — group. <!-- source-row:2326 -->
+- [ ] `GroupUpdatesAvailable` — group. <!-- source-row:2327 -->
+- [ ] `GroupBroadcastResumeWarning` — group. <!-- source-row:2329 -->
+- [ ] `GroupBroadcastEndWarning` — group. <!-- source-row:2330 -->
+- [ ] `GroupOptimizeCompatibility` — group. <!-- source-row:2331 -->
+- [ ] `GroupCompressMedia` — group. <!-- source-row:2332 -->
+- [ ] `GroupARMPreview` — group. <!-- source-row:2333 -->
+- [ ] `GroupWorkflows` — group. <!-- source-row:2334 -->
+- [ ] `GrupPolicyWarning` — group. <!-- source-row:2335 -->
+- [ ] `GroupSecurityWarning` — group. <!-- source-row:2336 -->
+- [ ] `GroupProtectedView` — group. <!-- source-row:2337 -->
+- [ ] `GroupReadOnly` — group. <!-- source-row:2338 -->
+- [ ] `GroupReadOnlyServer` — group. <!-- source-row:2339 -->
+- [ ] `GroupReadOnlyOffline` — group. <!-- source-row:2340 -->
+- [ ] `GroupReadOnlyCheckOutRequired` — group. <!-- source-row:2341 -->
+- [ ] `GroupCachedOfflineMergeable` — group. <!-- source-row:2342 -->
+- [ ] `GroupReadOnlyCachedMergeable` — group. <!-- source-row:2343 -->
+- [ ] `GroupReadOnlyCached` — group. <!-- source-row:2344 -->
+- [ ] `GroupCheckIn` — group. <!-- source-row:2345 -->
+- [ ] `FileCheckOutDiscard` — button; group `GroupCheckIn`. <!-- source-row:2346 -->
+- [ ] `GroupFileConvert` — group. <!-- source-row:2347 -->
+- [ ] `UpgradeDocument` — button; group `GroupFileConvert`. <!-- source-row:2348 -->
+- [ ] `OfficePolicyTips` — group. <!-- source-row:2349 -->
+- [ ] `GroupAllAuthors` — group. <!-- source-row:2350 -->
+- [ ] `GroupSignatures` — group. <!-- source-row:2351 -->
+- [ ] `GroupPermissions` — group. <!-- source-row:2352 -->
+- [ ] `FileMarkAsFinal` — control; group `GroupPermissions`. <!-- source-row:2353 -->
+- [ ] `FileDocumentEncrypt` — control; group `GroupPermissions`. <!-- source-row:2354 -->
+- [ ] `UsagePermissions` — button; group `GroupPermissions`. <!-- source-row:2355 -->
+- [ ] `FileAddDigitalSignature` — button; group `GroupPermissions`. <!-- source-row:2356 -->
+- [ ] `GroupPrepareForSharing` — group. <!-- source-row:2357 -->
+- [ ] `AllowPersonallyIdentifiableInformation` — control; group `GroupPrepareForSharing`. <!-- source-row:2358 -->
+- [ ] `GroupVersions` — group. <!-- source-row:2359 -->
+- [ ] `GroupThumbnail` — group. <!-- source-row:2360 -->
+- [ ] `GroupDocumentProperties` — group. <!-- source-row:2361 -->
+
+## TabOfficeStart
+
+Catalog tab: `TabOfficeStart`.
+
+- [ ] `GroupOfficeStart` — group. <!-- source-row:2363 -->
+
+## TabRecent
+
+Catalog tab: `TabRecent`.
+
+- [ ] `GroupOpenPlaces` — taskFormGroup. <!-- source-row:2365 -->
+- [ ] `ButtonCategoryRecentDocuments` — category; group `GroupOpenPlaces`. <!-- source-row:2366 -->
+- [ ] `ButtonTaskRecentDocuments` — task; group `GroupOpenPlaces`; menu `ButtonCategoryRecentDocuments`. <!-- source-row:2367 -->
+- [ ] `GroupRecentDocuments` — group; group `GroupOpenPlaces`; menu `ButtonCategoryRecentDocuments` → `ButtonTaskRecentDocuments`. <!-- source-row:2368 -->
+- [ ] `ButtonOpenBrowse` — button; group `GroupOpenPlaces`; menu `ButtonCategoryRecentDocuments` → `ButtonTaskRecentDocuments` → `GroupRecentDocuments`. <!-- source-row:2369 -->
+- [ ] `GroupRecoverUnsavedFiles` — group; group `GroupOpenPlaces`; menu `ButtonCategoryRecentDocuments` → `ButtonTaskRecentDocuments`. <!-- source-row:2370 -->
+- [ ] `ButtonTaskDynamicServiceProvider` — task; group `GroupOpenPlaces`; menu `ButtonCategoryRecentDocuments`. <!-- source-row:2371 -->
+- [ ] `GroupRecentPlaces` — group; group `GroupOpenPlaces`; menu `ButtonCategoryRecentDocuments` → `ButtonTaskDynamicServiceProvider`. <!-- source-row:2372 -->
+- [ ] `GroupGettingStartedOpenMRUPlacesOrNavSlab` — group; group `GroupOpenPlaces`; menu `ButtonCategoryRecentDocuments` → `ButtonTaskDynamicServiceProvider`. <!-- source-row:2373 -->
+- [ ] `SkyDriveUpsellGroup` — group; group `GroupOpenPlaces`; menu `ButtonCategoryRecentDocuments` → `ButtonTaskDynamicServiceProvider`. <!-- source-row:2374 -->
+- [ ] `LoadingServicesGroup` — group; group `GroupOpenPlaces`; menu `ButtonCategoryRecentDocuments` → `ButtonTaskDynamicServiceProvider`. <!-- source-row:2376 -->
+- [ ] `GroupAddLocation` — group; group `GroupOpenPlaces`; menu `ButtonCategoryRecentDocuments` → `ButtonTaskDynamicServiceProvider`. <!-- source-row:2377 -->
+
+## TabSave
+
+Catalog tab: `TabSave`.
+
+- [ ] `SaveGroup` — taskFormGroup. <!-- source-row:2380 -->
+- [ ] `Save` — category; group `SaveGroup`. <!-- source-row:2381 -->
+- [ ] `ButtonTaskDynamicServiceProvider` — task; group `SaveGroup`; menu `Save`. <!-- source-row:2382 -->
+- [ ] `GroupDynamicServiceProvider` — group; group `SaveGroup`; menu `Save` → `ButtonTaskDynamicServiceProvider`. <!-- source-row:2383 -->
+- [ ] `GroupGettingStartedSaveAsMRUPlacesOrNavSlab` — group; group `SaveGroup`; menu `Save` → `ButtonTaskDynamicServiceProvider`. <!-- source-row:2384 -->
+- [ ] `SkyDriveUpsellGroup` — group; group `SaveGroup`; menu `Save` → `ButtonTaskDynamicServiceProvider`. <!-- source-row:2385 -->
+- [ ] `LoadingServicesGroup` — group; group `SaveGroup`; menu `Save` → `ButtonTaskDynamicServiceProvider`. <!-- source-row:2387 -->
+- [ ] `GroupAddLocation` — group; group `SaveGroup`; menu `Save` → `ButtonTaskDynamicServiceProvider`. <!-- source-row:2388 -->
+
+## TabPrint
+
+Catalog tab: `TabPrint`.
+
+- [ ] `GroupPrintProtectedView` — group. <!-- source-row:2391 -->
+- [ ] `GroupPrintSettings` — group. <!-- source-row:2392 -->
+- [ ] `FilePrintCustomRange` — control; group `GroupPrintSettings`. <!-- source-row:2393 -->
+- [ ] `GroupPrintPreview` — group. <!-- source-row:2394 -->
+
+## TabShare
+
+Catalog tab: `TabShare`.
+
+- [ ] `GroupShare` — taskFormGroup. <!-- source-row:2396 -->
+- [ ] `Share` — category; group `GroupShare`. <!-- source-row:2397 -->
+- [ ] `ShareWithPeopleFromSharePane` — task; group `GroupShare`; menu `Share`. <!-- source-row:2398 -->
+- [ ] `SlabShareWithPeopleFromSharePane` — group; group `GroupShare`; menu `Share` → `ShareWithPeopleFromSharePane`. <!-- source-row:2399 -->
+- [ ] `SendUsingEmail` — task; group `GroupShare`; menu `Share`. <!-- source-row:2400 -->
+- [ ] `GroupSendAsAttachment` — group; group `GroupShare`; menu `Share` → `SendUsingEmail`. <!-- source-row:2401 -->
+- [ ] `GroupSendAsLink` — group; group `GroupShare`; menu `Share` → `SendUsingEmail`. <!-- source-row:2402 -->
+- [ ] `GroupSendAsPdf` — group; group `GroupShare`; menu `Share` → `SendUsingEmail`. <!-- source-row:2403 -->
+- [ ] `GroupSendAsXps` — group; group `GroupShare`; menu `Share` → `SendUsingEmail`. <!-- source-row:2404 -->
+- [ ] `GroupSendAsInternetFax` — group; group `GroupShare`; menu `Share` → `SendUsingEmail`. <!-- source-row:2405 -->
+- [ ] `BroadcastSlideShowBackstage` — task; group `GroupShare`; menu `Share`. <!-- source-row:2406 -->
+- [ ] `GroupBroadcast` — group; group `GroupShare`; menu `Share` → `BroadcastSlideShowBackstage`. <!-- source-row:2407 -->
+- [ ] `FilePublishSlides` — task; group `GroupShare`; menu `Share`. <!-- source-row:2408 -->
+- [ ] `GroupPublishSlides` — group; group `GroupShare`; menu `Share` → `FilePublishSlides`. <!-- source-row:2409 -->
+- [ ] `FilePublishSlides` — button; group `GroupShare`; menu `Share` → `FilePublishSlides` → `GroupPublishSlides`. <!-- source-row:2410 -->
+- [ ] `SendByInstantMessage` — task; group `GroupShare`; menu `Share`. <!-- source-row:2411 -->
+- [ ] `GroupSendByInstantMessage` — group; group `GroupShare`; menu `Share` → `SendByInstantMessage`. <!-- source-row:2412 -->
+- [ ] `Workflow` — category; group `GroupShare`. <!-- source-row:2413 -->
+- [ ] `WorkflowStart` — task; group `GroupShare`; menu `Workflow`. <!-- source-row:2414 -->
+- [ ] `GroupWorkflowStart` — group; group `GroupShare`; menu `Workflow` → `WorkflowStart`. <!-- source-row:2415 -->
+- [ ] `WorkflowsUnavailable` — task; group `GroupShare`; menu `Workflow`. <!-- source-row:2416 -->
+- [ ] `GroupWorkflowsUnavailable` — group; group `GroupShare`; menu `Workflow` → `WorkflowsUnavailable`. <!-- source-row:2417 -->
+
+## TabPublish
+
+Catalog tab: `TabPublish`.
+
+- [ ] `PublishGroup` — taskFormGroup. <!-- source-row:2419 -->
+- [ ] `FileTypes` — category; group `PublishGroup`. <!-- source-row:2420 -->
+- [ ] `FileSaveAsPdfOrXps` — task; group `PublishGroup`; menu `FileTypes`. <!-- source-row:2421 -->
+- [ ] `GroupCreatePdfOrXpsDocument` — group; group `PublishGroup`; menu `FileTypes` → `FileSaveAsPdfOrXps`. <!-- source-row:2422 -->
+- [ ] `ExportToVideo` — task; group `PublishGroup`; menu `FileTypes`. <!-- source-row:2423 -->
+- [ ] `GroupExportToVideo` — group; group `PublishGroup`; menu `FileTypes` → `ExportToVideo`. <!-- source-row:2424 -->
+- [ ] `FilePackageForCD` — task; group `PublishGroup`; menu `FileTypes`. <!-- source-row:2425 -->
+- [ ] `GroupPackageForCD` — group; group `PublishGroup`; menu `FileTypes` → `FilePackageForCD`. <!-- source-row:2426 -->
+- [ ] `CreateHandoutsInWord` — task; group `PublishGroup`; menu `FileTypes`. <!-- source-row:2427 -->
+- [ ] `GroupCreateHandoutsInWord` — group; group `PublishGroup`; menu `FileTypes` → `CreateHandoutsInWord`. <!-- source-row:2428 -->
+- [ ] `FileTypeChange` — task; group `PublishGroup`; menu `FileTypes`. <!-- source-row:2429 -->
+- [ ] `GroupFileSave` — group; group `PublishGroup`; menu `FileTypes` → `FileTypeChange`. <!-- source-row:2430 -->
+
+## TabHelp
+
+Catalog tab: `TabHelp`.
+
+- [ ] `GroupBackstageIdentity` — group. <!-- source-row:2433 -->
+- [ ] `Personalization` — group. <!-- source-row:2434 -->
+- [ ] `Theming` — group. <!-- source-row:2435 -->
+- [ ] `ManageServices` — group. <!-- source-row:2436 -->
+- [ ] `GroupBackstageSignInDisabled` — group. <!-- source-row:2437 -->
+- [ ] `GroupBackstageSignIn` — group. <!-- source-row:2438 -->
+- [ ] `GroupOfficeBranding` — group. <!-- source-row:2440 -->
+- [ ] `GroupClickToRunUpdateStatus` — group. <!-- source-row:2441 -->
+- [ ] `GroupAboutOfficeProducts` — group. <!-- source-row:2442 -->
+
+## None (Context Menu)
+
+Catalog tab: `None (Context Menu)`.
+
+- [ ] `ContextMenuCommentMarker` — contextMenu. <!-- source-row:2444 -->
+- [ ] `ContextMenuCurve` — contextMenu. <!-- source-row:2445 -->
+- [ ] `ContextMenuDrawnObject` — contextMenu. <!-- source-row:2446 -->
+- [ ] `ContextMenuFrame` — contextMenu. <!-- source-row:2447 -->
+- [ ] `ContextMenuMotionPath` — contextMenu. <!-- source-row:2449 -->
+- [ ] `ContextMenuPathPoint` — contextMenu. <!-- source-row:2450 -->
+- [ ] `ContextMenuPathSegment` — contextMenu. <!-- source-row:2451 -->
+- [ ] `ContextMenuOfficePreviewHandlerPowerPoint` — contextMenu. <!-- source-row:2452 -->
+- [ ] `ContextMenuRevision` — contextMenu. <!-- source-row:2453 -->
+- [ ] `ContextMenuPodiumMonitorSettings` — contextMenu. <!-- source-row:2454 -->
+- [ ] `PodiumSwitchMonitors` — button; group `ContextMenuPodiumMonitorSettings`. <!-- source-row:2455 -->
+- [ ] `PodiumCloneSlideShow` — button; group `ContextMenuPodiumMonitorSettings`. <!-- source-row:2456 -->
+- [ ] `ContextMenuRightDragDrop` — contextMenu. <!-- source-row:2457 -->
+- [ ] `ContextMenuSlideShow` — contextMenu. <!-- source-row:2458 -->
+- [ ] `ContextMenuShowBrowse` — contextMenu. <!-- source-row:2459 -->
+- [ ] `ContextMenuShowHyperlink` — contextMenu. <!-- source-row:2460 -->
+- [ ] `ContextMenuShowPointerOptions` — contextMenu. <!-- source-row:2461 -->
+- [ ] `ContextMenuEndShow` — contextMenu. <!-- source-row:2462 -->
+- [ ] `ContextMenuSlideSync` — contextMenu. <!-- source-row:2463 -->
+- [ ] `ContextMenuSpell` — contextMenu. <!-- source-row:2464 -->
+- [ ] `ContextMenuSlideGap` — contextMenu. <!-- source-row:2465 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuSlideGap`. <!-- source-row:2466 -->
+- [ ] `SlideNew` — button; group `ContextMenuSlideGap`. <!-- source-row:2467 -->
+- [ ] `SectionAdd` — button; group `ContextMenuSlideGap`. <!-- source-row:2468 -->
+- [ ] `SlideMasterInsertLayout` — button; group `ContextMenuSlideGap`. <!-- source-row:2469 -->
+- [ ] `ContextMenuLabelSection` — contextMenu. <!-- source-row:2470 -->
+- [ ] `SectionRename` — button; group `ContextMenuLabelSection`. <!-- source-row:2471 -->
+- [ ] `SectionMergeWithPrevious` — button; group `ContextMenuLabelSection`. <!-- source-row:2472 -->
+- [ ] `SectionDelete` — button; group `ContextMenuLabelSection`. <!-- source-row:2473 -->
+- [ ] `SectionRemoveAll` — button; group `ContextMenuLabelSection`. <!-- source-row:2474 -->
+- [ ] `SectionMoveUp` — button; group `ContextMenuLabelSection`. <!-- source-row:2475 -->
+- [ ] `SectionMoveDown` — button; group `ContextMenuLabelSection`. <!-- source-row:2476 -->
+- [ ] `SectionCollapseAll` — button; group `ContextMenuLabelSection`. <!-- source-row:2477 -->
+- [ ] `SectionExpandAll` — button; group `ContextMenuLabelSection`. <!-- source-row:2478 -->
+- [ ] `ContextMenuSlideSorter` — contextMenu. <!-- source-row:2479 -->
+- [ ] `Cut` — button; group `ContextMenuSlideSorter`. <!-- source-row:2480 -->
+- [ ] `Copy` — button; group `ContextMenuSlideSorter`. <!-- source-row:2481 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuSlideSorter`. <!-- source-row:2482 -->
+- [ ] `SelectAll` — button; group `ContextMenuSlideSorter`. <!-- source-row:2483 -->
+- [ ] `SlideNew` — button; group `ContextMenuSlideSorter`. <!-- source-row:2484 -->
+- [ ] `DuplicateSelectedSlides` — button; group `ContextMenuSlideSorter`. <!-- source-row:2485 -->
+- [ ] `DeleteSlideContextual` — button; group `ContextMenuSlideSorter`. <!-- source-row:2486 -->
+- [ ] `SectionAdd` — button; group `ContextMenuSlideSorter`. <!-- source-row:2487 -->
+- [ ] `FilePublishSlides` — button; group `ContextMenuSlideSorter`. <!-- source-row:2488 -->
+- [ ] `SlideSyncMenu` — menu; group `ContextMenuSlideSorter`. <!-- source-row:2489 -->
+- [ ] `SlideBackgroundFormatDialog` — button; group `ContextMenuSlideSorter`. <!-- source-row:2490 -->
+- [ ] `SlideHide` — toggleButton; group `ContextMenuSlideSorter`. <!-- source-row:2491 -->
+- [ ] `ContextMenuThumbnail` — contextMenu. <!-- source-row:2492 -->
+- [ ] `Cut` — button; group `ContextMenuThumbnail`. <!-- source-row:2493 -->
+- [ ] `Copy` — button; group `ContextMenuThumbnail`. <!-- source-row:2494 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuThumbnail`. <!-- source-row:2495 -->
+- [ ] `SelectAll` — button; group `ContextMenuThumbnail`. <!-- source-row:2496 -->
+- [ ] `SlideNew` — button; group `ContextMenuThumbnail`. <!-- source-row:2497 -->
+- [ ] `SlideMasterInsertLayout` — button; group `ContextMenuThumbnail`. <!-- source-row:2498 -->
+- [ ] `DuplicateSelectedSlides` — button; group `ContextMenuThumbnail`. <!-- source-row:2499 -->
+- [ ] `DeleteSlideContextual` — button; group `ContextMenuThumbnail`. <!-- source-row:2500 -->
+- [ ] `SectionAdd` — button; group `ContextMenuThumbnail`. <!-- source-row:2501 -->
+- [ ] `SlideMasterPreserveMaster` — toggleButton; group `ContextMenuThumbnail`. <!-- source-row:2502 -->
+- [ ] `SlideMasterRenameMaster` — button; group `ContextMenuThumbnail`. <!-- source-row:2503 -->
+- [ ] `FilePublishSlides` — button; group `ContextMenuThumbnail`. <!-- source-row:2504 -->
+- [ ] `SlideSyncMenu` — menu; group `ContextMenuThumbnail`. <!-- source-row:2505 -->
+- [ ] `SlideLayoutGallery` — gallery; group `ContextMenuThumbnail`. <!-- source-row:2506 -->
+- [ ] `SlideReset` — button; group `ContextMenuThumbnail`. <!-- source-row:2507 -->
+- [ ] `SlideMasterMasterLayout` — button; group `ContextMenuThumbnail`. <!-- source-row:2508 -->
+- [ ] `SlideBackgroundFormatDialog` — button; group `ContextMenuThumbnail`. <!-- source-row:2509 -->
+- [ ] `PhotoAlbumEdit` — button; group `ContextMenuThumbnail`. <!-- source-row:2510 -->
+- [ ] `SlideHide` — toggleButton; group `ContextMenuThumbnail`. <!-- source-row:2511 -->
+- [ ] `ContextMenuPicture` — contextMenu. <!-- source-row:2512 -->
+- [ ] `Cut` — button; group `ContextMenuPicture`. <!-- source-row:2513 -->
+- [ ] `Copy` — button; group `ContextMenuPicture`. <!-- source-row:2514 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuPicture`. <!-- source-row:2515 -->
+- [ ] `PictureEdit` — button; group `ContextMenuPicture`. <!-- source-row:2516 -->
+- [ ] `VideoToolsTrim` — button; group `ContextMenuPicture`. <!-- source-row:2517 -->
+- [ ] `AudioToolsTrim` — button; group `ContextMenuPicture`. <!-- source-row:2518 -->
+- [ ] `MoviePlay` — button; group `ContextMenuPicture`. <!-- source-row:2519 -->
+- [ ] `PictureChange` — button; group `ContextMenuPicture`. <!-- source-row:2520 -->
+- [ ] `ObjectsGroupMenu` — menu; group `ContextMenuPicture`. <!-- source-row:2521 -->
+- [ ] `ObjectsGroup` — button; group `ContextMenuPicture`; menu `ObjectsGroupMenu`. <!-- source-row:2522 -->
+- [ ] `ObjectsRegroup` — button; group `ContextMenuPicture`; menu `ObjectsGroupMenu`. <!-- source-row:2523 -->
+- [ ] `ObjectsUngroup` — button; group `ContextMenuPicture`; menu `ObjectsGroupMenu`. <!-- source-row:2524 -->
+- [ ] `ObjectBringToFrontMenu` — splitButton; group `ContextMenuPicture`. <!-- source-row:2525 -->
+- [ ] `ObjectBringToFront` — button; group `ContextMenuPicture`; menu `ObjectBringToFrontMenu`. <!-- source-row:2526 -->
+- [ ] `ObjectBringForward` — button; group `ContextMenuPicture`; menu `ObjectBringToFrontMenu`. <!-- source-row:2527 -->
+- [ ] `ObjectSendToBackMenu` — splitButton; group `ContextMenuPicture`. <!-- source-row:2528 -->
+- [ ] `ObjectSendToBack` — button; group `ContextMenuPicture`; menu `ObjectSendToBackMenu`. <!-- source-row:2529 -->
+- [ ] `ObjectSendBackward` — button; group `ContextMenuPicture`; menu `ObjectSendToBackMenu`. <!-- source-row:2530 -->
+- [ ] `HyperlinkInsertPowerPoint` — button; group `ContextMenuPicture`. <!-- source-row:2531 -->
+- [ ] `BookshelfDefine` — button; group `ContextMenuPicture`. <!-- source-row:2532 -->
+- [ ] `HyperlinkEdit` — button; group `ContextMenuPicture`. <!-- source-row:2533 -->
+- [ ] `HyperlinkOpen` — button; group `ContextMenuPicture`. <!-- source-row:2534 -->
+- [ ] `HyperlinkCopy` — button; group `ContextMenuPicture`. <!-- source-row:2535 -->
+- [ ] `HyperlinkRemove` — button; group `ContextMenuPicture`. <!-- source-row:2536 -->
+- [ ] `MediaUpgrade` — button; group `ContextMenuPicture`. <!-- source-row:2537 -->
+- [ ] `ObjectSaveAsPicture` — button; group `ContextMenuPicture`. <!-- source-row:2538 -->
+- [ ] `BlackWhiteSettingMenu` — menu; group `ContextMenuPicture`. <!-- source-row:2539 -->
+- [ ] `ObjectSizeAndPositionDialog` — button; group `ContextMenuPicture`. <!-- source-row:2540 -->
+- [ ] `ObjectFormatDialog` — button; group `ContextMenuPicture`. <!-- source-row:2541 -->
+- [ ] `ContextMenuAudio` — contextMenu. <!-- source-row:2542 -->
+- [ ] `Cut` — button; group `ContextMenuAudio`. <!-- source-row:2543 -->
+- [ ] `Copy` — button; group `ContextMenuAudio`. <!-- source-row:2544 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuAudio`. <!-- source-row:2545 -->
+- [ ] `MoviePlay` — button; group `ContextMenuAudio`. <!-- source-row:2546 -->
+- [ ] `PictureChange` — button; group `ContextMenuAudio`. <!-- source-row:2547 -->
+- [ ] `ObjectsGroupMenu` — menu; group `ContextMenuAudio`. <!-- source-row:2548 -->
+- [ ] `ObjectsGroup` — button; group `ContextMenuAudio`; menu `ObjectsGroupMenu`. <!-- source-row:2549 -->
+- [ ] `ObjectsRegroup` — button; group `ContextMenuAudio`; menu `ObjectsGroupMenu`. <!-- source-row:2550 -->
+- [ ] `ObjectsUngroup` — button; group `ContextMenuAudio`; menu `ObjectsGroupMenu`. <!-- source-row:2551 -->
+- [ ] `ObjectBringToFrontMenu` — splitButton; group `ContextMenuAudio`. <!-- source-row:2552 -->
+- [ ] `ObjectBringToFront` — button; group `ContextMenuAudio`; menu `ObjectBringToFrontMenu`. <!-- source-row:2553 -->
+- [ ] `ObjectBringForward` — button; group `ContextMenuAudio`; menu `ObjectBringToFrontMenu`. <!-- source-row:2554 -->
+- [ ] `ObjectSendToBackMenu` — splitButton; group `ContextMenuAudio`. <!-- source-row:2555 -->
+- [ ] `ObjectSendToBack` — button; group `ContextMenuAudio`; menu `ObjectSendToBackMenu`. <!-- source-row:2556 -->
+- [ ] `ObjectSendBackward` — button; group `ContextMenuAudio`; menu `ObjectSendToBackMenu`. <!-- source-row:2557 -->
+- [ ] `HyperlinkInsertPowerPoint` — button; group `ContextMenuAudio`. <!-- source-row:2558 -->
+- [ ] `BookshelfDefine` — button; group `ContextMenuAudio`. <!-- source-row:2559 -->
+- [ ] `HyperlinkEdit` — button; group `ContextMenuAudio`. <!-- source-row:2560 -->
+- [ ] `HyperlinkOpen` — button; group `ContextMenuAudio`. <!-- source-row:2561 -->
+- [ ] `HyperlinkCopy` — button; group `ContextMenuAudio`. <!-- source-row:2562 -->
+- [ ] `HyperlinkRemove` — button; group `ContextMenuAudio`. <!-- source-row:2563 -->
+- [ ] `MediaUpgrade` — button; group `ContextMenuAudio`. <!-- source-row:2564 -->
+- [ ] `ObjectSaveMedia` — button; group `ContextMenuAudio`. <!-- source-row:2565 -->
+- [ ] `ObjectSaveAsPicture` — button; group `ContextMenuAudio`. <!-- source-row:2566 -->
+- [ ] `BlackWhiteSettingMenu` — menu; group `ContextMenuAudio`. <!-- source-row:2567 -->
+- [ ] `ObjectSizeAndPositionDialog` — button; group `ContextMenuAudio`. <!-- source-row:2568 -->
+- [ ] `ObjectFormatDialog` — button; group `ContextMenuAudio`. <!-- source-row:2569 -->
+- [ ] `ContextMenuVideo` — contextMenu. <!-- source-row:2570 -->
+- [ ] `Cut` — button; group `ContextMenuVideo`. <!-- source-row:2571 -->
+- [ ] `Copy` — button; group `ContextMenuVideo`. <!-- source-row:2572 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuVideo`. <!-- source-row:2573 -->
+- [ ] `MoviePlay` — button; group `ContextMenuVideo`. <!-- source-row:2574 -->
+- [ ] `ObjectsGroupMenu` — menu; group `ContextMenuVideo`. <!-- source-row:2575 -->
+- [ ] `ObjectsGroup` — button; group `ContextMenuVideo`; menu `ObjectsGroupMenu`. <!-- source-row:2576 -->
+- [ ] `ObjectsRegroup` — button; group `ContextMenuVideo`; menu `ObjectsGroupMenu`. <!-- source-row:2577 -->
+- [ ] `ObjectsUngroup` — button; group `ContextMenuVideo`; menu `ObjectsGroupMenu`. <!-- source-row:2578 -->
+- [ ] `ObjectBringToFrontMenu` — splitButton; group `ContextMenuVideo`. <!-- source-row:2579 -->
+- [ ] `ObjectBringToFront` — button; group `ContextMenuVideo`; menu `ObjectBringToFrontMenu`. <!-- source-row:2580 -->
+- [ ] `ObjectBringForward` — button; group `ContextMenuVideo`; menu `ObjectBringToFrontMenu`. <!-- source-row:2581 -->
+- [ ] `ObjectSendToBackMenu` — splitButton; group `ContextMenuVideo`. <!-- source-row:2582 -->
+- [ ] `ObjectSendToBack` — button; group `ContextMenuVideo`; menu `ObjectSendToBackMenu`. <!-- source-row:2583 -->
+- [ ] `ObjectSendBackward` — button; group `ContextMenuVideo`; menu `ObjectSendToBackMenu`. <!-- source-row:2584 -->
+- [ ] `HyperlinkInsertPowerPoint` — button; group `ContextMenuVideo`. <!-- source-row:2585 -->
+- [ ] `BookshelfDefine` — button; group `ContextMenuVideo`. <!-- source-row:2586 -->
+- [ ] `HyperlinkEdit` — button; group `ContextMenuVideo`. <!-- source-row:2587 -->
+- [ ] `HyperlinkOpen` — button; group `ContextMenuVideo`. <!-- source-row:2588 -->
+- [ ] `HyperlinkCopy` — button; group `ContextMenuVideo`. <!-- source-row:2589 -->
+- [ ] `HyperlinkRemove` — button; group `ContextMenuVideo`. <!-- source-row:2590 -->
+- [ ] `MediaUpgrade` — button; group `ContextMenuVideo`. <!-- source-row:2591 -->
+- [ ] `ObjectSaveMedia` — button; group `ContextMenuVideo`. <!-- source-row:2592 -->
+- [ ] `ObjectSaveAsPicture` — button; group `ContextMenuVideo`. <!-- source-row:2593 -->
+- [ ] `BlackWhiteSettingMenu` — menu; group `ContextMenuVideo`. <!-- source-row:2594 -->
+- [ ] `ObjectSizeAndPositionDialog` — button; group `ContextMenuVideo`. <!-- source-row:2595 -->
+- [ ] `ObjectFormatDialog` — button; group `ContextMenuVideo`. <!-- source-row:2596 -->
+- [ ] `ContextMenuShape` — contextMenu. <!-- source-row:2597 -->
+- [ ] `Cut` — button; group `ContextMenuShape`. <!-- source-row:2598 -->
+- [ ] `Copy` — button; group `ContextMenuShape`. <!-- source-row:2599 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuShape`. <!-- source-row:2600 -->
+- [ ] `ObjectAddText` — button; group `ContextMenuShape`. <!-- source-row:2601 -->
+- [ ] `ObjectEditText` — button; group `ContextMenuShape`. <!-- source-row:2602 -->
+- [ ] `ObjectEditPoints` — toggleButton; group `ContextMenuShape`. <!-- source-row:2603 -->
+- [ ] `ObjectsGroupMenu` — menu; group `ContextMenuShape`. <!-- source-row:2604 -->
+- [ ] `ObjectsGroup` — button; group `ContextMenuShape`; menu `ObjectsGroupMenu`. <!-- source-row:2605 -->
+- [ ] `ObjectsRegroup` — button; group `ContextMenuShape`; menu `ObjectsGroupMenu`. <!-- source-row:2606 -->
+- [ ] `ObjectsUngroup` — button; group `ContextMenuShape`; menu `ObjectsGroupMenu`. <!-- source-row:2607 -->
+- [ ] `ObjectBringToFrontMenu` — splitButton; group `ContextMenuShape`. <!-- source-row:2608 -->
+- [ ] `ObjectBringToFront` — button; group `ContextMenuShape`; menu `ObjectBringToFrontMenu`. <!-- source-row:2609 -->
+- [ ] `ObjectBringForward` — button; group `ContextMenuShape`; menu `ObjectBringToFrontMenu`. <!-- source-row:2610 -->
+- [ ] `ObjectSendToBackMenu` — splitButton; group `ContextMenuShape`. <!-- source-row:2611 -->
+- [ ] `ObjectSendToBack` — button; group `ContextMenuShape`; menu `ObjectSendToBackMenu`. <!-- source-row:2612 -->
+- [ ] `ObjectSendBackward` — button; group `ContextMenuShape`; menu `ObjectSendToBackMenu`. <!-- source-row:2613 -->
+- [ ] `HyperlinkInsertPowerPoint` — button; group `ContextMenuShape`. <!-- source-row:2614 -->
+- [ ] `BookshelfDefine` — button; group `ContextMenuShape`. <!-- source-row:2615 -->
+- [ ] `HyperlinkEdit` — button; group `ContextMenuShape`. <!-- source-row:2616 -->
+- [ ] `HyperlinkOpen` — button; group `ContextMenuShape`. <!-- source-row:2617 -->
+- [ ] `HyperlinkCopy` — button; group `ContextMenuShape`. <!-- source-row:2618 -->
+- [ ] `HyperlinkRemove` — button; group `ContextMenuShape`. <!-- source-row:2619 -->
+- [ ] `Insights` — button; group `ContextMenuShape`. <!-- source-row:2620 -->
+- [ ] `ObjectSaveAsPicture` — button; group `ContextMenuShape`. <!-- source-row:2621 -->
+- [ ] `BlackWhiteSettingMenu` — menu; group `ContextMenuShape`. <!-- source-row:2622 -->
+- [ ] `ObjectSetShapeDefaults` — button; group `ContextMenuShape`. <!-- source-row:2623 -->
+- [ ] `ObjectSizeAndPositionDialog` — button; group `ContextMenuShape`. <!-- source-row:2624 -->
+- [ ] `ObjectFormatDialog` — button; group `ContextMenuShape`. <!-- source-row:2625 -->
+- [ ] `PlaceholderOrientation` — menu; group `ContextMenuShape`. <!-- source-row:2626 -->
+- [ ] `PlaceholderOrientationHorizontal` — toggleButton; group `ContextMenuShape`; menu `PlaceholderOrientation`. <!-- source-row:2627 -->
+- [ ] `PlaceholderOrientationVertical` — toggleButton; group `ContextMenuShape`; menu `PlaceholderOrientation`. <!-- source-row:2628 -->
+- [ ] `ContextMenuInk` — contextMenu. <!-- source-row:2629 -->
+- [ ] `Cut` — button; group `ContextMenuInk`. <!-- source-row:2630 -->
+- [ ] `Copy` — button; group `ContextMenuInk`. <!-- source-row:2631 -->
+- [ ] `InkCopyAsText` — button; group `ContextMenuInk`. <!-- source-row:2632 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuInk`. <!-- source-row:2633 -->
+- [ ] `ObjectsGroupMenu` — menu; group `ContextMenuInk`. <!-- source-row:2634 -->
+- [ ] `ObjectsGroup` — button; group `ContextMenuInk`; menu `ObjectsGroupMenu`. <!-- source-row:2635 -->
+- [ ] `ObjectsRegroup` — button; group `ContextMenuInk`; menu `ObjectsGroupMenu`. <!-- source-row:2636 -->
+- [ ] `ObjectsUngroup` — button; group `ContextMenuInk`; menu `ObjectsGroupMenu`. <!-- source-row:2637 -->
+- [ ] `ObjectBringToFrontMenu` — splitButton; group `ContextMenuInk`. <!-- source-row:2638 -->
+- [ ] `ObjectBringToFront` — button; group `ContextMenuInk`; menu `ObjectBringToFrontMenu`. <!-- source-row:2639 -->
+- [ ] `ObjectBringForward` — button; group `ContextMenuInk`; menu `ObjectBringToFrontMenu`. <!-- source-row:2640 -->
+- [ ] `ObjectSendToBackMenu` — splitButton; group `ContextMenuInk`. <!-- source-row:2641 -->
+- [ ] `ObjectSendToBack` — button; group `ContextMenuInk`; menu `ObjectSendToBackMenu`. <!-- source-row:2642 -->
+- [ ] `ObjectSendBackward` — button; group `ContextMenuInk`; menu `ObjectSendToBackMenu`. <!-- source-row:2643 -->
+- [ ] `ObjectSaveAsPicture` — button; group `ContextMenuInk`. <!-- source-row:2644 -->
+- [ ] `BlackWhiteSettingMenu` — menu; group `ContextMenuInk`. <!-- source-row:2645 -->
+- [ ] `ObjectSetShapeDefaults` — button; group `ContextMenuInk`. <!-- source-row:2646 -->
+- [ ] `ObjectSizeAndPositionDialog` — button; group `ContextMenuInk`. <!-- source-row:2647 -->
+- [ ] `ObjectFormatDialog` — button; group `ContextMenuInk`. <!-- source-row:2648 -->
+- [ ] `PlaceholderOrientation` — menu; group `ContextMenuInk`. <!-- source-row:2649 -->
+- [ ] `PlaceholderOrientationHorizontal` — toggleButton; group `ContextMenuInk`; menu `PlaceholderOrientation`. <!-- source-row:2650 -->
+- [ ] `PlaceholderOrientationVertical` — toggleButton; group `ContextMenuInk`; menu `PlaceholderOrientation`. <!-- source-row:2651 -->
+- [ ] `ContextMenuObjectsGroup` — contextMenu. <!-- source-row:2652 -->
+- [ ] `Cut` — button; group `ContextMenuObjectsGroup`. <!-- source-row:2653 -->
+- [ ] `Copy` — button; group `ContextMenuObjectsGroup`. <!-- source-row:2654 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuObjectsGroup`. <!-- source-row:2655 -->
+- [ ] `ObjectsGroupMenu` — menu; group `ContextMenuObjectsGroup`. <!-- source-row:2656 -->
+- [ ] `ObjectsGroup` — button; group `ContextMenuObjectsGroup`; menu `ObjectsGroupMenu`. <!-- source-row:2657 -->
+- [ ] `ObjectsRegroup` — button; group `ContextMenuObjectsGroup`; menu `ObjectsGroupMenu`. <!-- source-row:2658 -->
+- [ ] `ObjectsUngroup` — button; group `ContextMenuObjectsGroup`; menu `ObjectsGroupMenu`. <!-- source-row:2659 -->
+- [ ] `ObjectBringToFrontMenu` — splitButton; group `ContextMenuObjectsGroup`. <!-- source-row:2660 -->
+- [ ] `ObjectBringToFront` — button; group `ContextMenuObjectsGroup`; menu `ObjectBringToFrontMenu`. <!-- source-row:2661 -->
+- [ ] `ObjectBringForward` — button; group `ContextMenuObjectsGroup`; menu `ObjectBringToFrontMenu`. <!-- source-row:2662 -->
+- [ ] `ObjectSendToBackMenu` — splitButton; group `ContextMenuObjectsGroup`. <!-- source-row:2663 -->
+- [ ] `ObjectSendToBack` — button; group `ContextMenuObjectsGroup`; menu `ObjectSendToBackMenu`. <!-- source-row:2664 -->
+- [ ] `ObjectSendBackward` — button; group `ContextMenuObjectsGroup`; menu `ObjectSendToBackMenu`. <!-- source-row:2665 -->
+- [ ] `HyperlinkInsertPowerPoint` — button; group `ContextMenuObjectsGroup`. <!-- source-row:2666 -->
+- [ ] `BookshelfDefine` — button; group `ContextMenuObjectsGroup`. <!-- source-row:2667 -->
+- [ ] `HyperlinkEdit` — button; group `ContextMenuObjectsGroup`. <!-- source-row:2668 -->
+- [ ] `HyperlinkOpen` — button; group `ContextMenuObjectsGroup`. <!-- source-row:2669 -->
+- [ ] `HyperlinkCopy` — button; group `ContextMenuObjectsGroup`. <!-- source-row:2670 -->
+- [ ] `HyperlinkRemove` — button; group `ContextMenuObjectsGroup`. <!-- source-row:2671 -->
+- [ ] `ObjectSaveAsPicture` — button; group `ContextMenuObjectsGroup`. <!-- source-row:2672 -->
+- [ ] `BlackWhiteSettingMenu` — menu; group `ContextMenuObjectsGroup`. <!-- source-row:2673 -->
+- [ ] `ObjectSetShapeDefaults` — button; group `ContextMenuObjectsGroup`. <!-- source-row:2674 -->
+- [ ] `ObjectSizeAndPositionDialog` — button; group `ContextMenuObjectsGroup`. <!-- source-row:2675 -->
+- [ ] `ObjectFormatDialog` — button; group `ContextMenuObjectsGroup`. <!-- source-row:2676 -->
+- [ ] `ContextMenuObjectEditPoint` — contextMenu. <!-- source-row:2677 -->
+- [ ] `AddNode` — button; group `ContextMenuObjectEditPoint`. <!-- source-row:2678 -->
+- [ ] `DeleteNode` — button; group `ContextMenuObjectEditPoint`. <!-- source-row:2679 -->
+- [ ] `OpenPath` — toggleButton; group `ContextMenuObjectEditPoint`. <!-- source-row:2680 -->
+- [ ] `ClosePath` — toggleButton; group `ContextMenuObjectEditPoint`. <!-- source-row:2681 -->
+- [ ] `SmoothVertex` — toggleButton; group `ContextMenuObjectEditPoint`. <!-- source-row:2682 -->
+- [ ] `StraightVertex` — toggleButton; group `ContextMenuObjectEditPoint`. <!-- source-row:2683 -->
+- [ ] `CornerVertex` — toggleButton; group `ContextMenuObjectEditPoint`. <!-- source-row:2684 -->
+- [ ] `ExitEditCurve` — button; group `ContextMenuObjectEditPoint`. <!-- source-row:2685 -->
+- [ ] `ContextMenuObjectEditSegment` — contextMenu. <!-- source-row:2686 -->
+- [ ] `AddNode` — button; group `ContextMenuObjectEditSegment`. <!-- source-row:2687 -->
+- [ ] `DeleteSegment` — button; group `ContextMenuObjectEditSegment`. <!-- source-row:2688 -->
+- [ ] `OpenPath` — toggleButton; group `ContextMenuObjectEditSegment`. <!-- source-row:2689 -->
+- [ ] `ClosePath` — toggleButton; group `ContextMenuObjectEditSegment`. <!-- source-row:2690 -->
+- [ ] `MakeSegmentStraight` — button; group `ContextMenuObjectEditSegment`. <!-- source-row:2691 -->
+- [ ] `MakeSegmentCurved` — button; group `ContextMenuObjectEditSegment`. <!-- source-row:2692 -->
+- [ ] `ExitEditCurve` — button; group `ContextMenuObjectEditSegment`. <!-- source-row:2693 -->
+- [ ] `ContextMenuTextEdit` — contextMenu. <!-- source-row:2694 -->
+- [ ] `FirstCorrectionAlternative` — button; group `ContextMenuTextEdit`. <!-- source-row:2695 -->
+- [ ] `SecondCorrectionAlternative` — button; group `ContextMenuTextEdit`. <!-- source-row:2696 -->
+- [ ] `ThirdCorrectionAlternative` — button; group `ContextMenuTextEdit`. <!-- source-row:2697 -->
+- [ ] `FourthCorrectionAlternative` — button; group `ContextMenuTextEdit`. <!-- source-row:2698 -->
+- [ ] `FifthCorrectionAlternative` — button; group `ContextMenuTextEdit`. <!-- source-row:2699 -->
+- [ ] `MoreCorrectionAlternatives` — button; group `ContextMenuTextEdit`. <!-- source-row:2700 -->
+- [ ] `Cut` — button; group `ContextMenuTextEdit`. <!-- source-row:2701 -->
+- [ ] `Copy` — button; group `ContextMenuTextEdit`. <!-- source-row:2702 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuTextEdit`. <!-- source-row:2703 -->
+- [ ] `EquationOptionsGallery` — gallery; group `ContextMenuTextEdit`. <!-- source-row:2704 -->
+- [ ] `TextEditModeExit` — button; group `ContextMenuTextEdit`. <!-- source-row:2705 -->
+- [ ] `FontDialog` — button; group `ContextMenuTextEdit`. <!-- source-row:2706 -->
+- [ ] `ParagraphDialog` — button; group `ContextMenuTextEdit`. <!-- source-row:2707 -->
+- [ ] `BulletsGallery` — gallery; group `ContextMenuTextEdit`. <!-- source-row:2708 -->
+- [ ] `BulletsAndNumberingBulletsDialog` — button; group `ContextMenuTextEdit`; menu `BulletsGallery`. <!-- source-row:2709 -->
+- [ ] `NumberingGallery` — gallery; group `ContextMenuTextEdit`. <!-- source-row:2710 -->
+- [ ] `BulletsAndNumberingNumberingDialog` — button; group `ContextMenuTextEdit`; menu `NumberingGallery`. <!-- source-row:2711 -->
+- [ ] `ConvertToSmartArt` — gallery; group `ContextMenuTextEdit`. <!-- source-row:2712 -->
+- [ ] `ConvertToSmartArtMoreSmartArtGraphicsDialog` — button; group `ContextMenuTextEdit`; menu `ConvertToSmartArt`. <!-- source-row:2713 -->
+- [ ] `ImeReconvert` — button; group `ContextMenuTextEdit`. <!-- source-row:2714 -->
+- [ ] `HyperlinkInsertPowerPoint` — button; group `ContextMenuTextEdit`. <!-- source-row:2715 -->
+- [ ] `BookshelfDefine` — button; group `ContextMenuTextEdit`. <!-- source-row:2716 -->
+- [ ] `HyperlinkEdit` — button; group `ContextMenuTextEdit`. <!-- source-row:2717 -->
+- [ ] `HyperlinkOpen` — button; group `ContextMenuTextEdit`. <!-- source-row:2718 -->
+- [ ] `HyperlinkCopy` — button; group `ContextMenuTextEdit`. <!-- source-row:2719 -->
+- [ ] `HyperlinkRemove` — button; group `ContextMenuTextEdit`. <!-- source-row:2720 -->
+- [ ] `Insights` — button; group `ContextMenuTextEdit`. <!-- source-row:2721 -->
+- [ ] `FixSynonymChangeMenu` — menu; group `ContextMenuTextEdit`. <!-- source-row:2722 -->
+- [ ] `Translate` — button; group `ContextMenuTextEdit`. <!-- source-row:2723 -->
+- [ ] `WordArtFormatDialog` — button; group `ContextMenuTextEdit`. <!-- source-row:2724 -->
+- [ ] `ObjectFormatDialog` — button; group `ContextMenuTextEdit`. <!-- source-row:2725 -->
+- [ ] `AdditionalActions` — gallery; group `ContextMenuTextEdit`. <!-- source-row:2726 -->
+- [ ] `SmartTagOptions` — button; group `ContextMenuTextEdit`; menu `AdditionalActions`. <!-- source-row:2727 -->
+- [ ] `ContextMenuShapeConnector` — contextMenu. <!-- source-row:2728 -->
+- [ ] `Cut` — button; group `ContextMenuShapeConnector`. <!-- source-row:2729 -->
+- [ ] `Copy` — button; group `ContextMenuShapeConnector`. <!-- source-row:2730 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuShapeConnector`. <!-- source-row:2731 -->
+- [ ] `ShapeConnectorStyleMenu` — menu; group `ContextMenuShapeConnector`. <!-- source-row:2732 -->
+- [ ] `ShapeConnectorStyleStraight` — toggleButton; group `ContextMenuShapeConnector`; menu `ShapeConnectorStyleMenu`. <!-- source-row:2733 -->
+- [ ] `ShapeConnectorStyleElbow` — toggleButton; group `ContextMenuShapeConnector`; menu `ShapeConnectorStyleMenu`. <!-- source-row:2734 -->
+- [ ] `ShapeConnectorStyleCurved` — toggleButton; group `ContextMenuShapeConnector`; menu `ShapeConnectorStyleMenu`. <!-- source-row:2735 -->
+- [ ] `ShapeRerouteConnectors` — toggleButton; group `ContextMenuShapeConnector`. <!-- source-row:2736 -->
+- [ ] `ObjectsGroupMenu` — menu; group `ContextMenuShapeConnector`. <!-- source-row:2737 -->
+- [ ] `ObjectsGroup` — button; group `ContextMenuShapeConnector`; menu `ObjectsGroupMenu`. <!-- source-row:2738 -->
+- [ ] `ObjectsRegroup` — button; group `ContextMenuShapeConnector`; menu `ObjectsGroupMenu`. <!-- source-row:2739 -->
+- [ ] `ObjectsUngroup` — button; group `ContextMenuShapeConnector`; menu `ObjectsGroupMenu`. <!-- source-row:2740 -->
+- [ ] `ObjectBringToFrontMenu` — splitButton; group `ContextMenuShapeConnector`. <!-- source-row:2741 -->
+- [ ] `ObjectBringToFront` — button; group `ContextMenuShapeConnector`; menu `ObjectBringToFrontMenu`. <!-- source-row:2742 -->
+- [ ] `ObjectBringForward` — button; group `ContextMenuShapeConnector`; menu `ObjectBringToFrontMenu`. <!-- source-row:2743 -->
+- [ ] `ObjectSendToBackMenu` — splitButton; group `ContextMenuShapeConnector`. <!-- source-row:2744 -->
+- [ ] `ObjectSendToBack` — button; group `ContextMenuShapeConnector`; menu `ObjectSendToBackMenu`. <!-- source-row:2745 -->
+- [ ] `ObjectSendBackward` — button; group `ContextMenuShapeConnector`; menu `ObjectSendToBackMenu`. <!-- source-row:2746 -->
+- [ ] `HyperlinkInsertPowerPoint` — button; group `ContextMenuShapeConnector`. <!-- source-row:2747 -->
+- [ ] `BookshelfDefine` — button; group `ContextMenuShapeConnector`. <!-- source-row:2748 -->
+- [ ] `HyperlinkEdit` — button; group `ContextMenuShapeConnector`. <!-- source-row:2749 -->
+- [ ] `HyperlinkOpen` — button; group `ContextMenuShapeConnector`. <!-- source-row:2750 -->
+- [ ] `HyperlinkCopy` — button; group `ContextMenuShapeConnector`. <!-- source-row:2751 -->
+- [ ] `HyperlinkRemove` — button; group `ContextMenuShapeConnector`. <!-- source-row:2752 -->
+- [ ] `ObjectSaveAsPicture` — button; group `ContextMenuShapeConnector`. <!-- source-row:2753 -->
+- [ ] `BlackWhiteSettingMenu` — menu; group `ContextMenuShapeConnector`. <!-- source-row:2754 -->
+- [ ] `ObjectSetShapeDefaults` — button; group `ContextMenuShapeConnector`. <!-- source-row:2755 -->
+- [ ] `ObjectSizeAndPositionDialog` — button; group `ContextMenuShapeConnector`. <!-- source-row:2756 -->
+- [ ] `ObjectFormatDialog` — button; group `ContextMenuShapeConnector`. <!-- source-row:2757 -->
+- [ ] `ContextMenuShapeFreeform` — contextMenu. <!-- source-row:2758 -->
+- [ ] `Cut` — button; group `ContextMenuShapeFreeform`. <!-- source-row:2759 -->
+- [ ] `Copy` — button; group `ContextMenuShapeFreeform`. <!-- source-row:2760 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuShapeFreeform`. <!-- source-row:2761 -->
+- [ ] `ObjectAddText` — button; group `ContextMenuShapeFreeform`. <!-- source-row:2762 -->
+- [ ] `ObjectEditText` — button; group `ContextMenuShapeFreeform`. <!-- source-row:2763 -->
+- [ ] `ObjectEditPoints` — toggleButton; group `ContextMenuShapeFreeform`. <!-- source-row:2764 -->
+- [ ] `ObjectsGroupMenu` — menu; group `ContextMenuShapeFreeform`. <!-- source-row:2765 -->
+- [ ] `ObjectsGroup` — button; group `ContextMenuShapeFreeform`; menu `ObjectsGroupMenu`. <!-- source-row:2766 -->
+- [ ] `ObjectsRegroup` — button; group `ContextMenuShapeFreeform`; menu `ObjectsGroupMenu`. <!-- source-row:2767 -->
+- [ ] `ObjectsUngroup` — button; group `ContextMenuShapeFreeform`; menu `ObjectsGroupMenu`. <!-- source-row:2768 -->
+- [ ] `ObjectBringToFrontMenu` — splitButton; group `ContextMenuShapeFreeform`. <!-- source-row:2769 -->
+- [ ] `ObjectBringToFront` — button; group `ContextMenuShapeFreeform`; menu `ObjectBringToFrontMenu`. <!-- source-row:2770 -->
+- [ ] `ObjectBringForward` — button; group `ContextMenuShapeFreeform`; menu `ObjectBringToFrontMenu`. <!-- source-row:2771 -->
+- [ ] `ObjectSendToBackMenu` — splitButton; group `ContextMenuShapeFreeform`. <!-- source-row:2772 -->
+- [ ] `ObjectSendToBack` — button; group `ContextMenuShapeFreeform`; menu `ObjectSendToBackMenu`. <!-- source-row:2773 -->
+- [ ] `ObjectSendBackward` — button; group `ContextMenuShapeFreeform`; menu `ObjectSendToBackMenu`. <!-- source-row:2774 -->
+- [ ] `HyperlinkInsertPowerPoint` — button; group `ContextMenuShapeFreeform`. <!-- source-row:2775 -->
+- [ ] `BookshelfDefine` — button; group `ContextMenuShapeFreeform`. <!-- source-row:2776 -->
+- [ ] `HyperlinkEdit` — button; group `ContextMenuShapeFreeform`. <!-- source-row:2777 -->
+- [ ] `HyperlinkOpen` — button; group `ContextMenuShapeFreeform`. <!-- source-row:2778 -->
+- [ ] `HyperlinkCopy` — button; group `ContextMenuShapeFreeform`. <!-- source-row:2779 -->
+- [ ] `HyperlinkRemove` — button; group `ContextMenuShapeFreeform`. <!-- source-row:2780 -->
+- [ ] `ObjectSaveAsPicture` — button; group `ContextMenuShapeFreeform`. <!-- source-row:2781 -->
+- [ ] `BlackWhiteSettingMenu` — menu; group `ContextMenuShapeFreeform`. <!-- source-row:2782 -->
+- [ ] `ObjectSetShapeDefaults` — button; group `ContextMenuShapeFreeform`. <!-- source-row:2783 -->
+- [ ] `ObjectSizeAndPositionDialog` — button; group `ContextMenuShapeFreeform`. <!-- source-row:2784 -->
+- [ ] `ObjectFormatDialog` — button; group `ContextMenuShapeFreeform`. <!-- source-row:2785 -->
+- [ ] `ContextMenuChartArea` — contextMenu. <!-- source-row:2786 -->
+- [ ] `Cut` — button; group `ContextMenuChartArea`. <!-- source-row:2787 -->
+- [ ] `Copy` — button; group `ContextMenuChartArea`. <!-- source-row:2788 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuChartArea`. <!-- source-row:2789 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartArea`. <!-- source-row:2790 -->
+- [ ] `FontDialog` — button; group `ContextMenuChartArea`. <!-- source-row:2791 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartArea`. <!-- source-row:2792 -->
+- [ ] `ChartSaveTemplates` — button; group `ContextMenuChartArea`. <!-- source-row:2793 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartArea`. <!-- source-row:2794 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartArea`; menu `ChartEditDataMenu`. <!-- source-row:2795 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartArea`; menu `ChartEditDataMenu`. <!-- source-row:2796 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartArea`. <!-- source-row:2797 -->
+- [ ] `ObjectsGroupMenu` — menu; group `ContextMenuChartArea`. <!-- source-row:2798 -->
+- [ ] `ObjectsGroup` — button; group `ContextMenuChartArea`; menu `ObjectsGroupMenu`. <!-- source-row:2799 -->
+- [ ] `ObjectsRegroup` — button; group `ContextMenuChartArea`; menu `ObjectsGroupMenu`. <!-- source-row:2800 -->
+- [ ] `ObjectsUngroup` — button; group `ContextMenuChartArea`; menu `ObjectsGroupMenu`. <!-- source-row:2801 -->
+- [ ] `ObjectBringToFrontMenu` — splitButton; group `ContextMenuChartArea`. <!-- source-row:2802 -->
+- [ ] `ObjectBringToFront` — button; group `ContextMenuChartArea`; menu `ObjectBringToFrontMenu`. <!-- source-row:2803 -->
+- [ ] `ObjectBringForward` — button; group `ContextMenuChartArea`; menu `ObjectBringToFrontMenu`. <!-- source-row:2804 -->
+- [ ] `ObjectSendToBackMenu` — splitButton; group `ContextMenuChartArea`. <!-- source-row:2805 -->
+- [ ] `ObjectSendToBack` — button; group `ContextMenuChartArea`; menu `ObjectSendToBackMenu`. <!-- source-row:2806 -->
+- [ ] `ObjectSendBackward` — button; group `ContextMenuChartArea`; menu `ObjectSendToBackMenu`. <!-- source-row:2807 -->
+- [ ] `ObjectSaveAsPicture` — button; group `ContextMenuChartArea`. <!-- source-row:2808 -->
+- [ ] `ChartFormatChartArea` — button; group `ContextMenuChartArea`. <!-- source-row:2809 -->
+- [ ] `ContextMenuChartAxis` — contextMenu. <!-- source-row:2810 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartAxis`. <!-- source-row:2811 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartAxis`. <!-- source-row:2812 -->
+- [ ] `FontDialog` — button; group `ContextMenuChartAxis`. <!-- source-row:2813 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartAxis`. <!-- source-row:2814 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartAxis`. <!-- source-row:2815 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartAxis`. <!-- source-row:2816 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartAxis`; menu `ChartEditDataMenu`. <!-- source-row:2817 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartAxis`; menu `ChartEditDataMenu`. <!-- source-row:2818 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartAxis`. <!-- source-row:2819 -->
+- [ ] `ChartMajorGridlinesAdd` — button; group `ContextMenuChartAxis`. <!-- source-row:2820 -->
+- [ ] `ChartMinorGridlinesAdd` — button; group `ContextMenuChartAxis`. <!-- source-row:2821 -->
+- [ ] `ChartFormatMajorGridlinesAndSelect` — button; group `ContextMenuChartAxis`. <!-- source-row:2822 -->
+- [ ] `ChartFormatMinorGridlinesAndSelect` — button; group `ContextMenuChartAxis`. <!-- source-row:2823 -->
+- [ ] `ChartFormatAxis` — button; group `ContextMenuChartAxis`. <!-- source-row:2824 -->
+- [ ] `ContextMenuChartAxisTitle` — contextMenu. <!-- source-row:2826 -->
+- [ ] `FirstCorrectionAlternative` — button; group `ContextMenuChartAxisTitle`. <!-- source-row:2827 -->
+- [ ] `SecondCorrectionAlternative` — button; group `ContextMenuChartAxisTitle`. <!-- source-row:2828 -->
+- [ ] `ThirdCorrectionAlternative` — button; group `ContextMenuChartAxisTitle`. <!-- source-row:2829 -->
+- [ ] `FourthCorrectionAlternative` — button; group `ContextMenuChartAxisTitle`. <!-- source-row:2830 -->
+- [ ] `FifthCorrectionAlternative` — button; group `ContextMenuChartAxisTitle`. <!-- source-row:2831 -->
+- [ ] `MoreCorrectionAlternatives` — button; group `ContextMenuChartAxisTitle`. <!-- source-row:2832 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartAxisTitle`. <!-- source-row:2833 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartAxisTitle`. <!-- source-row:2834 -->
+- [ ] `ChartEditText` — button; group `ContextMenuChartAxisTitle`. <!-- source-row:2835 -->
+- [ ] `ChartExitEditText` — button; group `ContextMenuChartAxisTitle`. <!-- source-row:2836 -->
+- [ ] `FontDialog` — button; group `ContextMenuChartAxisTitle`. <!-- source-row:2837 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartAxisTitle`. <!-- source-row:2838 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartAxisTitle`. <!-- source-row:2839 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartAxisTitle`. <!-- source-row:2840 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartAxisTitle`; menu `ChartEditDataMenu`. <!-- source-row:2841 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartAxisTitle`; menu `ChartEditDataMenu`. <!-- source-row:2842 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartAxisTitle`. <!-- source-row:2843 -->
+- [ ] `ChartFormatAxisTitle` — button; group `ContextMenuChartAxisTitle`. <!-- source-row:2844 -->
+- [ ] `ContextMenuChartBackWall` — contextMenu. <!-- source-row:2846 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartBackWall`. <!-- source-row:2847 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartBackWall`. <!-- source-row:2848 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartBackWall`. <!-- source-row:2849 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartBackWall`. <!-- source-row:2850 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartBackWall`. <!-- source-row:2851 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartBackWall`; menu `ChartEditDataMenu`. <!-- source-row:2852 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartBackWall`; menu `ChartEditDataMenu`. <!-- source-row:2853 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartBackWall`. <!-- source-row:2854 -->
+- [ ] `ChartFormatBackWall` — button; group `ContextMenuChartBackWall`. <!-- source-row:2855 -->
+- [ ] `ContextMenuChartTitle` — contextMenu. <!-- source-row:2857 -->
+- [ ] `FirstCorrectionAlternative` — button; group `ContextMenuChartTitle`. <!-- source-row:2858 -->
+- [ ] `SecondCorrectionAlternative` — button; group `ContextMenuChartTitle`. <!-- source-row:2859 -->
+- [ ] `ThirdCorrectionAlternative` — button; group `ContextMenuChartTitle`. <!-- source-row:2860 -->
+- [ ] `FourthCorrectionAlternative` — button; group `ContextMenuChartTitle`. <!-- source-row:2861 -->
+- [ ] `FifthCorrectionAlternative` — button; group `ContextMenuChartTitle`. <!-- source-row:2862 -->
+- [ ] `MoreCorrectionAlternatives` — button; group `ContextMenuChartTitle`. <!-- source-row:2863 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartTitle`. <!-- source-row:2864 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartTitle`. <!-- source-row:2865 -->
+- [ ] `ChartEditText` — button; group `ContextMenuChartTitle`. <!-- source-row:2866 -->
+- [ ] `ChartExitEditText` — button; group `ContextMenuChartTitle`. <!-- source-row:2867 -->
+- [ ] `FontDialog` — button; group `ContextMenuChartTitle`. <!-- source-row:2868 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartTitle`. <!-- source-row:2869 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartTitle`. <!-- source-row:2870 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartTitle`. <!-- source-row:2871 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartTitle`; menu `ChartEditDataMenu`. <!-- source-row:2872 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartTitle`; menu `ChartEditDataMenu`. <!-- source-row:2873 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartTitle`. <!-- source-row:2874 -->
+- [ ] `ChartFormatChartTitle` — button; group `ContextMenuChartTitle`. <!-- source-row:2875 -->
+- [ ] `ContextMenuChartDataLabel` — contextMenu. <!-- source-row:2877 -->
+- [ ] `FirstCorrectionAlternative` — button; group `ContextMenuChartDataLabel`. <!-- source-row:2878 -->
+- [ ] `SecondCorrectionAlternative` — button; group `ContextMenuChartDataLabel`. <!-- source-row:2879 -->
+- [ ] `ThirdCorrectionAlternative` — button; group `ContextMenuChartDataLabel`. <!-- source-row:2880 -->
+- [ ] `FourthCorrectionAlternative` — button; group `ContextMenuChartDataLabel`. <!-- source-row:2881 -->
+- [ ] `FifthCorrectionAlternative` — button; group `ContextMenuChartDataLabel`. <!-- source-row:2882 -->
+- [ ] `MoreCorrectionAlternatives` — button; group `ContextMenuChartDataLabel`. <!-- source-row:2883 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartDataLabel`. <!-- source-row:2884 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartDataLabel`. <!-- source-row:2885 -->
+- [ ] `ChartEditText` — button; group `ContextMenuChartDataLabel`. <!-- source-row:2886 -->
+- [ ] `ChartExitEditText` — button; group `ContextMenuChartDataLabel`. <!-- source-row:2887 -->
+- [ ] `FontDialog` — button; group `ContextMenuChartDataLabel`. <!-- source-row:2888 -->
+- [ ] `ChartInsertDataField` — button; group `ContextMenuChartDataLabel`. <!-- source-row:2889 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartDataLabel`. <!-- source-row:2890 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartDataLabel`. <!-- source-row:2891 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartDataLabel`. <!-- source-row:2892 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartDataLabel`; menu `ChartEditDataMenu`. <!-- source-row:2893 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartDataLabel`; menu `ChartEditDataMenu`. <!-- source-row:2894 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartDataLabel`. <!-- source-row:2895 -->
+- [ ] `ChartFormatDataPointAndSelect` — button; group `ContextMenuChartDataLabel`. <!-- source-row:2896 -->
+- [ ] `ChartChangeDataLabelShapeGallery` — gallery; group `ContextMenuChartDataLabel`. <!-- source-row:2897 -->
+- [ ] `ChartFormatDataLabel` — button; group `ContextMenuChartDataLabel`. <!-- source-row:2898 -->
+- [ ] `ContextMenuChartDataLabels` — contextMenu. <!-- source-row:2900 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartDataLabels`. <!-- source-row:2901 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartDataLabels`. <!-- source-row:2902 -->
+- [ ] `FontDialog` — button; group `ContextMenuChartDataLabels`. <!-- source-row:2903 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartDataLabels`. <!-- source-row:2904 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartDataLabels`. <!-- source-row:2905 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartDataLabels`. <!-- source-row:2906 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartDataLabels`; menu `ChartEditDataMenu`. <!-- source-row:2907 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartDataLabels`; menu `ChartEditDataMenu`. <!-- source-row:2908 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartDataLabels`. <!-- source-row:2909 -->
+- [ ] `ChartFormatDataSeriesAndSelect` — button; group `ContextMenuChartDataLabels`. <!-- source-row:2910 -->
+- [ ] `ChartChangeDataLabelShapesGallery` — gallery; group `ContextMenuChartDataLabels`. <!-- source-row:2911 -->
+- [ ] `ChartFormatDataLabels` — button; group `ContextMenuChartDataLabels`. <!-- source-row:2912 -->
+- [ ] `ContextMenuChartDataPoint` — contextMenu. <!-- source-row:2914 -->
+- [ ] `ChartDeleteSeries` — button; group `ContextMenuChartDataPoint`. <!-- source-row:2915 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartDataPoint`. <!-- source-row:2916 -->
+- [ ] `ChartSeriesTypeChange` — button; group `ContextMenuChartDataPoint`. <!-- source-row:2917 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartDataPoint`. <!-- source-row:2918 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartDataPoint`. <!-- source-row:2919 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartDataPoint`; menu `ChartEditDataMenu`. <!-- source-row:2920 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartDataPoint`; menu `ChartEditDataMenu`. <!-- source-row:2921 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartDataPoint`. <!-- source-row:2922 -->
+- [ ] `AddDataLabelShapesMenu` — splitButton; group `ContextMenuChartDataPoint`. <!-- source-row:2923 -->
+- [ ] `ChartDataLabelAdd` — button; group `ContextMenuChartDataPoint`; menu `AddDataLabelShapesMenu`. <!-- source-row:2924 -->
+- [ ] `ChartCalloutDataLabelAdd` — button; group `ContextMenuChartDataPoint`; menu `AddDataLabelShapesMenu`. <!-- source-row:2925 -->
+- [ ] `ChartTrendlineAdd` — button; group `ContextMenuChartDataPoint`. <!-- source-row:2926 -->
+- [ ] `ChartFormatDataLabelAndSelect` — button; group `ContextMenuChartDataPoint`. <!-- source-row:2927 -->
+- [ ] `ChartWaterfallSetAsTotal` — button; group `ContextMenuChartDataPoint`. <!-- source-row:2928 -->
+- [ ] `ChartWaterfallUnsetTotal` — button; group `ContextMenuChartDataPoint`. <!-- source-row:2929 -->
+- [ ] `ChartFormatDataPoint` — button; group `ContextMenuChartDataPoint`. <!-- source-row:2930 -->
+- [ ] `ContextMenuChartDataSeries` — contextMenu. <!-- source-row:2932 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartDataSeries`. <!-- source-row:2933 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartDataSeries`. <!-- source-row:2934 -->
+- [ ] `ChartSeriesTypeChange` — button; group `ContextMenuChartDataSeries`. <!-- source-row:2935 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartDataSeries`. <!-- source-row:2936 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartDataSeries`. <!-- source-row:2937 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartDataSeries`; menu `ChartEditDataMenu`. <!-- source-row:2938 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartDataSeries`; menu `ChartEditDataMenu`. <!-- source-row:2939 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartDataSeries`. <!-- source-row:2940 -->
+- [ ] `AddDataLabelsShapesMenu` — splitButton; group `ContextMenuChartDataSeries`. <!-- source-row:2941 -->
+- [ ] `ChartDataLabelsAdd` — button; group `ContextMenuChartDataSeries`; menu `AddDataLabelsShapesMenu`. <!-- source-row:2942 -->
+- [ ] `ChartCalloutDataLabelsAdd` — button; group `ContextMenuChartDataSeries`; menu `AddDataLabelsShapesMenu`. <!-- source-row:2943 -->
+- [ ] `ChartTrendlineAdd` — button; group `ContextMenuChartDataSeries`. <!-- source-row:2944 -->
+- [ ] `ChartFormatDataLabelsAndSelect` — button; group `ContextMenuChartDataSeries`. <!-- source-row:2945 -->
+- [ ] `ChartFormatDataSeries` — button; group `ContextMenuChartDataSeries`. <!-- source-row:2946 -->
+- [ ] `ContextMenuChartParetoLine` — contextMenu. <!-- source-row:2948 -->
+- [ ] `ChartFormatParetoLine` — button; group `ContextMenuChartParetoLine`. <!-- source-row:2949 -->
+- [ ] `ContextMenuChartDataTable` — contextMenu. <!-- source-row:2951 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartDataTable`. <!-- source-row:2952 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartDataTable`. <!-- source-row:2953 -->
+- [ ] `FontDialog` — button; group `ContextMenuChartDataTable`. <!-- source-row:2954 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartDataTable`. <!-- source-row:2955 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartDataTable`. <!-- source-row:2956 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartDataTable`. <!-- source-row:2957 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartDataTable`; menu `ChartEditDataMenu`. <!-- source-row:2958 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartDataTable`; menu `ChartEditDataMenu`. <!-- source-row:2959 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartDataTable`. <!-- source-row:2960 -->
+- [ ] `ChartFormatDataTable` — button; group `ContextMenuChartDataTable`. <!-- source-row:2961 -->
+- [ ] `ChartFormatAxisAndSelect` — button; group `ContextMenuChartDataTable`. <!-- source-row:2962 -->
+- [ ] `ContextMenuChartDisplayUnit` — contextMenu. <!-- source-row:2964 -->
+- [ ] `FirstCorrectionAlternative` — button; group `ContextMenuChartDisplayUnit`. <!-- source-row:2965 -->
+- [ ] `SecondCorrectionAlternative` — button; group `ContextMenuChartDisplayUnit`. <!-- source-row:2966 -->
+- [ ] `ThirdCorrectionAlternative` — button; group `ContextMenuChartDisplayUnit`. <!-- source-row:2967 -->
+- [ ] `FourthCorrectionAlternative` — button; group `ContextMenuChartDisplayUnit`. <!-- source-row:2968 -->
+- [ ] `FifthCorrectionAlternative` — button; group `ContextMenuChartDisplayUnit`. <!-- source-row:2969 -->
+- [ ] `MoreCorrectionAlternatives` — button; group `ContextMenuChartDisplayUnit`. <!-- source-row:2970 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartDisplayUnit`. <!-- source-row:2971 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartDisplayUnit`. <!-- source-row:2972 -->
+- [ ] `ChartEditText` — button; group `ContextMenuChartDisplayUnit`. <!-- source-row:2973 -->
+- [ ] `ChartExitEditText` — button; group `ContextMenuChartDisplayUnit`. <!-- source-row:2974 -->
+- [ ] `FontDialog` — button; group `ContextMenuChartDisplayUnit`. <!-- source-row:2975 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartDisplayUnit`. <!-- source-row:2976 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartDisplayUnit`. <!-- source-row:2977 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartDisplayUnit`. <!-- source-row:2978 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartDisplayUnit`; menu `ChartEditDataMenu`. <!-- source-row:2979 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartDisplayUnit`; menu `ChartEditDataMenu`. <!-- source-row:2980 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartDisplayUnit`. <!-- source-row:2981 -->
+- [ ] `ChartFormatDisplayUnit` — button; group `ContextMenuChartDisplayUnit`. <!-- source-row:2982 -->
+- [ ] `ChartFormatAxisAndSelect` — button; group `ContextMenuChartDisplayUnit`. <!-- source-row:2983 -->
+- [ ] `ChartAddAxis` — button; group `ContextMenuChartDisplayUnit`. <!-- source-row:2984 -->
+- [ ] `ContextMenuChartDownBars` — contextMenu. <!-- source-row:2986 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartDownBars`. <!-- source-row:2987 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartDownBars`. <!-- source-row:2988 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartDownBars`. <!-- source-row:2989 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartDownBars`. <!-- source-row:2990 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartDownBars`. <!-- source-row:2991 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartDownBars`; menu `ChartEditDataMenu`. <!-- source-row:2992 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartDownBars`; menu `ChartEditDataMenu`. <!-- source-row:2993 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartDownBars`. <!-- source-row:2994 -->
+- [ ] `ChartFormatDownBars` — button; group `ContextMenuChartDownBars`. <!-- source-row:2995 -->
+- [ ] `ContextMenuChartDropLines` — contextMenu. <!-- source-row:2997 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartDropLines`. <!-- source-row:2998 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartDropLines`. <!-- source-row:2999 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartDropLines`. <!-- source-row:3000 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartDropLines`. <!-- source-row:3001 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartDropLines`. <!-- source-row:3002 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartDropLines`; menu `ChartEditDataMenu`. <!-- source-row:3003 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartDropLines`; menu `ChartEditDataMenu`. <!-- source-row:3004 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartDropLines`. <!-- source-row:3005 -->
+- [ ] `ChartFormatDropLines` — button; group `ContextMenuChartDropLines`. <!-- source-row:3006 -->
+- [ ] `ContextMenuChartErrorBars` — contextMenu. <!-- source-row:3008 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartErrorBars`. <!-- source-row:3009 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartErrorBars`. <!-- source-row:3010 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartErrorBars`. <!-- source-row:3011 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartErrorBars`. <!-- source-row:3012 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartErrorBars`. <!-- source-row:3013 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartErrorBars`; menu `ChartEditDataMenu`. <!-- source-row:3014 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartErrorBars`; menu `ChartEditDataMenu`. <!-- source-row:3015 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartErrorBars`. <!-- source-row:3016 -->
+- [ ] `ChartFormatErrorBars` — button; group `ContextMenuChartErrorBars`. <!-- source-row:3017 -->
+- [ ] `ContextMenuChartFloor` — contextMenu. <!-- source-row:3019 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartFloor`. <!-- source-row:3020 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartFloor`. <!-- source-row:3021 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartFloor`. <!-- source-row:3022 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartFloor`. <!-- source-row:3023 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartFloor`. <!-- source-row:3024 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartFloor`; menu `ChartEditDataMenu`. <!-- source-row:3025 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartFloor`; menu `ChartEditDataMenu`. <!-- source-row:3026 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartFloor`. <!-- source-row:3027 -->
+- [ ] `ChartFormatFloor` — button; group `ContextMenuChartFloor`. <!-- source-row:3028 -->
+- [ ] `ContextMenuChartGridlines` — contextMenu. <!-- source-row:3030 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartGridlines`. <!-- source-row:3031 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartGridlines`. <!-- source-row:3032 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartGridlines`. <!-- source-row:3033 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartGridlines`. <!-- source-row:3034 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartGridlines`. <!-- source-row:3035 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartGridlines`; menu `ChartEditDataMenu`. <!-- source-row:3036 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartGridlines`; menu `ChartEditDataMenu`. <!-- source-row:3037 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartGridlines`. <!-- source-row:3038 -->
+- [ ] `ChartFormatGridlines` — button; group `ContextMenuChartGridlines`. <!-- source-row:3039 -->
+- [ ] `ChartFormatAxisAndSelect` — button; group `ContextMenuChartGridlines`. <!-- source-row:3040 -->
+- [ ] `ChartAddAxis` — button; group `ContextMenuChartGridlines`. <!-- source-row:3041 -->
+- [ ] `ContextMenuChartHighLowLine` — contextMenu. <!-- source-row:3043 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartHighLowLine`. <!-- source-row:3044 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartHighLowLine`. <!-- source-row:3045 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartHighLowLine`. <!-- source-row:3046 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartHighLowLine`. <!-- source-row:3047 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartHighLowLine`. <!-- source-row:3048 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartHighLowLine`; menu `ChartEditDataMenu`. <!-- source-row:3049 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartHighLowLine`; menu `ChartEditDataMenu`. <!-- source-row:3050 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartHighLowLine`. <!-- source-row:3051 -->
+- [ ] `ChartFormatHighLowLine` — button; group `ContextMenuChartHighLowLine`. <!-- source-row:3052 -->
+- [ ] `ContextMenuChartLeaderLines` — contextMenu. <!-- source-row:3054 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartLeaderLines`. <!-- source-row:3055 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartLeaderLines`. <!-- source-row:3056 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartLeaderLines`. <!-- source-row:3057 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartLeaderLines`. <!-- source-row:3058 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartLeaderLines`. <!-- source-row:3059 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartLeaderLines`; menu `ChartEditDataMenu`. <!-- source-row:3060 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartLeaderLines`; menu `ChartEditDataMenu`. <!-- source-row:3061 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartLeaderLines`. <!-- source-row:3062 -->
+- [ ] `ChartFormatLeaderLines` — button; group `ContextMenuChartLeaderLines`. <!-- source-row:3063 -->
+- [ ] `ContextMenuChartLegend` — contextMenu. <!-- source-row:3065 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartLegend`. <!-- source-row:3066 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartLegend`. <!-- source-row:3067 -->
+- [ ] `FontDialog` — button; group `ContextMenuChartLegend`. <!-- source-row:3068 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartLegend`. <!-- source-row:3069 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartLegend`. <!-- source-row:3070 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartLegend`. <!-- source-row:3071 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartLegend`; menu `ChartEditDataMenu`. <!-- source-row:3072 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartLegend`; menu `ChartEditDataMenu`. <!-- source-row:3073 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartLegend`. <!-- source-row:3074 -->
+- [ ] `ChartFormatLegend` — button; group `ContextMenuChartLegend`. <!-- source-row:3075 -->
+- [ ] `ContextMenuChartLegendEntry` — contextMenu. <!-- source-row:3077 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartLegendEntry`. <!-- source-row:3078 -->
+- [ ] `ChartDeleteSeries` — button; group `ContextMenuChartLegendEntry`. <!-- source-row:3079 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartLegendEntry`. <!-- source-row:3080 -->
+- [ ] `FontDialog` — button; group `ContextMenuChartLegendEntry`. <!-- source-row:3081 -->
+- [ ] `ChartSeriesTypeChange` — button; group `ContextMenuChartLegendEntry`. <!-- source-row:3082 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartLegendEntry`. <!-- source-row:3083 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartLegendEntry`. <!-- source-row:3084 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartLegendEntry`; menu `ChartEditDataMenu`. <!-- source-row:3085 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartLegendEntry`; menu `ChartEditDataMenu`. <!-- source-row:3086 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartLegendEntry`. <!-- source-row:3087 -->
+- [ ] `ChartFormatDataSeriesAndSelect` — button; group `ContextMenuChartLegendEntry`. <!-- source-row:3088 -->
+- [ ] `ChartFormatLegendEntry` — button; group `ContextMenuChartLegendEntry`. <!-- source-row:3089 -->
+- [ ] `ContextMenuChartPlotArea` — contextMenu. <!-- source-row:3091 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartPlotArea`. <!-- source-row:3092 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartPlotArea`. <!-- source-row:3093 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartPlotArea`. <!-- source-row:3094 -->
+- [ ] `ChartSaveTemplates` — button; group `ContextMenuChartPlotArea`. <!-- source-row:3095 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartPlotArea`. <!-- source-row:3096 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartPlotArea`. <!-- source-row:3097 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartPlotArea`; menu `ChartEditDataMenu`. <!-- source-row:3098 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartPlotArea`; menu `ChartEditDataMenu`. <!-- source-row:3099 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartPlotArea`. <!-- source-row:3100 -->
+- [ ] `ChartFormatPlotArea` — button; group `ContextMenuChartPlotArea`. <!-- source-row:3101 -->
+- [ ] `ContextMenuChartSeriesLine` — contextMenu. <!-- source-row:3103 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartSeriesLine`. <!-- source-row:3104 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartSeriesLine`. <!-- source-row:3105 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartSeriesLine`. <!-- source-row:3106 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartSeriesLine`. <!-- source-row:3107 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartSeriesLine`. <!-- source-row:3108 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartSeriesLine`; menu `ChartEditDataMenu`. <!-- source-row:3109 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartSeriesLine`; menu `ChartEditDataMenu`. <!-- source-row:3110 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartSeriesLine`. <!-- source-row:3111 -->
+- [ ] `ChartFormatSeriesLine` — button; group `ContextMenuChartSeriesLine`. <!-- source-row:3112 -->
+- [ ] `ContextMenuChartSideWall` — contextMenu. <!-- source-row:3114 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartSideWall`. <!-- source-row:3115 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartSideWall`. <!-- source-row:3116 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartSideWall`. <!-- source-row:3117 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartSideWall`. <!-- source-row:3118 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartSideWall`. <!-- source-row:3119 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartSideWall`; menu `ChartEditDataMenu`. <!-- source-row:3120 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartSideWall`; menu `ChartEditDataMenu`. <!-- source-row:3121 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartSideWall`. <!-- source-row:3122 -->
+- [ ] `ChartFormatSideWall` — button; group `ContextMenuChartSideWall`. <!-- source-row:3123 -->
+- [ ] `ContextMenuChartTrendline` — contextMenu. <!-- source-row:3125 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartTrendline`. <!-- source-row:3126 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartTrendline`. <!-- source-row:3127 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartTrendline`. <!-- source-row:3128 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartTrendline`. <!-- source-row:3129 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartTrendline`. <!-- source-row:3130 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartTrendline`; menu `ChartEditDataMenu`. <!-- source-row:3131 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartTrendline`; menu `ChartEditDataMenu`. <!-- source-row:3132 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartTrendline`. <!-- source-row:3133 -->
+- [ ] `ChartFormatTrendline` — button; group `ContextMenuChartTrendline`. <!-- source-row:3134 -->
+- [ ] `ContextMenuChartTrendlineLabel` — contextMenu. <!-- source-row:3136 -->
+- [ ] `FirstCorrectionAlternative` — button; group `ContextMenuChartTrendlineLabel`. <!-- source-row:3137 -->
+- [ ] `SecondCorrectionAlternative` — button; group `ContextMenuChartTrendlineLabel`. <!-- source-row:3138 -->
+- [ ] `ThirdCorrectionAlternative` — button; group `ContextMenuChartTrendlineLabel`. <!-- source-row:3139 -->
+- [ ] `FourthCorrectionAlternative` — button; group `ContextMenuChartTrendlineLabel`. <!-- source-row:3140 -->
+- [ ] `FifthCorrectionAlternative` — button; group `ContextMenuChartTrendlineLabel`. <!-- source-row:3141 -->
+- [ ] `MoreCorrectionAlternatives` — button; group `ContextMenuChartTrendlineLabel`. <!-- source-row:3142 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartTrendlineLabel`. <!-- source-row:3143 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartTrendlineLabel`. <!-- source-row:3144 -->
+- [ ] `ChartEditText` — button; group `ContextMenuChartTrendlineLabel`. <!-- source-row:3145 -->
+- [ ] `ChartExitEditText` — button; group `ContextMenuChartTrendlineLabel`. <!-- source-row:3146 -->
+- [ ] `FontDialog` — button; group `ContextMenuChartTrendlineLabel`. <!-- source-row:3147 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartTrendlineLabel`. <!-- source-row:3148 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartTrendlineLabel`. <!-- source-row:3149 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartTrendlineLabel`. <!-- source-row:3150 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartTrendlineLabel`; menu `ChartEditDataMenu`. <!-- source-row:3151 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartTrendlineLabel`; menu `ChartEditDataMenu`. <!-- source-row:3152 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartTrendlineLabel`. <!-- source-row:3153 -->
+- [ ] `ChartFormatTrendlineLabel` — button; group `ContextMenuChartTrendlineLabel`. <!-- source-row:3154 -->
+- [ ] `ChartFormatTrendlineAndSelect` — button; group `ContextMenuChartTrendlineLabel`. <!-- source-row:3155 -->
+- [ ] `ChartFormatDataSeriesAndSelect` — button; group `ContextMenuChartTrendlineLabel`. <!-- source-row:3156 -->
+- [ ] `ContextMenuChartUpBars` — contextMenu. <!-- source-row:3158 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartUpBars`. <!-- source-row:3159 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartUpBars`. <!-- source-row:3160 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartUpBars`. <!-- source-row:3161 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartUpBars`. <!-- source-row:3162 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartUpBars`. <!-- source-row:3163 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartUpBars`; menu `ChartEditDataMenu`. <!-- source-row:3164 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartUpBars`; menu `ChartEditDataMenu`. <!-- source-row:3165 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartUpBars`. <!-- source-row:3166 -->
+- [ ] `ChartFormatUpBars` — button; group `ContextMenuChartUpBars`. <!-- source-row:3167 -->
+- [ ] `ContextMenuChartWalls` — contextMenu. <!-- source-row:3169 -->
+- [ ] `ChartDelete` — button; group `ContextMenuChartWalls`. <!-- source-row:3170 -->
+- [ ] `ChartResetToMatchStyle` — button; group `ContextMenuChartWalls`. <!-- source-row:3171 -->
+- [ ] `ChartChangeType` — button; group `ContextMenuChartWalls`. <!-- source-row:3172 -->
+- [ ] `ChartSourceDataContextualMenu` — button; group `ContextMenuChartWalls`. <!-- source-row:3173 -->
+- [ ] `ChartEditDataMenu` — splitButton; group `ContextMenuChartWalls`. <!-- source-row:3174 -->
+- [ ] `ChartShowDataGrid` — button; group `ContextMenuChartWalls`; menu `ChartEditDataMenu`. <!-- source-row:3175 -->
+- [ ] `ChartShowDataContextualMenu` — button; group `ContextMenuChartWalls`; menu `ChartEditDataMenu`. <!-- source-row:3176 -->
+- [ ] `Chart3DView` — button; group `ContextMenuChartWalls`. <!-- source-row:3177 -->
+- [ ] `ChartFormatWalls` — button; group `ContextMenuChartWalls`. <!-- source-row:3178 -->
+- [ ] `ContextMenuNotesEditText` — contextMenu. <!-- source-row:3180 -->
+- [ ] `FirstCorrectionAlternative` — button; group `ContextMenuNotesEditText`. <!-- source-row:3181 -->
+- [ ] `SecondCorrectionAlternative` — button; group `ContextMenuNotesEditText`. <!-- source-row:3182 -->
+- [ ] `ThirdCorrectionAlternative` — button; group `ContextMenuNotesEditText`. <!-- source-row:3183 -->
+- [ ] `FourthCorrectionAlternative` — button; group `ContextMenuNotesEditText`. <!-- source-row:3184 -->
+- [ ] `FifthCorrectionAlternative` — button; group `ContextMenuNotesEditText`. <!-- source-row:3185 -->
+- [ ] `MoreCorrectionAlternatives` — button; group `ContextMenuNotesEditText`. <!-- source-row:3186 -->
+- [ ] `Cut` — button; group `ContextMenuNotesEditText`. <!-- source-row:3187 -->
+- [ ] `Copy` — button; group `ContextMenuNotesEditText`. <!-- source-row:3188 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuNotesEditText`. <!-- source-row:3189 -->
+- [ ] `EquationOptionsGallery` — gallery; group `ContextMenuNotesEditText`. <!-- source-row:3190 -->
+- [ ] `FontDialog` — button; group `ContextMenuNotesEditText`. <!-- source-row:3191 -->
+- [ ] `ParagraphDialog` — button; group `ContextMenuNotesEditText`. <!-- source-row:3192 -->
+- [ ] `ImeReconvert` — button; group `ContextMenuNotesEditText`. <!-- source-row:3193 -->
+- [ ] `Insights` — button; group `ContextMenuNotesEditText`. <!-- source-row:3194 -->
+- [ ] `FixSynonymChangeMenu` — menu; group `ContextMenuNotesEditText`. <!-- source-row:3195 -->
+- [ ] `Translate` — button; group `ContextMenuNotesEditText`. <!-- source-row:3196 -->
+- [ ] `ContextMenuTextEditOutline` — contextMenu. <!-- source-row:3197 -->
+- [ ] `FirstCorrectionAlternative` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3198 -->
+- [ ] `SecondCorrectionAlternative` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3199 -->
+- [ ] `ThirdCorrectionAlternative` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3200 -->
+- [ ] `FourthCorrectionAlternative` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3201 -->
+- [ ] `FifthCorrectionAlternative` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3202 -->
+- [ ] `MoreCorrectionAlternatives` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3203 -->
+- [ ] `Cut` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3204 -->
+- [ ] `Copy` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3205 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuTextEditOutline`. <!-- source-row:3206 -->
+- [ ] `EquationOptionsGallery` — gallery; group `ContextMenuTextEditOutline`. <!-- source-row:3207 -->
+- [ ] `OutlineCollapseMenu` — splitButton; group `ContextMenuTextEditOutline`. <!-- source-row:3208 -->
+- [ ] `OutlineCollapse` — button; group `ContextMenuTextEditOutline`; menu `OutlineCollapseMenu`. <!-- source-row:3209 -->
+- [ ] `CollapseAll` — button; group `ContextMenuTextEditOutline`; menu `OutlineCollapseMenu`. <!-- source-row:3210 -->
+- [ ] `OutlineExpandMenu` — splitButton; group `ContextMenuTextEditOutline`. <!-- source-row:3211 -->
+- [ ] `OutlineExpand` — button; group `ContextMenuTextEditOutline`; menu `OutlineExpandMenu`. <!-- source-row:3212 -->
+- [ ] `OutlineExpandAll` — button; group `ContextMenuTextEditOutline`; menu `OutlineExpandMenu`. <!-- source-row:3213 -->
+- [ ] `ImeReconvert` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3214 -->
+- [ ] `SlideNew` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3215 -->
+- [ ] `DeleteSlideContextual` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3216 -->
+- [ ] `OutlinePromote` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3217 -->
+- [ ] `OutlineDemote` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3218 -->
+- [ ] `OutlineMoveUp` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3219 -->
+- [ ] `OutlineMoveDown` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3220 -->
+- [ ] `HyperlinkInsertPowerPoint` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3221 -->
+- [ ] `BookshelfDefine` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3222 -->
+- [ ] `HyperlinkEdit` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3223 -->
+- [ ] `HyperlinkOpen` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3224 -->
+- [ ] `HyperlinkCopy` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3225 -->
+- [ ] `HyperlinkRemove` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3226 -->
+- [ ] `Insights` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3227 -->
+- [ ] `OutlineShowTextFormatting` — toggleButton; group `ContextMenuTextEditOutline`. <!-- source-row:3228 -->
+- [ ] `FixSynonymChangeMenu` — menu; group `ContextMenuTextEditOutline`. <!-- source-row:3229 -->
+- [ ] `Translate` — button; group `ContextMenuTextEditOutline`. <!-- source-row:3230 -->
+- [ ] `AdditionalActions` — gallery; group `ContextMenuTextEditOutline`. <!-- source-row:3231 -->
+- [ ] `SmartTagOptions` — button; group `ContextMenuTextEditOutline`; menu `AdditionalActions`. <!-- source-row:3232 -->
+- [ ] `ContextMenuGraphicsCompatibility` — contextMenu. <!-- source-row:3233 -->
+- [ ] `Cut` — button; group `ContextMenuGraphicsCompatibility`. <!-- source-row:3234 -->
+- [ ] `Copy` — button; group `ContextMenuGraphicsCompatibility`. <!-- source-row:3235 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuGraphicsCompatibility`. <!-- source-row:3236 -->
+- [ ] `ObjectsGroupMenu` — menu; group `ContextMenuGraphicsCompatibility`. <!-- source-row:3237 -->
+- [ ] `ObjectsGroup` — button; group `ContextMenuGraphicsCompatibility`; menu `ObjectsGroupMenu`. <!-- source-row:3238 -->
+- [ ] `ObjectsRegroup` — button; group `ContextMenuGraphicsCompatibility`; menu `ObjectsGroupMenu`. <!-- source-row:3239 -->
+- [ ] `ObjectsUngroup` — button; group `ContextMenuGraphicsCompatibility`; menu `ObjectsGroupMenu`. <!-- source-row:3240 -->
+- [ ] `ObjectBringToFrontMenu` — splitButton; group `ContextMenuGraphicsCompatibility`. <!-- source-row:3241 -->
+- [ ] `ObjectBringToFront` — button; group `ContextMenuGraphicsCompatibility`; menu `ObjectBringToFrontMenu`. <!-- source-row:3242 -->
+- [ ] `ObjectBringForward` — button; group `ContextMenuGraphicsCompatibility`; menu `ObjectBringToFrontMenu`. <!-- source-row:3243 -->
+- [ ] `ObjectSendToBackMenu` — splitButton; group `ContextMenuGraphicsCompatibility`. <!-- source-row:3244 -->
+- [ ] `ObjectSendToBack` — button; group `ContextMenuGraphicsCompatibility`; menu `ObjectSendToBackMenu`. <!-- source-row:3245 -->
+- [ ] `ObjectSendBackward` — button; group `ContextMenuGraphicsCompatibility`; menu `ObjectSendToBackMenu`. <!-- source-row:3246 -->
+- [ ] `ObjectSaveAsPicture` — button; group `ContextMenuGraphicsCompatibility`. <!-- source-row:3247 -->
+- [ ] `ContextMenuGraphicOleClassic` — contextMenu. <!-- source-row:3248 -->
+- [ ] `Cut` — button; group `ContextMenuGraphicOleClassic`. <!-- source-row:3249 -->
+- [ ] `Copy` — button; group `ContextMenuGraphicOleClassic`. <!-- source-row:3250 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuGraphicOleClassic`. <!-- source-row:3251 -->
+- [ ] `EditOleObjectMenu` — menu; group `ContextMenuGraphicOleClassic`. <!-- source-row:3252 -->
+- [ ] `LinksUpdate` — button; group `ContextMenuGraphicOleClassic`. <!-- source-row:3253 -->
+- [ ] `ObjectsGroupMenu` — menu; group `ContextMenuGraphicOleClassic`. <!-- source-row:3254 -->
+- [ ] `ObjectsGroup` — button; group `ContextMenuGraphicOleClassic`; menu `ObjectsGroupMenu`. <!-- source-row:3255 -->
+- [ ] `ObjectsRegroup` — button; group `ContextMenuGraphicOleClassic`; menu `ObjectsGroupMenu`. <!-- source-row:3256 -->
+- [ ] `ObjectsUngroup` — button; group `ContextMenuGraphicOleClassic`; menu `ObjectsGroupMenu`. <!-- source-row:3257 -->
+- [ ] `ObjectBringToFrontMenu` — splitButton; group `ContextMenuGraphicOleClassic`. <!-- source-row:3258 -->
+- [ ] `ObjectBringToFront` — button; group `ContextMenuGraphicOleClassic`; menu `ObjectBringToFrontMenu`. <!-- source-row:3259 -->
+- [ ] `ObjectBringForward` — button; group `ContextMenuGraphicOleClassic`; menu `ObjectBringToFrontMenu`. <!-- source-row:3260 -->
+- [ ] `ObjectSendToBackMenu` — splitButton; group `ContextMenuGraphicOleClassic`. <!-- source-row:3261 -->
+- [ ] `ObjectSendToBack` — button; group `ContextMenuGraphicOleClassic`; menu `ObjectSendToBackMenu`. <!-- source-row:3262 -->
+- [ ] `ObjectSendBackward` — button; group `ContextMenuGraphicOleClassic`; menu `ObjectSendToBackMenu`. <!-- source-row:3263 -->
+- [ ] `HyperlinkInsertPowerPoint` — button; group `ContextMenuGraphicOleClassic`. <!-- source-row:3264 -->
+- [ ] `BookshelfDefine` — button; group `ContextMenuGraphicOleClassic`. <!-- source-row:3265 -->
+- [ ] `HyperlinkEdit` — button; group `ContextMenuGraphicOleClassic`. <!-- source-row:3266 -->
+- [ ] `HyperlinkOpen` — button; group `ContextMenuGraphicOleClassic`. <!-- source-row:3267 -->
+- [ ] `HyperlinkCopy` — button; group `ContextMenuGraphicOleClassic`. <!-- source-row:3268 -->
+- [ ] `HyperlinkRemove` — button; group `ContextMenuGraphicOleClassic`. <!-- source-row:3269 -->
+- [ ] `ObjectSaveAsPicture` — button; group `ContextMenuGraphicOleClassic`. <!-- source-row:3270 -->
+- [ ] `BlackWhiteSettingMenu` — menu; group `ContextMenuGraphicOleClassic`. <!-- source-row:3271 -->
+- [ ] `ObjectFormatDialog` — button; group `ContextMenuGraphicOleClassic`. <!-- source-row:3272 -->
+- [ ] `ContextMenuActiveXControl` — contextMenu. <!-- source-row:3273 -->
+- [ ] `Cut` — button; group `ContextMenuActiveXControl`. <!-- source-row:3274 -->
+- [ ] `Copy` — button; group `ContextMenuActiveXControl`. <!-- source-row:3275 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuActiveXControl`. <!-- source-row:3276 -->
+- [ ] `ObjectSaveAsPicture` — button; group `ContextMenuActiveXControl`. <!-- source-row:3277 -->
+- [ ] `PropertySheet` — button; group `ContextMenuActiveXControl`. <!-- source-row:3278 -->
+- [ ] `ViewVisualBasicCode` — button; group `ContextMenuActiveXControl`. <!-- source-row:3279 -->
+- [ ] `EditOleObjectMenu` — menu; group `ContextMenuActiveXControl`. <!-- source-row:3280 -->
+- [ ] `ObjectsGroupMenu` — menu; group `ContextMenuActiveXControl`. <!-- source-row:3281 -->
+- [ ] `ObjectsGroup` — button; group `ContextMenuActiveXControl`; menu `ObjectsGroupMenu`. <!-- source-row:3282 -->
+- [ ] `ObjectsRegroup` — button; group `ContextMenuActiveXControl`; menu `ObjectsGroupMenu`. <!-- source-row:3283 -->
+- [ ] `ObjectsUngroup` — button; group `ContextMenuActiveXControl`; menu `ObjectsGroupMenu`. <!-- source-row:3284 -->
+- [ ] `ObjectBringToFrontMenu` — splitButton; group `ContextMenuActiveXControl`. <!-- source-row:3285 -->
+- [ ] `ObjectBringToFront` — button; group `ContextMenuActiveXControl`; menu `ObjectBringToFrontMenu`. <!-- source-row:3286 -->
+- [ ] `ObjectBringForward` — button; group `ContextMenuActiveXControl`; menu `ObjectBringToFrontMenu`. <!-- source-row:3287 -->
+- [ ] `ObjectSendToBackMenu` — splitButton; group `ContextMenuActiveXControl`. <!-- source-row:3288 -->
+- [ ] `ObjectSendToBack` — button; group `ContextMenuActiveXControl`; menu `ObjectSendToBackMenu`. <!-- source-row:3289 -->
+- [ ] `ObjectSendBackward` — button; group `ContextMenuActiveXControl`; menu `ObjectSendToBackMenu`. <!-- source-row:3290 -->
+- [ ] `ActionInsert` — button; group `ContextMenuActiveXControl`. <!-- source-row:3291 -->
+- [ ] `ObjectSizeAndPositionDialog` — button; group `ContextMenuActiveXControl`. <!-- source-row:3292 -->
+- [ ] `ContextMenuTable` — contextMenu. <!-- source-row:3293 -->
+- [ ] `FirstCorrectionAlternative` — button; group `ContextMenuTable`. <!-- source-row:3294 -->
+- [ ] `SecondCorrectionAlternative` — button; group `ContextMenuTable`. <!-- source-row:3295 -->
+- [ ] `ThirdCorrectionAlternative` — button; group `ContextMenuTable`. <!-- source-row:3296 -->
+- [ ] `FourthCorrectionAlternative` — button; group `ContextMenuTable`. <!-- source-row:3297 -->
+- [ ] `FifthCorrectionAlternative` — button; group `ContextMenuTable`. <!-- source-row:3298 -->
+- [ ] `MoreCorrectionAlternatives` — button; group `ContextMenuTable`. <!-- source-row:3299 -->
+- [ ] `Cut` — button; group `ContextMenuTable`. <!-- source-row:3300 -->
+- [ ] `Copy` — button; group `ContextMenuTable`. <!-- source-row:3301 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuTable`. <!-- source-row:3302 -->
+- [ ] `FontDialog` — button; group `ContextMenuTable`. <!-- source-row:3303 -->
+- [ ] `BulletsGallery` — gallery; group `ContextMenuTable`. <!-- source-row:3304 -->
+- [ ] `BulletsAndNumberingBulletsDialog` — button; group `ContextMenuTable`; menu `BulletsGallery`. <!-- source-row:3305 -->
+- [ ] `NumberingGallery` — gallery; group `ContextMenuTable`. <!-- source-row:3306 -->
+- [ ] `BulletsAndNumberingNumberingDialog` — button; group `ContextMenuTable`; menu `NumberingGallery`. <!-- source-row:3307 -->
+- [ ] `ImeReconvert` — button; group `ContextMenuTable`. <!-- source-row:3308 -->
+- [ ] `HyperlinkInsertPowerPoint` — button; group `ContextMenuTable`. <!-- source-row:3309 -->
+- [ ] `BookshelfDefine` — button; group `ContextMenuTable`. <!-- source-row:3310 -->
+- [ ] `HyperlinkEdit` — button; group `ContextMenuTable`. <!-- source-row:3311 -->
+- [ ] `HyperlinkOpen` — button; group `ContextMenuTable`. <!-- source-row:3312 -->
+- [ ] `HyperlinkCopy` — button; group `ContextMenuTable`. <!-- source-row:3313 -->
+- [ ] `HyperlinkRemove` — button; group `ContextMenuTable`. <!-- source-row:3314 -->
+- [ ] `Insights` — button; group `ContextMenuTable`. <!-- source-row:3315 -->
+- [ ] `FixSynonymChangeMenu` — menu; group `ContextMenuTable`. <!-- source-row:3316 -->
+- [ ] `Translate` — button; group `ContextMenuTable`. <!-- source-row:3317 -->
+- [ ] `MergeCells` — button; group `ContextMenuTable`. <!-- source-row:3318 -->
+- [ ] `SplitCells` — button; group `ContextMenuTable`. <!-- source-row:3319 -->
+- [ ] `TableSelect` — button; group `ContextMenuTable`. <!-- source-row:3320 -->
+- [ ] `ObjectFormatDialog` — button; group `ContextMenuTable`. <!-- source-row:3321 -->
+- [ ] `AdditionalActions` — gallery; group `ContextMenuTable`. <!-- source-row:3322 -->
+- [ ] `SmartTagOptions` — button; group `ContextMenuTable`; menu `AdditionalActions`. <!-- source-row:3323 -->
+- [ ] `ContextMenuTableWhole` — contextMenu. <!-- source-row:3324 -->
+- [ ] `Cut` — button; group `ContextMenuTableWhole`. <!-- source-row:3325 -->
+- [ ] `Copy` — button; group `ContextMenuTableWhole`. <!-- source-row:3326 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuTableWhole`. <!-- source-row:3327 -->
+- [ ] `FontDialog` — button; group `ContextMenuTableWhole`. <!-- source-row:3328 -->
+- [ ] `BulletsGallery` — gallery; group `ContextMenuTableWhole`. <!-- source-row:3329 -->
+- [ ] `BulletsAndNumberingBulletsDialog` — button; group `ContextMenuTableWhole`; menu `BulletsGallery`. <!-- source-row:3330 -->
+- [ ] `NumberingGallery` — gallery; group `ContextMenuTableWhole`. <!-- source-row:3331 -->
+- [ ] `BulletsAndNumberingNumberingDialog` — button; group `ContextMenuTableWhole`; menu `NumberingGallery`. <!-- source-row:3332 -->
+- [ ] `ObjectsGroupMenu` — menu; group `ContextMenuTableWhole`. <!-- source-row:3333 -->
+- [ ] `ObjectsGroup` — button; group `ContextMenuTableWhole`; menu `ObjectsGroupMenu`. <!-- source-row:3334 -->
+- [ ] `ObjectsRegroup` — button; group `ContextMenuTableWhole`; menu `ObjectsGroupMenu`. <!-- source-row:3335 -->
+- [ ] `ObjectsUngroup` — button; group `ContextMenuTableWhole`; menu `ObjectsGroupMenu`. <!-- source-row:3336 -->
+- [ ] `ObjectBringToFrontMenu` — splitButton; group `ContextMenuTableWhole`. <!-- source-row:3337 -->
+- [ ] `ObjectBringToFront` — button; group `ContextMenuTableWhole`; menu `ObjectBringToFrontMenu`. <!-- source-row:3338 -->
+- [ ] `ObjectBringForward` — button; group `ContextMenuTableWhole`; menu `ObjectBringToFrontMenu`. <!-- source-row:3339 -->
+- [ ] `ObjectSendToBackMenu` — splitButton; group `ContextMenuTableWhole`. <!-- source-row:3340 -->
+- [ ] `ObjectSendToBack` — button; group `ContextMenuTableWhole`; menu `ObjectSendToBackMenu`. <!-- source-row:3341 -->
+- [ ] `ObjectSendBackward` — button; group `ContextMenuTableWhole`; menu `ObjectSendToBackMenu`. <!-- source-row:3342 -->
+- [ ] `HyperlinkInsertPowerPoint` — button; group `ContextMenuTableWhole`. <!-- source-row:3343 -->
+- [ ] `BookshelfDefine` — button; group `ContextMenuTableWhole`. <!-- source-row:3344 -->
+- [ ] `HyperlinkEdit` — button; group `ContextMenuTableWhole`. <!-- source-row:3345 -->
+- [ ] `HyperlinkOpen` — button; group `ContextMenuTableWhole`. <!-- source-row:3346 -->
+- [ ] `HyperlinkCopy` — button; group `ContextMenuTableWhole`. <!-- source-row:3347 -->
+- [ ] `HyperlinkRemove` — button; group `ContextMenuTableWhole`. <!-- source-row:3348 -->
+- [ ] `ObjectSaveAsPicture` — button; group `ContextMenuTableWhole`. <!-- source-row:3349 -->
+- [ ] `ObjectFormatDialog` — button; group `ContextMenuTableWhole`. <!-- source-row:3350 -->
+- [ ] `ContextMenuSmartArtContentPane` — contextMenu. <!-- source-row:3351 -->
+- [ ] `FirstCorrectionAlternative` — button; group `ContextMenuSmartArtContentPane`. <!-- source-row:3352 -->
+- [ ] `SecondCorrectionAlternative` — button; group `ContextMenuSmartArtContentPane`. <!-- source-row:3353 -->
+- [ ] `ThirdCorrectionAlternative` — button; group `ContextMenuSmartArtContentPane`. <!-- source-row:3354 -->
+- [ ] `FourthCorrectionAlternative` — button; group `ContextMenuSmartArtContentPane`. <!-- source-row:3355 -->
+- [ ] `FifthCorrectionAlternative` — button; group `ContextMenuSmartArtContentPane`. <!-- source-row:3356 -->
+- [ ] `MoreCorrectionAlternatives` — button; group `ContextMenuSmartArtContentPane`. <!-- source-row:3357 -->
+- [ ] `Cut` — button; group `ContextMenuSmartArtContentPane`. <!-- source-row:3358 -->
+- [ ] `Copy` — button; group `ContextMenuSmartArtContentPane`. <!-- source-row:3359 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuSmartArtContentPane`. <!-- source-row:3360 -->
+- [ ] `SmartArtPromote` — button; group `ContextMenuSmartArtContentPane`. <!-- source-row:3361 -->
+- [ ] `SmartArtDemote` — button; group `ContextMenuSmartArtContentPane`. <!-- source-row:3362 -->
+- [ ] `SmartArtReorderUp` — button; group `ContextMenuSmartArtContentPane`. <!-- source-row:3363 -->
+- [ ] `SmartArtReorderDown` — button; group `ContextMenuSmartArtContentPane`. <!-- source-row:3364 -->
+- [ ] `FontDialog` — button; group `ContextMenuSmartArtContentPane`. <!-- source-row:3365 -->
+- [ ] `ImeReconvert` — button; group `ContextMenuSmartArtContentPane`. <!-- source-row:3366 -->
+- [ ] `ContextMenuSmartArtBackground` — contextMenu. <!-- source-row:3367 -->
+- [ ] `Cut` — button; group `ContextMenuSmartArtBackground`. <!-- source-row:3368 -->
+- [ ] `Copy` — button; group `ContextMenuSmartArtBackground`. <!-- source-row:3369 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuSmartArtBackground`. <!-- source-row:3370 -->
+- [ ] `SmartArtChangeLayout` — button; group `ContextMenuSmartArtBackground`. <!-- source-row:3371 -->
+- [ ] `SmartArtTextPane` — toggleButton; group `ContextMenuSmartArtBackground`. <!-- source-row:3372 -->
+- [ ] `ObjectsGroupMenu` — menu; group `ContextMenuSmartArtBackground`. <!-- source-row:3373 -->
+- [ ] `ObjectsGroup` — button; group `ContextMenuSmartArtBackground`; menu `ObjectsGroupMenu`. <!-- source-row:3374 -->
+- [ ] `ObjectsRegroup` — button; group `ContextMenuSmartArtBackground`; menu `ObjectsGroupMenu`. <!-- source-row:3375 -->
+- [ ] `ObjectsUngroup` — button; group `ContextMenuSmartArtBackground`; menu `ObjectsGroupMenu`. <!-- source-row:3376 -->
+- [ ] `ObjectBringToFrontMenu` — splitButton; group `ContextMenuSmartArtBackground`. <!-- source-row:3377 -->
+- [ ] `ObjectBringToFront` — button; group `ContextMenuSmartArtBackground`; menu `ObjectBringToFrontMenu`. <!-- source-row:3378 -->
+- [ ] `ObjectBringForward` — button; group `ContextMenuSmartArtBackground`; menu `ObjectBringToFrontMenu`. <!-- source-row:3379 -->
+- [ ] `ObjectSendToBackMenu` — splitButton; group `ContextMenuSmartArtBackground`. <!-- source-row:3380 -->
+- [ ] `ObjectSendToBack` — button; group `ContextMenuSmartArtBackground`; menu `ObjectSendToBackMenu`. <!-- source-row:3381 -->
+- [ ] `ObjectSendBackward` — button; group `ContextMenuSmartArtBackground`; menu `ObjectSendToBackMenu`. <!-- source-row:3382 -->
+- [ ] `HyperlinkInsertPowerPoint` — button; group `ContextMenuSmartArtBackground`. <!-- source-row:3383 -->
+- [ ] `HyperlinkEdit` — button; group `ContextMenuSmartArtBackground`. <!-- source-row:3384 -->
+- [ ] `HyperlinkOpen` — button; group `ContextMenuSmartArtBackground`. <!-- source-row:3385 -->
+- [ ] `HyperlinkCopy` — button; group `ContextMenuSmartArtBackground`. <!-- source-row:3386 -->
+- [ ] `HyperlinkRemove` — button; group `ContextMenuSmartArtBackground`. <!-- source-row:3387 -->
+- [ ] `ObjectSaveAsPicture` — button; group `ContextMenuSmartArtBackground`. <!-- source-row:3388 -->
+- [ ] `SmartArtResetGraphic` — button; group `ContextMenuSmartArtBackground`. <!-- source-row:3389 -->
+- [ ] `SmartArtConvedrtToText` — button; group `ContextMenuSmartArtBackground`. <!-- source-row:3390 -->
+- [ ] `SmartArtConvertToShapes` — button; group `ContextMenuSmartArtBackground`. <!-- source-row:3391 -->
+- [ ] `ObjectSizeAndPositionDialog` — button; group `ContextMenuSmartArtBackground`. <!-- source-row:3392 -->
+- [ ] `ObjectFormatDialog` — button; group `ContextMenuSmartArtBackground`. <!-- source-row:3393 -->
+- [ ] `ContextMenuSmartArtEditSmartArt` — contextMenu. <!-- source-row:3394 -->
+- [ ] `Cut` — button; group `ContextMenuSmartArtEditSmartArt`. <!-- source-row:3395 -->
+- [ ] `Copy` — button; group `ContextMenuSmartArtEditSmartArt`. <!-- source-row:3396 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuSmartArtEditSmartArt`. <!-- source-row:3397 -->
+- [ ] `ObjectAddText` — button; group `ContextMenuSmartArtEditSmartArt`. <!-- source-row:3398 -->
+- [ ] `ObjectEditText` — button; group `ContextMenuSmartArtEditSmartArt`. <!-- source-row:3399 -->
+- [ ] `FontDialog` — button; group `ContextMenuSmartArtEditSmartArt`. <!-- source-row:3400 -->
+- [ ] `ShapeChangeShapeGallery` — gallery; group `ContextMenuSmartArtEditSmartArt`. <!-- source-row:3401 -->
+- [ ] `SmartArtAddShapeMenu` — menu; group `ContextMenuSmartArtEditSmartArt`. <!-- source-row:3402 -->
+- [ ] `SmartArtAddShapeAfter` — button; group `ContextMenuSmartArtEditSmartArt`; menu `SmartArtAddShapeMenu`. <!-- source-row:3403 -->
+- [ ] `SmartArtAddShapeBefore` — button; group `ContextMenuSmartArtEditSmartArt`; menu `SmartArtAddShapeMenu`. <!-- source-row:3404 -->
+- [ ] `SmartArtAddShapeAbove` — button; group `ContextMenuSmartArtEditSmartArt`; menu `SmartArtAddShapeMenu`. <!-- source-row:3405 -->
+- [ ] `SmartArtAddShapeBelow` — button; group `ContextMenuSmartArtEditSmartArt`; menu `SmartArtAddShapeMenu`. <!-- source-row:3406 -->
+- [ ] `SmartArtAddAssistant` — button; group `ContextMenuSmartArtEditSmartArt`; menu `SmartArtAddShapeMenu`. <!-- source-row:3407 -->
+- [ ] `HyperlinkInsertPowerPoint` — button; group `ContextMenuSmartArtEditSmartArt`. <!-- source-row:3408 -->
+- [ ] `HyperlinkEdit` — button; group `ContextMenuSmartArtEditSmartArt`. <!-- source-row:3409 -->
+- [ ] `HyperlinkOpen` — button; group `ContextMenuSmartArtEditSmartArt`. <!-- source-row:3410 -->
+- [ ] `HyperlinkCopy` — button; group `ContextMenuSmartArtEditSmartArt`. <!-- source-row:3411 -->
+- [ ] `HyperlinkRemove` — button; group `ContextMenuSmartArtEditSmartArt`. <!-- source-row:3412 -->
+- [ ] `ObjectSaveAsPicture` — button; group `ContextMenuSmartArtEditSmartArt`. <!-- source-row:3413 -->
+- [ ] `SmartArtResetShape` — button; group `ContextMenuSmartArtEditSmartArt`. <!-- source-row:3414 -->
+- [ ] `ObjectSizeAndPositionDialog` — button; group `ContextMenuSmartArtEditSmartArt`. <!-- source-row:3415 -->
+- [ ] `ObjectFormatDialog` — button; group `ContextMenuSmartArtEditSmartArt`. <!-- source-row:3416 -->
+- [ ] `ContextMenuSmartArtEdit1DShape` — contextMenu. <!-- source-row:3417 -->
+- [ ] `Cut` — button; group `ContextMenuSmartArtEdit1DShape`. <!-- source-row:3418 -->
+- [ ] `Copy` — button; group `ContextMenuSmartArtEdit1DShape`. <!-- source-row:3419 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuSmartArtEdit1DShape`. <!-- source-row:3420 -->
+- [ ] `FontDialog` — button; group `ContextMenuSmartArtEdit1DShape`. <!-- source-row:3421 -->
+- [ ] `SmartArtAddShapeMenu` — menu; group `ContextMenuSmartArtEdit1DShape`. <!-- source-row:3422 -->
+- [ ] `SmartArtAddShapeAfter` — button; group `ContextMenuSmartArtEdit1DShape`; menu `SmartArtAddShapeMenu`. <!-- source-row:3423 -->
+- [ ] `SmartArtAddShapeBefore` — button; group `ContextMenuSmartArtEdit1DShape`; menu `SmartArtAddShapeMenu`. <!-- source-row:3424 -->
+- [ ] `SmartArtAddShapeAbove` — button; group `ContextMenuSmartArtEdit1DShape`; menu `SmartArtAddShapeMenu`. <!-- source-row:3425 -->
+- [ ] `SmartArtAddShapeBelow` — button; group `ContextMenuSmartArtEdit1DShape`; menu `SmartArtAddShapeMenu`. <!-- source-row:3426 -->
+- [ ] `SmartArtAddAssistant` — button; group `ContextMenuSmartArtEdit1DShape`; menu `SmartArtAddShapeMenu`. <!-- source-row:3427 -->
+- [ ] `ObjectSaveAsPicture` — button; group `ContextMenuSmartArtEdit1DShape`. <!-- source-row:3428 -->
+- [ ] `SmartArtResetShape` — button; group `ContextMenuSmartArtEdit1DShape`. <!-- source-row:3429 -->
+- [ ] `ObjectSizeAndPositionDialog` — button; group `ContextMenuSmartArtEdit1DShape`. <!-- source-row:3430 -->
+- [ ] `ObjectFormatDialog` — button; group `ContextMenuSmartArtEdit1DShape`. <!-- source-row:3431 -->
+- [ ] `ContextMenuSmartArtEditText` — contextMenu. <!-- source-row:3432 -->
+- [ ] `FirstCorrectionAlternative` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3433 -->
+- [ ] `SecondCorrectionAlternative` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3434 -->
+- [ ] `ThirdCorrectionAlternative` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3435 -->
+- [ ] `FourthCorrectionAlternative` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3436 -->
+- [ ] `FifthCorrectionAlternative` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3437 -->
+- [ ] `MoreCorrectionAlternatives` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3438 -->
+- [ ] `Cut` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3439 -->
+- [ ] `Copy` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3440 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuSmartArtEditText`. <!-- source-row:3441 -->
+- [ ] `EquationOptionsGallery` — gallery; group `ContextMenuSmartArtEditText`. <!-- source-row:3442 -->
+- [ ] `TextEditModeExit` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3443 -->
+- [ ] `FontDialog` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3444 -->
+- [ ] `ParagraphDialog` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3445 -->
+- [ ] `ImeReconvert` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3446 -->
+- [ ] `ShapeChangeShapeGallery` — gallery; group `ContextMenuSmartArtEditText`. <!-- source-row:3447 -->
+- [ ] `SmartArtAddShapeMenu` — menu; group `ContextMenuSmartArtEditText`. <!-- source-row:3448 -->
+- [ ] `SmartArtAddShapeAfter` — button; group `ContextMenuSmartArtEditText`; menu `SmartArtAddShapeMenu`. <!-- source-row:3449 -->
+- [ ] `SmartArtAddShapeBefore` — button; group `ContextMenuSmartArtEditText`; menu `SmartArtAddShapeMenu`. <!-- source-row:3450 -->
+- [ ] `SmartArtAddShapeAbove` — button; group `ContextMenuSmartArtEditText`; menu `SmartArtAddShapeMenu`. <!-- source-row:3451 -->
+- [ ] `SmartArtAddShapeBelow` — button; group `ContextMenuSmartArtEditText`; menu `SmartArtAddShapeMenu`. <!-- source-row:3452 -->
+- [ ] `SmartArtAddAssistant` — button; group `ContextMenuSmartArtEditText`; menu `SmartArtAddShapeMenu`. <!-- source-row:3453 -->
+- [ ] `HyperlinkInsertPowerPoint` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3454 -->
+- [ ] `HyperlinkEdit` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3455 -->
+- [ ] `HyperlinkOpen` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3456 -->
+- [ ] `HyperlinkCopy` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3457 -->
+- [ ] `HyperlinkRemove` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3458 -->
+- [ ] `Insights` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3459 -->
+- [ ] `FixSynonymChangeMenu` — menu; group `ContextMenuSmartArtEditText`. <!-- source-row:3460 -->
+- [ ] `Translate` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3461 -->
+- [ ] `SmartArtResetShape` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3462 -->
+- [ ] `WordArtFormatDialog` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3463 -->
+- [ ] `ObjectSizeAndPositionDialog` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3464 -->
+- [ ] `ObjectFormatDialog` — button; group `ContextMenuSmartArtEditText`. <!-- source-row:3465 -->
+- [ ] `AdditionalActions` — gallery; group `ContextMenuSmartArtEditText`. <!-- source-row:3466 -->
+- [ ] `SmartTagOptions` — button; group `ContextMenuSmartArtEditText`; menu `AdditionalActions`. <!-- source-row:3467 -->
+- [ ] `ContextMenuSmartArtEdit1DShapeText` — contextMenu. <!-- source-row:3468 -->
+- [ ] `FirstCorrectionAlternative` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3469 -->
+- [ ] `SecondCorrectionAlternative` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3470 -->
+- [ ] `ThirdCorrectionAlternative` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3471 -->
+- [ ] `FourthCorrectionAlternative` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3472 -->
+- [ ] `FifthCorrectionAlternative` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3473 -->
+- [ ] `MoreCorrectionAlternatives` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3474 -->
+- [ ] `Cut` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3475 -->
+- [ ] `Copy` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3476 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3477 -->
+- [ ] `FontDialog` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3478 -->
+- [ ] `ParagraphDialog` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3479 -->
+- [ ] `ImeReconvert` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3480 -->
+- [ ] `SmartArtAddShapeMenu` — menu; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3481 -->
+- [ ] `SmartArtAddShapeAfter` — button; group `ContextMenuSmartArtEdit1DShapeText`; menu `SmartArtAddShapeMenu`. <!-- source-row:3482 -->
+- [ ] `SmartArtAddShapeBefore` — button; group `ContextMenuSmartArtEdit1DShapeText`; menu `SmartArtAddShapeMenu`. <!-- source-row:3483 -->
+- [ ] `SmartArtAddShapeAbove` — button; group `ContextMenuSmartArtEdit1DShapeText`; menu `SmartArtAddShapeMenu`. <!-- source-row:3484 -->
+- [ ] `SmartArtAddShapeBelow` — button; group `ContextMenuSmartArtEdit1DShapeText`; menu `SmartArtAddShapeMenu`. <!-- source-row:3485 -->
+- [ ] `SmartArtAddAssistant` — button; group `ContextMenuSmartArtEdit1DShapeText`; menu `SmartArtAddShapeMenu`. <!-- source-row:3486 -->
+- [ ] `HyperlinkInsertPowerPoint` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3487 -->
+- [ ] `HyperlinkEdit` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3488 -->
+- [ ] `HyperlinkOpen` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3489 -->
+- [ ] `HyperlinkCopy` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3490 -->
+- [ ] `HyperlinkRemove` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3491 -->
+- [ ] `Insights` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3492 -->
+- [ ] `FixSynonymChangeMenu` — menu; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3493 -->
+- [ ] `Translate` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3494 -->
+- [ ] `SmartArtResetShape` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3495 -->
+- [ ] `WordArtFormatDialog` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3496 -->
+- [ ] `ObjectSizeAndPositionDialog` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3497 -->
+- [ ] `ObjectFormatDialog` — button; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3498 -->
+- [ ] `AdditionalActions` — gallery; group `ContextMenuSmartArtEdit1DShapeText`. <!-- source-row:3499 -->
+- [ ] `SmartTagOptions` — button; group `ContextMenuSmartArtEdit1DShapeText`; menu `AdditionalActions`. <!-- source-row:3500 -->
+- [ ] `ContextMenuGuide` — contextMenu. <!-- source-row:3501 -->
+- [ ] `AddVerticalGuide` — button; group `ContextMenuGuide`. <!-- source-row:3502 -->
+- [ ] `AddHorizontalGuide` — button; group `ContextMenuGuide`. <!-- source-row:3503 -->
+- [ ] `GuideColorGallery` — gallery; group `ContextMenuGuide`. <!-- source-row:3504 -->
+- [ ] `GuideDelete` — button; group `ContextMenuGuide`. <!-- source-row:3505 -->
+- [ ] `GridSettings` — button; group `ContextMenuGuide`. <!-- source-row:3506 -->
+- [ ] `ViewRulerPowerPoint` — checkBox; group `ContextMenuGuide`. <!-- source-row:3507 -->
+- [ ] `ContextMenuOfficeWebExtension` — contextMenu. <!-- source-row:3508 -->
+- [ ] `Cut` — button; group `ContextMenuOfficeWebExtension`. <!-- source-row:3509 -->
+- [ ] `Copy` — button; group `ContextMenuOfficeWebExtension`. <!-- source-row:3510 -->
+- [ ] `PasteGalleryMini` — gallery; group `ContextMenuOfficeWebExtension`. <!-- source-row:3511 -->
+- [ ] `ObjectsGroupMenu` — menu; group `ContextMenuOfficeWebExtension`. <!-- source-row:3512 -->
+- [ ] `ObjectsGroup` — button; group `ContextMenuOfficeWebExtension`; menu `ObjectsGroupMenu`. <!-- source-row:3513 -->
+- [ ] `ObjectsRegroup` — button; group `ContextMenuOfficeWebExtension`; menu `ObjectsGroupMenu`. <!-- source-row:3514 -->
+- [ ] `ObjectsUngroup` — button; group `ContextMenuOfficeWebExtension`; menu `ObjectsGroupMenu`. <!-- source-row:3515 -->
+- [ ] `ObjectBringToFrontMenu` — splitButton; group `ContextMenuOfficeWebExtension`. <!-- source-row:3516 -->
+- [ ] `ObjectBringToFront` — button; group `ContextMenuOfficeWebExtension`; menu `ObjectBringToFrontMenu`. <!-- source-row:3517 -->
+- [ ] `ObjectBringForward` — button; group `ContextMenuOfficeWebExtension`; menu `ObjectBringToFrontMenu`. <!-- source-row:3518 -->
+- [ ] `ObjectSendToBackMenu` — splitButton; group `ContextMenuOfficeWebExtension`. <!-- source-row:3519 -->
+- [ ] `ObjectSendToBack` — button; group `ContextMenuOfficeWebExtension`; menu `ObjectSendToBackMenu`. <!-- source-row:3520 -->
+- [ ] `ObjectSendBackward` — button; group `ContextMenuOfficeWebExtension`; menu `ObjectSendToBackMenu`. <!-- source-row:3521 -->
+- [ ] `ObjectSetShapeDefaults` — button; group `ContextMenuOfficeWebExtension`. <!-- source-row:3522 -->
+- [ ] `ObjectSizeAndPropertiesDialog` — button; group `ContextMenuOfficeWebExtension`. <!-- source-row:3523 -->
+- [ ] `ObjectFormatDialog` — button; group `ContextMenuOfficeWebExtension`. <!-- source-row:3524 -->

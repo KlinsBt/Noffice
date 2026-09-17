@@ -1,0 +1,4561 @@
+{
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "scriptHash": "c2b9de7d2df6c0b1585db2e2eeb5e8c368c871787327032424b1753d2daec1aa",
+  "rows": [
+    {
+      "redo": {
+        "pages": 4,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "S",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "1",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "h",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "r",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "u",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "l",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "N",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "w",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": -1
+          }
+        ],
+        "linked": false,
+        "text": "S1 header default New\r"
+      },
+      "redoOk": true,
+      "initialEdit": {
+        "pages": 4,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "S",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "1",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "h",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "r",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "u",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "l",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": -1
+          }
+        ],
+        "linked": false,
+        "text": "S1 header default\r"
+      },
+      "baseHash": "e9fe069958fabffc1d8a7a10bae8b46ab683b8e9c11c616b98fe346694699cdd",
+      "name": "cloned-Headers-Superscript",
+      "section": 2,
+      "kind": "Headers",
+      "script": "Superscript",
+      "stages": [
+        {
+          "docxHash": "1105e784a4db744d24ce916860d5bac20b8e5070457b36b5e3b58a1aa67f5fd7",
+          "pdfHash": "aaa7b9f9053fbc7bae75253e14bce17a0b71fe56015a626df9b7581dceb6e486",
+          "stage": "source",
+          "state": {
+            "pages": 4,
+            "characters": [
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "S",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "1",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "h",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "d",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "r",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "d",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "f",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "u",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "l",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "\r",
+                "superscript": -1
+              }
+            ],
+            "linked": true,
+            "text": "S1 header default\r"
+          }
+        },
+        {
+          "docxHash": "d0c0d987302eb346948382929140fe8f4f562633672f7bcf0c08ff19310d0427",
+          "pdfHash": "d8e5a3b7ebb5a8adc6b82edd0bc36c4d12cd228c9856167e9c32cc0ad8b53ab0",
+          "stage": "expected",
+          "state": {
+            "pages": 4,
+            "characters": [
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "S",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "1",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "h",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "d",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "r",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "d",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "f",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "u",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "l",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "N",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "w",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "\r",
+                "superscript": -1
+              }
+            ],
+            "linked": false,
+            "text": "S1 header default New\r"
+          }
+        }
+      ],
+      "undo": {
+        "pages": 4,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "S",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "1",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "h",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "r",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "u",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "l",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": -1
+          }
+        ],
+        "linked": false,
+        "text": "S1 header default\r"
+      },
+      "mode": "cloned",
+      "typed": {
+        "pages": 4,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "S",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "1",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "h",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "r",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "u",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "l",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "N",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "w",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": -1
+          }
+        ],
+        "linked": false,
+        "text": "S1 header default New\r"
+      },
+      "undoOk": true,
+      "sourceFile": "word-script-provenance-cloned-Headers-Superscript.docx"
+    },
+    {
+      "redo": {
+        "pages": 4,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "S",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "1",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "o",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "o",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "r",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "u",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "l",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "N",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "w",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": -1
+          }
+        ],
+        "linked": false,
+        "text": "S1 footer default New\r"
+      },
+      "redoOk": true,
+      "initialEdit": {
+        "pages": 4,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "S",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "1",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "o",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "o",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "r",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "u",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "l",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": -1
+          }
+        ],
+        "linked": false,
+        "text": "S1 footer default\r"
+      },
+      "baseHash": "e9fe069958fabffc1d8a7a10bae8b46ab683b8e9c11c616b98fe346694699cdd",
+      "name": "cloned-Footers-Superscript",
+      "section": 2,
+      "kind": "Footers",
+      "script": "Superscript",
+      "stages": [
+        {
+          "docxHash": "a055854b468af81900a2a2d9f6b89a0583729f1b4fc8e87117cd5c24b54c196f",
+          "pdfHash": "b932d48a03712e43f089466ddeb504b18dbf7177927c872662560a73038b5579",
+          "stage": "source",
+          "state": {
+            "pages": 4,
+            "characters": [
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "S",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "1",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "f",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "o",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "o",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "r",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "d",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "f",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "u",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "l",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "\r",
+                "superscript": -1
+              }
+            ],
+            "linked": true,
+            "text": "S1 footer default\r"
+          }
+        },
+        {
+          "docxHash": "19d6f3b50639e5784fbb303c52972ba2f7e1272056b547cff67c396c5044c661",
+          "pdfHash": "088ae289f228c308f4dad4727f18b8fa039b26e75ddadb426e9fffbc8b0e9946",
+          "stage": "expected",
+          "state": {
+            "pages": 4,
+            "characters": [
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "S",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "1",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "f",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "o",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "o",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "r",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "d",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "f",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "u",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "l",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "N",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "w",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "\r",
+                "superscript": -1
+              }
+            ],
+            "linked": false,
+            "text": "S1 footer default New\r"
+          }
+        }
+      ],
+      "undo": {
+        "pages": 4,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "S",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "1",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "o",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "o",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "r",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "u",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "l",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": -1
+          }
+        ],
+        "linked": false,
+        "text": "S1 footer default\r"
+      },
+      "mode": "cloned",
+      "typed": {
+        "pages": 4,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "S",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "1",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "o",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "o",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "r",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "u",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "l",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "N",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "w",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": -1
+          }
+        ],
+        "linked": false,
+        "text": "S1 footer default New\r"
+      },
+      "undoOk": true,
+      "sourceFile": "word-script-provenance-cloned-Footers-Superscript.docx"
+    },
+    {
+      "redo": {
+        "pages": 6,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "N",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "i",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "v",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": -1
+          }
+        ],
+        "linked": false,
+        "text": "Native\r"
+      },
+      "redoOk": true,
+      "initialEdit": {
+        "pages": 6,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": -1
+          }
+        ],
+        "linked": false,
+        "text": "\r"
+      },
+      "baseHash": "45f479534f5c66feb6b8c6b9a86ecd146f62f8805bfc3ccaf0dd72f875ad1215",
+      "name": "created-Headers-Superscript",
+      "section": 1,
+      "kind": "Headers",
+      "script": "Superscript",
+      "stages": [
+        {
+          "docxHash": "d6098d52abe740a3ee3ef73cad648535d3d788c5a23b2172f3e7378c0470d403",
+          "pdfHash": "a2678abb7d2afce7a5a014df04da492030e8141cbea851d651e8b89addb36af6",
+          "stage": "source",
+          "state": {
+            "pages": 6,
+            "characters": [
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "\r",
+                "superscript": -1
+              }
+            ],
+            "linked": false,
+            "text": "\r"
+          }
+        },
+        {
+          "docxHash": "78b4c4054027e0a3139f7a030ab0a75fc07fea26161dea03ecc06db5fc88ff4e",
+          "pdfHash": "1ac1a6c28fae4b375364188e8d43f2ffeb237ea5cc4cea2cbc80f6c1877aeb36",
+          "stage": "expected",
+          "state": {
+            "pages": 6,
+            "characters": [
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "N",
+                "superscript": -1
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "superscript": -1
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "superscript": -1
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "i",
+                "superscript": -1
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "v",
+                "superscript": -1
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": -1
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "\r",
+                "superscript": -1
+              }
+            ],
+            "linked": false,
+            "text": "Native\r"
+          }
+        }
+      ],
+      "undo": {
+        "pages": 6,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": -1
+          }
+        ],
+        "linked": false,
+        "text": "\r"
+      },
+      "mode": "created",
+      "typed": {
+        "pages": 6,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "N",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "i",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "v",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": -1
+          }
+        ],
+        "linked": false,
+        "text": "Native\r"
+      },
+      "undoOk": true,
+      "sourceFile": "word-script-provenance-created-Headers-Superscript.docx"
+    },
+    {
+      "redo": {
+        "pages": 6,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "N",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "i",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "v",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": -1
+          }
+        ],
+        "linked": false,
+        "text": "Native\r"
+      },
+      "redoOk": true,
+      "initialEdit": {
+        "pages": 6,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": -1
+          }
+        ],
+        "linked": false,
+        "text": "\r"
+      },
+      "baseHash": "45f479534f5c66feb6b8c6b9a86ecd146f62f8805bfc3ccaf0dd72f875ad1215",
+      "name": "created-Footers-Superscript",
+      "section": 1,
+      "kind": "Footers",
+      "script": "Superscript",
+      "stages": [
+        {
+          "docxHash": "ae5d65fc989021a71f84390841c0abbfc2b2894735a411680655e6e27daa8d89",
+          "pdfHash": "a49acd34489a8f4d59bf08a1c86c469f720242d7413bae11796bf70a0850d1c3",
+          "stage": "source",
+          "state": {
+            "pages": 6,
+            "characters": [
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "\r",
+                "superscript": -1
+              }
+            ],
+            "linked": false,
+            "text": "\r"
+          }
+        },
+        {
+          "docxHash": "1a3bec9e51a636a585e5615446dd2dcb22ae7a5d8bd255d87d414a7369476679",
+          "pdfHash": "0bd96a37cd8b03f3c142f4588a078ef8355c7faa03120817f9ba4b60813765bb",
+          "stage": "expected",
+          "state": {
+            "pages": 6,
+            "characters": [
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "N",
+                "superscript": -1
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "superscript": -1
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "superscript": -1
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "i",
+                "superscript": -1
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "v",
+                "superscript": -1
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": -1
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "\r",
+                "superscript": -1
+              }
+            ],
+            "linked": false,
+            "text": "Native\r"
+          }
+        }
+      ],
+      "undo": {
+        "pages": 6,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": -1
+          }
+        ],
+        "linked": false,
+        "text": "\r"
+      },
+      "mode": "created",
+      "typed": {
+        "pages": 6,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "N",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "i",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "v",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": -1
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": -1
+          }
+        ],
+        "linked": false,
+        "text": "Native\r"
+      },
+      "undoOk": true,
+      "sourceFile": "word-script-provenance-created-Footers-Superscript.docx"
+    },
+    {
+      "redo": {
+        "pages": 4,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "S",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "1",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "h",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "r",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "u",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "l",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "N",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "w",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": 0
+          }
+        ],
+        "linked": false,
+        "text": "S1 header default New\r"
+      },
+      "redoOk": true,
+      "initialEdit": {
+        "pages": 4,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "S",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "1",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "h",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "r",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "u",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "l",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": 0
+          }
+        ],
+        "linked": false,
+        "text": "S1 header default\r"
+      },
+      "baseHash": "e9fe069958fabffc1d8a7a10bae8b46ab683b8e9c11c616b98fe346694699cdd",
+      "name": "cloned-Headers-Subscript",
+      "section": 2,
+      "kind": "Headers",
+      "script": "Subscript",
+      "stages": [
+        {
+          "docxHash": "28f71dc3c1c7fe80a40dc3bcec4311d4225e26551932b6e27d8ded4bcda4d0fa",
+          "pdfHash": "1766a1a9b305c17d7a90057225e1b54bd09ac1e059c29ba1678b9db7f5f4a67b",
+          "stage": "source",
+          "state": {
+            "pages": 4,
+            "characters": [
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "S",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "1",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "h",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "d",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "r",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "d",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "f",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "u",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "l",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "superscript": 0
+              },
+              {
+                "subscript": -1,
+                "size": 10,
+                "family": "Arial",
+                "text": "\r",
+                "superscript": 0
+              }
+            ],
+            "linked": true,
+            "text": "S1 header default\r"
+          }
+        },
+        {
+          "docxHash": "00674430492eedb303305e7ab17a7ccb2d78d5be4c9ac43778a1d157f9fa7294",
+          "pdfHash": "f70e943d8b57e208ae6389c948d88ec88c5f57dee6252b3ba237dd663bcffc81",
+          "stage": "expected",
+          "state": {
+            "pages": 4,
+            "characters": [
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "S",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "1",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "h",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "d",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "r",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "d",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "f",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "u",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "l",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "N",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "w",
+                "superscript": 0
+              },
+              {
+                "subscript": -1,
+                "size": 10,
+                "family": "Arial",
+                "text": "\r",
+                "superscript": 0
+              }
+            ],
+            "linked": false,
+            "text": "S1 header default New\r"
+          }
+        }
+      ],
+      "undo": {
+        "pages": 4,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "S",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "1",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "h",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "r",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "u",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "l",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": 0
+          }
+        ],
+        "linked": false,
+        "text": "S1 header default\r"
+      },
+      "mode": "cloned",
+      "typed": {
+        "pages": 4,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "S",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "1",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "h",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "r",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "u",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "l",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "N",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "w",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": 0
+          }
+        ],
+        "linked": false,
+        "text": "S1 header default New\r"
+      },
+      "undoOk": true,
+      "sourceFile": "word-script-provenance-cloned-Headers-Subscript.docx"
+    },
+    {
+      "redo": {
+        "pages": 4,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "S",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "1",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "o",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "o",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "r",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "u",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "l",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "N",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "w",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": 0
+          }
+        ],
+        "linked": false,
+        "text": "S1 footer default New\r"
+      },
+      "redoOk": true,
+      "initialEdit": {
+        "pages": 4,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "S",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "1",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "o",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "o",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "r",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "u",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "l",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": 0
+          }
+        ],
+        "linked": false,
+        "text": "S1 footer default\r"
+      },
+      "baseHash": "e9fe069958fabffc1d8a7a10bae8b46ab683b8e9c11c616b98fe346694699cdd",
+      "name": "cloned-Footers-Subscript",
+      "section": 2,
+      "kind": "Footers",
+      "script": "Subscript",
+      "stages": [
+        {
+          "docxHash": "8e220e8e25ec12a67825bd3e22ee76f2901ba90bdfe68ad7d81e94bd785a4749",
+          "pdfHash": "4a8e88abaabc878eb7d2a4f14c9846508bc00a337e3a9524f4f85a6920f85e7d",
+          "stage": "source",
+          "state": {
+            "pages": 4,
+            "characters": [
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "S",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "1",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "f",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "o",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "o",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "r",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "d",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "f",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "u",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "l",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "superscript": 0
+              },
+              {
+                "subscript": -1,
+                "size": 10,
+                "family": "Arial",
+                "text": "\r",
+                "superscript": 0
+              }
+            ],
+            "linked": true,
+            "text": "S1 footer default\r"
+          }
+        },
+        {
+          "docxHash": "c0c597306935e074ae5af0424d6967dd90dac3e772c72c32099f2198531c1a9d",
+          "pdfHash": "296ec60d263073f003ff544c13e49a325416649c59ad723f3992402bb080eaf9",
+          "stage": "expected",
+          "state": {
+            "pages": 4,
+            "characters": [
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "S",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "1",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "f",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "o",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "o",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "r",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "d",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "f",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "u",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "l",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": " ",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "N",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": 0,
+                "size": 10,
+                "family": "Arial",
+                "text": "w",
+                "superscript": 0
+              },
+              {
+                "subscript": -1,
+                "size": 10,
+                "family": "Arial",
+                "text": "\r",
+                "superscript": 0
+              }
+            ],
+            "linked": false,
+            "text": "S1 footer default New\r"
+          }
+        }
+      ],
+      "undo": {
+        "pages": 4,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "S",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "1",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "o",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "o",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "r",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "u",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "l",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": 0
+          }
+        ],
+        "linked": false,
+        "text": "S1 footer default\r"
+      },
+      "mode": "cloned",
+      "typed": {
+        "pages": 4,
+        "characters": [
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "S",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "1",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "o",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "o",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "r",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "d",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "f",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "u",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "l",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": " ",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "N",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": 0,
+            "size": 10,
+            "family": "Arial",
+            "text": "w",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": 0
+          }
+        ],
+        "linked": false,
+        "text": "S1 footer default New\r"
+      },
+      "undoOk": true,
+      "sourceFile": "word-script-provenance-cloned-Footers-Subscript.docx"
+    },
+    {
+      "redo": {
+        "pages": 6,
+        "characters": [
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "N",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "i",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "v",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": 0
+          }
+        ],
+        "linked": false,
+        "text": "Native\r"
+      },
+      "redoOk": true,
+      "initialEdit": {
+        "pages": 6,
+        "characters": [
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": 0
+          }
+        ],
+        "linked": false,
+        "text": "\r"
+      },
+      "baseHash": "45f479534f5c66feb6b8c6b9a86ecd146f62f8805bfc3ccaf0dd72f875ad1215",
+      "name": "created-Headers-Subscript",
+      "section": 1,
+      "kind": "Headers",
+      "script": "Subscript",
+      "stages": [
+        {
+          "docxHash": "6be4aa82c91e3c19d6da4b053cc96c68b7a9c004be702f6e0182b3364de30b53",
+          "pdfHash": "20fbe6286708ba639a0d2dd6a554c678592a49f2223fe8b30d2249599175f73d",
+          "stage": "source",
+          "state": {
+            "pages": 6,
+            "characters": [
+              {
+                "subscript": -1,
+                "size": 10,
+                "family": "Arial",
+                "text": "\r",
+                "superscript": 0
+              }
+            ],
+            "linked": false,
+            "text": "\r"
+          }
+        },
+        {
+          "docxHash": "d4ca880c6214e73a5702d6ae432244a22b3753116a5c3a75ac993eda40a55083",
+          "pdfHash": "9c6620537c05cce68d12d55fdf9cb54d8b922e12446f3ac1b905b14cc11e1ac5",
+          "stage": "expected",
+          "state": {
+            "pages": 6,
+            "characters": [
+              {
+                "subscript": -1,
+                "size": 10,
+                "family": "Arial",
+                "text": "N",
+                "superscript": 0
+              },
+              {
+                "subscript": -1,
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "superscript": 0
+              },
+              {
+                "subscript": -1,
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "superscript": 0
+              },
+              {
+                "subscript": -1,
+                "size": 10,
+                "family": "Arial",
+                "text": "i",
+                "superscript": 0
+              },
+              {
+                "subscript": -1,
+                "size": 10,
+                "family": "Arial",
+                "text": "v",
+                "superscript": 0
+              },
+              {
+                "subscript": -1,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": -1,
+                "size": 10,
+                "family": "Arial",
+                "text": "\r",
+                "superscript": 0
+              }
+            ],
+            "linked": false,
+            "text": "Native\r"
+          }
+        }
+      ],
+      "undo": {
+        "pages": 6,
+        "characters": [
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": 0
+          }
+        ],
+        "linked": false,
+        "text": "\r"
+      },
+      "mode": "created",
+      "typed": {
+        "pages": 6,
+        "characters": [
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "N",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "i",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "v",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": 0
+          }
+        ],
+        "linked": false,
+        "text": "Native\r"
+      },
+      "undoOk": true,
+      "sourceFile": "word-script-provenance-created-Headers-Subscript.docx"
+    },
+    {
+      "redo": {
+        "pages": 6,
+        "characters": [
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "N",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "i",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "v",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": 0
+          }
+        ],
+        "linked": false,
+        "text": "Native\r"
+      },
+      "redoOk": true,
+      "initialEdit": {
+        "pages": 6,
+        "characters": [
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": 0
+          }
+        ],
+        "linked": false,
+        "text": "\r"
+      },
+      "baseHash": "45f479534f5c66feb6b8c6b9a86ecd146f62f8805bfc3ccaf0dd72f875ad1215",
+      "name": "created-Footers-Subscript",
+      "section": 1,
+      "kind": "Footers",
+      "script": "Subscript",
+      "stages": [
+        {
+          "docxHash": "1af8f946cd86dab031be3cf27d2840882e44913c1bb16d9aa42a0aa691b16812",
+          "pdfHash": "105de1bac86d69fd0208c5410f8e8d7d9059d43992da00e965bee4c359e9ac85",
+          "stage": "source",
+          "state": {
+            "pages": 6,
+            "characters": [
+              {
+                "subscript": -1,
+                "size": 10,
+                "family": "Arial",
+                "text": "\r",
+                "superscript": 0
+              }
+            ],
+            "linked": false,
+            "text": "\r"
+          }
+        },
+        {
+          "docxHash": "001fd4acee4f0e2e52becba1e538607539055d923c3a4c064e2ee584f0a5588a",
+          "pdfHash": "2b98bf49a51b7f4cc233c5e056c2afff2324bb72cc9132403e10b730a4829ab8",
+          "stage": "expected",
+          "state": {
+            "pages": 6,
+            "characters": [
+              {
+                "subscript": -1,
+                "size": 10,
+                "family": "Arial",
+                "text": "N",
+                "superscript": 0
+              },
+              {
+                "subscript": -1,
+                "size": 10,
+                "family": "Arial",
+                "text": "a",
+                "superscript": 0
+              },
+              {
+                "subscript": -1,
+                "size": 10,
+                "family": "Arial",
+                "text": "t",
+                "superscript": 0
+              },
+              {
+                "subscript": -1,
+                "size": 10,
+                "family": "Arial",
+                "text": "i",
+                "superscript": 0
+              },
+              {
+                "subscript": -1,
+                "size": 10,
+                "family": "Arial",
+                "text": "v",
+                "superscript": 0
+              },
+              {
+                "subscript": -1,
+                "size": 10,
+                "family": "Arial",
+                "text": "e",
+                "superscript": 0
+              },
+              {
+                "subscript": -1,
+                "size": 10,
+                "family": "Arial",
+                "text": "\r",
+                "superscript": 0
+              }
+            ],
+            "linked": false,
+            "text": "Native\r"
+          }
+        }
+      ],
+      "undo": {
+        "pages": 6,
+        "characters": [
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": 0
+          }
+        ],
+        "linked": false,
+        "text": "\r"
+      },
+      "mode": "created",
+      "typed": {
+        "pages": 6,
+        "characters": [
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "N",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "a",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "t",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "i",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "v",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "e",
+            "superscript": 0
+          },
+          {
+            "subscript": -1,
+            "size": 10,
+            "family": "Arial",
+            "text": "\r",
+            "superscript": 0
+          }
+        ],
+        "linked": false,
+        "text": "Native\r"
+      },
+      "undoOk": true,
+      "sourceFile": "word-script-provenance-created-Footers-Subscript.docx"
+    }
+  ],
+  "nativeReportHash": "990f44ffbe7af1b44675124ca38d77bd7001ddb24732087d7316b1ea7482b242",
+  "method": "Owned Word native-v2; explicit story selection, TypeText, Undo/Redo, read-only reopen and PDF. Native-v1 is invalid due view-reset selection and excluded.",
+  "producerHash": "d00a450db84a73230fc1f51643d32d834787c3e00a56c45fe3ad8a6b544eada4"
+}

@@ -1,0 +1,1511 @@
+{
+  "rows": [
+    {
+      "name": "primary",
+      "page": 1,
+      "index": 0,
+      "family": "Arial",
+      "size": 10,
+      "face": "regular",
+      "color": "000000",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 71.9959716796875,
+        "right": 524.85400390625,
+        "bottom": 111.97998046875
+      },
+      "baseline": 104.05999755859375,
+      "offset": 32.06402587890625,
+      "expectedText": "P01 Agjpqy mixed marks tail."
+    },
+    {
+      "name": "primary",
+      "page": 1,
+      "index": 1,
+      "family": "Arial",
+      "size": 10,
+      "face": "bold",
+      "color": "2058A0",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 111.97998046875,
+        "right": 524.85400390625,
+        "bottom": 152.05999755859375
+      },
+      "baseline": 144.01995849609375,
+      "offset": 32.03997802734375,
+      "expectedText": "P02 Agjpqy mixed marks tail."
+    },
+    {
+      "name": "primary",
+      "page": 1,
+      "index": 2,
+      "family": "Arial",
+      "size": 10,
+      "face": "italic",
+      "color": "A02030",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 152.0599365234375,
+        "right": 524.85400390625,
+        "bottom": 192.01995849609375
+      },
+      "baseline": 184.0999755859375,
+      "offset": 32.0400390625,
+      "expectedText": "P03 Agjpqy mixed marks tail."
+    },
+    {
+      "name": "primary",
+      "page": 1,
+      "index": 3,
+      "family": "Arial",
+      "size": 10,
+      "face": "boldItalic",
+      "color": "000000",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 192.01995849609375,
+        "right": 524.85400390625,
+        "bottom": 231.97998046875
+      },
+      "baseline": 224.05999755859375,
+      "offset": 32.0400390625,
+      "expectedText": "P04 Agjpqy mixed marks tail."
+    },
+    {
+      "name": "primary",
+      "page": 1,
+      "index": 4,
+      "family": "Calibri",
+      "size": 11,
+      "face": "regular",
+      "color": "000000",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 231.9859619140625,
+        "right": 524.85400390625,
+        "bottom": 272.0899658203125
+      },
+      "baseline": 264.04998779296875,
+      "offset": 32.06402587890625,
+      "expectedText": "P05 Agjpqy mixed marks tail."
+    },
+    {
+      "name": "primary",
+      "page": 1,
+      "index": 5,
+      "family": "Calibri",
+      "size": 11,
+      "face": "bold",
+      "color": "2058A0",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 272.0899658203125,
+        "right": 524.85400390625,
+        "bottom": 312.04998779296875
+      },
+      "baseline": 304.1300048828125,
+      "offset": 32.0400390625,
+      "expectedText": "P06 Agjpqy mixed marks tail."
+    },
+    {
+      "name": "primary",
+      "page": 1,
+      "index": 6,
+      "family": "Calibri",
+      "size": 11,
+      "face": "italic",
+      "color": "A02030",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 312.04998779296875,
+        "right": 524.85400390625,
+        "bottom": 352.0099792480469
+      },
+      "baseline": 344.0899963378906,
+      "offset": 32.040008544921875,
+      "expectedText": "P07 Agjpqy mixed marks tail."
+    },
+    {
+      "name": "primary",
+      "page": 1,
+      "index": 7,
+      "family": "Calibri",
+      "size": 11,
+      "face": "boldItalic",
+      "color": "000000",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 352.010009765625,
+        "right": 524.85400390625,
+        "bottom": 392.0899963378906
+      },
+      "baseline": 384.04998779296875,
+      "offset": 32.03997802734375,
+      "expectedText": "P08 Agjpqy mixed marks tail."
+    },
+    {
+      "name": "primary",
+      "page": 1,
+      "index": 8,
+      "family": "Arial",
+      "size": 20,
+      "face": "regular",
+      "color": "000000",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 392.0899963378906,
+        "right": 524.85400390625,
+        "bottom": 432.04998779296875
+      },
+      "baseline": 424.1299743652344,
+      "offset": 32.03997802734375,
+      "expectedText": "P09 Agjpqy mixed marks tail."
+    },
+    {
+      "name": "primary",
+      "page": 1,
+      "index": 9,
+      "family": "Calibri",
+      "size": 22,
+      "face": "regular",
+      "color": "000000",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 432.04595947265625,
+        "right": 524.85400390625,
+        "bottom": 472.02996826171875
+      },
+      "baseline": 464.1099853515625,
+      "offset": 32.06402587890625,
+      "expectedText": "P10 Agjpqy mixed marks tail."
+    },
+    {
+      "name": "heldout",
+      "page": 1,
+      "index": 0,
+      "label": "P01",
+      "family": "Arial",
+      "face": "regular",
+      "size": 1,
+      "color": "000000",
+      "text": "P01 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 71.9959716796875,
+        "right": 524.85400390625,
+        "bottom": 111.97998046875
+      },
+      "baseline": 104.05999755859375,
+      "offset": 32.06402587890625,
+      "expectedText": "P01 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 1,
+      "index": 1,
+      "label": "P02",
+      "family": "Arial",
+      "face": "regular",
+      "size": 3,
+      "color": "000000",
+      "text": "P02 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 111.97998046875,
+        "right": 524.85400390625,
+        "bottom": 152.05999755859375
+      },
+      "baseline": 144.01995849609375,
+      "offset": 32.03997802734375,
+      "expectedText": "P02 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 1,
+      "index": 2,
+      "label": "P03",
+      "family": "Arial",
+      "face": "regular",
+      "size": 9,
+      "color": "000000",
+      "text": "P03 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 152.0599365234375,
+        "right": 524.85400390625,
+        "bottom": 192.01995849609375
+      },
+      "baseline": 184.0999755859375,
+      "offset": 32.0400390625,
+      "expectedText": "P03 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 1,
+      "index": 3,
+      "label": "P04",
+      "family": "Arial",
+      "face": "regular",
+      "size": 10.5,
+      "color": "000000",
+      "text": "P04 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 192.01995849609375,
+        "right": 524.85400390625,
+        "bottom": 231.97998046875
+      },
+      "baseline": 224.05999755859375,
+      "offset": 32.0400390625,
+      "expectedText": "P04 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 1,
+      "index": 4,
+      "label": "P05",
+      "family": "Arial",
+      "face": "regular",
+      "size": 11.5,
+      "color": "000000",
+      "text": "P05 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 231.9859619140625,
+        "right": 524.85400390625,
+        "bottom": 272.0899658203125
+      },
+      "baseline": 264.04998779296875,
+      "offset": 32.06402587890625,
+      "expectedText": "P05 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 1,
+      "index": 5,
+      "label": "P06",
+      "family": "Arial",
+      "face": "regular",
+      "size": 14,
+      "color": "000000",
+      "text": "P06 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 272.0899658203125,
+        "right": 524.85400390625,
+        "bottom": 312.04998779296875
+      },
+      "baseline": 304.1300048828125,
+      "offset": 32.0400390625,
+      "expectedText": "P06 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 1,
+      "index": 6,
+      "label": "P07",
+      "family": "Arial",
+      "face": "regular",
+      "size": 18,
+      "color": "000000",
+      "text": "P07 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 312.04998779296875,
+        "right": 524.85400390625,
+        "bottom": 352.0099792480469
+      },
+      "baseline": 344.0899963378906,
+      "offset": 32.040008544921875,
+      "expectedText": "P07 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 1,
+      "index": 7,
+      "label": "P08",
+      "family": "Arial",
+      "face": "regular",
+      "size": 36,
+      "color": "000000",
+      "text": "P08 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 352.010009765625,
+        "right": 524.85400390625,
+        "bottom": 392.0899963378906
+      },
+      "baseline": 384.04998779296875,
+      "offset": 32.03997802734375,
+      "expectedText": "P08 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 1,
+      "index": 8,
+      "label": "P09",
+      "family": "Arial",
+      "face": "bold",
+      "size": 1,
+      "color": "2058A0",
+      "text": "P09 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 392.0899963378906,
+        "right": 524.85400390625,
+        "bottom": 432.04998779296875
+      },
+      "baseline": 424.1299743652344,
+      "offset": 32.03997802734375,
+      "expectedText": "P09 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 1,
+      "index": 9,
+      "label": "P10",
+      "family": "Arial",
+      "face": "bold",
+      "size": 3,
+      "color": "2058A0",
+      "text": "P10 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 432.04595947265625,
+        "right": 524.85400390625,
+        "bottom": 472.02996826171875
+      },
+      "baseline": 464.1099853515625,
+      "offset": 32.06402587890625,
+      "expectedText": "P10 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 1,
+      "index": 10,
+      "label": "P11",
+      "family": "Arial",
+      "face": "bold",
+      "size": 9,
+      "color": "2058A0",
+      "text": "P11 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 472.02996826171875,
+        "right": 524.85400390625,
+        "bottom": 512.1099853515625
+      },
+      "baseline": 504.0699768066406,
+      "offset": 32.040008544921875,
+      "expectedText": "P11 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 1,
+      "index": 11,
+      "label": "P12",
+      "family": "Arial",
+      "face": "bold",
+      "size": 10.5,
+      "color": "2058A0",
+      "text": "P12 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 512.1099853515625,
+        "right": 524.85400390625,
+        "bottom": 552.0699768066406
+      },
+      "baseline": 544.1499938964844,
+      "offset": 32.040008544921875,
+      "expectedText": "P12 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 1,
+      "index": 12,
+      "label": "P13",
+      "family": "Arial",
+      "face": "bold",
+      "size": 11.5,
+      "color": "2058A0",
+      "text": "P13 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 552.0699768066406,
+        "right": 524.85400390625,
+        "bottom": 592.0299835205078
+      },
+      "baseline": 584.1099853515625,
+      "offset": 32.040008544921875,
+      "expectedText": "P13 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 1,
+      "index": 13,
+      "label": "P14",
+      "family": "Arial",
+      "face": "bold",
+      "size": 14,
+      "color": "2058A0",
+      "text": "P14 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 592.0359802246094,
+        "right": 524.85400390625,
+        "bottom": 632.1399841308594
+      },
+      "baseline": 624.0999755859375,
+      "offset": 32.063995361328125,
+      "expectedText": "P14 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 1,
+      "index": 14,
+      "label": "P15",
+      "family": "Arial",
+      "face": "bold",
+      "size": 18,
+      "color": "2058A0",
+      "text": "P15 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 632.1399841308594,
+        "right": 524.85400390625,
+        "bottom": 672.0999755859375
+      },
+      "baseline": 664.1799774169922,
+      "offset": 32.03999328613281,
+      "expectedText": "P15 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 1,
+      "index": 15,
+      "label": "P16",
+      "family": "Arial",
+      "face": "bold",
+      "size": 36,
+      "color": "2058A0",
+      "text": "P16 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 672.0999755859375,
+        "right": 524.85400390625,
+        "bottom": 712.0599822998047
+      },
+      "baseline": 704.1399841308594,
+      "offset": 32.040008544921875,
+      "expectedText": "P16 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 1,
+      "index": 16,
+      "label": "P17",
+      "family": "Arial",
+      "face": "italic",
+      "size": 1,
+      "color": "A02030",
+      "text": "P17 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 712.0559844970703,
+        "right": 524.85400390625,
+        "bottom": 752.135986328125
+      },
+      "baseline": 744.0959854125977,
+      "offset": 32.040000915527344,
+      "expectedText": "P17 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 2,
+      "index": 17,
+      "label": "P18",
+      "family": "Arial",
+      "face": "italic",
+      "size": 3,
+      "color": "A02030",
+      "text": "P18 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 71.9959716796875,
+        "right": 524.85400390625,
+        "bottom": 111.97998046875
+      },
+      "baseline": 104.05999755859375,
+      "offset": 32.06402587890625,
+      "expectedText": "P18 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 2,
+      "index": 18,
+      "label": "P19",
+      "family": "Arial",
+      "face": "italic",
+      "size": 9,
+      "color": "A02030",
+      "text": "P19 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 111.97998046875,
+        "right": 524.85400390625,
+        "bottom": 152.05999755859375
+      },
+      "baseline": 144.01995849609375,
+      "offset": 32.03997802734375,
+      "expectedText": "P19 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 2,
+      "index": 19,
+      "label": "P20",
+      "family": "Arial",
+      "face": "italic",
+      "size": 10.5,
+      "color": "A02030",
+      "text": "P20 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 152.0599365234375,
+        "right": 524.85400390625,
+        "bottom": 192.01995849609375
+      },
+      "baseline": 184.0999755859375,
+      "offset": 32.0400390625,
+      "expectedText": "P20 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 2,
+      "index": 20,
+      "label": "P21",
+      "family": "Arial",
+      "face": "italic",
+      "size": 11.5,
+      "color": "A02030",
+      "text": "P21 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 192.01995849609375,
+        "right": 524.85400390625,
+        "bottom": 231.97998046875
+      },
+      "baseline": 224.05999755859375,
+      "offset": 32.0400390625,
+      "expectedText": "P21 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 2,
+      "index": 21,
+      "label": "P22",
+      "family": "Arial",
+      "face": "italic",
+      "size": 14,
+      "color": "A02030",
+      "text": "P22 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 231.9859619140625,
+        "right": 524.85400390625,
+        "bottom": 272.0899658203125
+      },
+      "baseline": 264.04998779296875,
+      "offset": 32.06402587890625,
+      "expectedText": "P22 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 2,
+      "index": 22,
+      "label": "P23",
+      "family": "Arial",
+      "face": "italic",
+      "size": 18,
+      "color": "A02030",
+      "text": "P23 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 272.0899658203125,
+        "right": 524.85400390625,
+        "bottom": 312.04998779296875
+      },
+      "baseline": 304.1300048828125,
+      "offset": 32.0400390625,
+      "expectedText": "P23 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 2,
+      "index": 23,
+      "label": "P24",
+      "family": "Arial",
+      "face": "italic",
+      "size": 36,
+      "color": "A02030",
+      "text": "P24 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 312.04998779296875,
+        "right": 524.85400390625,
+        "bottom": 352.0099792480469
+      },
+      "baseline": 344.0899963378906,
+      "offset": 32.040008544921875,
+      "expectedText": "P24 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 2,
+      "index": 24,
+      "label": "P25",
+      "family": "Arial",
+      "face": "boldItalic",
+      "size": 1,
+      "color": "000000",
+      "text": "P25 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 352.010009765625,
+        "right": 524.85400390625,
+        "bottom": 392.0899963378906
+      },
+      "baseline": 384.04998779296875,
+      "offset": 32.03997802734375,
+      "expectedText": "P25 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 2,
+      "index": 25,
+      "label": "P26",
+      "family": "Arial",
+      "face": "boldItalic",
+      "size": 3,
+      "color": "000000",
+      "text": "P26 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 392.0899963378906,
+        "right": 524.85400390625,
+        "bottom": 432.04998779296875
+      },
+      "baseline": 424.1299743652344,
+      "offset": 32.03997802734375,
+      "expectedText": "P26 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 2,
+      "index": 26,
+      "label": "P27",
+      "family": "Arial",
+      "face": "boldItalic",
+      "size": 9,
+      "color": "000000",
+      "text": "P27 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 432.04595947265625,
+        "right": 524.85400390625,
+        "bottom": 472.02996826171875
+      },
+      "baseline": 464.1099853515625,
+      "offset": 32.06402587890625,
+      "expectedText": "P27 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 2,
+      "index": 27,
+      "label": "P28",
+      "family": "Arial",
+      "face": "boldItalic",
+      "size": 10.5,
+      "color": "000000",
+      "text": "P28 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 472.02996826171875,
+        "right": 524.85400390625,
+        "bottom": 512.1099853515625
+      },
+      "baseline": 504.0699768066406,
+      "offset": 32.040008544921875,
+      "expectedText": "P28 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 2,
+      "index": 28,
+      "label": "P29",
+      "family": "Arial",
+      "face": "boldItalic",
+      "size": 11.5,
+      "color": "000000",
+      "text": "P29 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 512.1099853515625,
+        "right": 524.85400390625,
+        "bottom": 552.0699768066406
+      },
+      "baseline": 544.1499938964844,
+      "offset": 32.040008544921875,
+      "expectedText": "P29 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 2,
+      "index": 29,
+      "label": "P30",
+      "family": "Arial",
+      "face": "boldItalic",
+      "size": 14,
+      "color": "000000",
+      "text": "P30 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 552.0699768066406,
+        "right": 524.85400390625,
+        "bottom": 592.0299835205078
+      },
+      "baseline": 584.1099853515625,
+      "offset": 32.040008544921875,
+      "expectedText": "P30 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 2,
+      "index": 30,
+      "label": "P31",
+      "family": "Arial",
+      "face": "boldItalic",
+      "size": 18,
+      "color": "000000",
+      "text": "P31 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 592.0359802246094,
+        "right": 524.85400390625,
+        "bottom": 632.1399841308594
+      },
+      "baseline": 624.0999755859375,
+      "offset": 32.063995361328125,
+      "expectedText": "P31 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 2,
+      "index": 31,
+      "label": "P32",
+      "family": "Arial",
+      "face": "boldItalic",
+      "size": 36,
+      "color": "000000",
+      "text": "P32 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 632.1399841308594,
+        "right": 524.85400390625,
+        "bottom": 672.0999755859375
+      },
+      "baseline": 664.1799774169922,
+      "offset": 32.03999328613281,
+      "expectedText": "P32 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 2,
+      "index": 32,
+      "label": "P33",
+      "family": "Calibri",
+      "face": "regular",
+      "size": 1,
+      "color": "000000",
+      "text": "P33 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 672.0999755859375,
+        "right": 524.85400390625,
+        "bottom": 712.0599822998047
+      },
+      "baseline": 704.1399841308594,
+      "offset": 32.040008544921875,
+      "expectedText": "P33 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 2,
+      "index": 33,
+      "label": "P34",
+      "family": "Calibri",
+      "face": "regular",
+      "size": 3,
+      "color": "000000",
+      "text": "P34 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 712.0559844970703,
+        "right": 524.85400390625,
+        "bottom": 752.135986328125
+      },
+      "baseline": 744.0959854125977,
+      "offset": 32.040000915527344,
+      "expectedText": "P34 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 3,
+      "index": 34,
+      "label": "P35",
+      "family": "Calibri",
+      "face": "regular",
+      "size": 9,
+      "color": "000000",
+      "text": "P35 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 71.9959716796875,
+        "right": 524.85400390625,
+        "bottom": 111.97998046875
+      },
+      "baseline": 104.05999755859375,
+      "offset": 32.06402587890625,
+      "expectedText": "P35 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 3,
+      "index": 35,
+      "label": "P36",
+      "family": "Calibri",
+      "face": "regular",
+      "size": 10.5,
+      "color": "000000",
+      "text": "P36 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 111.97998046875,
+        "right": 524.85400390625,
+        "bottom": 152.05999755859375
+      },
+      "baseline": 144.01995849609375,
+      "offset": 32.03997802734375,
+      "expectedText": "P36 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 3,
+      "index": 36,
+      "label": "P37",
+      "family": "Calibri",
+      "face": "regular",
+      "size": 11.5,
+      "color": "000000",
+      "text": "P37 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 152.0599365234375,
+        "right": 524.85400390625,
+        "bottom": 192.01995849609375
+      },
+      "baseline": 184.0999755859375,
+      "offset": 32.0400390625,
+      "expectedText": "P37 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 3,
+      "index": 37,
+      "label": "P38",
+      "family": "Calibri",
+      "face": "regular",
+      "size": 14,
+      "color": "000000",
+      "text": "P38 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 192.01995849609375,
+        "right": 524.85400390625,
+        "bottom": 231.97998046875
+      },
+      "baseline": 224.05999755859375,
+      "offset": 32.0400390625,
+      "expectedText": "P38 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 3,
+      "index": 38,
+      "label": "P39",
+      "family": "Calibri",
+      "face": "regular",
+      "size": 18,
+      "color": "000000",
+      "text": "P39 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 231.9859619140625,
+        "right": 524.85400390625,
+        "bottom": 272.0899658203125
+      },
+      "baseline": 264.04998779296875,
+      "offset": 32.06402587890625,
+      "expectedText": "P39 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 3,
+      "index": 39,
+      "label": "P40",
+      "family": "Calibri",
+      "face": "regular",
+      "size": 36,
+      "color": "000000",
+      "text": "P40 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 272.0899658203125,
+        "right": 524.85400390625,
+        "bottom": 312.04998779296875
+      },
+      "baseline": 304.1300048828125,
+      "offset": 32.0400390625,
+      "expectedText": "P40 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 3,
+      "index": 40,
+      "label": "P41",
+      "family": "Calibri",
+      "face": "bold",
+      "size": 1,
+      "color": "2058A0",
+      "text": "P41 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 312.04998779296875,
+        "right": 524.85400390625,
+        "bottom": 352.0099792480469
+      },
+      "baseline": 344.0899963378906,
+      "offset": 32.040008544921875,
+      "expectedText": "P41 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 3,
+      "index": 41,
+      "label": "P42",
+      "family": "Calibri",
+      "face": "bold",
+      "size": 3,
+      "color": "2058A0",
+      "text": "P42 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 352.010009765625,
+        "right": 524.85400390625,
+        "bottom": 392.0899963378906
+      },
+      "baseline": 384.04998779296875,
+      "offset": 32.03997802734375,
+      "expectedText": "P42 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 3,
+      "index": 42,
+      "label": "P43",
+      "family": "Calibri",
+      "face": "bold",
+      "size": 9,
+      "color": "2058A0",
+      "text": "P43 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 392.0899963378906,
+        "right": 524.85400390625,
+        "bottom": 432.04998779296875
+      },
+      "baseline": 424.1299743652344,
+      "offset": 32.03997802734375,
+      "expectedText": "P43 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 3,
+      "index": 43,
+      "label": "P44",
+      "family": "Calibri",
+      "face": "bold",
+      "size": 10.5,
+      "color": "2058A0",
+      "text": "P44 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 432.04595947265625,
+        "right": 524.85400390625,
+        "bottom": 472.02996826171875
+      },
+      "baseline": 464.1099853515625,
+      "offset": 32.06402587890625,
+      "expectedText": "P44 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 3,
+      "index": 44,
+      "label": "P45",
+      "family": "Calibri",
+      "face": "bold",
+      "size": 11.5,
+      "color": "2058A0",
+      "text": "P45 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 472.02996826171875,
+        "right": 524.85400390625,
+        "bottom": 512.1099853515625
+      },
+      "baseline": 504.0699768066406,
+      "offset": 32.040008544921875,
+      "expectedText": "P45 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 3,
+      "index": 45,
+      "label": "P46",
+      "family": "Calibri",
+      "face": "bold",
+      "size": 14,
+      "color": "2058A0",
+      "text": "P46 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 512.1099853515625,
+        "right": 524.85400390625,
+        "bottom": 552.0699768066406
+      },
+      "baseline": 544.1499938964844,
+      "offset": 32.040008544921875,
+      "expectedText": "P46 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 3,
+      "index": 46,
+      "label": "P47",
+      "family": "Calibri",
+      "face": "bold",
+      "size": 18,
+      "color": "2058A0",
+      "text": "P47 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 552.0699768066406,
+        "right": 524.85400390625,
+        "bottom": 592.0299835205078
+      },
+      "baseline": 584.1099853515625,
+      "offset": 32.040008544921875,
+      "expectedText": "P47 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 3,
+      "index": 47,
+      "label": "P48",
+      "family": "Calibri",
+      "face": "bold",
+      "size": 36,
+      "color": "2058A0",
+      "text": "P48 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 592.0359802246094,
+        "right": 524.85400390625,
+        "bottom": 632.1399841308594
+      },
+      "baseline": 624.0999755859375,
+      "offset": 32.063995361328125,
+      "expectedText": "P48 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 3,
+      "index": 48,
+      "label": "P49",
+      "family": "Calibri",
+      "face": "italic",
+      "size": 1,
+      "color": "A02030",
+      "text": "P49 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 632.1399841308594,
+        "right": 524.85400390625,
+        "bottom": 672.0999755859375
+      },
+      "baseline": 664.1799774169922,
+      "offset": 32.03999328613281,
+      "expectedText": "P49 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 3,
+      "index": 49,
+      "label": "P50",
+      "family": "Calibri",
+      "face": "italic",
+      "size": 3,
+      "color": "A02030",
+      "text": "P50 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 672.0999755859375,
+        "right": 524.85400390625,
+        "bottom": 712.0599822998047
+      },
+      "baseline": 704.1399841308594,
+      "offset": 32.040008544921875,
+      "expectedText": "P50 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 3,
+      "index": 50,
+      "label": "P51",
+      "family": "Calibri",
+      "face": "italic",
+      "size": 9,
+      "color": "A02030",
+      "text": "P51 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 712.0559844970703,
+        "right": 524.85400390625,
+        "bottom": 752.135986328125
+      },
+      "baseline": 744.0959854125977,
+      "offset": 32.040000915527344,
+      "expectedText": "P51 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 4,
+      "index": 51,
+      "label": "P52",
+      "family": "Calibri",
+      "face": "italic",
+      "size": 10.5,
+      "color": "A02030",
+      "text": "P52 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 71.9959716796875,
+        "right": 524.85400390625,
+        "bottom": 111.97998046875
+      },
+      "baseline": 104.05999755859375,
+      "offset": 32.06402587890625,
+      "expectedText": "P52 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 4,
+      "index": 52,
+      "label": "P53",
+      "family": "Calibri",
+      "face": "italic",
+      "size": 11.5,
+      "color": "A02030",
+      "text": "P53 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 111.97998046875,
+        "right": 524.85400390625,
+        "bottom": 152.05999755859375
+      },
+      "baseline": 144.01995849609375,
+      "offset": 32.03997802734375,
+      "expectedText": "P53 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 4,
+      "index": 53,
+      "label": "P54",
+      "family": "Calibri",
+      "face": "italic",
+      "size": 14,
+      "color": "A02030",
+      "text": "P54 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 152.0599365234375,
+        "right": 524.85400390625,
+        "bottom": 192.01995849609375
+      },
+      "baseline": 184.0999755859375,
+      "offset": 32.0400390625,
+      "expectedText": "P54 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 4,
+      "index": 54,
+      "label": "P55",
+      "family": "Calibri",
+      "face": "italic",
+      "size": 18,
+      "color": "A02030",
+      "text": "P55 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 192.01995849609375,
+        "right": 524.85400390625,
+        "bottom": 231.97998046875
+      },
+      "baseline": 224.05999755859375,
+      "offset": 32.0400390625,
+      "expectedText": "P55 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 4,
+      "index": 55,
+      "label": "P56",
+      "family": "Calibri",
+      "face": "italic",
+      "size": 36,
+      "color": "A02030",
+      "text": "P56 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 231.9859619140625,
+        "right": 524.85400390625,
+        "bottom": 272.0899658203125
+      },
+      "baseline": 264.04998779296875,
+      "offset": 32.06402587890625,
+      "expectedText": "P56 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 4,
+      "index": 56,
+      "label": "P57",
+      "family": "Calibri",
+      "face": "boldItalic",
+      "size": 1,
+      "color": "000000",
+      "text": "P57 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 272.0899658203125,
+        "right": 524.85400390625,
+        "bottom": 312.04998779296875
+      },
+      "baseline": 304.1300048828125,
+      "offset": 32.0400390625,
+      "expectedText": "P57 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 4,
+      "index": 57,
+      "label": "P58",
+      "family": "Calibri",
+      "face": "boldItalic",
+      "size": 3,
+      "color": "000000",
+      "text": "P58 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 312.04998779296875,
+        "right": 524.85400390625,
+        "bottom": 352.0099792480469
+      },
+      "baseline": 344.0899963378906,
+      "offset": 32.040008544921875,
+      "expectedText": "P58 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 4,
+      "index": 58,
+      "label": "P59",
+      "family": "Calibri",
+      "face": "boldItalic",
+      "size": 9,
+      "color": "000000",
+      "text": "P59 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 352.010009765625,
+        "right": 524.85400390625,
+        "bottom": 392.0899963378906
+      },
+      "baseline": 384.04998779296875,
+      "offset": 32.03997802734375,
+      "expectedText": "P59 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 4,
+      "index": 59,
+      "label": "P60",
+      "family": "Calibri",
+      "face": "boldItalic",
+      "size": 10.5,
+      "color": "000000",
+      "text": "P60 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 392.0899963378906,
+        "right": 524.85400390625,
+        "bottom": 432.04998779296875
+      },
+      "baseline": 424.1299743652344,
+      "offset": 32.03997802734375,
+      "expectedText": "P60 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 4,
+      "index": 60,
+      "label": "P61",
+      "family": "Calibri",
+      "face": "boldItalic",
+      "size": 11.5,
+      "color": "000000",
+      "text": "P61 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 432.04595947265625,
+        "right": 524.85400390625,
+        "bottom": 472.02996826171875
+      },
+      "baseline": 464.1099853515625,
+      "offset": 32.06402587890625,
+      "expectedText": "P61 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 4,
+      "index": 61,
+      "label": "P62",
+      "family": "Calibri",
+      "face": "boldItalic",
+      "size": 14,
+      "color": "000000",
+      "text": "P62 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 472.02996826171875,
+        "right": 524.85400390625,
+        "bottom": 512.1099853515625
+      },
+      "baseline": 504.0699768066406,
+      "offset": 32.040008544921875,
+      "expectedText": "P62 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 4,
+      "index": 62,
+      "label": "P63",
+      "family": "Calibri",
+      "face": "boldItalic",
+      "size": 18,
+      "color": "000000",
+      "text": "P63 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 512.1099853515625,
+        "right": 524.85400390625,
+        "bottom": 552.0699768066406
+      },
+      "baseline": 544.1499938964844,
+      "offset": 32.040008544921875,
+      "expectedText": "P63 Aq z."
+    },
+    {
+      "name": "heldout",
+      "page": 4,
+      "index": 63,
+      "label": "P64",
+      "family": "Calibri",
+      "face": "boldItalic",
+      "size": 36,
+      "color": "000000",
+      "text": "P64 Aq z.",
+      "background": {
+        "left": 70.58399963378906,
+        "top": 552.0699768066406,
+        "right": 524.85400390625,
+        "bottom": 592.0299835205078
+      },
+      "baseline": 584.1099853515625,
+      "offset": 32.040008544921875,
+      "expectedText": "P64 Aq z."
+    }
+  ],
+  "pages": [
+    {
+      "name": "primary",
+      "page": 1,
+      "glyphsIdentical": true,
+      "paragraphs": 10,
+      "sourceHash": "bc22b607dec7cafbb0280db1c84e4b529d11aae6524383d89b3af4ddd9b17cb4",
+      "shadedHash": "8a961aca780cd23207ba2c9edd7380e8df59fe8bda0fb786e6d1233553f7961c"
+    },
+    {
+      "name": "heldout",
+      "page": 1,
+      "glyphsIdentical": true,
+      "paragraphs": 17,
+      "sourceHash": "d2b4932ed7341772b51b565fcdaef9fbcbdb34eb2b4ff64c18aeabf8bb96f294",
+      "shadedHash": "1cbc820d52815b0b49f7d33654a0632a6059683ed90f300f7f71d4862b46664c"
+    },
+    {
+      "name": "heldout",
+      "page": 2,
+      "glyphsIdentical": true,
+      "paragraphs": 17,
+      "sourceHash": "d2b4932ed7341772b51b565fcdaef9fbcbdb34eb2b4ff64c18aeabf8bb96f294",
+      "shadedHash": "1cbc820d52815b0b49f7d33654a0632a6059683ed90f300f7f71d4862b46664c"
+    },
+    {
+      "name": "heldout",
+      "page": 3,
+      "glyphsIdentical": true,
+      "paragraphs": 17,
+      "sourceHash": "d2b4932ed7341772b51b565fcdaef9fbcbdb34eb2b4ff64c18aeabf8bb96f294",
+      "shadedHash": "1cbc820d52815b0b49f7d33654a0632a6059683ed90f300f7f71d4862b46664c"
+    },
+    {
+      "name": "heldout",
+      "page": 4,
+      "glyphsIdentical": true,
+      "paragraphs": 13,
+      "sourceHash": "d2b4932ed7341772b51b565fcdaef9fbcbdb34eb2b4ff64c18aeabf8bb96f294",
+      "shadedHash": "1cbc820d52815b0b49f7d33654a0632a6059683ed90f300f7f71d4862b46664c"
+    }
+  ],
+  "minimum": 32.03997802734375,
+  "maximum": 32.06402587890625,
+  "nativeReceiptHash": "919ace4624698568aaed7b45d8b803984a9134ed12875ef103421a2ea6c2de21",
+  "producerHash": "f39243e24007f5295b5b3ada9de2d62996936c8b1cba78005d6335c75b17f5db",
+  "scope": "Full native glyph matrices unchanged by independent paragraph backgrounds; measured paragraph-top-to-baseline origins, no browser-fit offsets."
+}

@@ -1,0 +1,1389 @@
+{
+  "executableHash": "52bd559853f4b3b4f06d78fd76df5c5e67bdbe70190b8c765a8baabcd0a91e1e",
+  "scriptHash": "cb2684e1c4a02dbbfd5320dbb077543c1969cf9217f1fe3107fe6cb424ca61b5",
+  "rows": [
+    {
+      "stages": [
+        {
+          "docxHash": "76ed75a3041b70974ce817e290a7d3eeb6b23d2adc204a7979d326d9941a4f3d",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "B",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "5e2d0c9752cd57fccea12e27d1fa7e707bd7cfbf5d10ae3fc0798ba1515efd73",
+          "stage": "source"
+        },
+        {
+          "docxHash": "d1239bfdc78dba74b962b8f09dc1b9ee42d4cd4a44e9333279d7132849cfa72a",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "B",
+              "superscript": -1
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "14c286eb7647491b052f0730633cb0dc4182e67f95c8091f6c9fac5b340acac6",
+          "stage": "expected"
+        }
+      ],
+      "name": "Body-10-Superscript",
+      "script": "Superscript",
+      "baseHash": "02e93f77ba9262a91cc3da40e147f5d2d16f6348c16e1455ec9c32781eb2a8d2",
+      "kind": "Body",
+      "size": 10,
+      "sourceFile": "word-script-font-body-10-superscript.docx",
+      "geometry": {
+        "name": "Body-10-Superscript",
+        "kind": "Body",
+        "nominal": 10,
+        "script": "Superscript",
+        "a": {
+          "text": "A",
+          "x": 72.98400115966797,
+          "y": 320.0899658203125,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "b": {
+          "text": "B",
+          "x": 108.9800033569336,
+          "y": 317.0899658203125,
+          "size": 6.480000019073486,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "baselineShift": -3.0
+      }
+    },
+    {
+      "stages": [
+        {
+          "docxHash": "e0649ccc96e3d3b141f33309d38d8a84dfc5b14eb79a6ca1a504ed3bc29aefca",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "B",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "3ffb29ffdc191c7383063a3245a295aa5d756a5c1fb37c96ecb1189c8360fcfe",
+          "stage": "source"
+        },
+        {
+          "docxHash": "db6d6d6a8265cf548e7ea930d6735eb3170dd7898c22f8b18b2d7e0774776ea2",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": -1,
+              "size": 10,
+              "family": "Arial",
+              "text": "B",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "38a0a1aaf3760cc072e5c58aa4a0a3b643c46214febeea63a928dd56c1436a52",
+          "stage": "expected"
+        }
+      ],
+      "name": "Body-10-Subscript",
+      "script": "Subscript",
+      "baseHash": "02e93f77ba9262a91cc3da40e147f5d2d16f6348c16e1455ec9c32781eb2a8d2",
+      "kind": "Body",
+      "size": 10,
+      "sourceFile": "word-script-font-body-10-subscript.docx",
+      "geometry": {
+        "name": "Body-10-Subscript",
+        "kind": "Body",
+        "nominal": 10,
+        "script": "Subscript",
+        "a": {
+          "text": "A",
+          "x": 72.98400115966797,
+          "y": 320.0899658203125,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "b": {
+          "text": "B",
+          "x": 108.9800033569336,
+          "y": 320.57000732421875,
+          "size": 6.480000019073486,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "baselineShift": 0.48004150390625
+      }
+    },
+    {
+      "stages": [
+        {
+          "docxHash": "93174b7873144f195c8293ec6274829a565a9c628b5ad42554cdca17dc4b4e5f",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "B",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "2306273c71ca45e168208a46cbf90330c9da621e541e0865e5830b51e28f07cb",
+          "stage": "source"
+        },
+        {
+          "docxHash": "fbe50b7803d9c40527d6afcf34180d56590a44dd91e1173820596eb90909cf79",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "B",
+              "superscript": -1
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "ab7fa6e7d8078ec60197d5fcec9f7fdaaf5bebb96c285530d01089165d7a7f10",
+          "stage": "expected"
+        }
+      ],
+      "name": "Body-20-Superscript",
+      "script": "Superscript",
+      "baseHash": "02e93f77ba9262a91cc3da40e147f5d2d16f6348c16e1455ec9c32781eb2a8d2",
+      "kind": "Body",
+      "size": 20,
+      "sourceFile": "word-script-font-body-20-superscript.docx",
+      "geometry": {
+        "name": "Body-20-Superscript",
+        "kind": "Body",
+        "nominal": 20,
+        "script": "Superscript",
+        "a": {
+          "text": "A",
+          "x": 72.98400115966797,
+          "y": 320.0899658203125,
+          "size": 20.040000915527344,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "b": {
+          "text": "B",
+          "x": 108.9800033569336,
+          "y": 313.1300048828125,
+          "size": 12.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "baselineShift": -6.9599609375
+      }
+    },
+    {
+      "stages": [
+        {
+          "docxHash": "1bc48cc3d071a62fefc62e9a2cded52ca5b34e3d9b1de784853c5e94c7cd8da9",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "B",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "238ad86c1cf29f6b907da239d89716f5af53b90d94c0d4ddf0f76b184cb52c1f",
+          "stage": "source"
+        },
+        {
+          "docxHash": "3c61f5f11d7970b07147928d87e993d3574db4b2337d4aac8eb9cd1dcc249d2d",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": -1,
+              "size": 20,
+              "family": "Arial",
+              "text": "B",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "3462ef845fc674d79bca79c1b41241eb18b927f38d2b0f8f0c9a73ec192e56b6",
+          "stage": "expected"
+        }
+      ],
+      "name": "Body-20-Subscript",
+      "script": "Subscript",
+      "baseHash": "02e93f77ba9262a91cc3da40e147f5d2d16f6348c16e1455ec9c32781eb2a8d2",
+      "kind": "Body",
+      "size": 20,
+      "sourceFile": "word-script-font-body-20-subscript.docx",
+      "geometry": {
+        "name": "Body-20-Subscript",
+        "kind": "Body",
+        "nominal": 20,
+        "script": "Subscript",
+        "a": {
+          "text": "A",
+          "x": 72.98400115966797,
+          "y": 320.0899658203125,
+          "size": 20.040000915527344,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "b": {
+          "text": "B",
+          "x": 108.9800033569336,
+          "y": 321.64996337890625,
+          "size": 12.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "baselineShift": 1.55999755859375
+      }
+    },
+    {
+      "stages": [
+        {
+          "docxHash": "5c6bb9c1b5f6d6fcd1c288d0505e249a7ef384a4f57b0289fcebd9a7d5fa5b97",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "B",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "8afa63974159fcaac83887ba08c1be70aedfaef51aad9fe354c7d69c41594c23",
+          "stage": "source"
+        },
+        {
+          "docxHash": "3ceb6ab257d987fc9ece6b3e0fefd45b895fbe4e8673e9dfa05baaf34e9c579e",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "B",
+              "superscript": -1
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "83f23493cbdf6363600f14dbac6e0efbefa11694bd547d1ffcc3cfd492752bf6",
+          "stage": "expected"
+        }
+      ],
+      "name": "Headers-10-Superscript",
+      "script": "Superscript",
+      "baseHash": "9d93347addcd6557a16a6ab702309455d17e707ca75c8bc79af0ef883f876f86",
+      "kind": "Headers",
+      "size": 10,
+      "sourceFile": "word-script-font-headers-10-superscript.docx",
+      "geometry": {
+        "name": "Headers-10-Superscript",
+        "kind": "Headers",
+        "nominal": 10,
+        "script": "Superscript",
+        "a": {
+          "text": "A",
+          "x": 72.98400115966797,
+          "y": 68.03997802734375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "b": {
+          "text": "B",
+          "x": 193.00999450683594,
+          "y": 65.03997802734375,
+          "size": 6.480000019073486,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "baselineShift": -3.0
+      }
+    },
+    {
+      "stages": [
+        {
+          "docxHash": "fb6e1fe45590c7de44c65685daf53dfb314ce89e9a40f9a05ea7ce0573e30b4e",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "B",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "e08ca3833999d49a66fb650a78e2bfa7910168bdb25defab59bee532b2939cf4",
+          "stage": "source"
+        },
+        {
+          "docxHash": "c8025476d048696e7379cde8617c5550f25f8894d16b85f0952802a77d0e4886",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": -1,
+              "size": 10,
+              "family": "Arial",
+              "text": "B",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "8b5271f1bc7da6992c819cf096277b987edd5e8aaa68b55c6b18c71acc2720f1",
+          "stage": "expected"
+        }
+      ],
+      "name": "Headers-10-Subscript",
+      "script": "Subscript",
+      "baseHash": "9d93347addcd6557a16a6ab702309455d17e707ca75c8bc79af0ef883f876f86",
+      "kind": "Headers",
+      "size": 10,
+      "sourceFile": "word-script-font-headers-10-subscript.docx",
+      "geometry": {
+        "name": "Headers-10-Subscript",
+        "kind": "Headers",
+        "nominal": 10,
+        "script": "Subscript",
+        "a": {
+          "text": "A",
+          "x": 72.98400115966797,
+          "y": 68.03997802734375,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "b": {
+          "text": "B",
+          "x": 193.00999450683594,
+          "y": 68.51995849609375,
+          "size": 6.480000019073486,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "baselineShift": 0.47998046875
+      }
+    },
+    {
+      "stages": [
+        {
+          "docxHash": "4acce3b010dcd1ae8ace0b6d33c958b6ebcc4cee50d25681bb3c3144b4e01c8f",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "B",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "9f2151f0e405a7f0da078327639e437fa84a7a9c458f7f3391a4d71ece853575",
+          "stage": "source"
+        },
+        {
+          "docxHash": "fa747b89d9c5ea0f6a61363e14a0f578733ed8a1651c9375e38d942f31037257",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "B",
+              "superscript": -1
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "2307397d2709f3edc175722b89c93d8faf7811c5c9db2e7de4019f0cd30e9609",
+          "stage": "expected"
+        }
+      ],
+      "name": "Headers-20-Superscript",
+      "script": "Superscript",
+      "baseHash": "9d93347addcd6557a16a6ab702309455d17e707ca75c8bc79af0ef883f876f86",
+      "kind": "Headers",
+      "size": 20,
+      "sourceFile": "word-script-font-headers-20-superscript.docx",
+      "geometry": {
+        "name": "Headers-20-Superscript",
+        "kind": "Headers",
+        "nominal": 20,
+        "script": "Superscript",
+        "a": {
+          "text": "A",
+          "x": 72.98400115966797,
+          "y": 68.03997802734375,
+          "size": 20.040000915527344,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "b": {
+          "text": "B",
+          "x": 193.00999450683594,
+          "y": 61.0799560546875,
+          "size": 12.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "baselineShift": -6.96002197265625
+      }
+    },
+    {
+      "stages": [
+        {
+          "docxHash": "5d9938bfbd6e6a679d14852068fe0f724431820b0db777a636d3750c8075913b",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "B",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "ac30606d2c1606716c540593adb542fcd490270d46897fd5775db56d83d3d0a5",
+          "stage": "source"
+        },
+        {
+          "docxHash": "dc0bca3cc45e1a73430ef7fd4b3f3e381f88a2aeb89865a8443cc626b6333cb6",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": -1,
+              "size": 20,
+              "family": "Arial",
+              "text": "B",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "74bd1254a4de639bad888e3886e60b34f689f96192333bb49cb5f9156591014c",
+          "stage": "expected"
+        }
+      ],
+      "name": "Headers-20-Subscript",
+      "script": "Subscript",
+      "baseHash": "9d93347addcd6557a16a6ab702309455d17e707ca75c8bc79af0ef883f876f86",
+      "kind": "Headers",
+      "size": 20,
+      "sourceFile": "word-script-font-headers-20-subscript.docx",
+      "geometry": {
+        "name": "Headers-20-Subscript",
+        "kind": "Headers",
+        "nominal": 20,
+        "script": "Subscript",
+        "a": {
+          "text": "A",
+          "x": 72.98400115966797,
+          "y": 68.03997802734375,
+          "size": 20.040000915527344,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "b": {
+          "text": "B",
+          "x": 193.00999450683594,
+          "y": 69.5999755859375,
+          "size": 12.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "baselineShift": 1.55999755859375
+      }
+    },
+    {
+      "stages": [
+        {
+          "docxHash": "c53cf79c36f479dc561c13ef8766d5e5f0bd3dff64b8310463b0c5de5d712721",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "B",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "f369793442c3509fd6e54fe5f5591e31b096fc256a38335008ead3a3d88e9b9b",
+          "stage": "source"
+        },
+        {
+          "docxHash": "d860707fc3516e7d9f08681380542e8c2829655d46e7d320444499413f883d30",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "B",
+              "superscript": -1
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "0cf6f47e8ec42a441152a4baba2bc6a8b53a8420af42b57f6dd86299ed19c1c0",
+          "stage": "expected"
+        }
+      ],
+      "name": "Footers-10-Superscript",
+      "script": "Superscript",
+      "baseHash": "2fa9c97bb72d93da7545efbded6087fa3e381f03ef2fc827ab6f18ea32213180",
+      "kind": "Footers",
+      "size": 10,
+      "sourceFile": "word-script-font-footers-10-superscript.docx",
+      "geometry": {
+        "name": "Footers-10-Superscript",
+        "kind": "Footers",
+        "nominal": 10,
+        "script": "Superscript",
+        "a": {
+          "text": "A",
+          "x": 72.98400115966797,
+          "y": 638.0199890136719,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "b": {
+          "text": "B",
+          "x": 193.00999450683594,
+          "y": 635.0199890136719,
+          "size": 6.480000019073486,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "baselineShift": -3.0
+      }
+    },
+    {
+      "stages": [
+        {
+          "docxHash": "b0f8fd887f5070fab63dd30cdb19e9015f1080de3e51439316f7d50f071736bd",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "B",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "ae59d8acb7b7606220b92932908e17e1947c6420334c4a5fd5cd5742b6d6d3ec",
+          "stage": "source"
+        },
+        {
+          "docxHash": "61300b74d588d313301fd87a5f9ba456ff45e779d8568a8b5b0458deb8eab6e7",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": -1,
+              "size": 10,
+              "family": "Arial",
+              "text": "B",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 10,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "0ac5e5430e21a411d13fd77470f5c549fc7ee139cdc0bb84f867338c549e388c",
+          "stage": "expected"
+        }
+      ],
+      "name": "Footers-10-Subscript",
+      "script": "Subscript",
+      "baseHash": "2fa9c97bb72d93da7545efbded6087fa3e381f03ef2fc827ab6f18ea32213180",
+      "kind": "Footers",
+      "size": 10,
+      "sourceFile": "word-script-font-footers-10-subscript.docx",
+      "geometry": {
+        "name": "Footers-10-Subscript",
+        "kind": "Footers",
+        "nominal": 10,
+        "script": "Subscript",
+        "a": {
+          "text": "A",
+          "x": 72.98400115966797,
+          "y": 638.0199890136719,
+          "size": 9.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "b": {
+          "text": "B",
+          "x": 193.00999450683594,
+          "y": 638.4999847412109,
+          "size": 6.480000019073486,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "baselineShift": 0.4799957275390625
+      }
+    },
+    {
+      "stages": [
+        {
+          "docxHash": "b717580f46b232f4f00b53546c8e2368376693c7401b6efa0649181f8ec3d087",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "B",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "871630cfbba1705e3cc3358d8ee5be52df9e54870ce6a2537b61cb16246c95ad",
+          "stage": "source"
+        },
+        {
+          "docxHash": "cfa3e67e20101796c1884aa81ef9e08315ac3df4bd4c751bbb50b0e99a5bc716",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "B",
+              "superscript": -1
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "48a55b684470075c7c7a24f3bc0146a13849f3437e4017d36a58996dcebecbaa",
+          "stage": "expected"
+        }
+      ],
+      "name": "Footers-20-Superscript",
+      "script": "Superscript",
+      "baseHash": "2fa9c97bb72d93da7545efbded6087fa3e381f03ef2fc827ab6f18ea32213180",
+      "kind": "Footers",
+      "size": 20,
+      "sourceFile": "word-script-font-footers-20-superscript.docx",
+      "geometry": {
+        "name": "Footers-20-Superscript",
+        "kind": "Footers",
+        "nominal": 20,
+        "script": "Superscript",
+        "a": {
+          "text": "A",
+          "x": 72.98400115966797,
+          "y": 638.0199890136719,
+          "size": 20.040000915527344,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "b": {
+          "text": "B",
+          "x": 193.00999450683594,
+          "y": 631.0599822998047,
+          "size": 12.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "baselineShift": -6.9600067138671875
+      }
+    },
+    {
+      "stages": [
+        {
+          "docxHash": "3c4aa2cf54279fe5c9a787021381175b2ac92749da6f6d5c0c630d49ceb8cfbc",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "B",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "a2c761dbb59e30749a04f958ef1543f3a5c3c9fa5ff7d3ad4334e967abb19a06",
+          "stage": "source"
+        },
+        {
+          "docxHash": "c0480832a5279b9f6cd32ae65b9a9803ce0c8ccf5b36ba3aa8bf29e44052c292",
+          "characters": [
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "A",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\t",
+              "superscript": 0
+            },
+            {
+              "subscript": -1,
+              "size": 20,
+              "family": "Arial",
+              "text": "B",
+              "superscript": 0
+            },
+            {
+              "subscript": 0,
+              "size": 20,
+              "family": "Arial",
+              "text": "\r",
+              "superscript": 0
+            }
+          ],
+          "pages": 2,
+          "pdfHash": "06ef4d9c7857ab64480c57ae35e8ca9bf18b5592b97ab67d524c21a7572be87a",
+          "stage": "expected"
+        }
+      ],
+      "name": "Footers-20-Subscript",
+      "script": "Subscript",
+      "baseHash": "2fa9c97bb72d93da7545efbded6087fa3e381f03ef2fc827ab6f18ea32213180",
+      "kind": "Footers",
+      "size": 20,
+      "sourceFile": "word-script-font-footers-20-subscript.docx",
+      "geometry": {
+        "name": "Footers-20-Subscript",
+        "kind": "Footers",
+        "nominal": 20,
+        "script": "Subscript",
+        "a": {
+          "text": "A",
+          "x": 72.98400115966797,
+          "y": 638.0199890136719,
+          "size": 20.040000915527344,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "b": {
+          "text": "B",
+          "x": 193.00999450683594,
+          "y": 639.5799865722656,
+          "size": 12.960000038146973,
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "font": "ArialMT"
+        },
+        "baselineShift": 1.55999755859375
+      }
+    }
+  ],
+  "nativeReceiptHash": "d95ed9e85a9215c2d12b5009462332d103b2f910a272a65a89c31de34a0ed9c8",
+  "geometryHash": "05bc9462bb25def7f038bdd59047bed72d5bfcbd0b88cd6e5a03eb839e4cfb04",
+  "scope": "Twelve synthetic body/header/footer Arial10/20 exact40pt cases. Native Selection.Font superscript/subscript on B only; nominal size/paragraph mark remain unchanged. Object-model/PDF evidence, not native Ribbon UI."
+}

@@ -1,0 +1,432 @@
+{
+  "schemaVersion": 1,
+  "families": [
+    {
+      "id": "S-BASE",
+      "title": "Reference environment and inventory",
+      "status": "pending",
+      "dependencies": [],
+      "document": "docs/parity/SHARED.md"
+    },
+    {
+      "id": "S-MODEL",
+      "title": "Document models, transactions and migrations",
+      "status": "pending",
+      "dependencies": ["S-BASE"],
+      "document": "docs/parity/SHARED.md"
+    },
+    {
+      "id": "S-STORAGE",
+      "title": "Persistence, recovery and large assets",
+      "status": "pending",
+      "dependencies": ["S-MODEL"],
+      "document": "docs/parity/SHARED.md"
+    },
+    {
+      "id": "S-TEXT",
+      "title": "Fonts, shaping, international text and typography",
+      "status": "pending",
+      "dependencies": ["S-MODEL"],
+      "document": "docs/parity/SHARED.md"
+    },
+    {
+      "id": "S-DRAW",
+      "title": "Shared drawing and chart primitives",
+      "status": "pending",
+      "dependencies": ["S-TEXT"],
+      "document": "docs/parity/SHARED.md"
+    },
+    {
+      "id": "S-PACKAGE",
+      "title": "OOXML, binary and alternate format coverage",
+      "status": "pending",
+      "dependencies": ["S-MODEL"],
+      "document": "docs/parity/SHARED.md"
+    },
+    {
+      "id": "S-CLIPBOARD",
+      "title": "Clipboard, selection and command dispatch",
+      "status": "pending",
+      "dependencies": ["S-MODEL"],
+      "document": "docs/parity/SHARED.md"
+    },
+    {
+      "id": "S-ACCESS",
+      "title": "Accessibility, proofing and responsive UI",
+      "status": "pending",
+      "dependencies": ["S-TEXT", "S-CLIPBOARD"],
+      "document": "docs/parity/SHARED.md"
+    },
+    {
+      "id": "S-PRINT",
+      "title": "Print and deterministic export",
+      "status": "pending",
+      "dependencies": ["S-TEXT", "S-DRAW"],
+      "document": "docs/parity/SHARED.md"
+    },
+    {
+      "id": "S-AUTOMATION",
+      "title": "Macros, extensions and browser equivalents",
+      "status": "pending",
+      "dependencies": ["S-MODEL", "S-STORAGE"],
+      "document": "docs/parity/SHARED.md"
+    },
+    {
+      "id": "S-NETWORK",
+      "title": "Connections, collaboration and sharing equivalents",
+      "status": "pending",
+      "dependencies": ["S-STORAGE", "S-AUTOMATION"],
+      "document": "docs/parity/SHARED.md"
+    },
+    {
+      "id": "S-PERF",
+      "title": "Performance, isolation and release verification",
+      "status": "pending",
+      "dependencies": ["S-STORAGE", "S-PRINT", "S-ACCESS"],
+      "document": "docs/parity/SHARED.md"
+    },
+    {
+      "id": "W-STYLE",
+      "title": "Styles, font/paragraph dialogs and themes",
+      "status": "pending",
+      "dependencies": ["S-TEXT"],
+      "document": "docs/parity/WORD.md"
+    },
+    {
+      "id": "W-FLOW",
+      "title": "Pagination, sections and columns",
+      "status": "pending",
+      "dependencies": ["W-STYLE"],
+      "document": "docs/parity/WORD.md"
+    },
+    {
+      "id": "W-LISTS",
+      "title": "Lists and outline numbering",
+      "status": "pending",
+      "dependencies": ["W-STYLE"],
+      "document": "docs/parity/WORD.md"
+    },
+    {
+      "id": "W-TABLE",
+      "title": "Complete table editing and layout",
+      "status": "pending",
+      "dependencies": ["W-FLOW"],
+      "document": "docs/parity/WORD.md"
+    },
+    {
+      "id": "W-OBJECT",
+      "title": "Images, shapes, charts and embedded objects",
+      "status": "pending",
+      "dependencies": ["W-FLOW", "S-DRAW"],
+      "document": "docs/parity/WORD.md"
+    },
+    {
+      "id": "W-PAGES",
+      "title": "Headers, footers and page design",
+      "status": "pending",
+      "dependencies": ["W-FLOW"],
+      "document": "docs/parity/WORD.md"
+    },
+    {
+      "id": "W-FIELDS",
+      "title": "Fields, references and scholarly tools",
+      "status": "pending",
+      "dependencies": ["W-FLOW", "W-LISTS"],
+      "document": "docs/parity/WORD.md"
+    },
+    {
+      "id": "W-REVIEW",
+      "title": "Comments, tracked changes and comparison",
+      "status": "pending",
+      "dependencies": ["W-STYLE", "S-MODEL"],
+      "document": "docs/parity/WORD.md"
+    },
+    {
+      "id": "W-MERGE",
+      "title": "Mail merge, envelopes and labels",
+      "status": "pending",
+      "dependencies": ["W-FIELDS", "S-STORAGE"],
+      "document": "docs/parity/WORD.md"
+    },
+    {
+      "id": "W-FORMS",
+      "title": "Content controls, forms and protection",
+      "status": "pending",
+      "dependencies": ["W-REVIEW"],
+      "document": "docs/parity/WORD.md"
+    },
+    {
+      "id": "W-VIEWS",
+      "title": "Navigation, search and document views",
+      "status": "pending",
+      "dependencies": ["W-FLOW", "W-FIELDS", "S-ACCESS"],
+      "document": "docs/parity/WORD.md"
+    },
+    {
+      "id": "W-AUTOMATION",
+      "title": "Word automation and output workflows",
+      "status": "pending",
+      "dependencies": ["W-MERGE", "W-FORMS", "S-AUTOMATION", "S-PRINT"],
+      "document": "docs/parity/WORD.md"
+    },
+    {
+      "id": "X-CALC",
+      "title": "Formula grammar, functions and dependency graph",
+      "status": "pending",
+      "dependencies": ["S-MODEL"],
+      "document": "docs/parity/EXCEL.md"
+    },
+    {
+      "id": "X-ARRAY",
+      "title": "Legacy arrays, dynamic arrays and modern formulas",
+      "status": "pending",
+      "dependencies": ["X-CALC"],
+      "document": "docs/parity/EXCEL.md"
+    },
+    {
+      "id": "X-GRID",
+      "title": "Worksheet structure and editing",
+      "status": "pending",
+      "dependencies": ["X-CALC", "S-CLIPBOARD"],
+      "document": "docs/parity/EXCEL.md"
+    },
+    {
+      "id": "X-FORMAT",
+      "title": "Cell formatting, themes and rich text",
+      "status": "pending",
+      "dependencies": ["X-GRID", "S-TEXT"],
+      "document": "docs/parity/EXCEL.md"
+    },
+    {
+      "id": "X-TABLE",
+      "title": "Structured tables and calculated columns",
+      "status": "pending",
+      "dependencies": ["X-GRID", "X-FORMAT"],
+      "document": "docs/parity/EXCEL.md"
+    },
+    {
+      "id": "X-FILTER",
+      "title": "Sorting, filtering and outlines",
+      "status": "pending",
+      "dependencies": ["X-TABLE"],
+      "document": "docs/parity/EXCEL.md"
+    },
+    {
+      "id": "X-VALIDATE",
+      "title": "Validation, protection and names",
+      "status": "pending",
+      "dependencies": ["X-CALC", "X-GRID"],
+      "document": "docs/parity/EXCEL.md"
+    },
+    {
+      "id": "X-CONDITIONAL",
+      "title": "Conditional formatting rules and visuals",
+      "status": "pending",
+      "dependencies": ["X-CALC", "X-FORMAT"],
+      "document": "docs/parity/EXCEL.md"
+    },
+    {
+      "id": "X-CHART",
+      "title": "Charts, sparklines and drawing editing",
+      "status": "pending",
+      "dependencies": ["X-CALC", "S-DRAW"],
+      "document": "docs/parity/EXCEL.md"
+    },
+    {
+      "id": "X-PIVOT",
+      "title": "Pivot tables, pivot charts and caches",
+      "status": "pending",
+      "dependencies": ["X-CALC", "X-FILTER", "X-CHART"],
+      "document": "docs/parity/EXCEL.md"
+    },
+    {
+      "id": "X-DATA",
+      "title": "Connections, queries and data model",
+      "status": "pending",
+      "dependencies": ["X-PIVOT", "S-NETWORK"],
+      "document": "docs/parity/EXCEL.md"
+    },
+    {
+      "id": "X-ANALYSIS",
+      "title": "What-if, Solver and analysis tools",
+      "status": "pending",
+      "dependencies": ["X-CALC", "X-DATA"],
+      "document": "docs/parity/EXCEL.md"
+    },
+    {
+      "id": "X-VIEW",
+      "title": "Views, review and print layout",
+      "status": "pending",
+      "dependencies": ["X-FORMAT", "S-PRINT", "S-ACCESS"],
+      "document": "docs/parity/EXCEL.md"
+    },
+    {
+      "id": "X-AUTOMATION",
+      "title": "Excel VBA, add-ins and controls",
+      "status": "pending",
+      "dependencies": ["X-GRID", "S-AUTOMATION"],
+      "document": "docs/parity/EXCEL.md"
+    },
+    {
+      "id": "X-FILES",
+      "title": "Excel formats and high-volume workbooks",
+      "status": "pending",
+      "dependencies": ["X-PIVOT", "X-VIEW", "S-PACKAGE", "S-PERF"],
+      "document": "docs/parity/EXCEL.md"
+    },
+    {
+      "id": "P-TEXT",
+      "title": "Rich text, paragraphs and text fitting",
+      "status": "pending",
+      "dependencies": ["S-TEXT"],
+      "document": "docs/parity/POWERPOINT.md"
+    },
+    {
+      "id": "P-MASTER",
+      "title": "Themes, masters, layouts and placeholders",
+      "status": "pending",
+      "dependencies": ["P-TEXT"],
+      "document": "docs/parity/POWERPOINT.md"
+    },
+    {
+      "id": "P-DRAW",
+      "title": "Shapes, images, groups and connectors",
+      "status": "pending",
+      "dependencies": ["P-MASTER", "S-DRAW"],
+      "document": "docs/parity/POWERPOINT.md"
+    },
+    {
+      "id": "P-TABLE",
+      "title": "Tables, charts and SmartArt",
+      "status": "pending",
+      "dependencies": ["P-DRAW"],
+      "document": "docs/parity/POWERPOINT.md"
+    },
+    {
+      "id": "P-SLIDES",
+      "title": "Slide management, sections and reuse",
+      "status": "pending",
+      "dependencies": ["P-MASTER"],
+      "document": "docs/parity/POWERPOINT.md"
+    },
+    {
+      "id": "P-ANIMATION",
+      "title": "Animation timeline and transitions",
+      "status": "pending",
+      "dependencies": ["P-DRAW", "P-SLIDES"],
+      "document": "docs/parity/POWERPOINT.md"
+    },
+    {
+      "id": "P-MEDIA",
+      "title": "Audio, video and recording",
+      "status": "pending",
+      "dependencies": ["P-ANIMATION"],
+      "document": "docs/parity/POWERPOINT.md"
+    },
+    {
+      "id": "P-SHOW",
+      "title": "Slide show, presenter view and interaction",
+      "status": "pending",
+      "dependencies": ["P-ANIMATION", "P-MEDIA"],
+      "document": "docs/parity/POWERPOINT.md"
+    },
+    {
+      "id": "P-REVIEW",
+      "title": "Comments, proofing and collaboration",
+      "status": "pending",
+      "dependencies": ["P-TEXT", "S-ACCESS", "S-NETWORK"],
+      "document": "docs/parity/POWERPOINT.md"
+    },
+    {
+      "id": "P-OUTPUT",
+      "title": "Notes, handouts, print and video export",
+      "status": "pending",
+      "dependencies": ["P-SHOW", "S-PRINT"],
+      "document": "docs/parity/POWERPOINT.md"
+    },
+    {
+      "id": "P-AUTOMATION",
+      "title": "PowerPoint automation and extensions",
+      "status": "pending",
+      "dependencies": ["P-SLIDES", "S-AUTOMATION"],
+      "document": "docs/parity/POWERPOINT.md"
+    },
+    {
+      "id": "P-FILES",
+      "title": "Presentation formats and round-trip fidelity",
+      "status": "pending",
+      "dependencies": ["P-OUTPUT", "S-PACKAGE", "S-PERF"],
+      "document": "docs/parity/POWERPOINT.md"
+    }
+  ],
+  "contracts": [
+    {
+      "id": "P-MODEL-INHERITANCE",
+      "title": "PowerPoint source inheritance and retained rich placeholder text",
+      "family": "S-MODEL",
+      "status": "partial",
+      "dependencies": [],
+      "commands": [],
+      "document": "docs/parity/contracts/P-MODEL-INHERITANCE.md",
+      "equivalence": "exact-subset"
+    },
+    {
+      "id": "X-MODEL-DEPENDENCIES",
+      "title": "Workbook calculation identities and revision invalidation",
+      "family": "S-MODEL",
+      "status": "partial",
+      "dependencies": [],
+      "commands": [],
+      "document": "docs/parity/contracts/X-MODEL-DEPENDENCIES.md",
+      "equivalence": "exact-subset"
+    },
+    {
+      "id": "W-TEXT-FONT-SIZES",
+      "title": "Word imported run sizes and selected-text size controls",
+      "family": "W-STYLE",
+      "status": "partial",
+      "dependencies": [],
+      "commands": [],
+      "document": "docs/parity/contracts/W-TEXT-FONT-SIZES.md",
+      "equivalence": "exact-subset"
+    },
+    {
+      "id": "W-TEXT-UNIFORM-LINES",
+      "title": "Word uniform and single-line mixed-size advances",
+      "family": "S-TEXT",
+      "status": "partial",
+      "dependencies": [],
+      "commands": [],
+      "document": "docs/parity/contracts/W-TEXT-UNIFORM-LINES.md",
+      "equivalence": "exact-subset"
+    },
+    {
+      "id": "W-MODEL-SECTIONS",
+      "title": "Word section geometry, editor ranges, source identities and layout history",
+      "family": "S-MODEL",
+      "status": "partial",
+      "dependencies": [],
+      "commands": [
+        "word:HeaderFooterDifferentFirstPageWord",
+        "word:HeaderFooterDifferentOddEvenPageWord",
+        "word:HeaderFooterPositionHeaderFromTop",
+        "word:HeaderFooterPositionFooterFromBottom",
+        "word:HeaderFooterLinkToPrevious",
+        "word:HeaderFooterEditHeader",
+        "word:HeaderFooterEditFooter"
+      ],
+      "document": "docs/parity/contracts/W-MODEL-SECTIONS.md",
+      "equivalence": "exact-subset"
+    },
+    {
+      "id": "X-TABLE-ENTRY-SUBSET",
+      "title": "Direct entry below eligible tables and totals activation",
+      "family": "X-TABLE",
+      "status": "partial",
+      "dependencies": [],
+      "commands": [],
+      "document": "docs/parity/contracts/X-TABLE-ENTRY-SUBSET.md",
+      "equivalence": "exact-subset"
+    }
+  ]
+}

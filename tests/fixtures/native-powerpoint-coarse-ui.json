@@ -1,0 +1,113 @@
+{
+    "scriptSha256":  "dbb354cbf647e5f16483242c67f40f66fc220374280ae7f9e6c308ecbb04f382",
+    "stages":  [
+                   {
+                       "vertical":  "4,94  cm",
+                       "horizontal":  "4,23  cm",
+                       "stage":  "source",
+                       "frame":  {
+                                     "id":  2,
+                                     "name":  "Nested A",
+                                     "x":  120,
+                                     "y":  140,
+                                     "w":  120,
+                                     "h":  67.5,
+                                     "rotation":  0
+                                 }
+                   },
+                   {
+                       "beforeCommit":  "4,2897777778 cm",
+                       "entered":  "4,2897777778 cm",
+                       "afterCommit":  "4,34  cm",
+                       "stage":  "left",
+                       "frame":  {
+                                     "id":  2,
+                                     "name":  "Nested A",
+                                     "x":  123,
+                                     "y":  140,
+                                     "w":  120,
+                                     "h":  67.5,
+                                     "rotation":  0
+                                 }
+                   },
+                   {
+                       "beforeCommit":  "4,9829861111 cm",
+                       "entered":  "4,9829861111 cm",
+                       "afterCommit":  "5,02  cm",
+                       "stage":  "top",
+                       "frame":  {
+                                     "id":  2,
+                                     "name":  "Nested A",
+                                     "x":  123,
+                                     "y":  142.25,
+                                     "w":  120,
+                                     "h":  67.5,
+                                     "rotation":  0
+                                 }
+                   },
+                   {
+                       "stage":  "Undo",
+                       "frame":  {
+                                     "id":  2,
+                                     "name":  "Nested A",
+                                     "x":  123,
+                                     "y":  140,
+                                     "w":  120,
+                                     "h":  67.5,
+                                     "rotation":  0
+                                 }
+                   },
+                   {
+                       "stage":  "Undo",
+                       "frame":  {
+                                     "id":  2,
+                                     "name":  "Nested A",
+                                     "x":  120,
+                                     "y":  140,
+                                     "w":  120,
+                                     "h":  67.5,
+                                     "rotation":  0
+                                 }
+                   },
+                   {
+                       "stage":  "Redo",
+                       "frame":  {
+                                     "id":  2,
+                                     "name":  "Nested A",
+                                     "x":  123,
+                                     "y":  140,
+                                     "w":  120,
+                                     "h":  67.5,
+                                     "rotation":  0
+                                 }
+                   },
+                   {
+                       "stage":  "Redo",
+                       "frame":  {
+                                     "id":  2,
+                                     "name":  "Nested A",
+                                     "x":  123,
+                                     "y":  142.25,
+                                     "w":  120,
+                                     "h":  67.5,
+                                     "rotation":  0
+                                 }
+                   },
+                   {
+                       "stage":  "reopened",
+                       "frame":  {
+                                     "id":  2,
+                                     "name":  "Nested A",
+                                     "x":  123,
+                                     "y":  142.25,
+                                     "w":  120,
+                                     "h":  67.5,
+                                     "rotation":  0
+                                 }
+                   }
+               ],
+    "exportSha256":  "f4b32804dfffceb69913e038aaff0ef57523c500e032f3803bcabbb02b17a941",
+    "executableSha256":  "a57633850b4f82f842144b3758d1fc2d2dd71fb15036bac642aa81bd32004a55",
+    "sourceSha256":  "4e21477eb2924c997c4975096130f3b01319555d41024281647db583f676dbb4",
+    "pdfSha256":  "6cefa88aa52be5aeb987caf7a5128462a94c3f13a2de40ac5ed9a6bbbab23997"
+}

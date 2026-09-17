@@ -1,0 +1,2054 @@
+{
+    "scope":  "Bounded shaped-reference/SUMPRODUCT values; full array/function/spill semantics remain open",
+    "scriptSha256":  "8ec5745c80613953ad60ef666338a38c72d6af3185367969986022dc8fa8ea2d",
+    "sourceSha256":  "06ae8eaff7b7c4cd1ece9c90fecca3be37146e47ce61d2af3e338c50a1d850e3",
+    "executableSha256":  "34f17e922e344705a958b52e2472e6667b1d32a887f28a18b7b97e0e7ab167a9",
+    "locale":  1031,
+    "initial":  [
+                    {
+                        "ref":  "A1",
+                        "formula":  "=SUMPRODUCT(Data!A1:A3,Data!B1:B3)",
+                        "value":  78,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "A2",
+                        "formula":  "=SUMPRODUCT(Data!A1:C2,Data!A2:C3)",
+                        "value":  154,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "A3",
+                        "formula":  "=SUMPRODUCT(Data!A1:C2,Data!A1:B3)",
+                        "value":  "#VALUE!",
+                        "kind":  "error"
+                    },
+                    {
+                        "ref":  "A4",
+                        "formula":  "=SUMPRODUCT(Data!A1:A3,Data!A1:C1)",
+                        "value":  "#VALUE!",
+                        "kind":  "error"
+                    },
+                    {
+                        "ref":  "A5",
+                        "formula":  "=SUMPRODUCT(Data!A1:A3)",
+                        "value":  12,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "A6",
+                        "formula":  "=SUMPRODUCT(Data!A1:A3,2)",
+                        "value":  "#VALUE!",
+                        "kind":  "error"
+                    },
+                    {
+                        "ref":  "A7",
+                        "formula":  "=SUMPRODUCT(Data!A1:A3*2)",
+                        "value":  24,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "A8",
+                        "formula":  "=SUMPRODUCT((Data!A1:A3\u003e1)*Data!B1:B3)",
+                        "value":  13,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "A9",
+                        "formula":  "=SUMPRODUCT(--(Data!A1:A3\u003e1),Data!B1:B3)",
+                        "value":  13,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "A10",
+                        "formula":  "=SUMPRODUCT(Data!A1:A3\u003e1,Data!B1:B3)",
+                        "value":  0,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "A11",
+                        "formula":  "=SUMPRODUCT(Data!A1:A3+Data!B1:B3)",
+                        "value":  27,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "A12",
+                        "formula":  "=SUMPRODUCT(Data!A1:A3^2)",
+                        "value":  66,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "B1",
+                        "formula":  "=SUMPRODUCT(Data!A1:C1*Data!A1:A3)",
+                        "value":  72,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "B2",
+                        "formula":  "=SUMPRODUCT(Data!A1:C2*Data!A1:B3)",
+                        "value":  "#N/A",
+                        "kind":  "error"
+                    },
+                    {
+                        "ref":  "B3",
+                        "formula":  "=SUMPRODUCT(Data!E1:E4,Data!F1:F4)",
+                        "value":  20,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "B4",
+                        "formula":  "=SUMPRODUCT(Data!E1:E4*Data!F1:F4)",
+                        "value":  110,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "B5",
+                        "formula":  "=SUMPRODUCT(Data!G1:G3,Data!F1:F3)",
+                        "value":  0,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "B6",
+                        "formula":  "=SUMPRODUCT(Data!G1:G3*Data!F1:F3)",
+                        "value":  "#VALUE!",
+                        "kind":  "error"
+                    },
+                    {
+                        "ref":  "B7",
+                        "formula":  "=SUMPRODUCT(Data!E1:E5,Data!F1:F5)",
+                        "value":  "#DIV/0!",
+                        "kind":  "error"
+                    },
+                    {
+                        "ref":  "B8",
+                        "formula":  "=SUMPRODUCT(0*Data!E1:E5)",
+                        "value":  "#DIV/0!",
+                        "kind":  "error"
+                    },
+                    {
+                        "ref":  "B9",
+                        "formula":  "=SUMPRODUCT(2,3)",
+                        "value":  6,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "B10",
+                        "formula":  "=SUMPRODUCT(TRUE,3)",
+                        "value":  "#VALUE!",
+                        "kind":  "error"
+                    },
+                    {
+                        "ref":  "B11",
+                        "formula":  "=SUMPRODUCT(\"2\",3)",
+                        "value":  "#VALUE!",
+                        "kind":  "error"
+                    },
+                    {
+                        "ref":  "B12",
+                        "formula":  "=SUMPRODUCT({1,2;3,4},{5,6;7,8})",
+                        "value":  70,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "C1",
+                        "formula":  "=SUMPRODUCT({1,2,3;4,5,6},{1,2;3,4;5,6})",
+                        "value":  "#VALUE!",
+                        "kind":  "error"
+                    },
+                    {
+                        "ref":  "C2",
+                        "formula":  "=SUMPRODUCT({1,\"2\",TRUE}, {2,3,4})",
+                        "value":  2,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "C3",
+                        "formula":  "=SUMPRODUCT({1,\"2\",TRUE}*{2,3,4})",
+                        "value":  12,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "C4",
+                        "formula":  "=SUMPRODUCT(Matrix,Data!A2:C3)",
+                        "value":  154,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "C5",
+                        "formula":  "=SUMPRODUCT(Matrix*2)",
+                        "value":  42,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "C6",
+                        "formula":  "=SUMPRODUCT(Items[Qty],Items[Price])",
+                        "value":  140,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "C7",
+                        "formula":  "=SUMPRODUCT(Items[Qty]*Items[Price])",
+                        "value":  140,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "C8",
+                        "formula":  "=SUMPRODUCT(INDEX(Data!A1:C3,0,2),Data!A1:A3)",
+                        "value":  78,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "C9",
+                        "formula":  "=SUMPRODUCT(INDIRECT(\"Data!A1:A3\"),Data!B1:B3)",
+                        "value":  78,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "C10",
+                        "formula":  "=IFERROR(SUMPRODUCT(Data!E1:E5),99)",
+                        "value":  99,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "C11",
+                        "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E5,0),Data!F1:F5)",
+                        "value":  "#VALUE!",
+                        "kind":  "error"
+                    },
+                    {
+                        "ref":  "C12",
+                        "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                        "value":  "#VALUE!",
+                        "kind":  "error"
+                    },
+                    {
+                        "ref":  "D1",
+                        "formula":  "=SUMPRODUCT(Data!A1:A3/Data!G1:G3)",
+                        "value":  "#VALUE!",
+                        "kind":  "error"
+                    },
+                    {
+                        "ref":  "D2",
+                        "formula":  "=SUMPRODUCT(-Data!A1:A3)",
+                        "value":  -12,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "D3",
+                        "formula":  "=SUMPRODUCT(Data!A1:A3%)",
+                        "value":  0.12000000000000001,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "D4",
+                        "formula":  "=SUMPRODUCT(Data!A1:A3\u0026\"x\")",
+                        "value":  0,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "D5",
+                        "formula":  "=SUMPRODUCT({1;2;3}+{10,20})",
+                        "value":  102,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "D6",
+                        "formula":  "=SUMPRODUCT(Data!A1:C2,Data!A2:C3,Data!A1:C2)",
+                        "value":  714,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "D7",
+                        "formula":  "=SUMPRODUCT(Data!A1:A3=4)",
+                        "value":  0,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "D8",
+                        "formula":  "=SUMPRODUCT(--(Data!A1:A3=4))",
+                        "value":  1,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "D9",
+                        "formula":  "=SUMPRODUCT(Data!E4*Data!F4)",
+                        "value":  0,
+                        "kind":  "value"
+                    },
+                    {
+                        "ref":  "D10",
+                        "formula":  "=SUMPRODUCT(Data!G2*Data!F2)",
+                        "value":  "#VALUE!",
+                        "kind":  "error"
+                    },
+                    {
+                        "ref":  "D11",
+                        "formula":  "=SUMPRODUCT({1,#N/A},{0,0})",
+                        "value":  "#N/A",
+                        "kind":  "error"
+                    },
+                    {
+                        "ref":  "D12",
+                        "formula":  "=SUMPRODUCT({1;2}+{10;20;30})",
+                        "value":  "#N/A",
+                        "kind":  "error"
+                    }
+                ],
+    "stages":  [
+                   {
+                       "stage":  "edit",
+                       "cells":  [
+                                     {
+                                         "ref":  "A1",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3,Data!B1:B3)",
+                                         "value":  378,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A2",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C2,Data!A2:C3)",
+                                         "value":  634,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A3",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C2,Data!A1:B3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A4",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3,Data!A1:C1)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A5",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3)",
+                                         "value":  72,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A6",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3,2)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A7",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3*2)",
+                                         "value":  144,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A8",
+                                         "formula":  "=SUMPRODUCT((Data!A1:A3\u003e1)*Data!B1:B3)",
+                                         "value":  13,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A9",
+                                         "formula":  "=SUMPRODUCT(--(Data!A1:A3\u003e1),Data!B1:B3)",
+                                         "value":  13,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A10",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3\u003e1,Data!B1:B3)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A11",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3+Data!B1:B3)",
+                                         "value":  87,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A12",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3^2)",
+                                         "value":  4146,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B1",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C1*Data!A1:A3)",
+                                         "value":  432,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B2",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C2*Data!A1:B3)",
+                                         "value":  "#N/A",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B3",
+                                         "formula":  "=SUMPRODUCT(Data!E1:E4,Data!F1:F4)",
+                                         "value":  20,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B4",
+                                         "formula":  "=SUMPRODUCT(Data!E1:E4*Data!F1:F4)",
+                                         "value":  110,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B5",
+                                         "formula":  "=SUMPRODUCT(Data!G1:G3,Data!F1:F3)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B6",
+                                         "formula":  "=SUMPRODUCT(Data!G1:G3*Data!F1:F3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B7",
+                                         "formula":  "=SUMPRODUCT(Data!E1:E5,Data!F1:F5)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B8",
+                                         "formula":  "=SUMPRODUCT(0*Data!E1:E5)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B9",
+                                         "formula":  "=SUMPRODUCT(2,3)",
+                                         "value":  6,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B10",
+                                         "formula":  "=SUMPRODUCT(TRUE,3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B11",
+                                         "formula":  "=SUMPRODUCT(\"2\",3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B12",
+                                         "formula":  "=SUMPRODUCT({1,2;3,4},{5,6;7,8})",
+                                         "value":  70,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C1",
+                                         "formula":  "=SUMPRODUCT({1,2,3;4,5,6},{1,2;3,4;5,6})",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C2",
+                                         "formula":  "=SUMPRODUCT({1,\"2\",TRUE}, {2,3,4})",
+                                         "value":  2,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C3",
+                                         "formula":  "=SUMPRODUCT({1,\"2\",TRUE}*{2,3,4})",
+                                         "value":  12,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C4",
+                                         "formula":  "=SUMPRODUCT(Matrix,Data!A2:C3)",
+                                         "value":  634,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C5",
+                                         "formula":  "=SUMPRODUCT(Matrix*2)",
+                                         "value":  162,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C6",
+                                         "formula":  "=SUMPRODUCT(Items[Qty],Items[Price])",
+                                         "value":  140,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C7",
+                                         "formula":  "=SUMPRODUCT(Items[Qty]*Items[Price])",
+                                         "value":  140,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C8",
+                                         "formula":  "=SUMPRODUCT(INDEX(Data!A1:C3,0,2),Data!A1:A3)",
+                                         "value":  378,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C9",
+                                         "formula":  "=SUMPRODUCT(INDIRECT(\"Data!A1:A3\"),Data!B1:B3)",
+                                         "value":  378,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C10",
+                                         "formula":  "=IFERROR(SUMPRODUCT(Data!E1:E5),99)",
+                                         "value":  99,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C11",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E5,0),Data!F1:F5)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C12",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D1",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3/Data!G1:G3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D2",
+                                         "formula":  "=SUMPRODUCT(-Data!A1:A3)",
+                                         "value":  -72,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D3",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3%)",
+                                         "value":  0.72,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D4",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3\u0026\"x\")",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D5",
+                                         "formula":  "=SUMPRODUCT({1;2;3}+{10,20})",
+                                         "value":  102,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D6",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C2,Data!A2:C3,Data!A1:C2)",
+                                         "value":  29334,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D7",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3=4)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D8",
+                                         "formula":  "=SUMPRODUCT(--(Data!A1:A3=4))",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D9",
+                                         "formula":  "=SUMPRODUCT(Data!E4*Data!F4)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D10",
+                                         "formula":  "=SUMPRODUCT(Data!G2*Data!F2)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D11",
+                                         "formula":  "=SUMPRODUCT({1,#N/A},{0,0})",
+                                         "value":  "#N/A",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D12",
+                                         "formula":  "=SUMPRODUCT({1;2}+{10;20;30})",
+                                         "value":  "#N/A",
+                                         "kind":  "error"
+                                     }
+                                 ]
+                   },
+                   {
+                       "stage":  "delete",
+                       "cells":  [
+                                     {
+                                         "ref":  "A1",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3,Data!B1:B3)",
+                                         "value":  58,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A2",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C2,Data!A2:C3)",
+                                         "value":  122,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A3",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C2,Data!A1:B3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A4",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3,Data!A1:C1)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A5",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3)",
+                                         "value":  8,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A6",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3,2)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A7",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3*2)",
+                                         "value":  16,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A8",
+                                         "formula":  "=SUMPRODUCT((Data!A1:A3\u003e1)*Data!B1:B3)",
+                                         "value":  8,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A9",
+                                         "formula":  "=SUMPRODUCT(--(Data!A1:A3\u003e1),Data!B1:B3)",
+                                         "value":  8,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A10",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3\u003e1,Data!B1:B3)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A11",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3+Data!B1:B3)",
+                                         "value":  23,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A12",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3^2)",
+                                         "value":  50,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B1",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C1*Data!A1:A3)",
+                                         "value":  48,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B2",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C2*Data!A1:B3)",
+                                         "value":  "#N/A",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B3",
+                                         "formula":  "=SUMPRODUCT(Data!E1:E4,Data!F1:F4)",
+                                         "value":  20,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B4",
+                                         "formula":  "=SUMPRODUCT(Data!E1:E4*Data!F1:F4)",
+                                         "value":  110,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B5",
+                                         "formula":  "=SUMPRODUCT(Data!G1:G3,Data!F1:F3)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B6",
+                                         "formula":  "=SUMPRODUCT(Data!G1:G3*Data!F1:F3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B7",
+                                         "formula":  "=SUMPRODUCT(Data!E1:E5,Data!F1:F5)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B8",
+                                         "formula":  "=SUMPRODUCT(0*Data!E1:E5)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B9",
+                                         "formula":  "=SUMPRODUCT(2,3)",
+                                         "value":  6,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B10",
+                                         "formula":  "=SUMPRODUCT(TRUE,3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B11",
+                                         "formula":  "=SUMPRODUCT(\"2\",3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B12",
+                                         "formula":  "=SUMPRODUCT({1,2;3,4},{5,6;7,8})",
+                                         "value":  70,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C1",
+                                         "formula":  "=SUMPRODUCT({1,2,3;4,5,6},{1,2;3,4;5,6})",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C2",
+                                         "formula":  "=SUMPRODUCT({1,\"2\",TRUE}, {2,3,4})",
+                                         "value":  2,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C3",
+                                         "formula":  "=SUMPRODUCT({1,\"2\",TRUE}*{2,3,4})",
+                                         "value":  12,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C4",
+                                         "formula":  "=SUMPRODUCT(Matrix,Data!A2:C3)",
+                                         "value":  122,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C5",
+                                         "formula":  "=SUMPRODUCT(Matrix*2)",
+                                         "value":  34,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C6",
+                                         "formula":  "=SUMPRODUCT(Items[Qty],Items[Price])",
+                                         "value":  140,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C7",
+                                         "formula":  "=SUMPRODUCT(Items[Qty]*Items[Price])",
+                                         "value":  140,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C8",
+                                         "formula":  "=SUMPRODUCT(INDEX(Data!A1:C3,0,2),Data!A1:A3)",
+                                         "value":  58,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C9",
+                                         "formula":  "=SUMPRODUCT(INDIRECT(\"Data!A1:A3\"),Data!B1:B3)",
+                                         "value":  58,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C10",
+                                         "formula":  "=IFERROR(SUMPRODUCT(Data!E1:E5),99)",
+                                         "value":  99,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C11",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E5,0),Data!F1:F5)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C12",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D1",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3/Data!G1:G3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D2",
+                                         "formula":  "=SUMPRODUCT(-Data!A1:A3)",
+                                         "value":  -8,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D3",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3%)",
+                                         "value":  0.08,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D4",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3\u0026\"x\")",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D5",
+                                         "formula":  "=SUMPRODUCT({1;2;3}+{10,20})",
+                                         "value":  102,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D6",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C2,Data!A2:C3,Data!A1:C2)",
+                                         "value":  598,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D7",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3=4)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D8",
+                                         "formula":  "=SUMPRODUCT(--(Data!A1:A3=4))",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D9",
+                                         "formula":  "=SUMPRODUCT(Data!E4*Data!F4)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D10",
+                                         "formula":  "=SUMPRODUCT(Data!G2*Data!F2)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D11",
+                                         "formula":  "=SUMPRODUCT({1,#N/A},{0,0})",
+                                         "value":  "#N/A",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D12",
+                                         "formula":  "=SUMPRODUCT({1;2}+{10;20;30})",
+                                         "value":  "#N/A",
+                                         "kind":  "error"
+                                     }
+                                 ]
+                   },
+                   {
+                       "stage":  "error",
+                       "cells":  [
+                                     {
+                                         "ref":  "A1",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3,Data!B1:B3)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A2",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C2,Data!A2:C3)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A3",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C2,Data!A1:B3)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A4",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3,Data!A1:C1)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A5",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A6",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3,2)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A7",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3*2)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A8",
+                                         "formula":  "=SUMPRODUCT((Data!A1:A3\u003e1)*Data!B1:B3)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A9",
+                                         "formula":  "=SUMPRODUCT(--(Data!A1:A3\u003e1),Data!B1:B3)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A10",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3\u003e1,Data!B1:B3)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A11",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3+Data!B1:B3)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A12",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3^2)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B1",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C1*Data!A1:A3)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B2",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C2*Data!A1:B3)",
+                                         "value":  "#N/A",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B3",
+                                         "formula":  "=SUMPRODUCT(Data!E1:E4,Data!F1:F4)",
+                                         "value":  20,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B4",
+                                         "formula":  "=SUMPRODUCT(Data!E1:E4*Data!F1:F4)",
+                                         "value":  110,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B5",
+                                         "formula":  "=SUMPRODUCT(Data!G1:G3,Data!F1:F3)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B6",
+                                         "formula":  "=SUMPRODUCT(Data!G1:G3*Data!F1:F3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B7",
+                                         "formula":  "=SUMPRODUCT(Data!E1:E5,Data!F1:F5)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B8",
+                                         "formula":  "=SUMPRODUCT(0*Data!E1:E5)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B9",
+                                         "formula":  "=SUMPRODUCT(2,3)",
+                                         "value":  6,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B10",
+                                         "formula":  "=SUMPRODUCT(TRUE,3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B11",
+                                         "formula":  "=SUMPRODUCT(\"2\",3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B12",
+                                         "formula":  "=SUMPRODUCT({1,2;3,4},{5,6;7,8})",
+                                         "value":  70,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C1",
+                                         "formula":  "=SUMPRODUCT({1,2,3;4,5,6},{1,2;3,4;5,6})",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C2",
+                                         "formula":  "=SUMPRODUCT({1,\"2\",TRUE}, {2,3,4})",
+                                         "value":  2,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C3",
+                                         "formula":  "=SUMPRODUCT({1,\"2\",TRUE}*{2,3,4})",
+                                         "value":  12,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C4",
+                                         "formula":  "=SUMPRODUCT(Matrix,Data!A2:C3)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C5",
+                                         "formula":  "=SUMPRODUCT(Matrix*2)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C6",
+                                         "formula":  "=SUMPRODUCT(Items[Qty],Items[Price])",
+                                         "value":  140,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C7",
+                                         "formula":  "=SUMPRODUCT(Items[Qty]*Items[Price])",
+                                         "value":  140,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C8",
+                                         "formula":  "=SUMPRODUCT(INDEX(Data!A1:C3,0,2),Data!A1:A3)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C9",
+                                         "formula":  "=SUMPRODUCT(INDIRECT(\"Data!A1:A3\"),Data!B1:B3)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C10",
+                                         "formula":  "=IFERROR(SUMPRODUCT(Data!E1:E5),99)",
+                                         "value":  99,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C11",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E5,0),Data!F1:F5)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C12",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D1",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3/Data!G1:G3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D2",
+                                         "formula":  "=SUMPRODUCT(-Data!A1:A3)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D3",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3%)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D4",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3\u0026\"x\")",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D5",
+                                         "formula":  "=SUMPRODUCT({1;2;3}+{10,20})",
+                                         "value":  102,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D6",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C2,Data!A2:C3,Data!A1:C2)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D7",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3=4)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D8",
+                                         "formula":  "=SUMPRODUCT(--(Data!A1:A3=4))",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D9",
+                                         "formula":  "=SUMPRODUCT(Data!E4*Data!F4)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D10",
+                                         "formula":  "=SUMPRODUCT(Data!G2*Data!F2)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D11",
+                                         "formula":  "=SUMPRODUCT({1,#N/A},{0,0})",
+                                         "value":  "#N/A",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D12",
+                                         "formula":  "=SUMPRODUCT({1;2}+{10;20;30})",
+                                         "value":  "#N/A",
+                                         "kind":  "error"
+                                     }
+                                 ]
+                   },
+                   {
+                       "stage":  "formula",
+                       "cells":  [
+                                     {
+                                         "ref":  "A1",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3,Data!B1:B3)",
+                                         "value":  78,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A2",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C2,Data!A2:C3)",
+                                         "value":  154,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A3",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C2,Data!A1:B3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A4",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3,Data!A1:C1)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A5",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3)",
+                                         "value":  12,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A6",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3,2)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A7",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3*2)",
+                                         "value":  24,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A8",
+                                         "formula":  "=SUMPRODUCT((Data!A1:A3\u003e1)*Data!B1:B3)",
+                                         "value":  13,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A9",
+                                         "formula":  "=SUMPRODUCT(--(Data!A1:A3\u003e1),Data!B1:B3)",
+                                         "value":  13,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A10",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3\u003e1,Data!B1:B3)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A11",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3+Data!B1:B3)",
+                                         "value":  27,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A12",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3^2)",
+                                         "value":  66,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B1",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C1*Data!A1:A3)",
+                                         "value":  72,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B2",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C2*Data!A1:B3)",
+                                         "value":  "#N/A",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B3",
+                                         "formula":  "=SUMPRODUCT(Data!E1:E4,Data!F1:F4)",
+                                         "value":  20,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B4",
+                                         "formula":  "=SUMPRODUCT(Data!E1:E4*Data!F1:F4)",
+                                         "value":  110,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B5",
+                                         "formula":  "=SUMPRODUCT(Data!G1:G3,Data!F1:F3)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B6",
+                                         "formula":  "=SUMPRODUCT(Data!G1:G3*Data!F1:F3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B7",
+                                         "formula":  "=SUMPRODUCT(Data!E1:E5,Data!F1:F5)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B8",
+                                         "formula":  "=SUMPRODUCT(0*Data!E1:E5)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B9",
+                                         "formula":  "=SUMPRODUCT(2,3)",
+                                         "value":  6,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B10",
+                                         "formula":  "=SUMPRODUCT(TRUE,3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B11",
+                                         "formula":  "=SUMPRODUCT(\"2\",3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B12",
+                                         "formula":  "=SUMPRODUCT({1,2;3,4},{5,6;7,8})",
+                                         "value":  70,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C1",
+                                         "formula":  "=SUMPRODUCT({1,2,3;4,5,6},{1,2;3,4;5,6})",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C2",
+                                         "formula":  "=SUMPRODUCT({1,\"2\",TRUE}, {2,3,4})",
+                                         "value":  2,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C3",
+                                         "formula":  "=SUMPRODUCT({1,\"2\",TRUE}*{2,3,4})",
+                                         "value":  12,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C4",
+                                         "formula":  "=SUMPRODUCT(Matrix,Data!A2:C3)",
+                                         "value":  154,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C5",
+                                         "formula":  "=SUMPRODUCT(Matrix*2)",
+                                         "value":  42,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C6",
+                                         "formula":  "=SUMPRODUCT(Items[Qty],Items[Price])",
+                                         "value":  140,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C7",
+                                         "formula":  "=SUMPRODUCT(Items[Qty]*Items[Price])",
+                                         "value":  140,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C8",
+                                         "formula":  "=SUMPRODUCT(INDEX(Data!A1:C3,0,2),Data!A1:A3)",
+                                         "value":  78,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C9",
+                                         "formula":  "=SUMPRODUCT(INDIRECT(\"Data!A1:A3\"),Data!B1:B3)",
+                                         "value":  78,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C10",
+                                         "formula":  "=IFERROR(SUMPRODUCT(Data!E1:E5),99)",
+                                         "value":  99,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C11",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E5,0),Data!F1:F5)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C12",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D1",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3/Data!G1:G3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D2",
+                                         "formula":  "=SUMPRODUCT(-Data!A1:A3)",
+                                         "value":  -12,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D3",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3%)",
+                                         "value":  0.12000000000000001,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D4",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3\u0026\"x\")",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D5",
+                                         "formula":  "=SUMPRODUCT({1;2;3}+{10,20})",
+                                         "value":  102,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D6",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C2,Data!A2:C3,Data!A1:C2)",
+                                         "value":  714,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D7",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3=4)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D8",
+                                         "formula":  "=SUMPRODUCT((Data!A1:A3\u003e=4)*Data!B1:B3)",
+                                         "value":  13,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D9",
+                                         "formula":  "=SUMPRODUCT(Data!E4*Data!F4)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D10",
+                                         "formula":  "=SUMPRODUCT(Data!G2*Data!F2)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D11",
+                                         "formula":  "=SUMPRODUCT({1,#N/A},{0,0})",
+                                         "value":  "#N/A",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D12",
+                                         "formula":  "=SUMPRODUCT({1;2}+{10;20;30})",
+                                         "value":  "#N/A",
+                                         "kind":  "error"
+                                     }
+                                 ]
+                   },
+                   {
+                       "stage":  "table",
+                       "cells":  [
+                                     {
+                                         "ref":  "A1",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3,Data!B1:B3)",
+                                         "value":  78,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A2",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C2,Data!A2:C3)",
+                                         "value":  154,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A3",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C2,Data!A1:B3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A4",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3,Data!A1:C1)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A5",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3)",
+                                         "value":  12,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A6",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3,2)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "A7",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3*2)",
+                                         "value":  24,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A8",
+                                         "formula":  "=SUMPRODUCT((Data!A1:A3\u003e1)*Data!B1:B3)",
+                                         "value":  13,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A9",
+                                         "formula":  "=SUMPRODUCT(--(Data!A1:A3\u003e1),Data!B1:B3)",
+                                         "value":  13,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A10",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3\u003e1,Data!B1:B3)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A11",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3+Data!B1:B3)",
+                                         "value":  27,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "A12",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3^2)",
+                                         "value":  66,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B1",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C1*Data!A1:A3)",
+                                         "value":  72,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B2",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C2*Data!A1:B3)",
+                                         "value":  "#N/A",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B3",
+                                         "formula":  "=SUMPRODUCT(Data!E1:E4,Data!F1:F4)",
+                                         "value":  20,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B4",
+                                         "formula":  "=SUMPRODUCT(Data!E1:E4*Data!F1:F4)",
+                                         "value":  110,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B5",
+                                         "formula":  "=SUMPRODUCT(Data!G1:G3,Data!F1:F3)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B6",
+                                         "formula":  "=SUMPRODUCT(Data!G1:G3*Data!F1:F3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B7",
+                                         "formula":  "=SUMPRODUCT(Data!E1:E5,Data!F1:F5)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B8",
+                                         "formula":  "=SUMPRODUCT(0*Data!E1:E5)",
+                                         "value":  "#DIV/0!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B9",
+                                         "formula":  "=SUMPRODUCT(2,3)",
+                                         "value":  6,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "B10",
+                                         "formula":  "=SUMPRODUCT(TRUE,3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B11",
+                                         "formula":  "=SUMPRODUCT(\"2\",3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "B12",
+                                         "formula":  "=SUMPRODUCT({1,2;3,4},{5,6;7,8})",
+                                         "value":  70,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C1",
+                                         "formula":  "=SUMPRODUCT({1,2,3;4,5,6},{1,2;3,4;5,6})",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C2",
+                                         "formula":  "=SUMPRODUCT({1,\"2\",TRUE}, {2,3,4})",
+                                         "value":  2,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C3",
+                                         "formula":  "=SUMPRODUCT({1,\"2\",TRUE}*{2,3,4})",
+                                         "value":  12,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C4",
+                                         "formula":  "=SUMPRODUCT(Matrix,Data!A2:C3)",
+                                         "value":  154,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C5",
+                                         "formula":  "=SUMPRODUCT(Matrix*2)",
+                                         "value":  42,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C6",
+                                         "formula":  "=SUMPRODUCT(Items[Qty],Items[Price])",
+                                         "value":  180,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C7",
+                                         "formula":  "=SUMPRODUCT(Items[Qty]*Items[Price])",
+                                         "value":  180,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C8",
+                                         "formula":  "=SUMPRODUCT(INDEX(Data!A1:C3,0,2),Data!A1:A3)",
+                                         "value":  78,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C9",
+                                         "formula":  "=SUMPRODUCT(INDIRECT(\"Data!A1:A3\"),Data!B1:B3)",
+                                         "value":  78,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C10",
+                                         "formula":  "=IFERROR(SUMPRODUCT(Data!E1:E5),99)",
+                                         "value":  99,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "C11",
+                                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E5,0),Data!F1:F5)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "C12",
+                                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D1",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3/Data!G1:G3)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D2",
+                                         "formula":  "=SUMPRODUCT(-Data!A1:A3)",
+                                         "value":  -12,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D3",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3%)",
+                                         "value":  0.12000000000000001,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D4",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3\u0026\"x\")",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D5",
+                                         "formula":  "=SUMPRODUCT({1;2;3}+{10,20})",
+                                         "value":  102,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D6",
+                                         "formula":  "=SUMPRODUCT(Data!A1:C2,Data!A2:C3,Data!A1:C2)",
+                                         "value":  714,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D7",
+                                         "formula":  "=SUMPRODUCT(Data!A1:A3=4)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D8",
+                                         "formula":  "=SUMPRODUCT(--(Data!A1:A3=4))",
+                                         "value":  1,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D9",
+                                         "formula":  "=SUMPRODUCT(Data!E4*Data!F4)",
+                                         "value":  0,
+                                         "kind":  "value"
+                                     },
+                                     {
+                                         "ref":  "D10",
+                                         "formula":  "=SUMPRODUCT(Data!G2*Data!F2)",
+                                         "value":  "#VALUE!",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D11",
+                                         "formula":  "=SUMPRODUCT({1,#N/A},{0,0})",
+                                         "value":  "#N/A",
+                                         "kind":  "error"
+                                     },
+                                     {
+                                         "ref":  "D12",
+                                         "formula":  "=SUMPRODUCT({1;2}+{10;20;30})",
+                                         "value":  "#N/A",
+                                         "kind":  "error"
+                                     }
+                                 ]
+                   }
+               ],
+    "reopened":  [
+                     {
+                         "ref":  "A1",
+                         "formula":  "=SUMPRODUCT(Data!A1:A3,Data!B1:B3)",
+                         "value":  78,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "A2",
+                         "formula":  "=SUMPRODUCT(Data!A1:C2,Data!A2:C3)",
+                         "value":  154,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "A3",
+                         "formula":  "=SUMPRODUCT(Data!A1:C2,Data!A1:B3)",
+                         "value":  "#VALUE!",
+                         "kind":  "error"
+                     },
+                     {
+                         "ref":  "A4",
+                         "formula":  "=SUMPRODUCT(Data!A1:A3,Data!A1:C1)",
+                         "value":  "#VALUE!",
+                         "kind":  "error"
+                     },
+                     {
+                         "ref":  "A5",
+                         "formula":  "=SUMPRODUCT(Data!A1:A3)",
+                         "value":  12,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "A6",
+                         "formula":  "=SUMPRODUCT(Data!A1:A3,2)",
+                         "value":  "#VALUE!",
+                         "kind":  "error"
+                     },
+                     {
+                         "ref":  "A7",
+                         "formula":  "=SUMPRODUCT(Data!A1:A3*2)",
+                         "value":  24,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "A8",
+                         "formula":  "=SUMPRODUCT((Data!A1:A3\u003e1)*Data!B1:B3)",
+                         "value":  13,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "A9",
+                         "formula":  "=SUMPRODUCT(--(Data!A1:A3\u003e1),Data!B1:B3)",
+                         "value":  13,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "A10",
+                         "formula":  "=SUMPRODUCT(Data!A1:A3\u003e1,Data!B1:B3)",
+                         "value":  0,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "A11",
+                         "formula":  "=SUMPRODUCT(Data!A1:A3+Data!B1:B3)",
+                         "value":  27,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "A12",
+                         "formula":  "=SUMPRODUCT(Data!A1:A3^2)",
+                         "value":  66,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "B1",
+                         "formula":  "=SUMPRODUCT(Data!A1:C1*Data!A1:A3)",
+                         "value":  72,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "B2",
+                         "formula":  "=SUMPRODUCT(Data!A1:C2*Data!A1:B3)",
+                         "value":  "#N/A",
+                         "kind":  "error"
+                     },
+                     {
+                         "ref":  "B3",
+                         "formula":  "=SUMPRODUCT(Data!E1:E4,Data!F1:F4)",
+                         "value":  20,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "B4",
+                         "formula":  "=SUMPRODUCT(Data!E1:E4*Data!F1:F4)",
+                         "value":  110,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "B5",
+                         "formula":  "=SUMPRODUCT(Data!G1:G3,Data!F1:F3)",
+                         "value":  0,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "B6",
+                         "formula":  "=SUMPRODUCT(Data!G1:G3*Data!F1:F3)",
+                         "value":  "#VALUE!",
+                         "kind":  "error"
+                     },
+                     {
+                         "ref":  "B7",
+                         "formula":  "=SUMPRODUCT(Data!E1:E5,Data!F1:F5)",
+                         "value":  "#DIV/0!",
+                         "kind":  "error"
+                     },
+                     {
+                         "ref":  "B8",
+                         "formula":  "=SUMPRODUCT(0*Data!E1:E5)",
+                         "value":  "#DIV/0!",
+                         "kind":  "error"
+                     },
+                     {
+                         "ref":  "B9",
+                         "formula":  "=SUMPRODUCT(2,3)",
+                         "value":  6,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "B10",
+                         "formula":  "=SUMPRODUCT(TRUE,3)",
+                         "value":  "#VALUE!",
+                         "kind":  "error"
+                     },
+                     {
+                         "ref":  "B11",
+                         "formula":  "=SUMPRODUCT(\"2\",3)",
+                         "value":  "#VALUE!",
+                         "kind":  "error"
+                     },
+                     {
+                         "ref":  "B12",
+                         "formula":  "=SUMPRODUCT({1,2;3,4},{5,6;7,8})",
+                         "value":  70,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "C1",
+                         "formula":  "=SUMPRODUCT({1,2,3;4,5,6},{1,2;3,4;5,6})",
+                         "value":  "#VALUE!",
+                         "kind":  "error"
+                     },
+                     {
+                         "ref":  "C2",
+                         "formula":  "=SUMPRODUCT({1,\"2\",TRUE}, {2,3,4})",
+                         "value":  2,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "C3",
+                         "formula":  "=SUMPRODUCT({1,\"2\",TRUE}*{2,3,4})",
+                         "value":  12,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "C4",
+                         "formula":  "=SUMPRODUCT(Matrix,Data!A2:C3)",
+                         "value":  154,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "C5",
+                         "formula":  "=SUMPRODUCT(Matrix*2)",
+                         "value":  42,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "C6",
+                         "formula":  "=SUMPRODUCT(Items[Qty],Items[Price])",
+                         "value":  140,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "C7",
+                         "formula":  "=SUMPRODUCT(Items[Qty]*Items[Price])",
+                         "value":  140,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "C8",
+                         "formula":  "=SUMPRODUCT(INDEX(Data!A1:C3,0,2),Data!A1:A3)",
+                         "value":  78,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "C9",
+                         "formula":  "=SUMPRODUCT(INDIRECT(\"Data!A1:A3\"),Data!B1:B3)",
+                         "value":  78,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "C10",
+                         "formula":  "=IFERROR(SUMPRODUCT(Data!E1:E5),99)",
+                         "value":  99,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "C11",
+                         "formula":  "=SUMPRODUCT(IFERROR(Data!E1:E5,0),Data!F1:F5)",
+                         "value":  "#VALUE!",
+                         "kind":  "error"
+                     },
+                     {
+                         "ref":  "C12",
+                         "formula":  "=SUMPRODUCT(IF(Data!A1:A3\u003e1,Data!B1:B3,0))",
+                         "value":  "#VALUE!",
+                         "kind":  "error"
+                     },
+                     {
+                         "ref":  "D1",
+                         "formula":  "=SUMPRODUCT(Data!A1:A3/Data!G1:G3)",
+                         "value":  "#VALUE!",
+                         "kind":  "error"
+                     },
+                     {
+                         "ref":  "D2",
+                         "formula":  "=SUMPRODUCT(-Data!A1:A3)",
+                         "value":  -12,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "D3",
+                         "formula":  "=SUMPRODUCT(Data!A1:A3%)",
+                         "value":  0.12000000000000001,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "D4",
+                         "formula":  "=SUMPRODUCT(Data!A1:A3\u0026\"x\")",
+                         "value":  0,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "D5",
+                         "formula":  "=SUMPRODUCT({1;2;3}+{10,20})",
+                         "value":  102,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "D6",
+                         "formula":  "=SUMPRODUCT(Data!A1:C2,Data!A2:C3,Data!A1:C2)",
+                         "value":  714,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "D7",
+                         "formula":  "=SUMPRODUCT(Data!A1:A3=4)",
+                         "value":  0,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "D8",
+                         "formula":  "=SUMPRODUCT(--(Data!A1:A3=4))",
+                         "value":  1,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "D9",
+                         "formula":  "=SUMPRODUCT(Data!E4*Data!F4)",
+                         "value":  0,
+                         "kind":  "value"
+                     },
+                     {
+                         "ref":  "D10",
+                         "formula":  "=SUMPRODUCT(Data!G2*Data!F2)",
+                         "value":  "#VALUE!",
+                         "kind":  "error"
+                     },
+                     {
+                         "ref":  "D11",
+                         "formula":  "=SUMPRODUCT({1,#N/A},{0,0})",
+                         "value":  "#N/A",
+                         "kind":  "error"
+                     },
+                     {
+                         "ref":  "D12",
+                         "formula":  "=SUMPRODUCT({1;2}+{10;20;30})",
+                         "value":  "#N/A",
+                         "kind":  "error"
+                     }
+                 ]
+}

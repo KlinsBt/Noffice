@@ -1,0 +1,35 @@
+{
+  "baseline": 104.05999755859375,
+  "paints": [
+    {
+      "kind": 1,
+      "left": 78.74400329589844,
+      "right": 144.0240020751953,
+      "top": 105.1400146484375,
+      "bottom": 105.8599853515625,
+      "color": [
+        32,
+        88,
+        160,
+        255
+      ]
+    },
+    {
+      "kind": 2,
+      "left": 78.74400329589844,
+      "right": 144.0240020751953,
+      "top": 101.53997802734375,
+      "bottom": 102.01995849609375,
+      "color": [
+        32,
+        88,
+        160,
+        255
+      ]
+    }
+  ],
+  "nativePdfHash": "e7b19f3dd68fa0de4c818674c2119c7300638abcf39296fe8bdad196069ce523",
+  "extractionHash": "f2913fec025dee280e221a23532263afaaf9f87bba3e4f1e392e8aabb791e007",
+  "nativeReceiptHash": "874e57c0d4646e8fc18ee8a1f5f2e98fc9e952dc89bd950b72466d60ebd0180a",
+  "scope": "Independent first tab-only Arial10 underline/strike rectangles in pinned Word. Browser pixel tests detect missing bands; full geometry/native UI acceptance remains separate."
+}

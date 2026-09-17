@@ -1,0 +1,52 @@
+{
+  "archiveHash": "1cafe60521390dae3297de9c21b06385511d4a8360fab7bec056e92c7104af4d",
+  "scriptHash": "34c6796c00f1d067a731655fab92ea0e2fd2b28b063ff86245c711b227b5219f",
+  "rows": [
+    {
+      "name": "body-unchanged",
+      "kind": "body",
+      "edited": false,
+      "fixture": "word-tab-stops-body.docx",
+      "sourceHash": "aecc342f10e869c8d9ada8c862f980e1b774841f7b604fac3b19f96693fd23fb",
+      "backupHash": "d1b09e142269e5093a683bd545d1439726835c5f51e082461b21a30dfa8cae95",
+      "file": "word-tab-legacy-body-unchanged.noffice"
+    },
+    {
+      "name": "body-edited",
+      "kind": "body",
+      "edited": true,
+      "fixture": "word-tab-stops-body.docx",
+      "sourceHash": "aecc342f10e869c8d9ada8c862f980e1b774841f7b604fac3b19f96693fd23fb",
+      "backupHash": "7b8b0ef5232c28948f374d979e7c1a5b43c2f6c46e4d58b4818e86e19e38c66d",
+      "file": "word-tab-legacy-body-edited.noffice"
+    },
+    {
+      "name": "stories-unchanged",
+      "kind": "stories",
+      "edited": false,
+      "fixture": "word-tab-stops-stories.docx",
+      "sourceHash": "fdd18d5a8ac506e1a2001b6423cc184024eba80f7e0f3bf0fc956d7d1f3690d1",
+      "backupHash": "045358be5956eda17d3373cf53f9b93552838a1a04743e7dd8b6ce1741791cc1",
+      "file": "word-tab-legacy-stories-unchanged.noffice"
+    },
+    {
+      "name": "stories-edited",
+      "kind": "stories",
+      "edited": true,
+      "fixture": "word-tab-stops-stories.docx",
+      "sourceHash": "fdd18d5a8ac506e1a2001b6423cc184024eba80f7e0f3bf0fc956d7d1f3690d1",
+      "backupHash": "1d5e4317ecfa738c63771c45080b32d9abe4855451d7d3135d34dd6da4e30b84",
+      "file": "word-tab-legacy-stories-edited.noffice"
+    },
+    {
+      "name": "fresh-edited",
+      "kind": "fresh",
+      "edited": true,
+      "fixture": null,
+      "sourceHash": null,
+      "backupHash": "cc2a154e21fe31152b859a2420b34d5420c397301f904bdf17bd8490d53cda04",
+      "file": "word-tab-legacy-fresh-edited.noffice"
+    }
+  ],
+  "receiptHash": "5451ee3f71c8bceb2c349b903de74cdcd764abd9fe04d8a59df2dfb764532b35"
+}
